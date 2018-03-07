@@ -5,7 +5,7 @@
 * i3 window manager
 * Polybar
 * tmux
-* vim
+* [vim](https://github.com/anirudh-c/fiddler-vim)
 * zsh
 
 ## Configs

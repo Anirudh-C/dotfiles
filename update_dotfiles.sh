@@ -11,14 +11,6 @@ cp /etc/X11/xorg.conf.d/10-monitor.conf OS/Monitor
 cp ~/.xmodmap OS/Keyboard
 mv OS/Keyboard/.xmodmap OS/Keyboard/xmodmap
 
-# Vim
-cp -r ~/.vim Work/Vim
-rm -rf Work/Vim/dotvim
-mv Work/Vim/.vim Work/Vim/dotvim
-cp ~/.vimrc Work/Vim
-mv Work/Vim/.vimrc Work/Vim/vimrc
-cp -r ~/vimwiki Work/Vim
-
 # Tmux
 cp ~/.tmux.conf Work
 mv Work/.tmux.conf Work/tmux.conf
