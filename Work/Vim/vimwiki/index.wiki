@@ -1,0 +1,5 @@
+=All my stuff=
+    * [[Tasks]] -- things to be done _yesterday_!!!
+    * [[Scratchpad]] -- various temporary stuff.
+    * [[TedxIIITB]]
+    * [[machinefeed]]

@@ -1,0 +1,47 @@
+TODO
+about us page
+top navbar
+icon resizing in top navbar when resizing page
+
+
+# Tedxwebsite (Just a container for the app)
+== Tedxwebsite == 
+    * __init__.py
+    * settings.py
+    * urls.py
+    * wsgi.py
+== Tedxmain (app made by django) ==
+    = migrations =    
+        * 0001_initial.py
+        * 0002_auto_20171226_1458.py
+        * 0003_speaker_speaker_desig.py
+        * 0004_auto_20171226_1713.py
+        * 0005_auto_20171226_1743.py
+        * __init__.py
+    * __init__.py
+    * admin.py
+    * apps.py
+    * forms.py
+    * models.py
+    * tests.py
+    * utilities.py
+    * views.py
+== media (media files used) ==
+== static (All the resources that are static) ==
+== templates (The actual webpages on display) ==
+    * Team.html
+    * aboutus.html
+    * add_speaker.html
+    * add_sponsor.html
+    * add_team_memebr.html
+    * admindashboard.html
+    * adminlogin.html
+    * bottomnavbar.html
+    * home.html
+    * login.html
+    * speaker.html
+    * sponsor.html
+    * theme.html
+    * topnavbar.html
+* manage.py (server startup script)
+* db.sqlite3 (database made by django)
