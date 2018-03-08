@@ -22,3 +22,6 @@ cp -r ~/.oh-my-zsh Work/Shell
 rm -rf Work/Shell/oh-my-zsh
 mv Work/Shell/.oh-my-zsh Work/Shell/oh-my-zsh
 rm -rf Work/Shell/oh-my-zsh/.git
+
+# Terminal
+cp -r ~/.config/alacritty Work

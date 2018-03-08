@@ -26,8 +26,7 @@
     |
     |--> Terminal
          |
-         |--> Patched powerline fonts
-         |--> urxvt (~/.Xresources)
+         |--> ~/.config/alacritty
     |--> Vim
          |
          |--> ~/.vim
