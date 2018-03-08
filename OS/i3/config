@@ -142,7 +142,7 @@ workspace 7 output HDMI1
 workspace 8 output HDMI1
 workspace 9 output HDMI1
 workspace 10 output HDMI1
-exec --no-startup-id i3-msg 'workspace 1; exec urxvt'
+exec --no-startup-id i3-msg 'workspace 1; exec alacritty'
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
