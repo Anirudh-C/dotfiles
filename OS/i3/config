@@ -208,3 +208,4 @@ bindsym XF86MonBrightnessDown exec --no-startup-id xbacklight -dec 20 # decrease
 
 exec --no-startup-id nm-applet
 bindsym $mod+Shift+o exec --no-startup-id ~/dotfiles/vim-anywhere.sh
+exec --no-startup-id ~/dotfiles/wallpaper_random.sh ~/Projects/wallpapers 1800
