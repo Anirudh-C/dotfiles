@@ -186,8 +186,6 @@ gaps inner 10
 gaps outer 0
 smart_gaps on
 
-exec_always --no-startup-id feh --bg-fill ~/Pictures/wc1697049.jpg
-
 exec --no-startup-id polybar -r main_bar
 exec --no-startup-id polybar -r second_bar
 exec --no-startup-id xrandr --output HDMI1 --mode 1920x1080
