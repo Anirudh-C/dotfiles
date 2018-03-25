@@ -111,12 +111,13 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-export KEYTIMEOUT=1
+export KEYTIMEOUT=8
 
 #Autocomletions
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=6'
 bindkey '^ ' autosuggest-accept
 
+bindkey -M viins 'jk' vi-cmd-mode
 #aliases
 eval $(thefuck --alias)
 unsetopt correct_all
