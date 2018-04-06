@@ -33,7 +33,7 @@ export ZSH=/home/anirudh/.oh-my-zsh
 # Set name of the theme to load. Optionally, if you set this to "random"
 # it'll load a random theme each time that oh-my-zsh is loaded.
 # See https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
-ZSH_THEME="agnoster"
+ZSH_THEME="alien-minimal/alien-minimal"
 autoload -Uz vcs_info
 
 # Uncomment the following line to use case-sensitive completion.
@@ -111,13 +111,12 @@ source $ZSH/oh-my-zsh.sh
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
 
-export KEYTIMEOUT=8
+export KEYTIMEOUT=1
 
 #Autocomletions
 ZSH_AUTOSUGGEST_HIGHLIGHT_STYLE='fg=6'
 bindkey '^ ' autosuggest-accept
 
-bindkey -M viins 'jk' vi-cmd-mode
 #aliases
 eval $(thefuck --alias)
 unsetopt correct_all
