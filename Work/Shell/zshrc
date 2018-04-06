@@ -123,3 +123,7 @@ unsetopt correct_all
 export PATH="$HOME/.rbenv/bin:$PATH"
 eval "$(rbenv init -)"
 export PATH="$HOME/.rbenv/plugins/ruby-build/bin:$PATH"
+function chpwd() {
+    emulate -L zsh
+    pwd && ls
+}
