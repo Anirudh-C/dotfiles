@@ -15,10 +15,7 @@ set $mod Mod1
 #; workspace 1 is used in the bar {} block below.
 font pango:monospace 8
 
-# This font is widely installed, provides lots of unicode glyphs, right-to-left
-# text rendering and scalability on retina/hidpi displays (thanks to pango).
-#font pango:DejaVu Sans Mono 8
-
+# This font is widely installed, provides lots of unicode glyphs, right-to-left # text rendering and scalability on retina/hidpi displays (thanks to pango).  #font pango:DejaVu Sans Mono 8 
 # Before i3 v4.8, we used to recommend this one as the default:
 # font -misc-fixed-medium-r-normal--13-120-75-75-C-70-iso10646-1
 # The font above is very space-efficient, that is, it looks good, sharp and
@@ -205,3 +202,6 @@ bindsym XF86MonBrightnessDown exec --no-startup-id xbacklight -dec 5 # decrease 
 exec --no-startup-id nm-applet
 bindsym $mod+Shift+o exec --no-startup-id ~/dotfiles/vim-anywhere.sh
 exec --no-startup-id feh --bg-fill ~/Projects/wallpapers/vim-shortcut-1920x1080.png
+
+# emacs
+exec --no-startup-id i3-msg 'workspace 6; exec emacs;'
