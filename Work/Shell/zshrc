@@ -127,3 +127,4 @@ function chpwd() {
 alias updatevim='sudo cp -r ~/.vim ~/Vim && sudo rm -rf ~/Vim/dotvim && mv ~/Vim/.vim ~/Vim/dotvim && cp ~/.vimrc ~/Vim && mv ~/Vim/.vimrc ~/Vim/vimrc && sudo cp -r ~/vimwiki ~/Vim'
 alias python='/usr/bin/python2.7'
 eval "$(rbenv init -)"
+alias spacemacs='cp ~/.spacemacs ~/.emacs.d && mv ~/.emacs.d/.spacemacs ~/.emacs.d/spacemacs'
