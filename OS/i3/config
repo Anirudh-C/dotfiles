@@ -33,26 +33,20 @@ bindsym $mod+Return exec alacritty
 # kill focused window
 bindsym $mod+Shift+q kill
 
-set $bg-color 	         #2e3440
-set $inactive-bg-color   #2e3440
-set $text-color          #f3f4f5
-set $inactive-text-color #676E7D
-set $urgent-bg-color     #E53935
-
-# window colors
-#                       border              background         text                 indicator
-client.focused          $bg-color           $bg-color          $text-color          #000000
-client.unfocused        $inactive-bg-color $inactive-bg-color $inactive-text-color #000000
-client.focused_inactive $inactive-bg-color $inactive-bg-color $inactive-text-color #000000
-client.urgent           $urgent-bg-color    $urgent-bg-color   $text-color          #000000
+client.background: #2f2f38
+client.focused: #b0c4bb #2f2f38 #b0c4bb #81a2be #81a2be
+client.unfocused: #b0c4bb #2f2f38 #b0c4bb #688486 #688486
+client.focused_inactive: #b0c4bb #2f2f38 #b0c4bb #688486 #688486
+client.urgent: #b0c4bb #2f2f38 #b0c4bb #688486 #688486
+client.placeholder: #b0c4bb #2f2f38 #b0c4bb #688486 #688486
 
 exec_always --no-startup-id compton
 # start dmenu (a program launcher)
-# bindsym $mod+d exec --no-startup-id rofi -show run 3 -fullscreen
+bindsym $mod+d exec --no-startup-id rofi -show run 3 -fullscreen
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
-bindsym $mod+d exec --no-startup-id dmenu_run
+# bindsym $mod+d exec --no-startup-id dmenu_run
 
 # change focus
 bindsym $mod+h focus left
@@ -175,14 +169,17 @@ bindsym $mod+r mode "resize"
 
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-bar {
-        status_command i3status
-}
+# bar {
+#         status_command i3status
+# }
+
 for_window [class="^.*"] border pixel 0
 gaps inner 10
 gaps outer 0
 smart_gaps on
 
+exec --no-startup-id polybar -r laptop_bar
+exec --no-startup-id polybar -r monitor_bar
 exec --no-startup-id xrandr --output HDMI1 --mode 1920x1080
 
 # Pulse Audio controls
@@ -199,7 +196,9 @@ bindsym XF86MonBrightnessDown exec --no-startup-id xbacklight -dec 5 # decrease 
 
 exec --no-startup-id nm-applet
 bindsym $mod+Shift+o exec --no-startup-id ~/dotfiles/vim-anywhere.sh
-exec --no-startup-id feh --bg-fill ~/Projects/wallpapers/vim-shortcut-1920x1080.png
 
 # emacs
 exec --no-startup-id i3-msg 'workspace 6; exec emacs;'
+
+# wallpaper
+exec --no-startup-id nitrogen --set-zoom-fill ~/i3wm-themer/src/wallpapers/005.png
