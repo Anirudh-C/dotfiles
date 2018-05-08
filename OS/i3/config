@@ -201,4 +201,4 @@ bindsym $mod+Shift+o exec --no-startup-id ~/dotfiles/vim-anywhere.sh
 exec --no-startup-id i3-msg 'workspace 6; exec emacs;'
 
 # wallpaper
-exec --no-startup-id nitrogen --set-zoom-fill ~/i3wm-themer/src/wallpapers/005.png
+exec --no-startup-id nitrogen --set-zoom-fill ~/dotfiles/wallpaper.png
