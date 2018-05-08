@@ -6,6 +6,7 @@
 * Polybar
 * tmux
 * [vim](https://github.com/anirudh-c/fiddler-vim)
+* [emacs(spacemacs)](https://github.com/anirudh-c/spacemacs)
 * zsh
 
 ## Configs
@@ -33,6 +34,10 @@
          |--> ~/.vimrc
          |--> ~/.viminfo
          |--> ~/vimwiki
+    |--> Emacs(Spacemacs)
+         |
+         |--> ~/.emacs.d
+         |--> ~/.spacemacs
     |--> ~/.tmux.conf
     |--> Shell
          |
@@ -40,4 +45,12 @@
          |--> ~/.oh-my-zsh
 
 ### Wallpapers
-[lnxpcs](https://github.com/anirudh-c/wallpapers "Linux Wallpapers")
+![alt text][wallpaper]
+
+### Screenshots
+![alt text][homescreen]
+![alt text][work]
+
+[wallpaper]:https://github.com/Anirudh-C/dotfiles/blob/master/wallpaper.png "Wallpaper"
+[homescreen]:https://github.com/Anirudh-C/dotfiles/blob/master/homescreen.png "Home-Screen"
+[work]:https://github.com/Anirudh-C/dotfiles/blob/master/work.png "Work"
