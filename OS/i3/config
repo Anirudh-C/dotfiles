@@ -198,7 +198,7 @@ exec --no-startup-id nm-applet
 bindsym $mod+Shift+o exec --no-startup-id ~/dotfiles/vim-anywhere.sh
 
 # emacs
-exec --no-startup-id i3-msg 'workspace 6; exec emacs;'
+exec --no-startup-id i3-msg 'workspace 6; exec emacs ~/orgfiles/global_outline.org;'
 
 # wallpaper
 exec --no-startup-id nitrogen --set-zoom-fill ~/dotfiles/wallpaper.png
