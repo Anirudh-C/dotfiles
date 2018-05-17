@@ -34,11 +34,11 @@ bindsym $mod+Return exec alacritty
 bindsym $mod+Shift+q kill
 
 client.background: #282a36
-client.focused: #bd93f9 #282a36 #bd93f9 #81a2be #81a2be
-client.unfocused: #bd93f9 #282a36 #bd93f9 #6272a4 #6272a4
-client.focused_inactive: #bd93f9 #282a36 #bd93f9 #6272a4 #6272a4
-client.urgent: #bd93f9 #282a36 #bd93f9 #6272a4 #6272a4
-client.placeholder: #bd93f9 #282a36 #bd93f9 #6272a4 #6272a4
+client.focused: #6272a4 #282a36 #6272a4 #81a2be #81a2be
+client.unfocused: #6272a4 #282a36 #6272a4 #6272a4 #6272a4
+client.focused_inactive: #6272a4 #282a36 #6272a4 #6272a4 #6272a4
+client.urgent: #6272a4 #282a36 #6272a4 #6272a4 #6272a4
+client.placeholder: #6272a4 #282a36 #6272a4 #6272a4 #6272a4
 
 exec_always --no-startup-id compton
 # start dmenu (a program launcher)

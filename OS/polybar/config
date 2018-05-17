@@ -15,8 +15,7 @@ border-size = 0
 border-color =
 
 padding-left = 0
-padding-right = 2
-
+padding-right = 2 
 module-margin-left = 1
 module-margin-right = 2
 
@@ -86,13 +85,13 @@ label-focused-foreground = #282a36
 label-focused-padding = 2
 
 label-unfocused = %index%
-label-unfocused-background = #bd93f9
-label-unfocused-foreground = #282a36
+label-unfocused-background = #282a36
+label-unfocused-foreground = #6272a4
 label-unfocused-padding = 2
 
 label-visible = %index%
-label-visible-background = #bd93f9
-label-visible-foreground = #282a36
+label-visible-background = #282a36
+label-visible-foreground = #6272a4
 label-visible-padding = 2
 
 label-urgent = %index%
@@ -109,6 +108,7 @@ format-connected-foreground = #282a36
 format-connected-background = #6272a4
 format-connected-padding = 2
 label-connected = %essid%
+label-connected-foreground = #282a36
 
 format-disconnected =
 
@@ -145,7 +145,7 @@ time-alt = %H:%M:%S
 
 format-prefix = 
 format-foreground = #282a36
-format-background = #6272a4
+format-background = #ffb86c
 format-padding = 2
 
 label = %date% %time%
@@ -158,11 +158,11 @@ expand-right = true
 format-spacing = 1
 
 label-open = 
-label-open-foreground = #6272a4
+label-open-foreground = #ff5555
 label-close =  cancel
-label-close-foreground = #6272a4
+label-close-foreground = #ff5555
 label-separator = |
-label-separator-foreground = #6272a4
+label-separator-foreground = #ff5555
 
 menu-0-0 = reboot
 menu-0-0-exec = menu-open-1
@@ -172,10 +172,10 @@ menu-0-1-exec = menu-open-2
 menu-1-0 = cancel
 menu-1-0-exec = menu-open-0
 menu-1-1 = reboot
-menu-1-1-exec = sudo reboot
+menu-1-1-exec = reboot
 
 menu-2-0 = power off
-menu-2-0-exec = sudo poweroff
+menu-2-0-exec = poweroff
 menu-2-1 = cancel
 menu-2-1-exec = menu-open-0
 
