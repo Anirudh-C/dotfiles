@@ -33,12 +33,12 @@ bindsym $mod+Return exec alacritty
 # kill focused window
 bindsym $mod+Shift+q kill
 
-client.background: #2f2f38
-client.focused: #b0c4bb #2f2f38 #b0c4bb #81a2be #81a2be
-client.unfocused: #b0c4bb #2f2f38 #b0c4bb #688486 #688486
-client.focused_inactive: #b0c4bb #2f2f38 #b0c4bb #688486 #688486
-client.urgent: #b0c4bb #2f2f38 #b0c4bb #688486 #688486
-client.placeholder: #b0c4bb #2f2f38 #b0c4bb #688486 #688486
+client.background: #282a36
+client.focused: #bd93f9 #282a36 #bd93f9 #81a2be #81a2be
+client.unfocused: #bd93f9 #282a36 #bd93f9 #6272a4 #6272a4
+client.focused_inactive: #bd93f9 #282a36 #bd93f9 #6272a4 #6272a4
+client.urgent: #bd93f9 #282a36 #bd93f9 #6272a4 #6272a4
+client.placeholder: #bd93f9 #282a36 #bd93f9 #6272a4 #6272a4
 
 exec_always --no-startup-id compton
 # start dmenu (a program launcher)
