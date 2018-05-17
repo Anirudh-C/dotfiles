@@ -5,8 +5,8 @@ height = 22
 radius = 0
 fixed-center = false
 
-background = #2e3440
-foreground = #b0c4bb
+background = #282a36
+foreground = #f8f8f2
 
 line-size = 3
 line-color =
@@ -41,8 +41,8 @@ height = 22
 radius = 0
 fixed-center = false
 
-background = #2e3440
-foreground = #b0c4bb
+background = #282a36
+foreground = #f8f8f2
 
 line-size = 3
 line-color =
@@ -77,26 +77,26 @@ index-sort = true
 wrapping-scroll = false
 
 label-mode-padding = 2
-label-mode-foreground = #34343e
-label-mode-background = #2e3440
+label-mode-foreground = #f8f8f2
+label-mode-background = #282a36
 
 label-focused = %index%
-label-focused-background = #5e81ac
-label-focused-foreground = #2e3440
+label-focused-background = #6272a4
+label-focused-foreground = #282a36
 label-focused-padding = 2
 
 label-unfocused = %index%
-label-unfocused-background = #81a1c1
-label-unfocused-foreground = #2e3440
+label-unfocused-background = #bd93f9
+label-unfocused-foreground = #282a36
 label-unfocused-padding = 2
 
 label-visible = %index%
-label-visible-background = #81a1c1
-label-visible-foreground = #2e3440
+label-visible-background = #bd93f9
+label-visible-foreground = #282a36
 label-visible-padding = 2
 
 label-urgent = %index%
-label-urgent-background = #BA2922
+label-urgent-background = #ff5555
 label-urgent-padding = 2
 
 [module/wlan]
@@ -105,8 +105,8 @@ interface = wlp6s0
 interval = 3.0
 
 format-connected = <ramp-signal> <label-connected>
-format-connected-foreground = #2e3440
-format-connected-background = #5e81ac
+format-connected-foreground = #282a36
+format-connected-background = #6272a4
 format-connected-padding = 2
 label-connected = %essid%
 
@@ -117,7 +117,7 @@ ramp-signal-1 = 
 ramp-signal-2 = 
 ramp-signal-3 = 
 ramp-signal-4 = 
-ramp-signal-foreground = #2e3440
+ramp-signal-foreground = #282a36
 
 [module/eth]
 type = internal/network
@@ -125,10 +125,10 @@ interface = enp7s0
 interval = 3.0
 
 format-connected-padding = 2
-format-connected-foreground = #2e3440
-format-connected-background = #5e81ac
+format-connected-foreground = #282a36
+format-connected-background = #6272a4
 format-connected-prefix = " "
-format-connected-prefix-foreground = #2e3440
+format-connected-prefix-foreground = #282a36
 label-connected = %local_ip%
 
 format-disconnected =
@@ -144,8 +144,8 @@ time = %H:%M
 time-alt = %H:%M:%S
 
 format-prefix = 
-format-foreground = #2e3440
-format-background = #81a1c1
+format-foreground = #282a36
+format-background = #6272a4
 format-padding = 2
 
 label = %date% %time%
@@ -158,11 +158,11 @@ expand-right = true
 format-spacing = 1
 
 label-open = 
-label-open-foreground = #81a1c1
+label-open-foreground = #6272a4
 label-close =  cancel
-label-close-foreground = #81a1c1
+label-close-foreground = #6272a4
 label-separator = |
-label-separator-foreground = #81a1c1
+label-separator-foreground = #6272a4
 
 menu-0-0 = reboot
 menu-0-0-exec = menu-open-1
