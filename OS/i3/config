@@ -202,3 +202,6 @@ exec --no-startup-id i3-msg 'workspace 6; exec emacs ~/orgfiles/global_outline.o
 
 # wallpaper
 exec --no-startup-id nitrogen --set-zoom-fill ~/dotfiles/wallpaper.png
+
+# xmodmap
+exec --no-startup-id xmodmap ~/.xmodmap
