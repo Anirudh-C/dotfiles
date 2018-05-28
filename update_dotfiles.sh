@@ -2,9 +2,7 @@
 
 # OS
 cp ~/.xinitrc OS
-cp ~/.kdeinitrc OS
 mv OS/.xinitrc OS/xinitrc
-mv OS/.kdeinitrc OS/kdeinitrc
 cp ~/.Xresources OS
 mv OS/.Xresources OS/Xresources
 cp -r ~/.config/i3 OS
