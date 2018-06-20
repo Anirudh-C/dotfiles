@@ -166,20 +166,30 @@ mode "resize" {
 }
 
 bindsym $mod+r mode "resize"
-
+set $bg-color            #282a36
+set $inactive-bg-color   #282a36
+set $text-color          #f8f8f2
+set $inactive-text-color #bd93f9
+set $urgent-bg-color     #ff5555
 # Start i3bar to display a workspace bar (plus the system information i3status
 # finds out, if available)
-# bar {
-#         status_command i3status
-# }
+bar {
+        status_command i3blocks -c /home/anirudh/.config/i3/i3blocks.conf
+        colors {
+                background $bg-color
+                separator #282a36
+                #                  border             background         text
+                focused_workspace  $bg-color          $bg-color          $text-color
+                inactive_workspace $inactive-bg-color $inactive-bg-color $inactive-text-color
+                urgent_workspace   $urgent-bg-color   $urgent-bg-color   $text-color
+}
+}
 
 for_window [class="^.*"] border pixel 0
 gaps inner 10
 gaps outer 0
 smart_gaps on
 
-exec --no-startup-id polybar -r laptop_bar
-exec --no-startup-id polybar -r monitor_bar
 exec --no-startup-id xrandr --output HDMI-1 --mode 1920x1080
 
 # Pulse Audio controls
@@ -189,12 +199,12 @@ bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 0 toggle # mute s
 
 #touchpad support
 exec --no-startup-id -synclient VertEdgeScroll=1 TapButton1=1 TapButton2=1 TapButton3=1
+exec --no-startup-id xinput set-prop "Synaptics s3203" "libinput Tapping Enabled" 1
 
 # Sreen brightness controls
-bindsym XF86MonBrightnessUp exec --no-startup-id xbacklight -inc 5 # increase screen brightness
-bindsym XF86MonBrightnessDown exec --no-startup-id xbacklight -dec 5 # decrease screen brightness
+bindsym XF86MonBrightnessUp exec --no-startup-id xbacklight -inc 10 # increase screen brightness
+bindsym XF86MonBrightnessDown exec --no-startup-id xbacklight -dec 10 # decrease screen brightness
 
-exec --no-startup-id nm-applet
 bindsym $mod+Shift+o exec --no-startup-id ~/dotfiles/vim-anywhere.sh
 
 # emacs
