@@ -201,10 +201,6 @@ bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 0 toggle # mute s
 exec --no-startup-id -synclient VertEdgeScroll=1 TapButton1=1 TapButton2=1 TapButton3=1
 exec --no-startup-id xinput set-prop "Synaptics s3203" "libinput Tapping Enabled" 1
 
-# Sreen brightness controls
-bindsym XF86MonBrightnessUp exec --no-startup-id xbacklight -inc 10 # increase screen brightness
-bindsym XF86MonBrightnessDown exec --no-startup-id xbacklight -dec 10 # decrease screen brightness
-
 bindsym $mod+Shift+o exec --no-startup-id ~/dotfiles/vim-anywhere.sh
 
 # emacs
