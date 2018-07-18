@@ -208,7 +208,7 @@ bindsym XF86MonBrightnessDown exec --no-startup-id xbacklight -dec 10 # decrease
 bindsym $mod+Shift+o exec --no-startup-id ~/dotfiles/vim-anywhere.sh
 
 # emacs
-exec --no-startup-id i3-msg 'workspace 6; exec emacs;'
+exec --no-startup-id i3-msg 'workspace 6; exec emacsclient -c;'
 
 # wallpaper
 exec --no-startup-id nitrogen --set-zoom-fill ~/dotfiles/wallpaper.png
