@@ -3,10 +3,9 @@
 ## Software
 * Arch
 * i3 window manager
-* Polybar
 * tmux
 * [vim](https://github.com/anirudh-c/fiddler-vim)
-* [emacs(spacemacs)](https://github.com/anirudh-c/spacemacs)
+* [emacs](https://github.com/anirudh-c/fiddler-emacs)
 * zsh
 
 ## Configs
@@ -15,7 +14,6 @@
     |--> ~/.xinitrc
     |--> ~/.Xresources
     |--> ~/.config/i3/config
-    |--> ~/.config/polybar/config
     |--> Monitor
          |
          |--> /etc/X11/xorg.conf.d/10-monitor.conf
@@ -34,10 +32,9 @@
          |--> ~/.vimrc
          |--> ~/.viminfo
          |--> ~/vimwiki
-    |--> Emacs(Spacemacs)
+    |--> Emacs
          |
          |--> ~/.emacs.d
-         |--> ~/.spacemacs
     |--> ~/.tmux.conf
     |--> Shell
          |
