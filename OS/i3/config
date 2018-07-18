@@ -201,10 +201,11 @@ bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute 0 toggle # mute s
 exec --no-startup-id -synclient VertEdgeScroll=1 TapButton1=1 TapButton2=1 TapButton3=1
 exec --no-startup-id xinput set-prop "Synaptics s3203" "libinput Tapping Enabled" 1
 
+# vim anywhere
 bindsym $mod+Shift+o exec --no-startup-id ~/dotfiles/vim-anywhere.sh
 
 # emacs
-exec --no-startup-id i3-msg 'workspace 6; exec emacsclient -c;'
+bindsym $mod+Shift+Return exec --no-startup-id exec emacsclient -c
 
 # wallpaper
 exec --no-startup-id nitrogen --set-zoom-fill ~/dotfiles/wallpaper.png
