@@ -128,7 +128,6 @@ alias updatevim='sudo cp -r ~/.vim ~/Vim && sudo rm -rf ~/Vim/dotvim && mv ~/Vim
 alias python='/usr/bin/python2.7'
 alias python3='/usr/bin/python3.6'
 eval "$(rbenv init -)"
-alias spacemacs='cp ~/.spacemacs ~/.emacs.d && mv ~/.emacs.d/.spacemacs ~/.emacs.d/spacemacs'
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
 export FZF_DEFAULT_OPS="--extended"
