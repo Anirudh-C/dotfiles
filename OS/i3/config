@@ -212,3 +212,6 @@ exec --no-startup-id feh --bg-fill ~/dotfiles/wallpaper-laptop.png --bg-fill ~/d
 
 # xmodmap
 exec --no-startup-id xmodmap ~/.xmodmap
+
+for_window [class="Tk"] floating enable
+assign [class="Tk"] workspace 6
