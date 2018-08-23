@@ -40,16 +40,3 @@
          |
          |--> ~/.zshrc
          |--> ~/.oh-my-zsh
-
-### Wallpaper
-![Wallpaper][wallpaper]
-
-### Screenshots
-![Homescreen][homescreen]
-![Work][work]
-![Rofi][rofi]
-
-[wallpaper]:https://github.com/Anirudh-C/dotfiles/blob/master/wallpaper.png "Wallpaper"
-[homescreen]:https://github.com/Anirudh-C/dotfiles/blob/master/homescreen.png "Home-Screen"
-[work]:https://github.com/Anirudh-C/dotfiles/blob/master/work.png "Work"
-[rofi]:https://github.com/Anirudh-C/dotfiles/blob/master/rofi.png "Rofi"
