@@ -46,6 +46,7 @@ function chpwd() {
     pwd && ls
 }
 alias updatevim='sudo cp -r ~/.vim ~/Vim && sudo rm -rf ~/Vim/dotvim && mv ~/Vim/.vim ~/Vim/dotvim && cp ~/.vimrc ~/Vim && mv ~/Vim/.vimrc ~/Vim/vimrc && sudo cp -r ~/vimwiki ~/Vim'
+alias st="startx"
 eval "$(rbenv init -)"
 
 [ -f ~/.fzf.zsh ] && source ~/.fzf.zsh
