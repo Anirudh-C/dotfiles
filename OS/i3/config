@@ -43,6 +43,7 @@ client.placeholder: #6272a4 #282a36 #6272a4 #6272a4 #6272a4
 exec_always --no-startup-id compton
 # start dmenu (a program launcher)
 bindsym $mod+d exec --no-startup-id rofi -show run -lines 15 
+bindsym $mod+n exec --no-startup-id networkmanager_dmenu
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
 # installed.
