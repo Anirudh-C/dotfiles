@@ -226,8 +226,7 @@ bindsym $mod+Shift+o exec --no-startup-id ~/dotfiles/vim-anywhere.sh
 bindsym $mod+Shift+Return exec --no-startup-id exec emacsclient -c
 
 # wallpaper
-# exec --no-startup-id feh --bg-fill ~/dotfiles/wallpaper-laptop.png --bg-fill ~/dotfiles/wallpaper-monitor.png
-exec --no-startup-id feh --bg-fill ~/dotfiles/wallpaper-monitor.png
+exec --no-startup-id feh --bg-fill ~/dotfiles/wallpaper.jpg --bg-fill ~/dotfiles/wallpaper-monitor.png
 
 # xmodmap
 exec --no-startup-id xmodmap ~/.xmodmap
