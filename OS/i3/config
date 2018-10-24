@@ -42,7 +42,7 @@ client.placeholder: #6272a4 #282a36 #6272a4 #6272a4 #6272a4
 
 exec_always --no-startup-id compton
 # start dmenu (a program launcher)
-bindsym $mod+d exec --no-startup-id rofi -show run -lines 15 
+bindsym $mod+d exec --no-startup-id rofi -show run -lines 15 -fuzzy
 bindsym $mod+n exec --no-startup-id networkmanager_dmenu
 # There also is the (new) i3-dmenu-desktop which only displays applications
 # shipping a .desktop file. It is a wrapper around dmenu, so you need that
@@ -55,11 +55,11 @@ bindsym $mod+j focus down
 bindsym $mod+k focus up
 bindsym $mod+l focus right
 
-# alternatively, you can use the cursor keys:
-bindsym $mod+Left focus left
-bindsym $mod+Down focus down
-bindsym $mod+Up focus up
-bindsym $mod+Right focus right
+# # alternatively, you can use the cursor keys:
+# bindsym $mod+Left focus left
+# bindsym $mod+Down focus down
+# bindsym $mod+Up focus up
+# bindsym $mod+Right focus right
 
 # move focused window
 bindsym $mod+Shift+h move left
@@ -67,11 +67,11 @@ bindsym $mod+Shift+j move down
 bindsym $mod+Shift+k move up
 bindsym $mod+Shift+l move right
 
-# alternatively, you can use the cursor keys:
-bindsym $mod+Shift+Left move left
-bindsym $mod+Shift+Down move down
-bindsym $mod+Shift+Up move up
-bindsym $mod+Shift+Right move right
+# # alternatively, you can use the cursor keys:
+# bindsym $mod+Shift+Left move left
+# bindsym $mod+Shift+Down move down
+# bindsym $mod+Shift+Up move up
+# bindsym $mod+Shift+Right move right
 
 # split in horizontal orientation
 bindsym $mod+g split h
@@ -99,6 +99,9 @@ bindsym $mod+a focus parent
 # focus the child container
 #bindsym $mod+d focus child
 
+# Rename workspace
+bindsym $mod+r exec i3-input -F 'rename workspace to "%s"' -P 'Rename workspace: '
+
 # switch to workspace
 bindsym $mod+1 workspace 1
 bindsym $mod+2 workspace 2
@@ -111,6 +114,13 @@ bindsym $mod+8 workspace 8
 bindsym $mod+9 workspace 9
 bindsym $mod+0 workspace 10
 
+# Cycle through active workspaces
+bindsym $mod+Tab workspace next
+bindsym $mod+Shift+Tab workspace prev
+
+# Switch to specific container
+bindsym $mod+m exec i3-input -F 'workspace "%s"' -P 'Switch To: '
+
 # move focused container to workspace
 bindsym $mod+Shift+1 move container to workspace 1
 bindsym $mod+Shift+2 move container to workspace 2
@@ -122,6 +132,9 @@ bindsym $mod+Shift+7 move container to workspace 7
 bindsym $mod+Shift+8 move container to workspace 8
 bindsym $mod+Shift+9 move container to workspace 9
 bindsym $mod+Shift+0 move container to workspace 10
+
+# move focused container to specific container
+bindsym $mod+Shift+m exec i3-input -F 'move container to workspace "%s"' -P 'Move To: '
 
 # use workspaces on different monitors
 workspace 1 output eDP-1
@@ -166,7 +179,7 @@ mode "resize" {
         bindsym Escape mode "default"
 }
 
-bindsym $mod+r mode "resize"
+# bindsyG $mod+r mode "resize"
 set $bg-color            #282a36
 set $inactive-bg-color   #282a36
 set $text-color          #f8f8f2
@@ -213,7 +226,8 @@ bindsym $mod+Shift+o exec --no-startup-id ~/dotfiles/vim-anywhere.sh
 bindsym $mod+Shift+Return exec --no-startup-id exec emacsclient -c
 
 # wallpaper
-exec --no-startup-id feh --bg-fill ~/dotfiles/wallpaper-laptop.png --bg-fill ~/dotfiles/wallpaper-monitor.png
+# exec --no-startup-id feh --bg-fill ~/dotfiles/wallpaper-laptop.png --bg-fill ~/dotfiles/wallpaper-monitor.png
+exec --no-startup-id feh --bg-fill ~/dotfiles/wallpaper-monitor.png
 
 # xmodmap
 exec --no-startup-id xmodmap ~/.xmodmap

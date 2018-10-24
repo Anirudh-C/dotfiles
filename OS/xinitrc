@@ -23,8 +23,6 @@ if [ -f "$usermodmap" ]; then
     xmodmap "$usermodmap"
 fi
 
-# start some nice programs
-
 if [ -d /etc/X11/xinit/xinitrc.d ] ; then
  for f in /etc/X11/xinit/xinitrc.d/?*.sh ; do
   [ -x "$f" ] && . "$f"
@@ -32,3 +30,9 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
  unset f
 fi
 i3
+
+xhost +SI:localuser:$USER
+export _JAVA_AWT_WM_NONREPARENTING=1
+xsetroot -cursor_name left_ptr
+xset r rate 200 60
+# exec emacs --eval "(start-exwm)"
