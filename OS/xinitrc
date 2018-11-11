@@ -29,10 +29,10 @@ if [ -d /etc/X11/xinit/xinitrc.d ] ; then
  done
  unset f
 fi
-i3
-
 xhost +SI:localuser:$USER
 export _JAVA_AWT_WM_NONREPARENTING=1
 xsetroot -cursor_name left_ptr
 xset r rate 200 60
+
+exec i3
 # exec emacs --eval "(start-exwm)"
