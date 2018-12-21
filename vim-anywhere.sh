@@ -9,7 +9,7 @@ function getclip {
 }
 
 file=$(mktemp)
-urxvt -e vim "$file" # replace with your favorite terminal
+alacritty -e vim "$file" # replace with your favorite terminal
 
 cat $file | setclip
 rm $file

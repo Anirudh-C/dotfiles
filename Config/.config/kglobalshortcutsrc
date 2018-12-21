@@ -30,13 +30,11 @@ _k_friendly_name=KDE Daemon
 display=Display\tMeta+P,Display\tMeta+P,Switch Display
 
 [khotkeys]
-_k_friendly_name=System Settings
+_k_friendly_name=KDE Daemon
 {3828a879-0f38-40a0-ae19-53aa62fa384b}=none,none,Take Active Window Screenshot
 {41f71ead-475d-4a3f-864f-e3aad5d3eb52}=none,none,Take Full Screen Screenshot
-{8dd22f4d-9380-4a61-864a-b6a7ddc465d7}=none,none,emacs
 {9a6e61be-3335-45a4-9d7f-e055991c5fca}=none,none,Start Screenshot Tool
 {a36746e5-d184-4b69-9973-95ff02120cb1}=none,none,Take Rectangular Region Screenshot
-{b294818e-b160-457a-a381-de0d232b1295}=none,none,alacritty
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=none,none,Search
 
 [kmix]
@@ -65,7 +63,7 @@ Lock Session=Ctrl+Alt+L\tScreensaver,Ctrl+Alt+L\tScreensaver,Lock Session
 Log Out=Alt+Shift+E,none,Log Out
 Log Out Without Confirmation=none,none,Log Out Without Confirmation
 Reboot Without Confirmation=none,none,Reboot Without Confirmation
-_k_friendly_name=System Settings
+_k_friendly_name=ksmserver
 
 [kwin]
 Activate Window Demanding Attention=Ctrl+Alt+A,Ctrl+Alt+A,Activate Window Demanding Attention
@@ -236,10 +234,6 @@ activate task manager entry 6=Meta+6,Meta+6,Activate Task Manager Entry 6
 activate task manager entry 7=Meta+7,Meta+7,Activate Task Manager Entry 7
 activate task manager entry 8=Meta+8,Meta+8,Activate Task Manager Entry 8
 activate task manager entry 9=Meta+9,Meta+9,Activate Task Manager Entry 9
-activate widget 14=none,none,Activate Audio Volume Widget
-activate widget 16=none,none,Activate Networks Widget
-activate widget 7=none,none,Activate System Tray Widget
-activate widget 9=none,none,Activate Clipboard Widget
 clear-history=none,none,Clear Clipboard History
 clipboard_action=Ctrl+Alt+X,Ctrl+Alt+X,Enable Clipboard Actions
 cycleNextAction=none,none,Next History Item
