@@ -1,0 +1,48 @@
+{
+   "checksum": "bad621a969eb6b544c563adf9114a48b",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13168995320974296",
+            "id": "6",
+            "meta_info": {
+               "last_visited_desktop": "13189785290639779"
+            },
+            "name": "Prime Video",
+            "type": "url",
+            "url": "https://www.primevideo.com/"
+         }, {
+            "date_added": "13186944768810809",
+            "id": "8",
+            "meta_info": {
+               "last_visited_desktop": "13186944768812264"
+            },
+            "name": "Index of /Serial/Suits/",
+            "type": "url",
+            "url": "http://dl.upload8.net/Serial/Suits/"
+         } ],
+         "date_added": "13168995291746381",
+         "date_modified": "13186944768810809",
+         "id": "1",
+         "name": "Bookmarks bar",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13168995291746387",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Other bookmarks",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13168995291746388",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Mobile bookmarks",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}

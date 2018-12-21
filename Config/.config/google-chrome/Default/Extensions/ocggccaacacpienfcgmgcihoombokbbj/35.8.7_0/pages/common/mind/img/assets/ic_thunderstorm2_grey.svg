@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_thunderstorm2_grey</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.54" stroke-linecap="round">
+        <g id="ic_thunderstorm2_grey" stroke="#8A8A8A" stroke-width="2">
+            <g>
+                <path d="M13,26 C9.13400668,25.9999999 6,22.8659932 6,19 C6,15.3007673 8.86946571,12.2717343 12.5039969,12.0173011 C14.1169364,9.59562535 16.8721291,8 20,8 C23.5905604,8 26.690031,10.1026052 28.1343095,13.1437134 C28.5746608,13.0495566 29.0315431,13 29.5,13 C33.0898509,13 36,15.9101491 36,19.5 C36,22.8138642 33.5201133,25.5485198 30.3148945,25.9494123 C30.2158877,25.9822332 30.1100187,26 30,26" id="Combined-Shape"></path>
+                <polyline id="Path-6" transform="translate(17.106527, 30.000000) scale(-1, 1) translate(-17.106527, -30.000000) " points="13.7618126 23 21.213054 30.4512414 13 30.4512414 18.9886568 37"></polyline>
+                <polyline id="Path-6" transform="translate(25.639910, 24.500000) scale(-1, 1) translate(-25.639910, -24.500000) " points="23.967553 21 27.6931737 24.7256207 23.5866467 24.7256207 26.5809751 28"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

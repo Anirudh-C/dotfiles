@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_volume_low_dark_24</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_volume_low_dark_24">
+            <g id="ic_volume_low_light_24">
+                <rect id="Rectangle-20" x="0" y="0" width="24" height="24"></rect>
+                <path d="M7.4643389,9.00301843 L9.52550326,5.99597498 C10.4622514,4.62934817 12.3295058,4.28086269 13.6961326,5.21761087 C14.5121984,5.77697948 15,6.70273579 15,7.69210761 L15,16.4757217 C15,18.132576 13.6568542,19.4757217 12,19.4757217 C10.987656,19.4757217 10.0435886,18.9651584 9.48941627,18.117967 L7.43841358,14.9824949 L5.99253996,14.9824949 C4.33980578,14.9824949 3,13.6426891 3,11.9899549 C3,10.3389997 4.33836368,9.00063598 5.98931895,9.00063598 C5.99173708,9.00063664 5.99173708,9.00063664 5.9941552,9.0006399 L7.4643389,9.00301843 Z" id="Combined-Shape" stroke="#3C3C3C" stroke-width="2"></path>
+                <path d="M18.9497475,16.9497475 C20.2164983,15.6829966 21,13.9329966 21,12 C21,10.0670034 20.2164983,8.31700338 18.9497475,7.05025253" id="Oval" stroke="#3C3C3C" stroke-width="2" stroke-linecap="round"></path>
+            </g>
+        </g>
+    </g>
+</svg>

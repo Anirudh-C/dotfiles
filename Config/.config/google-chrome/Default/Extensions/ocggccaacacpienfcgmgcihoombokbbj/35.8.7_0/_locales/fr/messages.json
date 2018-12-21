@@ -1,0 +1,2797 @@
+{
+   "add_new_dial_dialog_apply": {
+      "message": "Enregistrer"
+   },
+   "add_new_dial_dialog_close": {
+      "message": "Annuler"
+   },
+   "add_new_dial_dialog_group_name_require": {
+      "message": "Nom du groupe requis"
+   },
+   "add_new_dial_dialog_name_require": {
+      "message": "Nom requis"
+   },
+   "add_new_dial_dialog_preview_title": {
+      "message": "Sélectionner une image"
+   },
+   "add_new_dial_dialog_title": {
+      "message": "Ajouter un nouveau numéro abrégé"
+   },
+   "add_new_dial_dialog_url_require": {
+      "message": "URL requise"
+   },
+   "add_new_dial_field_group": {
+      "message": "Groupe"
+   },
+   "add_new_dial_field_groupName": {
+      "message": "Nom"
+   },
+   "add_new_dial_field_name": {
+      "message": "Nom"
+   },
+   "add_new_dial_field_url": {
+      "message": "URL"
+   },
+   "add_new_dial_text_groupName": {
+      "message": "Nouveau groupe"
+   },
+   "add_new_group_dialog_apply": {
+      "message": "Enregistrer"
+   },
+   "add_new_group_dialog_close": {
+      "message": "Annuler"
+   },
+   "add_new_group_dialog_name_require": {
+      "message": "Nom requis"
+   },
+   "add_new_group_dialog_title": {
+      "message": "Ajouter un nouveau groupe"
+   },
+   "add_new_group_field_name": {
+      "message": "Nom"
+   },
+   "add_user_flixel_btn": {
+      "message": "Créez vos propres Photos Animées"
+   },
+   "appDesc": {
+      "message": "Nouvel onglet animé : des horloges personnalisées, une liste de tâches à faire, des centaines de photos vivantes dans votre moteur de recherche."
+   },
+   "appName": {
+      "message": "Page de démarrage animée - Fonds d'écran animés"
+   },
+   "appShort": {
+      "message": "Nouvel onglet"
+   },
+   "auth_already_have_an_account": {
+      "message": "Vous avez déjà un compte ?"
+   },
+   "auth_banner_passcode_head": {
+      "message": "Protégez vos données"
+   },
+   "auth_banner_passcode_text": {
+      "message": "avec un mot de passe contre les regards indiscrets !"
+   },
+   "auth_billing": {
+      "message": "Facturation"
+   },
+   "auth_bottom_text": {
+      "message": "Souscrivez à LiveStartPage Premium pour débloquer des fonctionnalités géniales. Accédez en avance aux nouvelles fonctionnalités premium et aux nouveaux fonds d'écrans animés personnalisés !"
+   },
+   "auth_cancel": {
+      "message": "Retour"
+   },
+   "auth_change_default_search_engine": {
+      "message": "Modifier le moteur de recherche par défaut"
+   },
+   "auth_change_default_search_engine_help": {
+      "message": "Nous avons tout un tas de moteurs de recherche parmi les plus populaires. Choisissez celui que vous préférez."
+   },
+   "auth_change_default_search_engine_short": {
+      "message": "Rechercher avec : "
+   },
+   "auth_customize_clocks_size": {
+      "message": "Personnaliser le taille des horloges"
+   },
+   "auth_d_all_features": {
+      "message": "Voir toutes les fonctionnalités"
+   },
+   "auth_d_close": {
+      "message": "Fermer"
+   },
+   "auth_d_come_back": {
+      "message": "Revenez et essayez à nouveau"
+   },
+   "auth_d_get_premium": {
+      "message": "Passer à premium !"
+   },
+   "auth_d_not_now": {
+      "message": "Pas maintenant"
+   },
+   "auth_d_sign_in": {
+      "message": "Veuillez vous connecter d'abord"
+   },
+   "auth_detailed_relax": {
+      "message": "Guides et sons de méditation"
+   },
+   "auth_detailed_relax_help": {
+      "message": "Guides et sons de méditation"
+   },
+   "auth_detailed_weather": {
+      "message": "Prévisions météo détaillées"
+   },
+   "auth_detailed_weather_help": {
+      "message": "Recevez les prévisions avancées pour les prochains jours, ainsi que les chances de précipitations et le vent."
+   },
+   "auth_discovered_1": {
+      "message": "Vous avez découvert une fonctionnalité"
+   },
+   "auth_discovered_2": {
+      "message": "premium !"
+   },
+   "auth_discovered_3": {
+      "message": "La mise à jour vers LiveStartPage Premium"
+   },
+   "auth_discovered_4": {
+      "message": "la débloquera."
+   },
+   "auth_dont_have_an_account": {
+      "message": "Vous n'avez pas de compte ?"
+   },
+   "auth_email": {
+      "message": "E-mail"
+   },
+   "auth_email_is_required": {
+      "message": "E-mail requis. Veuillez entrer un e-mail valide."
+   },
+   "auth_high_priority_support": {
+      "message": "Assistance avec haute priorité"
+   },
+   "auth_high_priority_support_help": {
+      "message": "Les utilisateurs premium recevront une réponse plus rapide de notre équipe d'assistance."
+   },
+   "auth_high_priority_weather": {
+      "message": "Prévisions météo détaillées"
+   },
+   "auth_incredible_start_page": {
+      "message": "Une incroyable page de démarrage avec des fonds d'écran animés"
+   },
+   "auth_login": {
+      "message": "Connexion"
+   },
+   "auth_login_is_required": {
+      "message": "ERREUR : L'identifiant est requis"
+   },
+   "auth_login_or_email": {
+      "message": "Utilisateur ou E-mail"
+   },
+   "auth_logout": {
+      "message": "Déconnexion"
+   },
+   "auth_more_features_coming": {
+      "message": "Plus de fonctionnalités à venir !"
+   },
+   "auth_more_features_coming_help": {
+      "message": "Soyez l'un des premiers à débloquer les nouvelles fonctionnalités premium."
+   },
+   "auth_or": {
+      "message": "OU"
+   },
+   "auth_password": {
+      "message": "Mot de passe"
+   },
+   "auth_password_is_required": {
+      "message": "Mot de passe requis"
+   },
+   "auth_password_is_required_min_8": {
+      "message": "Le mot de passe doit faire au moins 8 caractères"
+   },
+   "auth_passwords_isnt_same": {
+      "message": "Le mot ne passe ne correspond pas"
+   },
+   "auth_plan_choice": {
+      "message": "sélectionner votre formule :"
+   },
+   "auth_plan_month_en": {
+      "message": "1.99 DOLLARS / mois"
+   },
+   "auth_plan_month_ru": {
+      "message": "50 ROUBLES / mois"
+   },
+   "auth_plan_year_en": {
+      "message": "14.99 DOLLARS / an"
+   },
+   "auth_plan_year_ru": {
+      "message": "500 ROUBLES / an"
+   },
+   "auth_premium_pricing_en": {
+      "message": "1.99 DOLLARS par mois OU 14.99 DOLLARS par an"
+   },
+   "auth_premium_pricing_ru": {
+      "message": "50 ROUBLES par mois OU 500 ROUBLES par an"
+   },
+   "auth_pro_feature": {
+      "message": "Fonctionnalités premium"
+   },
+   "auth_pro_message": {
+      "message": "Votre compte est premium !"
+   },
+   "auth_protect": {
+      "message": "Protégez vos données avec un mot de passe contre les regards indiscrets !"
+   },
+   "auth_protect_help": {
+      "message": "L vignettes de favoris, les tâches, et toutes les autres informations ne sont qu'à vous. Personne ne devrait avoir accès à vos données. Définissez un mot de passe pour votre page de démarrage animée (LSP) et VEROUILLEZ votre extension. Personne ne sera capable d'y accéder sauf vous."
+   },
+   "auth_register": {
+      "message": "Inscription"
+   },
+   "auth_register_trial_1": {
+      "message": "Créer un compte",
+      "message2": "S'inscrire pour recevoir 14 jours"
+   },
+   "auth_register_trial_2": {
+      "message": "Essai GRATUIT"
+   },
+   "auth_register_trial_3": {
+      "message": " "
+   },
+   "auth_restore_password": {
+      "message": "Restauration du mot de passe"
+   },
+   "auth_retype_password": {
+      "message": "Retaper le mot de passe"
+   },
+   "auth_sign_in": {
+      "message": "Connexion"
+   },
+   "auth_sign_up": {
+      "message": "Inscription"
+   },
+   "auth_synchronize_dials": {
+      "message": "Synchroniser les vignettes de favoris et les groupes"
+   },
+   "auth_synchronize_dials_help": {
+      "message": "Ne perdez pas vos favoris ! Vous pouvez synchroniser les groupes et les vignettes de favoris entre les navigateurs et les ordinateurs. Par exemple, quand vous ajoutez une vignette dans Chrome, vous l'aurez aussi sur Firefox ou sur un ordinateur différent."
+   },
+   "auth_synchronize_tasks": {
+      "message": "Synchroniser les taches"
+   },
+   "auth_synchronize_tasks_help": {
+      "message": "Parvenez à vos buts avec la liste de tâches. En utilisant la synchronisation, vous pouvez accéder à vos tâches n'importe quand sur n'importe quel ordinateur avec LSP d'installé."
+   },
+   "auth_terms_and_conditions": {
+      "message": "Conditions d'utilisation"
+   },
+   "auth_to_enter_your_login": {
+      "message": "entrer votre e-mail d'identification"
+   },
+   "auth_to_restore_password": {
+      "message": "Pour restaurer votre mot de passe vous devez"
+   },
+   "auth_trial_activate_btn": {
+      "message": "Activer l'essai gratuit (14 jours)"
+   },
+   "auth_trial_activate_failed": {
+      "message": "Échec de l'activation de l'essai gratuit"
+   },
+   "auth_trial_activated": {
+      "message": "Vos 14 jours d'essai gratuit sont activés"
+   },
+   "auth_trial_will_expire": {
+      "message": "L'essai expirera dans N jours"
+   },
+   "auth_trial_will_expire_title": {
+      "message": "Cliquez pour souscrire à premium"
+   },
+   "auth_username_float_title": {
+      "message": "Gérer votre facturation"
+   },
+   "auth_using_facebook": {
+      "message": "Utiliser Facebook"
+   },
+   "auth_using_google": {
+      "message": "Utiliser Google"
+   },
+   "auth_you_agree": {
+      "message": "En cliquant sur l'“Inscription”, vous acceptez nos"
+   },
+   "auth_your_login": {
+      "message": "Votre identifiant"
+   },
+   "auto_download_videos": {
+      "message": "Téléchargement automatique"
+   },
+   "backup_confirm_create_btn_db": {
+      "message": "Utiliser la base de données de l'extension"
+   },
+   "backup_confirm_create_btn_file": {
+      "message": "Exporter dans un fichier"
+   },
+   "backup_confirm_create_note": {
+      "message": "* Note: La base de données de l'extension n'est pas toujours sûre, mais c'est plus rapide. Cependant, si vous réinstallez votre navigateur ou l'extension, vous perdrez la base de données. Vous pouvez utiliser les deux options de sauvegarde !"
+   },
+   "backup_confirm_create_title": {
+      "message": "Comment voulez-vous restaurer ?"
+   },
+   "backup_confirm_line_1": {
+      "message": "A la suite de facteurs/d'actions non identifiés d'autres programmes, certaines vignettes ont été endommagées. Cela peut prendre un certain temps."
+   },
+   "backup_confirm_line_2": {
+      "message": "Pas besoin de vous inquiéter ! Tout sera opérationnel en un rien de temps !"
+   },
+   "backup_confirm_recovery_attention": {
+      "message": "Cette action ne peut pas être annulée !"
+   },
+   "backup_confirm_recovery_btn_db": {
+      "message": "Depuis la base de données de l'extension"
+   },
+   "backup_confirm_recovery_btn_file": {
+      "message": "Depuis un fichier (*.lsp)"
+   },
+   "backup_confirm_recovery_file_parse_error": {
+      "message": "Impossible de traiter les données du fichier"
+   },
+   "backup_confirm_recovery_text": {
+      "message": "Veuillez confirmer la récupération de données depuis une sauvegarde."
+   },
+   "backup_confirm_recovery_title": {
+      "message": "Comment voulez-vous restaurer ?"
+   },
+   "backup_confirm_title": {
+      "message": "Restauration des vignettes en cours…"
+   },
+   "backup_enable": {
+      "message": "Activer la sauvegarde"
+   },
+   "backup_modal_description": {
+      "message": "Il semble que la base de données est corrompue. Vous pouvez restaurer les données depuis une sauvegarde dès maintenant. Ou le faire à n'importe quel moment depuis les"
+   },
+   "backup_modal_settings_link": {
+      "message": "Paramètres de la page"
+   },
+   "backup_restore_file_error": {
+      "message": "Erreur de restauration"
+   },
+   "backup_settings_create": {
+      "message": "Créer une nouvelle sauvegarde"
+   },
+   "backup_settings_done": {
+      "message": "TERMINE ! Rechargez toutes les pages de l'extension"
+   },
+   "backup_settings_item": {
+      "message": "Éléments"
+   },
+   "backup_settings_last_date": {
+      "message": "Sauvegarde"
+   },
+   "backup_settings_last_never": {
+      "message": "Jamais"
+   },
+   "backup_settings_last_restored": {
+      "message": "(Restauré)"
+   },
+   "backup_settings_navi": {
+      "message": "Sauvegarde"
+   },
+   "backup_settings_restore": {
+      "message": "Restaurer une sauvegarde"
+   },
+   "backup_settings_title": {
+      "message": "Sauvegarder et restaurer"
+   },
+   "backup_table_dials": {
+      "message": "Accès rapides"
+   },
+   "backup_table_groups": {
+      "message": "Groupes"
+   },
+   "backup_table_images": {
+      "message": "Images"
+   },
+   "backup_table_settings": {
+      "message": "Paramètres"
+   },
+   "backup_table_storage": {
+      "message": "Options"
+   },
+   "backup_table_todo_items": {
+      "message": "Listes de tâches"
+   },
+   "backup_why": {
+      "message": "Pourquoi en ai-je besoin ?"
+   },
+   "bba_addons": {
+      "message": "Extensions"
+   },
+   "bba_bookmarks": {
+      "message": "Favoris"
+   },
+   "bba_downloads": {
+      "message": "Téléchargements"
+   },
+   "bba_history": {
+      "message": "Historique"
+   },
+   "bba_hystory": {
+      "message": "Historique"
+   },
+   "bba_restore": {
+      "message": "Session précédente. Nombre d'onglets"
+   },
+   "bba_session": {
+      "message": "Session précédente"
+   },
+   "bba_settings": {
+      "message": "Options"
+   },
+   "bba_sync": {
+      "message": "Synchronisation"
+   },
+   "become_premium": {
+      "message": "Passer Premium"
+   },
+   "bg_video_pause": {
+      "message": "Suspendre le fond d'écran animé"
+   },
+   "bg_video_play": {
+      "message": "Jouer le fond d'écran animé"
+   },
+   "cancel": {
+      "message": "Annuler"
+   },
+   "cant_add_new_group_with_no_dials": {
+      "message": "Vous ne pouvez pas faire de groupe sans sites"
+   },
+   "choose_color_scheme": {
+      "message": "Choisir un thème de couleurs"
+   },
+   "clock_date_format": {
+      "message": "Format de la date"
+   },
+   "clock_date_separator": {
+      "message": "Séparateur de date"
+   },
+   "confirm": {
+      "message": "Confirmer"
+   },
+   "context_menu_add": {
+      "message": "Ajouter à l'accès rapide"
+   },
+   "context_menu_all": {
+      "message": "Sauvegarder tous les onglets ouverts"
+   },
+   "dash": {
+      "message": "tiret (-)"
+   },
+   "date": {
+      "message": "Date"
+   },
+   "delete_group_dialog_apply": {
+      "message": "Supprimer"
+   },
+   "delete_group_dialog_body_1": {
+      "message": "Il y a des numéros abrégés dans ce groupe."
+   },
+   "delete_group_dialog_body_2": {
+      "message": "Êtes-vous sûr de vouloir supprimer ce groupe ?"
+   },
+   "delete_group_dialog_close": {
+      "message": "Annuler"
+   },
+   "delete_group_dialog_title": {
+      "message": "Confirmez votre action"
+   },
+   "dial_saved_to_folder": {
+      "message": "Sauvegardé dans le dossier [name]"
+   },
+   "dialog_pick_user_pics_not_found_enter_in": {
+      "message": "Quand vous trouvez une image que vous aimez, copiez l'adresse et collez là dans ce formulaire :"
+   },
+   "dialog_pick_user_pics_not_found_title": {
+      "message": "Vous pouvez chercher un logo {host} sur ces superbes ressources et les ajouter à notre galerie."
+   },
+   "dlg_confirm_disable_quick_preview_text": {
+      "message": "Voulez-vous vraiment désactiver le widget de prévisualisation rapide ?"
+   },
+   "dlg_confirm_disable_quick_preview_title": {
+      "message": "Veuillez confirmer votre choix"
+   },
+   "dot": {
+      "message": "point (.)"
+   },
+   "edit_dial_dialog_title": {
+      "message": "Modifier le numéro abrégé"
+   },
+   "engine_modal_close": {
+      "message": "Fermer"
+   },
+   "engine_modal_save": {
+      "message": "Sauvegarder"
+   },
+   "engine_modal_title": {
+      "message": "Sélectionner le moteur de recherche par défaut"
+   },
+   "error_auth_network": {
+      "message": "Erreur d'authentification. Pas de connexion au serveur."
+   },
+   "error_sync_network": {
+      "message": "Impossible de lacer la synchronisation. Pas de connexion internet."
+   },
+   "extrime": {
+      "message": "Extrême"
+   },
+   "favorites_need_download_html": {
+      "message": "Note : Vous devez \u003Cb>télécharger\u003C/b> certains de vos fonds d'écran préférés. Sinon, ils ne seront pas affichés."
+   },
+   "focus_background_opacity": {
+      "message": "Opacité du fond d'écran"
+   },
+   "focus_font_size": {
+      "message": "Taille de la police"
+   },
+   "focus_header": {
+      "message": "Aujourd'hui"
+   },
+   "focus_hint_add": {
+      "message": "Ajouter nouvelle priorité"
+   },
+   "focus_hint_done": {
+      "message": "Terminé"
+   },
+   "focus_hint_move": {
+      "message": "Déplacer"
+   },
+   "focus_hint_not_done": {
+      "message": "Pas encore terminé"
+   },
+   "focus_hint_remove": {
+      "message": "Retirer"
+   },
+   "focus_hint_settings": {
+      "message": "Paramètres"
+   },
+   "focus_message": {
+      "message": "Message"
+   },
+   "focus_question": {
+      "message": "Quelle est votre nouvelle priorité du jour ?"
+   },
+   "focus_select_color": {
+      "message": "Couleur de la police"
+   },
+   "focus_show": {
+      "message": "Montrer priorité"
+   },
+   "focus_show_background": {
+      "message": "Montrer le fond d'écran"
+   },
+   "focus_status_done": {
+      "message": "Beau travail ! | Génial ! | Beau boulot !"
+   },
+   "focus_status_load": {
+      "message": "Chargement..."
+   },
+   "focus_status_new": {
+      "message": "Nouvelle priorité"
+   },
+   "focus_status_save": {
+      "message": "Sauvegarde..."
+   },
+   "focus_title": {
+      "message": "Priorité"
+   },
+   "good": {
+      "message": "Ok"
+   },
+   "group_sponsoredst": {
+      "message": "Achetez & Voyagez"
+   },
+   "label_new": {
+      "message": "(Nouveau !)"
+   },
+   "language": {
+      "message": "fr"
+   },
+   "large": {
+      "message": "Grande"
+   },
+   "login_error": {
+      "message": "Erreur de connexion !"
+   },
+   "login_success": {
+      "message": "Vous vous êtes connecté avec succès"
+   },
+   "medium": {
+      "message": "Moyenne"
+   },
+   "menu_float_contact_us": {
+      "message": "Contactez-nous"
+   },
+   "menu_float_get_pro": {
+      "message": "Recevoir les fonctionnalités premium"
+   },
+   "menu_float_get_pro_buy": {
+      "message": "Souscrire premium"
+   },
+   "menu_float_login": {
+      "message": "Connexion"
+   },
+   "menu_float_logout": {
+      "message": "Déconnexion"
+   },
+   "menu_float_passcode": {
+      "message": "Protéger avec un mot de passe"
+   },
+   "menu_float_pause": {
+      "message": "Mettre la vidéo en pause"
+   },
+   "menu_float_play": {
+      "message": "Reprendre la lecture de la vidéo"
+   },
+   "menu_float_settings": {
+      "message": "Menu"
+   },
+   "menu_float_settings_link": {
+      "message": "Configurer les paramètres"
+   },
+   "menu_float_sync": {
+      "message": "Commencer la synchronisation"
+   },
+   "menu_float_themes_link": {
+      "message": "Sélectionner des thèmes"
+   },
+   "menu_float_weather_forecast": {
+      "message": "Montrer prévisions sur 5 jours"
+   },
+   "more_themes_button": {
+      "message": "Recevoir plus de fonds d'écran"
+   },
+   "move_clock": {
+      "message": "Déplacer horloge"
+   },
+   "navi_active_bg_desc": {
+      "message": "LiveStartPage a plusieurs modes. Vous pouvez choisir celui que vous préférez."
+   },
+   "navi_active_bg_description": {
+      "message": "Dans cette partie, vous pouvez sélectionner le type de fond d'écran que vous voulez afficher dans votre LiveStartPage"
+   },
+   "navi_active_bg_name": {
+      "message": "Configurer le fond d'écran actif"
+   },
+   "navi_active_bg_title": {
+      "message": "Votre fond d'écran actif"
+   },
+   "navi_active_mode_message": {
+      "message": "(Ce mode est actif)"
+   },
+   "navi_cant_disable_active": {
+      "message": "Vous ne pouvez le désactiver car il est actif."
+   },
+   "navi_downloaded_desc": {
+      "message": "Tous vos fonds d'écran téléchargés"
+   },
+   "navi_downloaded_disabled": {
+      "message": "Pour commencer, vous devez télécharger au moins un [name]"
+   },
+   "navi_downloaded_title": {
+      "message": "Fonds d'écran téléchargés"
+   },
+   "navi_exit": {
+      "message": "Quitter les options"
+   },
+   "navi_favorites_desc": {
+      "message": "Tous vos fonds d'écrans favoris"
+   },
+   "navi_favorites_disabled": {
+      "message": "Pour commencer, vous devez définir comme favori au moins un [name]"
+   },
+   "navi_favorites_title": {
+      "message": "Fonds d'écrans favoris"
+   },
+   "navi_randomize_downloaded": {
+      "message": "Téléchargement aléatoire"
+   },
+   "navi_randomize_favorites": {
+      "message": "Favoris aléatoire"
+   },
+   "navi_show_downloaded": {
+      "message": "Montrer les téléchargements"
+   },
+   "navi_show_favorites": {
+      "message": "Montrer les favoris"
+   },
+   "navi_show_live_backgrounds": {
+      "message": "Montrer les fonds d'écran animés"
+   },
+   "navi_show_live_themes": {
+      "message": "Montrer les thèmes animés"
+   },
+   "navi_show_wallpapers": {
+      "message": "Montrer les fonds d'écran statiques"
+   },
+   "navi_singular_bg_any": {
+      "message": "Thème animé ou fond d'écran statique"
+   },
+   "navi_singular_bg_live": {
+      "message": "Fond d'écran animé"
+   },
+   "navi_singular_bg_static": {
+      "message": "Fond d'écran statique"
+   },
+   "navi_singular_bg_theme": {
+      "message": "Thème animé"
+   },
+   "navi_tab_live_backgrounds": {
+      "message": "Fonds d'écran animés"
+   },
+   "navi_tab_live_themes": {
+      "message": "Thèmes animés"
+   },
+   "navi_tab_static_wallpapers": {
+      "message": "Fonds d'écran statiques"
+   },
+   "navi_view_all_downloaded": {
+      "message": "Voir tous les téléchargements"
+   },
+   "navi_view_all_favorites": {
+      "message": "Voir tous les favoris"
+   },
+   "navi_view_live_backgrounds": {
+      "message": "Voir tous les fonds d'écran animés"
+   },
+   "navi_view_live_themes": {
+      "message": "Voir tous les thèmes animés"
+   },
+   "navi_view_wallpapers": {
+      "message": "Voir tous les fonds d'écran"
+   },
+   "newtab_auto_title": {
+      "message": "Auto"
+   },
+   "newtab_disable_page_mod": {
+      "message": "Désactiver ce widget"
+   },
+   "newtab_getting_title": {
+      "message": "Obtention du titre..."
+   },
+   "off": {
+      "message": "Inactif"
+   },
+   "ok": {
+      "message": "Ok"
+   },
+   "old_options_relax_popup_body_bottom_text_1": {
+      "message": "Recevez votre dose quotidienne de plénitude."
+   },
+   "old_options_relax_popup_body_bottom_text_2": {
+      "message": "Détendez votre esprit et retrouvez votre concentration."
+   },
+   "old_options_relax_popup_body_bottom_text_3": {
+      "message": "Profitez de scènes magnifiques."
+   },
+   "on": {
+      "message": "Actif"
+   },
+   "open_groups_dials_current": {
+      "message": "Tout ouvrir dans la fenêtre active"
+   },
+   "open_groups_dials_new": {
+      "message": "Tout ouvrir dans une nouvelle fenêtre"
+   },
+   "open_player": {
+      "message": "Ouvrir le lecteur audio"
+   },
+   "option_auto": {
+      "message": "Auto détection"
+   },
+   "option_ddmmyyyy": {
+      "message": "jj/mm/aaaa"
+   },
+   "option_mmddyyyy": {
+      "message": "mm/jj/aaaa"
+   },
+   "options_add_to_favorite_dialog": {
+      "message": "Vous devez d'abord télécharger un thème avant de le définir comme favori"
+   },
+   "options_application_rating_popup_item_already": {
+      "message": "Je l'ai déjà fait"
+   },
+   "options_application_rating_popup_item_awesome": {
+      "message": "Génial !"
+   },
+   "options_application_rating_popup_item_bad": {
+      "message": "Mauvais"
+   },
+   "options_application_rating_popup_item_better": {
+      "message": "Pourrait être améliorée"
+   },
+   "options_application_rating_popup_title_mark": {
+      "message": "Vous aimez la Page de Démarrage Animée ? Merci de l'évaluer !"
+   },
+   "options_application_rating_popup_title_thanks": {
+      "message": "Merci d'écrire votre évaluation. C'est très important pour nous. Merci !"
+   },
+   "options_application_weather_city": {
+      "message": "Double-cliquez pour changer"
+   },
+   "options_application_weather_error_text_location": {
+      "message": "Merci d'activer le suivi de votre emplacement ou"
+   },
+   "options_application_weather_error_text_location_placeholder": {
+      "message": "Saisissez votre ville ici"
+   },
+   "options_application_weather_intro_text": {
+      "message": "Afficher ma Météo"
+   },
+   "options_application_weather_location_current": {
+      "message": "Obtenez l'emplacement actuel"
+   },
+   "options_bookmarks_popup_close": {
+      "message": "Ne plus montrer ce message"
+   },
+   "options_bookmarks_popup_hide": {
+      "message": "Fermer"
+   },
+   "options_bookmarks_popup_title": {
+      "message": "Comment faire pour activer la barre de favoris :"
+   },
+   "options_clock_size": {
+      "message": "Taille de l'horloge"
+   },
+   "options_clock_size_large": {
+      "message": "Grande"
+   },
+   "options_clock_size_medium": {
+      "message": "Moyenne"
+   },
+   "options_clock_size_small": {
+      "message": "Petite"
+   },
+   "options_header_buttons_close_settings": {
+      "description": "#fixed",
+      "message": "FERMER LES PARAMÈTRES"
+   },
+   "options_header_buttons_control_settings": {
+      "description": "#fixed",
+      "message": "Configurer les paramètres"
+   },
+   "options_header_buttons_feedback": {
+      "description": "#fixed",
+      "message": "COMMENTAIRES"
+   },
+   "options_header_buttons_help": {
+      "description": "#fixed",
+      "message": "FAQ"
+   },
+   "options_header_buttons_select_favorite_bg": {
+      "description": "#fixed",
+      "message": "Favoris"
+   },
+   "options_header_buttons_select_live_bg": {
+      "description": "#fixed",
+      "message": "Sélectionnez un fond d'écran"
+   },
+   "options_header_title": {
+      "description": "#fixed",
+      "message": "Page de démarrage animée - Paramètres"
+   },
+   "options_meta_title": {
+      "message": "Paramètres"
+   },
+   "options_quick_preview": {
+      "message": "Widget de prévisualisation rapide"
+   },
+   "options_random_mode_is_active_notice": {
+      "message": "Remarque : Le mode aléatoire pour les favoris est activé"
+   },
+   "options_random_mode_is_active_notice_downloaded": {
+      "message": "Note : le mode aléatoire pour les téléchargements est activé"
+   },
+   "options_random_mode_is_active_notice_favorites": {
+      "message": "Note : le mode aléatoire pour les favoris est activé"
+   },
+   "options_refresh_themes_list_error": {
+      "message": "Erreur, impossible d'obtenir la liste des fonds d'écran disponibles. Essayez de rafraîchir la page."
+   },
+   "options_relax_popup_body_bottom_text_1": {
+      "message": "Obtenez votre dose quotidienne de pleine conscience."
+   },
+   "options_relax_popup_body_bottom_text_2": {
+      "message": "Détendez votre esprit et retrouvez votre attention."
+   },
+   "options_relax_popup_body_bottom_text_3": {
+      "message": "Admirez de beaux paysages."
+   },
+   "options_relax_popup_body_bottom_text_4": {
+      "message": "Cliquez pour lire à quel point la méditation peut améliorer votre journée"
+   },
+   "options_relax_popup_body_bottom_text_5": {
+      "message": "Nous recommandons d'utiliser un casque ou des écouteurs."
+   },
+   "options_relax_popup_body_bottom_tip": {
+      "message": "Conseil : Appuyez sur F11 pour entrer ou sortir du mode plein écran."
+   },
+   "options_relax_popup_body_top_text": {
+      "message": "Le mode de méditation vous aide à être plus productif toute la journée."
+   },
+   "options_relax_popup_close": {
+      "message": "Ne plus montrer ce message"
+   },
+   "options_relax_popup_hide": {
+      "message": "Commençons"
+   },
+   "options_relax_popup_title": {
+      "message": "Commençons"
+   },
+   "options_settings_apps_link_display": {
+      "message": "Afficher le lien des applis"
+   },
+   "options_settings_bottom_panel": {
+      "message": "Panneau du bas"
+   },
+   "options_settings_clock_advanced_href": {
+      "message": "Avancé"
+   },
+   "options_settings_clock_background": {
+      "message": "Fond d'écran"
+   },
+   "options_settings_clock_background_dark": {
+      "message": "Sombre"
+   },
+   "options_settings_clock_background_dark_long": {
+      "message": "Obscurité, durée longue"
+   },
+   "options_settings_clock_background_light": {
+      "message": "Clair"
+   },
+   "options_settings_clock_background_light_long": {
+      "message": "Éclairage, durée longue"
+   },
+   "options_settings_clock_background_none": {
+      "message": "Aucun"
+   },
+   "options_settings_clock_background_opacity": {
+      "message": "Opacité du fond d'écran"
+   },
+   "options_settings_clock_basic_href": {
+      "message": "Srandard"
+   },
+   "options_settings_clock_color_text_ampm_label": {
+      "message": "AM/PM"
+   },
+   "options_settings_clock_color_text_border_line": {
+      "message": "Ligne de frontière :"
+   },
+   "options_settings_clock_color_text_digit_bg": {
+      "message": "Fond d'écran des chiffres :"
+   },
+   "options_settings_clock_color_text_done_line": {
+      "message": "Ligne de cercle terminée :"
+   },
+   "options_settings_clock_color_text_h": {
+      "message": "Couleurs de l'horloge :"
+   },
+   "options_settings_clock_color_text_label": {
+      "message": "Formats :"
+   },
+   "options_settings_clock_color_text_time": {
+      "message": "Chiffres :"
+   },
+   "options_settings_clock_color_text_total_line": {
+      "message": "Ligne de cercle totale :"
+   },
+   "options_settings_clock_date": {
+      "message": "Montrer la date"
+   },
+   "options_settings_clock_font_bold": {
+      "message": "Numéros en caractères gras"
+   },
+   "options_settings_clock_format": {
+      "message": "Format de l'heure"
+   },
+   "options_settings_clock_format_label": {
+      "message": "Afficher le format AM/PM"
+   },
+   "options_settings_clock_opacity": {
+      "message": "Opacité de l'horloge"
+   },
+   "options_settings_clock_scheme_dark": {
+      "message": "Sombre"
+   },
+   "options_settings_clock_scheme_default": {
+      "message": "Par défaut"
+   },
+   "options_settings_clock_scheme_light": {
+      "message": "Clair"
+   },
+   "options_settings_clock_seconds_show": {
+      "message": "Afficher les secondes"
+   },
+   "options_settings_clock_show": {
+      "message": "Afficher l'horloge"
+   },
+   "options_settings_clock_title": {
+      "message": "Horloge"
+   },
+   "options_settings_clock_type": {
+      "message": "Type d'horloge"
+   },
+   "options_settings_clock_type_0": {
+      "message": "Simple"
+   },
+   "options_settings_clock_type_10": {
+      "message": "Tableau"
+   },
+   "options_settings_clock_type_3": {
+      "message": "Numérique"
+   },
+   "options_settings_clock_type_5": {
+      "message": "Style"
+   },
+   "options_settings_clock_type_6": {
+      "message": "Retourner"
+   },
+   "options_settings_clock_type_7": {
+      "message": "Faire glisser vers le haut"
+   },
+   "options_settings_clock_type_9": {
+      "message": "Cercles"
+   },
+   "options_settings_clock_visible_label": {
+      "message": "Montrer le format"
+   },
+   "options_settings_dials_advanced_href": {
+      "message": "Avancé"
+   },
+   "options_settings_dials_basic_href": {
+      "message": "Basique"
+   },
+   "options_settings_dials_columns_count": {
+      "message": "Colonnes maximum de numéros abrégés"
+   },
+   "options_settings_dials_display_background": {
+      "message": "Afficher le fond d'écran de vignettes par défaut"
+   },
+   "options_settings_dials_display_borders": {
+      "message": "Afficher les bordures des vignettes"
+   },
+   "options_settings_dials_size_slider": {
+      "message": "Taille des vignettes"
+   },
+   "options_settings_images_add": {
+      "message": "Charger un nouveau fond"
+   },
+   "options_settings_images_sort_gallery": {
+      "message": "Galerie"
+   },
+   "options_settings_images_sort_your": {
+      "message": "Vos envois"
+   },
+   "options_settings_page_bottom_panel_opacity": {
+      "message": "Opacité du panneau"
+   },
+   "options_settings_page_common": {
+      "message": "Divers"
+   },
+   "options_settings_page_common_hint": {
+      "message": "Si vous avez installé l'un de nos Thèmes (Chrome) ou visité certaines de nos pages sur livestartpage.com, (par exemple : \u003Ca href=https://goo.gl/8c3b25 target=_blank>https://goo.gl/8c3b25\u003C/a> ) nous téléchargeons automatiquement la vidéo pour vous simplifier la vie."
+   },
+   "options_settings_page_top_panel": {
+      "message": "Panneau du haut"
+   },
+   "options_settings_parallax_enable": {
+      "message": "Activer l'effet Parallax"
+   },
+   "options_settings_parallax_enable_notice": {
+      "message": "(Remarque : désactiver pour augmenter les performances de votre ordinateur)"
+   },
+   "options_settings_parallax_navi": {
+      "message": "Parallax"
+   },
+   "options_settings_parallax_strength": {
+      "message": "Force de l'effet de Parallax"
+   },
+   "options_settings_parallax_subtitle": {
+      "message": "(Fond d'écran dynamique)"
+   },
+   "options_settings_parallax_title": {
+      "message": "Fond d'écran Parallax"
+   },
+   "options_settings_popular_group_show": {
+      "message": "Afficher le groupe"
+   },
+   "options_settings_random_button_text": {
+      "message": "Fonds d'écran au hasard"
+   },
+   "options_settings_random_themes_enable_notice": {
+      "message": "Afficher les fonds d'écran aléatoirement (uniquement pour ceux téléchargés)"
+   },
+   "options_settings_random_themes_enable_notice_downloaded": {
+      "message": "Téléchargés"
+   },
+   "options_settings_random_themes_enable_notice_favorites": {
+      "message": "Favoris"
+   },
+   "options_settings_random_themes_enable_notice_short": {
+      "message": "Fonds d'écran aléatoires"
+   },
+   "options_settings_random_themes_enable_notice_short_OLD": {
+      "message": "Montrer fonds d'écran aléatoirement"
+   },
+   "options_settings_relax_enable": {
+      "message": "Afficher le bouton de méditation"
+   },
+   "options_settings_relax_title": {
+      "message": "Méditation"
+   },
+   "options_settings_search_form_display": {
+      "message": "Activer la recherche"
+   },
+   "options_settings_search_form_navi": {
+      "message": "Recherche"
+   },
+   "options_settings_search_form_provider": {
+      "message": "Rechercher avec"
+   },
+   "options_settings_search_form_provider_more": {
+      "message": "Plus"
+   },
+   "options_settings_search_open_type": {
+      "message": "Ouvrir la recherche dans"
+   },
+   "options_settings_speed_dial_count": {
+      "message": "Quantité de numéros abrégés"
+   },
+   "options_settings_speed_dial_count_max": {
+      "message": "max."
+   },
+   "options_settings_speed_dial_count_max_description": {
+      "message": "Pour le groupe"
+   },
+   "options_settings_speed_dial_customs": {
+      "message": "Prévisualisations personnalisées"
+   },
+   "options_settings_speed_dial_generate_type": {
+      "message": "Comment générer des numéros abrégés"
+   },
+   "options_settings_speed_dial_navi": {
+      "message": "Accès rapide"
+   },
+   "options_settings_speed_dial_opacity": {
+      "message": "Opacité des numéros abrégés"
+   },
+   "options_settings_speed_dial_open_type": {
+      "message": "Ouvrir la liste des numéros abrégés dans"
+   },
+   "options_settings_speed_dial_open_type_background": {
+      "message": "Onglet du fond d'écran"
+   },
+   "options_settings_speed_dial_open_type_current": {
+      "message": "Onglet actuel"
+   },
+   "options_settings_speed_dial_open_type_incognito": {
+      "message": "Fenêtre privée"
+   },
+   "options_settings_speed_dial_open_type_new": {
+      "message": "Nouvel onglet"
+   },
+   "options_settings_speed_dial_show": {
+      "message": "Afficher les numéros abrégés"
+   },
+   "options_settings_speed_dial_title": {
+      "message": "Composition abrégée"
+   },
+   "options_settings_speed_search_opacity": {
+      "message": "Opacité du formulaire de recherche"
+   },
+   "options_settings_speed_search_title": {
+      "message": "Formulaire de recherche"
+   },
+   "options_settings_themes_sort_downloaded": {
+      "message": "Téléchargés"
+   },
+   "options_settings_themes_sort_featured": {
+      "message": "Populaires"
+   },
+   "options_settings_themes_sort_new": {
+      "message": "Plus récent"
+   },
+   "options_settings_themes_sort_popular": {
+      "message": "Populaire"
+   },
+   "options_settings_themes_sort_search": {
+      "message": "Rechercher thèmes"
+   },
+   "options_settings_todo_opacity": {
+      "message": "Opacité du panneau"
+   },
+   "options_settings_todo_position": {
+      "message": "Réinitialiser la taille et la position par défaut"
+   },
+   "options_settings_todo_position_btn": {
+      "message": "Réinitialiser"
+   },
+   "options_settings_todo_show": {
+      "message": "Afficher les tâches"
+   },
+   "options_settings_todo_title": {
+      "message": "Tâches"
+   },
+   "options_settings_weather_background_opacity": {
+      "message": "Opacité du fond d'écran"
+   },
+   "options_settings_weather_background_show": {
+      "message": "Montrer le fond d'écran"
+   },
+   "options_settings_weather_location": {
+      "message": "Localisation actuelle"
+   },
+   "options_settings_weather_location_block": {
+      "message": "Merci d'activer le suivi de votre emplacement dans votre navigateur."
+   },
+   "options_settings_weather_location_block_text": {
+      "message": "Désolé, nous ne pouvons pas détecter votre emplacement. Merci d'activer le suivi de votre emplacement dans votre navigateur."
+   },
+   "options_settings_weather_location_cancel": {
+      "message": "Annuler"
+   },
+   "options_settings_weather_location_change": {
+      "message": "Changer"
+   },
+   "options_settings_weather_location_img_title": {
+      "message": "Obtenez l'emplacement actuel"
+   },
+   "options_settings_weather_location_placeholder": {
+      "message": "Entrez votre ville"
+   },
+   "options_settings_weather_location_set": {
+      "message": "Appliquer"
+   },
+   "options_settings_weather_location_unknown": {
+      "message": "Inconnu"
+   },
+   "options_settings_weather_opacity": {
+      "message": "Opacité de la météo"
+   },
+   "options_settings_weather_reset_position": {
+      "message": "Réinitialiser votre position par défaut"
+   },
+   "options_settings_weather_reset_position_btn": {
+      "message": "Réinitialiser"
+   },
+   "options_settings_weather_show": {
+      "message": "Afficher la météo"
+   },
+   "options_settings_weather_title": {
+      "message": "Météo"
+   },
+   "options_settings_weather_unit": {
+      "message": "Unité de température"
+   },
+   "options_settings_weather_unit_show": {
+      "message": "Afficher l'unité de température"
+   },
+   "options_share_desc": {
+      "message": "Vidéo géniale !"
+   },
+   "options_share_desc_1": {
+      "message": "C'est fou ! [Theme_Name] dans mon navigateur [LINK] #LiveWallpapers #LiveStartPage #ThemeName"
+   },
+   "options_share_desc_2": {
+      "message": "Je viens d'installer [Theme_Name] dans mon navigateur [LINK] #LiveWallpapers #LiveStartPage #ThemeName"
+   },
+   "options_share_desc_3": {
+      "message": "Difficile à croire mais j'ai [Theme_Name] dans mon navigateur [LINK] #LiveWallpapers #LiveStartPage #ThemeName"
+   },
+   "options_share_desc_4": {
+      "message": "Enfin ! [Theme_Name] dans mon navigateur [LINK] #LiveWallpapers  #ThemeName"
+   },
+   "options_share_hint": {
+      "message": "Sélectionnez l'une des options suivantes :"
+   },
+   "options_share_modal_title": {
+      "message": "Montrer cette vidéo géniale à vos amis !"
+   },
+   "options_share_social_description": {
+      "message": "Accédez à plus de 1 000 thèmes de notre galerie\u003Cbr>et parlez à vos amis de Page de Démarrage Animée !"
+   },
+   "options_share_social_popup_btn_unlock": {
+      "description": "#fixed",
+      "message": "Débloquer avec"
+   },
+   "options_share_social_popup_text_1": {
+      "message": "Bonjour ! Merci d'utiliser Page de Démarrage Animée."
+   },
+   "options_share_social_popup_text_2": {
+      "message": "Nous vous demandons une petite faveur pour soutenir notre projet.\u003Cbr>Veuillez partager Page de Démarrage Animée avec vos amis sur l’un des réseaux sociaux suivants."
+   },
+   "options_share_social_popup_text_3": {
+      "message": "Une fois que vous aurez partagé l’appli, nous débloquerons le reste, plus de 1 000 fonds d’écran animés pour vous."
+   },
+   "options_share_social_popup_text_4": {
+      "message": "Cordialement, L'équipe de Page de Démarrage Animée."
+   },
+   "options_share_social_popup_title": {
+      "message": "Page de Démarrage Animée - Fonds d'écran animés pour Chrome"
+   },
+   "options_share_social_text_1": {
+      "message": "J'ai donné vie à mon navigateur avec ce nouveau produit : [LINK] #LiveWallpapers"
+   },
+   "options_share_social_text_2": {
+      "message": "Ce produit a donné vie à l'onglet de mon navigateur ! [LINK] #LiveWallpapers #LiveStartPage"
+   },
+   "options_share_social_text_3": {
+      "message": "J'ai des fonds d'écran animés dans mon navigateur. Comment est-ce que c'est possible ? [LINK] #LiveWallpapers #LiveStartPage"
+   },
+   "options_share_social_text_4": {
+      "message": "Ces fonds d'écran animés m'aident à retrouver ma concentration au cours de la journée [LINK] #LiveWallpapers #RegainFocus"
+   },
+   "options_share_social_text_5": {
+      "message": "Quand je suis fatigué ou que je m'ennuie, je profite de ce produit pour mon navigateur [LINK] #LiveWallpapers #RegainFocus"
+   },
+   "options_share_social_title": {
+      "message": "Page de Démarrage Animée"
+   },
+   "options_share_social_url": {
+      "message": "en"
+   },
+   "options_share_this_video": {
+      "message": "Partager cette vidéo avec des amis"
+   },
+   "options_share_title": {
+      "message": "Vidéo géniale !"
+   },
+   "options_speed_dial_generate_type_autopreview_text": {
+      "message": "Aperçu auto + Texte"
+   },
+   "options_speed_dial_generate_type_gallery_autopreview_text": {
+      "message": "Galerie + Aperçu auto + Texte"
+   },
+   "options_speed_dial_generate_type_gallery_text": {
+      "message": "Galerie + Texte"
+   },
+   "options_speed_dial_generate_type_text": {
+      "message": "Texte"
+   },
+   "options_tabs_content_flixel_bg_notice": {
+      "message": "Galerie optimisée par"
+   },
+   "options_tabs_content_flixer_load_button": {
+      "message": "CHARGER D'AUTRES FONDS D'ÉCRAN"
+   },
+   "options_tabs_content_live_bg_notice": {
+      "message": "Remarque : Les fonds d'écran animés peuvent ralentir votre ordinateur.  Diminuez la qualité des fonds d'écran animés pour améliorer la performance de votre ordinateur."
+   },
+   "options_tabs_content_live_theme_notice": {
+      "message": "Bientôt disponible..."
+   },
+   "options_tabs_content_loader_text": {
+      "message": "CHARGEMENT..."
+   },
+   "options_tabs_delete_from_favorite": {
+      "message": "Voulez-vous le retirer de vos favoris ?"
+   },
+   "options_tabs_delete_from_favorite_close": {
+      "message": "Non"
+   },
+   "options_tabs_delete_from_favorite_confirm": {
+      "message": "Oui"
+   },
+   "options_tabs_delete_image": {
+      "message": "Voulez-vous supprimer cette image ?"
+   },
+   "options_tabs_delete_theme": {
+      "message": "Voulez-vous supprimer cette vidéo ?"
+   },
+   "options_tabs_delete_theme_close": {
+      "message": "Non"
+   },
+   "options_tabs_delete_theme_confirm": {
+      "message": "Oui"
+   },
+   "options_tabs_download_flixer_bg_error": {
+      "message": "Un problème est survenu lors du téléchargement du fond d'écran de photos animées. Veuillez réessayer plus tard."
+   },
+   "options_tabs_download_live_bg_error": {
+      "message": "Un problème est survenu lors du téléchargement du fond d'écran animé. Veuillez réessayer plus tard."
+   },
+   "options_tabs_download_no_live_backgrounds": {
+      "message": "Vous devez d'abord télécharger les fonds d'écran animés que vous aimez"
+   },
+   "options_tabs_download_no_live_themes": {
+      "message": "Vous devez d'abord télécharger les thèmes animés que vous aimez"
+   },
+   "options_tabs_download_no_walpapers": {
+      "message": "Vous devez d'abord télécharger les fonds d'écran statiques que vous aimez"
+   },
+   "options_tabs_download_static_bg_error": {
+      "message": "Un problème est survenu lors du téléchargement du fond d'écran statique. Veuillez réessayer plus tard."
+   },
+   "options_tabs_favorite_no_bg": {
+      "message": "Vous devez d'abord marquer les fonds d'écran que vous aimez comme Favori"
+   },
+   "options_tabs_favorite_no_live_backgrounds": {
+      "message": "Vous devez d'abord définir les fonds d'écran animés que vous aimez comme favoris"
+   },
+   "options_tabs_favorite_no_live_themes": {
+      "message": "Vous devez d'abord définir les thèmes animés que vous aimez comme favoris"
+   },
+   "options_tabs_favorite_no_walpapers": {
+      "message": "Vous devez d'abord définir les fonds d'écran statiques que vous aimez comme favoris"
+   },
+   "options_tabs_item_buttons_active": {
+      "description": "#fixed",
+      "message": "ACTIVE"
+   },
+   "options_tabs_item_buttons_active_resolution_1080p_live_bg": {
+      "message": "Meilleure qualité, plus lent\n(décalages possibles)"
+   },
+   "options_tabs_item_buttons_active_resolution_480p_live_bg": {
+      "message": "Meilleure performance,\nbasse qualité"
+   },
+   "options_tabs_item_buttons_active_resolution_720p_live_bg": {
+      "message": "Recommandé.\nBonne performance,\nbonne qualité"
+   },
+   "options_tabs_item_buttons_active_theme": {
+      "description": "#fixed",
+      "message": "ACTIVE"
+   },
+   "options_tabs_item_buttons_active_title_flixer_bg": {
+      "message": "Activer le fond d'écran de photos en mouvement"
+   },
+   "options_tabs_item_buttons_active_title_live_bg": {
+      "message": "Activer le fond d'écran animé"
+   },
+   "options_tabs_item_buttons_active_title_static_bg": {
+      "message": "Activer le fond d'écran statique"
+   },
+   "options_tabs_item_buttons_active_title_theme": {
+      "message": "Activer le thème animé"
+   },
+   "options_tabs_item_buttons_control_delete": {
+      "description": "#fixed",
+      "message": "Supprimer le thème"
+   },
+   "options_tabs_item_buttons_control_settings": {
+      "description": "#fixed",
+      "message": "Configurer les paramètres"
+   },
+   "options_tabs_item_buttons_disable": {
+      "description": "#fixed",
+      "message": "DÉSACTIVER"
+   },
+   "options_tabs_item_buttons_disable_title_flixel_bg": {
+      "message": "Désactiver la photo en mouvement"
+   },
+   "options_tabs_item_buttons_disable_title_live_bg": {
+      "message": "Désactiver le fond d'écran animé"
+   },
+   "options_tabs_item_buttons_disable_title_static_bg": {
+      "message": "Désactiver le fond d'écran statique"
+   },
+   "options_tabs_item_buttons_download": {
+      "description": "#fixed",
+      "message": "Téléchargement"
+   },
+   "options_tabs_item_buttons_download_content": {
+      "description": "#fixed",
+      "message": "Téléchargement du contenu"
+   },
+   "options_tabs_item_buttons_download_flixel": {
+      "description": "#fixed",
+      "message": "Installation"
+   },
+   "options_tabs_item_buttons_download_flixel_content": {
+      "description": "#fixed",
+      "message": "Installation du contenu"
+   },
+   "options_tabs_item_buttons_enable": {
+      "description": "#fixed",
+      "message": "ACTIVER"
+   },
+   "options_tabs_item_buttons_enable_title_flixer_bg": {
+      "message": "Activez le fond d'écran de photos en mouvement"
+   },
+   "options_tabs_item_buttons_enable_title_live_bg": {
+      "message": "Activer le fond d'écran animé"
+   },
+   "options_tabs_item_buttons_enable_title_static_bg": {
+      "message": "Activez le fond d'écran statique"
+   },
+   "options_tabs_item_buttons_favorite": {
+      "message": "Ajouter aux Favoris"
+   },
+   "options_tabs_item_buttons_favorite_remove": {
+      "message": "Retirer des favoris"
+   },
+   "options_tabs_item_buttons_install": {
+      "description": "#fixed",
+      "message": "INSTALLER"
+   },
+   "options_tabs_item_buttons_install_flixer": {
+      "description": "#fixed",
+      "message": "INSTALLER"
+   },
+   "options_tabs_item_buttons_install_select_quality": {
+      "description": "#fixed",
+      "message": "Merci de sélectionner la qualité"
+   },
+   "options_tabs_item_buttons_install_title_flixer_bg": {
+      "message": "Vous devez d'abord l'installer"
+   },
+   "options_tabs_item_buttons_install_title_live_bg": {
+      "message": "Vous devez d'abord l'installer"
+   },
+   "options_tabs_item_buttons_install_title_static_bg": {
+      "message": "Vous devez d'abord l'installer"
+   },
+   "options_tabs_item_buttons_install_title_theme": {
+      "message": "Vous devez d'abord Télécharger ce thème à partir du magasin en ligne de Chrome"
+   },
+   "options_tabs_item_buttons_more_flixel_content_title": {
+      "message": "Découvrez un vaste choix de fonds d'écran sur http://flixel.com"
+   },
+   "options_tabs_item_buttons_restore": {
+      "description": "#fixed",
+      "message": "RESTAURER LE THÈME"
+   },
+   "options_tabs_item_buttons_restore_title": {
+      "message": "Restaurer le thème Chrome par défaut"
+   },
+   "options_tabs_item_buttons_view_live_bg": {
+      "description": "#fixed",
+      "message": "VOIR LE THÈME"
+   },
+   "options_tabs_item_buttons_view_title_flixel_bg": {
+      "message": "Afficher le fond d'écran en mouvement dans un nouvel onglet"
+   },
+   "options_tabs_item_buttons_view_title_live_bg": {
+      "message": "Afficher le fond d'écran animé dans un nouvel onglet"
+   },
+   "options_tabs_item_chanel_description_text_flixel_bg": {
+      "message": "Créé par"
+   },
+   "options_tabs_item_chanel_description_text_flixel_bg_handmade": {
+      "message": "Animé par"
+   },
+   "options_tabs_item_chanel_description_title_flixel_bg": {
+      "message": "Allez sur la chaîne"
+   },
+   "options_tabs_item_disable": {
+      "description": "#fixed",
+      "message": "DÉSACTIVER LE FOND D'ÉCRAN"
+   },
+   "options_tabs_item_note_random_background_on_options_page": {
+      "message": "Remarque : seuls les fonds d’écran marqués comme Favori seront affichés aléatoirement"
+   },
+   "options_tabs_item_note_random_background_on_options_page_downloaded": {
+      "message": "Note : Tous les fonds téléchargés seront affichés aléatoirement"
+   },
+   "options_tabs_item_restore": {
+      "description": "#fixed",
+      "message": "Thème par défaut"
+   },
+   "options_tabs_item_tiles_theme_title_live_bg": {
+      "message": "Cet fond d'écran animé est déjà téléchargé"
+   },
+   "options_tabs_item_tiles_theme_title_live_bg_button": {
+      "message": "vidéo"
+   },
+   "options_tabs_item_tiles_theme_title_static_bg": {
+      "message": "Cet fond d'écran statique est déjà téléchargé"
+   },
+   "options_tabs_item_tiles_theme_title_static_bg_button": {
+      "message": "image"
+   },
+   "options_tabs_title_flixel_bg": {
+      "message": "Photos Animées en Mouvement"
+   },
+   "options_tabs_title_live_bg": {
+      "message": "Fonds d'écran animés"
+   },
+   "options_tabs_title_live_theme": {
+      "message": "Thèmes Animés"
+   },
+   "options_tabs_title_static_bg": {
+      "message": "Fonds d'écran statiques"
+   },
+   "or": {
+      "message": "Ou"
+   },
+   "other_browser_chrome": {
+      "message": "Installer LiveStartPapge sur Google Chrome"
+   },
+   "other_browser_firefox": {
+      "message": "Installer LiveStartPapge sur Firefox"
+   },
+   "other_browser_opera": {
+      "message": "Installer LiveStartPapge sur Opera"
+   },
+   "page_bottom_notice_settings": {
+      "description": "#fixed",
+      "message": "Cliquez sur \u003Cb>Paramètres\u003C/b> pour changer le fond d'écran animé"
+   },
+   "page_clock_hour_label": {
+      "description": "#fixed",
+      "message": "Heure"
+   },
+   "page_clock_hours_label": {
+      "description": "#fixed",
+      "message": "Heures"
+   },
+   "page_clock_minute_label": {
+      "description": "#fixed",
+      "message": "Minute"
+   },
+   "page_clock_minutes_label": {
+      "description": "#fixed",
+      "message": "Minutes"
+   },
+   "page_clock_second_label": {
+      "description": "#fixed",
+      "message": "Seconde"
+   },
+   "page_clock_seconds_label": {
+      "description": "#fixed",
+      "message": "Secondes"
+   },
+   "page_created_link": {
+      "message": "Créé par"
+   },
+   "page_created_link_handmade": {
+      "message": "Animé par"
+   },
+   "page_dial_context_menu_copy_url_dial": {
+      "message": "Copier l'URL"
+   },
+   "page_dial_context_menu_delete_dial": {
+      "message": "Masquer le numéro abrégé"
+   },
+   "page_dial_context_menu_dials_size": {
+      "message": "Changer la taille"
+   },
+   "page_dial_context_menu_edit_dial": {
+      "message": "Modifier le numéro abrégé"
+   },
+   "page_dial_context_menu_gallery_thumb": {
+      "message": "Vignette de la galerie"
+   },
+   "page_dial_context_menu_open_background_thumb": {
+      "message": "Ouvrir dans l'onglet d'arrière-plan"
+   },
+   "page_dial_context_menu_open_current_thumb": {
+      "message": "Ouvrir dans l'onglet actuel"
+   },
+   "page_dial_context_menu_open_incognito_thumb": {
+      "message": "Ouvrir dans une fenêtre privée"
+   },
+   "page_dial_context_menu_open_new_thumb": {
+      "message": "Ouvrir dans un nouvel onglet"
+   },
+   "page_dial_context_menu_refresh_dial": {
+      "message": "Rafraîchir"
+   },
+   "page_dial_context_menu_screen_thumb": {
+      "message": "Vignette de l'écran"
+   },
+   "page_dial_context_menu_text_thumb": {
+      "message": "Vignette de texte"
+   },
+   "page_dial_thumb_load_gallery_problem": {
+      "message": "Aucune image pour ce site"
+   },
+   "page_dials_default_group_title": {
+      "message": "Par défaut"
+   },
+   "page_dials_new_group_title": {
+      "message": "Ajouter un nouveau groupe"
+   },
+   "page_dials_notification_message": {
+      "message": "\u003Cb>Double-cliquez\u003C/b> pour afficher la numérotation abrégée"
+   },
+   "page_dials_popular_group_title": {
+      "message": "Le plus visité"
+   },
+   "page_done_todo_list_description": {
+      "message": "Bon travail !"
+   },
+   "page_done_todo_list_title": {
+      "message": "Tout est terminé"
+   },
+   "page_empty_todo_list_description": {
+      "message": "Ajoutez une tâche pour commencer"
+   },
+   "page_empty_todo_list_title": {
+      "message": "Rien à faire"
+   },
+   "page_error_flixer_bg_not_found": {
+      "message": "Fond d'écran en mouvement introuvable"
+   },
+   "page_error_live_bg_load_problem": {
+      "message": "Problème de chargement du fond d'écran animé"
+   },
+   "page_error_live_bg_not_found": {
+      "message": "Fond d'écran animé introuvable"
+   },
+   "page_error_static_bg_load_problem": {
+      "message": "Problème de chargement du fond d'écran statique"
+   },
+   "page_error_static_bg_not_found": {
+      "message": "Fond d'écran statique introuvable"
+   },
+   "page_error_theme_config_not_found": {
+      "message": "Configuration de motif introuvable"
+   },
+   "page_footer_description_close": {
+      "message": "Ne plus afficher ce message"
+   },
+   "page_footer_rate_us": {
+      "message": "Évaluez-nous !"
+   },
+   "page_footer_settings_link": {
+      "message": "Paramètres"
+   },
+   "page_footer_themes_link": {
+      "message": "Thèmes"
+   },
+   "page_footer_toggle_display_links_title_hide": {
+      "message": "Masquer le panneau"
+   },
+   "page_footer_toggle_display_links_title_show": {
+      "message": "Afficher le panneau"
+   },
+   "page_footer_visible_dials_link_off": {
+      "message": "Cacher les numéros abrégés"
+   },
+   "page_footer_visible_dials_link_on": {
+      "message": "Afficher les numéros abrégés"
+   },
+   "page_group_context_menu_add_dial": {
+      "message": "Ajouter vignette"
+   },
+   "page_group_context_menu_delete": {
+      "message": "Supprimer le groupe"
+   },
+   "page_group_context_menu_rename": {
+      "message": "Renommer"
+   },
+   "page_header_bookmarks": {
+      "message": "Afficher la barre des signets"
+   },
+   "page_header_bookmarks_help_img": {
+      "message": "en"
+   },
+   "page_header_links_apps": {
+      "message": "Applications"
+   },
+   "page_header_links_apps_img": {
+      "message": "Page d'applications de Chrome"
+   },
+   "page_meta_description": {
+      "message": "Page de démarrage Animée - Mon expérience inspirante de tous les jours"
+   },
+   "page_meta_keywords": {
+      "message": "Application, animée, démarrage, page, navigateur"
+   },
+   "page_meta_title": {
+      "message": "Nouvel onglet"
+   },
+   "page_new_dial_tooltip": {
+      "message": "Ajouter un nouveau numéro abrégé"
+   },
+   "page_privacy_link": {
+      "message": "Politique de confidentialité"
+   },
+   "page_relax_done_btn": {
+      "message": "Terminé (ESC)"
+   },
+   "page_relax_start_btn": {
+      "message": "Commencer la méditation"
+   },
+   "page_relax_start_title": {
+      "message": "Détendez-vous et retrouvez votre attention ! Profitez de photos animées"
+   },
+   "page_search_form_button_text": {
+      "description": "#fixed",
+      "message": "Recherche"
+   },
+   "page_search_placeholder": {
+      "message": "Saisissez votre recherche..."
+   },
+   "page_sidebar_add_group": {
+      "message": "Ajouter un groupe"
+   },
+   "page_sidebar_title": {
+      "message": "Groupes"
+   },
+   "page_sidebar_toggle_button_title_off": {
+      "message": "Masquer la barre latérale"
+   },
+   "page_sidebar_toggle_button_title_on": {
+      "message": "Afficher la barre latérale"
+   },
+   "page_speed_dials_close_title": {
+      "message": "Ne pas afficher cela sur cette page"
+   },
+   "page_speed_dials_search_title": {
+      "message": "Rechercher sur"
+   },
+   "page_speed_dials_settings_title": {
+      "message": "Paramètres"
+   },
+   "page_terms_link": {
+      "message": "Conditions d'utilisation"
+   },
+   "page_tiles_remove_text": {
+      "message": "Vignette retirée"
+   },
+   "page_tiles_restore_text": {
+      "message": "Annuler"
+   },
+   "page_todo_footer_input": {
+      "description": "#fixed",
+      "message": "Nouvelle tâche"
+   },
+   "page_todo_footer_input_submit": {
+      "description": "#fixed",
+      "message": "Ajoutez"
+   },
+   "page_todo_header_counter_text": {
+      "description": "#fixed",
+      "message": "terminé"
+   },
+   "page_todo_header_toggle": {
+      "description": "#fixed",
+      "message": "Tâches terminées"
+   },
+   "page_todo_link": {
+      "message": "Tâches"
+   },
+   "page_voice_search_form_button_text": {
+      "message": "Recherche vocale"
+   },
+   "panel_back": {
+      "message": "\u003C Retour"
+   },
+   "panel_contact_us": {
+      "message": "Contactez-nous"
+   },
+   "panel_group_name": {
+      "message": "Nom du groupe :"
+   },
+   "panel_login": {
+      "message": "Connexion"
+   },
+   "panel_logout": {
+      "message": "Déconnexion"
+   },
+   "panel_new_tab": {
+      "message": "Ouvrir LSP"
+   },
+   "panel_save_all_opened_tabs": {
+      "message": "Sauvegarder tous les onglets ouverts"
+   },
+   "panel_save_current_tab": {
+      "message": "Sauvegarder l'onglet actuel"
+   },
+   "panel_save_done": {
+      "message": "TERMINE !"
+   },
+   "panel_save_some_opened_tabs": {
+      "message": "Sélectionner et sauvegarder les onglets"
+   },
+   "panel_save_tabs": {
+      "message": "Sauvegarder onglets"
+   },
+   "panel_select_theme": {
+      "message": "Sélectionner thème"
+   },
+   "panel_select_unselect": {
+      "message": "Sélectionner / désélectionner tout"
+   },
+   "panel_set_as_new_tab": {
+      "message": "comme nouvel onglet",
+      "message1": "définir comme nouvel onglet"
+   },
+   "panel_settings": {
+      "message": "Paramètres"
+   },
+   "passcode_email_body": {
+      "message": "\u003C!DOCTYPE html>\u003Chtml>\u003Chead>\u003C/head>\u003Cbody>\u003Cp style='font-size:30px;'>Live Start Page !\u003C/p>\u003Cp>Vous pouvez restaurer votre mot de passe en tapant ce code dans le champ mot de passe de la page de démarrage de votre navigateur : \u003Cmark style='padding:2px 4px; border:1px dashed gray'>\u003Cstrong>[code]\u003C/strong>\u003C/mark>\u003C/p>\u003Cp>Ou copiez et collez ce lien dans votre navigateur avec l'extension Live Start Page :\u003C/p>\u003C/td>\u003C/tr>\u003C/table>\u003C/body>\u003C/html>"
+   },
+   "passcode_email_subject": {
+      "message": "Code de restauration de Live Start Page"
+   },
+   "passcode_newtab_forgot": {
+      "message": "Mot de passe oublié ?"
+   },
+   "passcode_newtab_head": {
+      "message": "Entrer le mot de passe pour débloquer l'accès"
+   },
+   "passcode_newtab_question": {
+      "message": "Voulez-vous réinitialiser votre mot de passe avec votre email"
+   },
+   "passcode_newtab_unlock": {
+      "message": "Débloquer"
+   },
+   "passcode_settings_navi": {
+      "message": "Mot de passe"
+   },
+   "passcode_settings_pass_btn_cancel": {
+      "message": "Annuler"
+   },
+   "passcode_settings_pass_btn_change": {
+      "message": "Modifier le mot de passe"
+   },
+   "passcode_settings_pass_btn_changed": {
+      "message": "Modifié"
+   },
+   "passcode_settings_pass_btn_delete": {
+      "message": "Supprimer le mot de passe"
+   },
+   "passcode_settings_pass_btn_deleted": {
+      "message": "Supprimé"
+   },
+   "passcode_settings_pass_btn_done": {
+      "message": "TERMINE !"
+   },
+   "passcode_settings_pass_btn_restore": {
+      "message": "Réinitialiser le mot de passe"
+   },
+   "passcode_settings_pass_btn_set": {
+      "message": "Définir le mot de passe"
+   },
+   "passcode_settings_pass_current": {
+      "message": "Mot de passe actuel"
+   },
+   "passcode_settings_pass_current_wrong": {
+      "message": "Mauvais mot de passe!"
+   },
+   "passcode_settings_pass_doesnt_match": {
+      "message": "Le mot de passe ne correspond pas"
+   },
+   "passcode_settings_pass_email": {
+      "message": "Email de récupération:"
+   },
+   "passcode_settings_pass_email_input": {
+      "message": "Email"
+   },
+   "passcode_settings_pass_have_set": {
+      "message": "Vous avez défini le mot de passe !"
+   },
+   "passcode_settings_pass_new": {
+      "message": "Nouveau mot de passe"
+   },
+   "passcode_settings_pass_please": {
+      "message": "Veuillez remplir"
+   },
+   "passcode_settings_pass_repeat": {
+      "message": "Répéter le mot de passe :"
+   },
+   "passcode_settings_pass_repeat_input": {
+      "message": "Répéter"
+   },
+   "passcode_settings_pass_restore_success": {
+      "message": "Suivre les instructions de l'email."
+   },
+   "passcode_settings_pass_restore_text": {
+      "message": "Si vous avez oublié votre mot de passe, vous pouvez le récupérer avec votre email : "
+   },
+   "passcode_settings_pass_set": {
+      "message": "Définir le mot de passe:"
+   },
+   "passcode_settings_pass_set_input": {
+      "message": "Mot de passe"
+   },
+   "passcode_settings_pass_wrong_email": {
+      "message": "Veuillez remplir un email valide "
+   },
+   "passcode_settings_promo_btn": {
+      "message": "Activer la protection"
+   },
+   "passcode_settings_tab_basic_h": {
+      "message": "Mot de passe"
+   },
+   "passcode_settings_tab_change_h": {
+      "message": "Changer"
+   },
+   "passcode_settings_tab_restore_h": {
+      "message": "Restaurer"
+   },
+   "passcode_settings_title": {
+      "message": "Protéger avec un mot de passe"
+   },
+   "passcode_successfully_cleared": {
+      "message": "Mot de passe supprimé avec succès grâce au code de réinitialisation"
+   },
+   "photo_gallery_search_button": {
+      "message": "Rechercher"
+   },
+   "photo_gallery_search_placeholder": {
+      "message": "Tapez les tags à rechercher"
+   },
+   "photo_gallery_tab": {
+      "message": "Hébergement de photos"
+   },
+   "pick_url_from": {
+      "message": "Choisir une adresse de"
+   },
+   "pick_url_opened": {
+      "message": "Onglets ouverts"
+   },
+   "pick_url_popular": {
+      "message": "Le plus populaire"
+   },
+   "pick_url_visited": {
+      "message": "Le plus visité"
+   },
+   "popup_add_user_flixel_body_code": {
+      "message": "Utiliser un code promotionnel \u003Cspan class='popup-add-user-flixel-body-app-name'>DémarrageAnimé\u003C/span> pour obtenir \u003Cspan class ='​​popup-add-user-flixel-body-app-discount>10 %\u003C/span> de réduction !"
+   },
+   "popup_add_user_flixel_body_link_how_create": {
+      "message": "Comment créer une Vidéo Cinémagraphe"
+   },
+   "popup_add_user_flixel_body_link_how_create_fb": {
+      "message": "Comment créer des Profils Vidéo Cinémagraphes pour Facebook"
+   },
+   "popup_add_user_flixel_body_links_text": {
+      "message": "Liens rapides :"
+   },
+   "popup_add_user_flixel_body_text": {
+      "message": "Les cinémagraphes sont des nouveaux supports visuels passionnants entre la photographie et vidéographie. Flixel Cinemagraph Pro est la manière la plus simple du monde de les créer."
+   },
+   "popup_add_user_flixel_link_cloud": {
+      "message": "Cloud Flixel"
+   },
+   "popup_add_user_flixel_link_iphone": {
+      "message": "Flixel pour iPhone"
+   },
+   "popup_add_user_flixel_link_mac": {
+      "message": "Flixel pour Mac"
+   },
+   "popup_add_user_flixel_title": {
+      "message": "Créez vos propres Photos Animées avec Flixel"
+   },
+   "popup_feedback_dialog_button_submit": {
+      "message": "ENVOYER E-MAIL"
+   },
+   "popup_feedback_dialog_field_error_format_email_text": {
+      "message": "Format d'e-mail invalide"
+   },
+   "popup_feedback_dialog_field_error_required_email_text": {
+      "message": "L'e-mail est obligatoire"
+   },
+   "popup_feedback_dialog_field_error_required_subject_text": {
+      "message": "L'objet est obligatoire"
+   },
+   "popup_feedback_dialog_field_error_too_low_subject_text": {
+      "message": "L'objet est trop court. Il doit comporter au minimum 6 caractères."
+   },
+   "popup_feedback_dialog_field_required_text": {
+      "message": "(Champs obligatoires)"
+   },
+   "popup_feedback_dialog_label_description": {
+      "message": "Description"
+   },
+   "popup_feedback_dialog_label_email": {
+      "message": "Votre e-mail"
+   },
+   "popup_feedback_dialog_label_subject": {
+      "message": "Objet"
+   },
+   "popup_feedback_dialog_success_button_text": {
+      "message": "FERMER"
+   },
+   "popup_feedback_dialog_success_text": {
+      "message": "Merci pour vos commentaires !"
+   },
+   "popup_feedback_dialog_title": {
+      "message": "Faites-nous part des bogues ou de vos suggestions"
+   },
+   "popup_live_bg_apply": {
+      "description": "#fixed",
+      "message": "ACTIVER"
+   },
+   "popup_live_bg_cancel": {
+      "description": "#fixed",
+      "message": "NE PAS MONTRER"
+   },
+   "popup_live_bg_text": {
+      "description": "#fixed",
+      "message": "Télécharger un fond d'écran animé..."
+   },
+   "popup_live_bg_title": {
+      "description": "#fixed",
+      "message": "TÉLÉCHARGER UN FOND D'ÉCRAN ANIMÉ"
+   },
+   "popup_restore_default_theme_open_settings": {
+      "message": "Ouvrir les paramètres de Chrome ou cliquez sur ce lien"
+   },
+   "popup_restore_default_theme_open_settings_text2": {
+      "message": "et appuyez sur le bouton « Restaurer le motif par défaut »."
+   },
+   "popup_restore_default_theme_title": {
+      "message": " Restaurer le thème Chrome par défaut"
+   },
+   "popup_static_bg_updating": {
+      "description": "#fixed",
+      "message": "Mise à jour du fond d'écran..."
+   },
+   "popup_welcome_options_body_text1": {
+      "message": "Apparemment,  vous ne possédez pas encore de fond d'écran animé. Sélectionnez-en un parmi les centaines disponibles !"
+   },
+   "popup_welcome_options_body_text2": {
+      "message": "N'hésitez pas à nous contacter lorsque vous le souhaitez en utilisant le bouton pour les commentaires"
+   },
+   "popup_welcome_options_not_show": {
+      "message": "Ne plus afficher ce message"
+   },
+   "popup_welcome_options_title": {
+      "message": "Bienvenue sur la Page de Démarrage Animée"
+   },
+   "preload_modal_break": {
+      "message": "Annuler le téléchargement"
+   },
+   "preload_modal_button": {
+      "message": "Fermer et télécharger en arrière plan"
+   },
+   "preload_modal_done": {
+      "message": "TERMINE !"
+   },
+   "preload_modal_note": {
+      "message": "Note : Vous pouvez télécharger des centaines d'autres fonds d'écran de notre galerie !"
+   },
+   "preload_modal_status": {
+      "message": "Nous téléchargeons votre fond d'écran. Veuillez patienter..."
+   },
+   "preload_modal_text": {
+      "message": "Bienvenue dans LiveStartPage"
+   },
+   "preload_modal_title": {
+      "message": "Commencer"
+   },
+   "preview_back": {
+      "message": "\u003C Retour"
+   },
+   "preview_best": {
+      "message": "Populaire"
+   },
+   "preview_local_image": {
+      "message": "Image locale"
+   },
+   "preview_maxsize_text": {
+      "message": "La taille maximale d'une image est de 512KB"
+   },
+   "preview_maxsize_title": {
+      "message": "Remarque"
+   },
+   "preview_mode_auto": {
+      "message": "Auto"
+   },
+   "preview_mode_custom": {
+      "message": "Image personnalisée"
+   },
+   "preview_mode_text": {
+      "message": "Texte vignette"
+   },
+   "preview_mode_title": {
+      "message": "Prévisualisation vignette"
+   },
+   "preview_new": {
+      "message": "Plus récent"
+   },
+   "preview_no_image": {
+      "message": "Pas d'images pour ce domaine"
+   },
+   "preview_order": {
+      "message": "Ordre"
+   },
+   "preview_show_more": {
+      "message": "En montrer plus"
+   },
+   "preview_url_image": {
+      "message": "URL"
+   },
+   "preview_violation_button": {
+      "message": "Inapproprié"
+   },
+   "preview_violation_status": {
+      "message": "Merci !"
+   },
+   "preview_violation_title": {
+      "message": "Signaler une image"
+   },
+   "queue_over_dialog_ok": {
+      "message": "Fermer"
+   },
+   "queue_over_dialog_text": {
+      "message": "# Les thèmes sont en cours de téléchargement. Veuillez patienter."
+   },
+   "read_faq": {
+      "message": "Lire la FAQ"
+   },
+   "register_error": {
+      "message": "Erreur d'inscription !"
+   },
+   "register_success": {
+      "message": "Vous vous êtes enregistré avec succès"
+   },
+   "relax_auto_shuffle": {
+      "message": "Aléatoire"
+   },
+   "relax_auto_shuffle_video": {
+      "message": "Vidéo aléatoire"
+   },
+   "relax_exit_and_keep_playing": {
+      "message": "Quitter et continuer la lecture"
+   },
+   "relax_sounds": {
+      "message": "Sons"
+   },
+   "relax_space_bar_hint": {
+      "message": "Appuyez sur la touche espace pour mettre en pause ou lire"
+   },
+   "rename_group_dialog_title": {
+      "message": "Renommer le groupe"
+   },
+   "restore_email": {
+      "message": "Adresse e-mail de l'identifiant"
+   },
+   "restore_error": {
+      "message": "Erreur de récupération du mot de passe !"
+   },
+   "restore_success": {
+      "message": "Les instructions de récupération du mot de passe ont été envoyées sur votre adresse e-mail"
+   },
+   "search_no_themes_found": {
+      "message": "Pas de thèmes trouvés"
+   },
+   "search_settings_button": {
+      "message": "Configurer les options de recherche"
+   },
+   "search_themes_found": {
+      "message": "[N] thèmes trouvés"
+   },
+   "selected_txt": {
+      "message": "(Sélectionné)"
+   },
+   "server_code_24": {
+      "message": "L'utilisateur existe déjà"
+   },
+   "server_code_4": {
+      "message": "Ce compte existe déjà. Essayez la page de connexion."
+   },
+   "server_code_6": {
+      "message": "Mot de passe invalide"
+   },
+   "server_code_7": {
+      "message": "L'utilisateur n'existe pas"
+   },
+   "server_code_9": {
+      "message": "Erreur du serveur"
+   },
+   "settings_block_main_header": {
+      "message": "Paramètres généraux"
+   },
+   "settings_search_engine_label": {
+      "message": "Afficher l'étiquette du moteur de recherche"
+   },
+   "settings_show_lsp_as_new_tab": {
+      "message": "Afficher LiveStartPage dans un nouvel onglet"
+   },
+   "slash": {
+      "message": "slash (/)"
+   },
+   "small": {
+      "message": "Petite"
+   },
+   "social_group_fb": {
+      "message": "Facebook"
+   },
+   "social_group_ok": {
+      "message": "Groupe OK"
+   },
+   "social_group_twitter": {
+      "message": "Twitter"
+   },
+   "social_group_vk": {
+      "message": "Groupe VK"
+   },
+   "social_share_fb": {
+      "message": "Partager sur Facebook"
+   },
+   "social_share_ok": {
+      "message": "Partager sur Odnoklassniki"
+   },
+   "social_share_twitter": {
+      "message": "Partager sur Twitter"
+   },
+   "social_share_vk": {
+      "message": "Partager sur Vkontakte"
+   },
+   "space": {
+      "message": "espace"
+   },
+   "subscribe_disable": {
+      "message": "Ne plus montrer"
+   },
+   "subscribe_follow": {
+      "message": "Suivre"
+   },
+   "subscribe_text": {
+      "message": "Veuillez nous liker et souscrire pour recevoir les dernières nouveautés et mises à jour de nos super fonctionnalités !"
+   },
+   "subscribe_title": {
+      "message": "Souscrire"
+   },
+   "sync_button_footer": {
+      "message": "Synchroniser vos données"
+   },
+   "sync_decide_btn_client": {
+      "message": "Envoyer"
+   },
+   "sync_decide_btn_client_hint": {
+      "message": "Utiliser les données de l'ordinateur (Note : Les données du serveur seront écrasées)"
+   },
+   "sync_decide_btn_merge": {
+      "message": "Fusionner"
+   },
+   "sync_decide_btn_merge_hint": {
+      "message": "Les données du serveur et de l'ordinateur seront fusionnées (Note : le serveur a une plus haute priorité)"
+   },
+   "sync_decide_btn_recomended": {
+      "message": "(Recommandé)"
+   },
+   "sync_decide_btn_server": {
+      "message": "Télécharger"
+   },
+   "sync_decide_btn_server_hint": {
+      "message": "Utiliser les données du serveur (Note : Les données de l'ordinateur seront écrasées)"
+   },
+   "sync_decide_clean": {
+      "message": "Avant de commencer la synchronisation,"
+   },
+   "sync_decide_confirm_cancel": {
+      "message": "Annuler"
+   },
+   "sync_decide_confirm_client": {
+      "message": "Les données du serveur LiveStartPage seront écrasées avec les données du navigateur"
+   },
+   "sync_decide_confirm_merge": {
+      "message": "Les données du serveur LiveStartPage seront fusionnées avec les données du navigateur"
+   },
+   "sync_decide_confirm_server": {
+      "message": "Les données de ce navigateur seront écrasées avec les données du serveur"
+   },
+   "sync_decide_confirm_start": {
+      "message": "Commencer la synchronisation"
+   },
+   "sync_decide_confirm_title": {
+      "message": "Veuillez confirmer votre choix !"
+   },
+   "sync_decide_data": {
+      "message": "Il semble que vous avez été connecté sur un compte différent"
+   },
+   "sync_decide_footer_text": {
+      "message": "Les données contiennent vos options, tâches, vignettes, etc..."
+   },
+   "sync_decide_title": {
+      "message": "Options de synchronisation"
+   },
+   "sync_decide_variant": {
+      "message": "Veuillez sélectionner l'une des actions suivantes :"
+   },
+   "sync_link_text": {
+      "message": "Synchroniser"
+   },
+   "sync_login_button": {
+      "message": "Connexion"
+   },
+   "sync_login_email": {
+      "message": "Votre adresse e-mail"
+   },
+   "sync_login_login": {
+      "message": "Se connecter à un compte existant"
+   },
+   "sync_login_pass": {
+      "message": "Votre mot de passe"
+   },
+   "sync_login_register": {
+      "message": "Enregistrer un nouveau compte"
+   },
+   "sync_login_restore": {
+      "message": "Réinitialiser le mot de passe"
+   },
+   "sync_manual": {
+      "message": "Synchronisation manuelle"
+   },
+   "sync_modal_close": {
+      "message": "Fermer"
+   },
+   "sync_reg_email": {
+      "message": "Adresse e-mail"
+   },
+   "sync_reg_pass": {
+      "message": "Mot de passe"
+   },
+   "sync_reg_subscribe": {
+      "message": "Souscrire aux mises à jour du service"
+   },
+   "sync_reg_terms": {
+      "message": "Conditions d'utilisation"
+   },
+   "sync_reg_txt": {
+      "message": "En cliquant sur Inscription, vous acceptez nos"
+   },
+   "sync_register_button": {
+      "message": "Inscription"
+   },
+   "sync_restore_button": {
+      "message": "Récupérer le mot de passe"
+   },
+   "sync_status_err": {
+      "message": "Synchronisation échouée"
+   },
+   "sync_status_ok": {
+      "message": "Synchronisation terminée"
+   },
+   "terms_of_service": {
+      "message": "Conditions d'utilisation"
+   },
+   "themes_search_button_text": {
+      "message": "Rechercher"
+   },
+   "themes_search_text": {
+      "message": "Entrer le titre du thème..."
+   },
+   "time_min": {
+      "message": "Min"
+   },
+   "time_sec": {
+      "message": "Sec"
+   },
+   "tour_start_back": {
+      "message": "Précédant"
+   },
+   "tour_start_button": {
+      "message": "Okay, j'ai compris !"
+   },
+   "tour_start_close": {
+      "message": "Fermer"
+   },
+   "tour_start_head": {
+      "message": "Astuces rapides"
+   },
+   "tour_start_next": {
+      "message": "Suivant"
+   },
+   "tour_start_relax": {
+      "message": "Utilisez ce bouton pour accéder au mode méditation"
+   },
+   "tour_start_tip_dials": {
+      "message": "Montrer/Cacher les vignettes de favoris"
+   },
+   "tour_start_tip_group_click": {
+      "message": "Cliquez pour afficher/cacher ce panneau"
+   },
+   "tour_start_tip_group_organize": {
+      "message": "Organiser les vignettes de favoris (Accès rapide) dans les groupes"
+   },
+   "tour_start_tip_settings": {
+      "message": "Cliquez pour accéder aux paramètres ou installer un nouveau thème"
+   },
+   "tour_start_tip_tasks": {
+      "message": "Montrer/caches les tâches"
+   },
+   "tree_also_available": {
+      "message": "LSP aussi disponible"
+   },
+   "tree_backgrounds": {
+      "message": "Fonds d'écran"
+   },
+   "tree_bg_active": {
+      "message": "Fond d'écran actif"
+   },
+   "tree_bg_downloaded": {
+      "message": "Téléchargés"
+   },
+   "tree_bg_favorites": {
+      "message": "Favoris"
+   },
+   "tree_bg_live": {
+      "message": "Fonds d'écran animés"
+   },
+   "tree_bg_static": {
+      "message": "Fonds d'écran statiques"
+   },
+   "tree_bg_themes": {
+      "message": "Thèmes animés"
+   },
+   "tree_faq": {
+      "message": "FAQ Commentaires"
+   },
+   "tree_follow_us": {
+      "message": "Nous suivre"
+   },
+   "tree_for_chrome": {
+      "message": "LSP pour Chrome"
+   },
+   "tree_for_firefox": {
+      "message": "LSP pour Firefox"
+   },
+   "tree_for_opera": {
+      "message": "LSP pour Opera"
+   },
+   "tree_greeting": {
+      "message": "N'oubliez pas, vous êtes incroyable !"
+   },
+   "tree_settings": {
+      "message": "Options"
+   },
+   "tree_tell": {
+      "message": "Partager à vos amis"
+   },
+   "upload_image_dialog_apply": {
+      "message": "Appliquer"
+   },
+   "upload_image_dialog_choise": {
+      "message": "Sélectionner fichier"
+   },
+   "upload_image_dialog_close": {
+      "message": "Annuler"
+   },
+   "upload_image_dialog_error_file": {
+      "message": "Veuillez sélectionner un fichier local ou entrer une URL !"
+   },
+   "upload_image_dialog_error_title": {
+      "message": "Veuillez remplir le titre du thème !"
+   },
+   "upload_image_dialog_error_url": {
+      "message": "Veuillez entrer l'URL correcte d'une image"
+   },
+   "upload_image_dialog_or": {
+      "message": "OU"
+   },
+   "upload_image_dialog_placeholder": {
+      "message": "Titre de votre image"
+   },
+   "upload_image_dialog_title": {
+      "message": "Charger votre image"
+   },
+   "upload_image_name": {
+      "message": "Titre"
+   },
+   "upload_image_progress_text": {
+      "message": "Chargement..."
+   },
+   "upload_image_url": {
+      "message": "URL"
+   },
+   "vals_randomize_both": {
+      "message": "Fonds d'écran animés et statiques"
+   },
+   "vals_randomize_disabled": {
+      "message": "Désactivé"
+   },
+   "vals_randomize_images": {
+      "message": "Fonds d'écran statiques"
+   },
+   "vals_randomize_video": {
+      "message": "Fonds d'écran animés"
+   },
+   "vk_our_group": {
+      "message": "Groupe VK"
+   },
+   "volume": {
+      "message": "Volume"
+   },
+   "weather": {
+      "message": "Météo"
+   },
+   "weather_advanced": {
+      "message": "Avancé"
+   },
+   "weather_cant_load": {
+      "message": "Impossible de mettre à jour les données météo. Veuillez essayer plus tard."
+   },
+   "weather_close": {
+      "message": "Précisions proches"
+   },
+   "weather_forecast_cooming_soon": {
+      "message": "Bientôt - Prévisions météo détaillées"
+   },
+   "weather_humidity": {
+      "message": "Humidité"
+   },
+   "weather_km_h": {
+      "message": "km/h"
+   },
+   "weather_kmh": {
+      "message": "km/h"
+   },
+   "weather_loading": {
+      "message": "Chargement"
+   },
+   "weather_max": {
+      "message": "Max"
+   },
+   "weather_min": {
+      "message": "Min"
+   },
+   "weather_mp_h": {
+      "message": "mph"
+   },
+   "weather_mph": {
+      "message": "mph"
+   },
+   "weather_not_found": {
+      "message": "Impossible de trouver"
+   },
+   "weather_pp": {
+      "message": "Probabilité de précipitation"
+   },
+   "weather_pp_mini": {
+      "message": "Précip"
+   },
+   "weather_pp_short": {
+      "message": "Précipitation"
+   },
+   "weather_precipitation_probability": {
+      "message": "Probabilité de précipitation"
+   },
+   "weather_settings": {
+      "message": "Options météo"
+   },
+   "weather_sun": {
+      "message": "Soleil"
+   },
+   "weather_sunrise": {
+      "message": "Lever de soleil"
+   },
+   "weather_sunset": {
+      "message": "Coucher de soleil"
+   },
+   "weather_temperature": {
+      "message": "Température"
+   },
+   "weather_wind": {
+      "message": "Vent"
+   },
+   "week_0": {
+      "message": "Dimanche"
+   },
+   "week_1": {
+      "message": "Lundi"
+   },
+   "week_2": {
+      "message": "Mardi"
+   },
+   "week_3": {
+      "message": "Mercredi"
+   },
+   "week_4": {
+      "message": "Jeudi"
+   },
+   "week_5": {
+      "message": "Vendredi"
+   },
+   "week_6": {
+      "message": "Samedi"
+   },
+   "week_7": {
+      "message": "Dimanche"
+   },
+   "week_today": {
+      "message": "Aujourd'hui"
+   },
+   "welcome_clock": {
+      "message": "Horloge personnalisée"
+   },
+   "welcome_enable_speed_dial": {
+      "message": "Activer l'accès rapide"
+   },
+   "welcome_focus": {
+      "message": "Sujet du jour"
+   },
+   "welcome_options_close": {
+      "message": "Fermer"
+   },
+   "welcome_skip": {
+      "message": "Passer la visite"
+   },
+   "welcome_slide_1_1": {
+      "message": "Bienvenue dans"
+   },
+   "welcome_slide_1_2": {
+      "message": "Un endroit où vous devenez productif, méditez pour retrouver votre concentration, ou profitez simplement des fonds d'écran"
+   },
+   "welcome_slide_2_1": {
+      "message": "Méditez pour vous relaxer et récupérer votre concentration"
+   },
+   "welcome_slide_2_2": {
+      "message": "Sessions de méditation professionnelles"
+   },
+   "welcome_slide_2_3": {
+      "message": "Sons de la nature (ambiance)"
+   },
+   "welcome_slide_2_4": {
+      "message": "Musique spéciale de méditation"
+   },
+   "welcome_slide_2_5": {
+      "message": "Musique inspirante"
+   },
+   "welcome_slide_2_6": {
+      "message": "Fonds d'écran animés"
+   },
+   "welcome_slide_2_7": {
+      "message": "et bien plus..."
+   },
+   "welcome_slide_3_1": {
+      "message": "Vignettes de favoris"
+   },
+   "welcome_slide_3_2": {
+      "message": "Accédez rapidement à vos sites favoris avec l'accès rapide."
+   },
+   "welcome_slide_3_3": {
+      "message": "Rangez-les dans de magnifiques vignettes et groupes."
+   },
+   "welcome_slide_3_hint_1": {
+      "message": "Widget avec favoris visuels (vos sites préférés et les plus visités)."
+   },
+   "welcome_slide_3_hint_2": {
+      "message": "Vous pouvez ranger les sites par catégories comme recettes, cinéma, santé, etc. Chaque site est une vignette séparée contenant le nom du site, un lien et une image de prévisualisation spéciale qui vous aidera à trouver le site dont vous avez besoin parmi les autres."
+   },
+   "welcome_slide_3_hint_3": {
+      "message": "Vous pouvez aussi ajouter votre propre fond à ces sites ou sélectionner un joli thème parmi ceux qui sont disponibles."
+   },
+   "welcome_slide_4_1": {
+      "message": "Des extra pour être productif et concentré"
+   },
+   "welcome_slide_4_1_0": {
+      "message": "...et quelques extra pour être productif et concentré"
+   },
+   "welcome_slide_4_1_1": {
+      "message": "Veuillez noter que vous pouvez configurer ces options plus tard dans les paramètres de LiveStartPage"
+   },
+   "welcome_slide_5_1_1": {
+      "message": "Des centaines de fonds d'écran animés et statiques pour vous !"
+   },
+   "welcome_slide_clock_hint_1": {
+      "message": "HORLOGES"
+   },
+   "welcome_slide_clock_hint_2": {
+      "message": "Choisissez parmi une grande variété d'horloges digitales. Choisissez une couleur, un style, le format, etc."
+   },
+   "welcome_slide_focus_hint_1": {
+      "message": "Priorité du jour"
+   },
+   "welcome_slide_focus_hint_2": {
+      "message": "Désignez vos priorités du jour ! Concentrez-vous sur les plus grosses priorités de la journée."
+   },
+   "welcome_slide_relax_hint_1": {
+      "message": "MODE MEDITATION"
+   },
+   "welcome_slide_relax_hint_2": {
+      "message": "Le mode méditation vous permettra d'oublier tout ce qui se trouve autour de vous et de vous relaxer vraiment. Laissez votre esprit se balader. Relaxez-vous et récupérez votre pouvoir de concentration."
+   },
+   "welcome_slide_todo_hint_1": {
+      "message": "LISTE DE TACHES"
+   },
+   "welcome_slide_todo_hint_2": {
+      "message": "Avec notre liste de tâches, vous ne manquerez pas le moindre évènement. Gardez toujours l'avantage !"
+   },
+   "welcome_slide_weather_hint_1": {
+      "message": "METEO"
+   },
+   "welcome_slide_weather_hint_2": {
+      "message": "Prévisions météo pour votre ville et n'importe quel endroit du globe. Recherche automatique de votre localisation, températures en Celsius et Fahrenheit."
+   },
+   "welcome_start": {
+      "message": "Commencer !"
+   },
+   "welcome_todo": {
+      "message": "Liste de tâches"
+   },
+   "welcome_weather": {
+      "message": "Prévisions météo sur 5 jours"
+   }
+}

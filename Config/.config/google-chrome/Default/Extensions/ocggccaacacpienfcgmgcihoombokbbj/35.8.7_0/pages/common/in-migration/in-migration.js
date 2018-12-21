@@ -1,0 +1,15 @@
+$(function(){
+    $("body")
+        .html("")
+        .append(
+            $("<h1>")
+                .addClass('in-migration-header-1')
+                .text(chrome.i18n.getMessage("in_migration_header_1"))
+        )
+        .append(
+            $("<h2>")
+                .addClass('in-migration-header-2')
+                .text(chrome.i18n.getMessage("in_migration_header_2"))
+        )
+    ;
+});

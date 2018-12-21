@@ -1,0 +1,29 @@
+[ConfigDialog]
+Height 768=252
+Width 1366=385
+
+[DownloadDialog Settings]
+Height 768=512
+Width 1366=700
+
+[KFileDialog Settings]
+Recent Files[$e]=README.md,file:$HOME/dotfiles/wallpaper.png,file:$HOME/dotfiles/README.md
+Recent URLs[$e]=file:$HOME/dotfiles/
+
+[MainWindow]
+Height 1080=700
+Height 768=664
+MenuBar=Disabled
+State=AAAA/wAAAAD9AAAAAAAABVYAAALFAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+ToolBarsMovable=Disabled
+Width 1366=1022
+Width 1920=1024
+Window-Maximized 720x1280=true
+Window-Maximized 768x1366=true
+
+[Open-with settings]
+CompletionMode=1
+History=ala
+
+[PlasmaRunnerManager]
+LaunchCounts=

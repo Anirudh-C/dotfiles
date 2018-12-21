@@ -1,0 +1,188 @@
+body[meditation] #footer-main {
+  display: none;
+}
+body[float-menu=open] #footer-main #footer-top {
+  z-index: 1!important;
+  opacity: 0!important;
+  transition: 0.3s;
+}
+#footer-main {
+  display: block;
+  position: fixed;
+  bottom: 20px;
+  left: 0;
+  right: 0;
+  margin: 0;
+  z-index: 999999999;
+  /*Task #1973*/
+  opacity: 0;
+}
+#footer-main.active {
+  transition: opacity 2s;
+  opacity: 1;
+  transition-delay: 0.70s;
+}
+#footer-main #footer-menu {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+  color: white;
+  padding: 9px 12px 7px 12px;
+  border-radius: 19px;
+  opacity: 1;
+  transition: opacity 0.6s;
+  position: relative;
+}
+#footer-main #footer-menu li {
+  margin: 0;
+  padding: 0;
+}
+#footer-main #footer-menu:before,
+#footer-main #footer-menu:after {
+  content: "";
+  position: absolute;
+  display: block;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  border-radius: 19px;
+  transition: opacity 0.9s;
+}
+#footer-main #footer-menu:before {
+  z-index: -2;
+  opacity: 0;
+  background: linear-gradient(to right, #a058f4, #4c84ff);
+}
+#footer-main #footer-menu:after {
+  z-index: -1;
+  opacity: 1;
+  background-color: rgba(0, 0, 0, 0.99);
+}
+#footer-main #footer-menu:hover {
+  opacity: 1!important;
+}
+#footer-main #footer-menu:hover:after {
+  opacity: 0;
+}
+#footer-main #footer-menu:hover:before {
+  opacity: 1;
+}
+#footer-main #footer-menu:hover li.ficon {
+  opacity: 0.9;
+}
+#footer-main #footer-menu li {
+  display: inline-block;
+  cursor: pointer;
+  margin: 0 12px;
+  width: 24px;
+  height: 24px;
+  line-height: 24px;
+}
+#footer-main #footer-menu li.ficon {
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  opacity: 1;
+  transition: 0.15s;
+  position: relative;
+}
+#footer-main #footer-menu li.ficon:hover {
+  opacity: 1;
+}
+#footer-main #footer-menu li.ficon-dials {
+  background-image: url(/img/v3/ic_tabs.svg);
+}
+#footer-main #footer-menu li.ficon-todo {
+  background-image: url(/img/v3/ic_todo.svg);
+}
+#footer-main #footer-menu li.ficon-meditation {
+  width: 26px;
+  height: 26px;
+  margin: -1px 10px;
+  background-image: url(/img/v3/ic_meditation.svg);
+}
+#footer-main #footer-menu li.ficon-settings {
+  background-image: url(/img/v3/ic_settings.svg);
+}
+#footer-main #footer-menu li.ficon-sync:before {
+  content: "";
+  position: absolute;
+  display: block;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-image: url(/img/v3/ic_sync.svg);
+}
+#footer-main #footer-menu li .float-menu-list li {
+  display: block;
+  width: auto;
+  height: auto;
+  line-height: normal;
+  margin: 0;
+  padding: 10px 10px;
+}
+#footer-main #footer-menu li .float-menu-list li.none {
+  display: none;
+}
+#footer-main #footer-left {
+  position: absolute;
+  display: block;
+  left: 20px;
+  bottom: 0;
+}
+#footer-main #footer-top {
+  padding-bottom: 20px;
+}
+#footer-main .fbutton {
+  background-color: rgba(0, 0, 0, 0.4);
+  transition: 0.3s;
+  opacity: 1;
+  color: white;
+  font-size: 14px;
+  cursor: pointer;
+  border-radius: 19px;
+  padding: 11px 18px;
+  display: none;
+}
+#footer-main .fbutton:hover {
+  background-color: rgba(0, 0, 0, 0.75);
+  opacity: 1;
+}
+#footer-main .fbutton.active {
+  display: inline-block;
+}
+#footer-main .fbutton.fbutton-rate {
+  padding-left: 38px;
+  background-image: url(/pages/newtab/css/img/buttons/rate/star.png);
+  background-position: 14px 11px;
+  background-repeat: no-repeat;
+}
+.ul-clean {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.ul-clean li {
+  margin: 0;
+  padding: 0;
+}
+.mark {
+  outline: 1px dashed yellow;
+}
+.beforeafter {
+  content: "";
+  position: absolute;
+  display: block;
+}
+.fullsize {
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+}

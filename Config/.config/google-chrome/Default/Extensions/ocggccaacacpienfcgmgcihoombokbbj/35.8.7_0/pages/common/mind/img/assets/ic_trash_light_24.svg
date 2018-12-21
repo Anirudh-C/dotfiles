@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_trash_light_24</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_trash_light_24">
+            <rect id="Rectangle-20" x="0" y="0" width="24" height="24"></rect>
+            <path d="M7.12622851,4 L16.9207834,4 C18.0253529,4 18.9207834,4.8954305 18.9207834,6 C18.9198164,6.07616166 18.9198164,6.07616166 18.9149856,6.15217611 L17.9202369,19.1879287 C17.8406836,20.2304398 16.9715766,21.0357526 15.9260347,21.0357526 L8.67949862,21.0357526 C7.66646066,21.0357526 6.81340729,20.2783101 6.69354702,19.2723879 L5.14027691,6.2366353 C5.00958685,5.13982452 5.79278243,4.14473847 6.88959321,4.01404841 C6.9681245,4.00469104 7.04714169,4 7.12622851,4 Z" id="Rectangle-3" stroke="#FFFFFF" stroke-width="2"></path>
+            <path d="M12,9 L12,15" id="Line-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M15.5,9 L15,15" id="Line-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M8.5,9 L9,15" id="Line-2" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+            <path d="M4,4 L20,4" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+            <circle id="Combined-Shape" fill="#FFFFFF" cx="12.0016571" cy="3.00165714" r="2.00165714"></circle>
+        </g>
+    </g>
+</svg>

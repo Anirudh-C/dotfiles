@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="44px" height="44px" viewBox="0 0 44 44" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>ic_campfire_dark</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="ic_campfire_dark">
+            <g>
+                <g id="icon" opacity="0.295006793">
+                    <g id="Group">
+                        <rect id="Rectangle" x="0" y="0" width="44" height="44"></rect>
+                    </g>
+                </g>
+                <rect id="Rectangle-3" fill="#3C3C3C" transform="translate(22.500000, 34.000000) rotate(-12.000000) translate(-22.500000, -34.000000) " x="8" y="33" width="29" height="2" rx="1"></rect>
+                <rect id="Rectangle-3" fill="#3C3C3C" transform="translate(22.500000, 34.000000) scale(-1, 1) rotate(-12.000000) translate(-22.500000, -34.000000) " x="8" y="33" width="29" height="2" rx="1"></rect>
+                <path d="M22.3382606,31 C28.1943332,31 33.2614902,27.9654791 31.7204529,21.3961259 C30.6930947,17.0165571 27.5656973,12.2178485 22.3382606,7 C16.8483574,12.1428264 13.7809189,16.941535 13.1359451,21.3961259 C12.1684843,28.0780122 16.482188,31 22.3382606,31 Z" id="Oval-2" stroke="#3C3C3C" stroke-width="2"></path>
+                <path d="M22.4404118,30 C24.5979122,30 26.4647596,28.8620547 25.897009,26.3985472 C25.5185086,24.7562089 24.3663095,22.9566932 22.4404118,21 C20.4178159,22.9285599 19.287707,24.7280756 19.050085,26.3985472 C18.6936521,28.9042546 20.2829114,30 22.4404118,30 Z" id="Oval-2" stroke="#3C3C3C" stroke-width="2"></path>
+            </g>
+        </g>
+    </g>
+</svg>

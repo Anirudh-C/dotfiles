@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="56px" height="56px" viewBox="0 0 56 56" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>sound 50</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="sound-50">
+            <g id="Group-2" stroke-linecap="round" stroke-width="2">
+                <path d="M7.39583691,36.009764 C8.46754938,33.5586436 9.06211865,30.851228 9.06211865,28.0049434 C9.06211865,25.925924 8.74489698,23.9209958 8.15621565,22.0359207 C7.94681157,21.365367 7.7030584,20.7099789 7.42701593,20.0718161" id="Oval" stroke-opacity="0.12" stroke="#FFFFFF" transform="translate(8.228978, 28.040790) scale(-1, 1) translate(-8.228978, -28.040790) "></path>
+                <path d="M25.0746564,33.0446432 C25.6724198,31.4874572 26,29.7963638 26,28.02876 C26,26.2562828 25.670611,24.5607385 25.0697059,23" id="Oval" stroke="#4588FF" transform="translate(19.000000, 32.514380) scale(-1, 1) translate(-19.000000, -32.514380) "></path>
+            </g>
+            <g id="ic_sound_light_24" transform="translate(16.000000, 16.000000)">
+                <g>
+                    <rect id="Rectangle-20" x="0" y="0" width="24" height="24"></rect>
+                    <ellipse id="Oval" stroke="#FFFFFF" stroke-width="2" cx="6" cy="19" rx="4" ry="3"></ellipse>
+                    <path d="M10,18.5 L10,6" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M10,6 L22,2" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M10,10 L22,6" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+                    <path d="M22,14.5 L22,2" id="Line" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round"></path>
+                    <ellipse id="Oval" stroke="#FFFFFF" stroke-width="2" cx="18" cy="15" rx="4" ry="3"></ellipse>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,2818 @@
+{
+   "add_new_dial_dialog_apply": {
+      "message": "Tallenna"
+   },
+   "add_new_dial_dialog_close": {
+      "message": "Peruuta"
+   },
+   "add_new_dial_dialog_group_name_require": {
+      "message": "Ryhmän nimi vaaditaan"
+   },
+   "add_new_dial_dialog_name_require": {
+      "message": "Nimi vaaditaan"
+   },
+   "add_new_dial_dialog_preview_title": {
+      "message": "Valitse kuva"
+   },
+   "add_new_dial_dialog_title": {
+      "message": "Lisää uusi pikavalinta"
+   },
+   "add_new_dial_dialog_url_require": {
+      "message": "Url vaaditaan"
+   },
+   "add_new_dial_field_group": {
+      "message": "Ryhmä"
+   },
+   "add_new_dial_field_groupName": {
+      "message": "Nimi"
+   },
+   "add_new_dial_field_name": {
+      "message": "Nimi"
+   },
+   "add_new_dial_field_url": {
+      "message": "URL"
+   },
+   "add_new_dial_text_groupName": {
+      "message": "Uusi ryhmä"
+   },
+   "add_new_group_dialog_apply": {
+      "message": "Tallenna"
+   },
+   "add_new_group_dialog_close": {
+      "message": "Peruuta"
+   },
+   "add_new_group_dialog_name_require": {
+      "message": "Nimi vaaditaan"
+   },
+   "add_new_group_dialog_title": {
+      "message": "Lisää uusi ryhmä"
+   },
+   "add_new_group_field_name": {
+      "message": "Nimi"
+   },
+   "add_user_flixel_btn": {
+      "message": "Luo omat elävät kuvasi"
+   },
+   "always_show_meditation_button": {
+      "message": "Näytä meditointi-painike aina"
+   },
+   "appDesc": {
+      "message": "Uusi live-välilehti: mukauta kelloja, tehtävälistaa, satoja eläviä kuvia selaimeesi."
+   },
+   "appName": {
+      "message": "Live Start Page - Elävät taustakuvat"
+   },
+   "appShort": {
+      "message": "Uusi välilehti"
+   },
+   "auth_already_have_an_account": {
+      "message": "Onko sinulla jo tili?"
+   },
+   "auth_banner_passcode_head": {
+      "message": "Suojaa tietosi"
+   },
+   "auth_banner_passcode_text": {
+      "message": "uteliailta silmiltä pääsykoodilla!"
+   },
+   "auth_billing": {
+      "message": "Laskutus"
+   },
+   "auth_bottom_text": {
+      "message": "Saa LiveStartPage Premium -tili ja poista mahtavien lisätoimintojen lukitukset. Pääsy ensimmäisten joukossa uusiin Premium-ominaisuuksiin ja uusiin live-taustakuviin!"
+   },
+   "auth_cancel": {
+      "message": "Palaa takaisin"
+   },
+   "auth_change_default_search_engine": {
+      "message": "Vaihda oletushakukonetta"
+   },
+   "auth_change_default_search_engine_help": {
+      "message": "Meillä on valikoima suosituimpia hakukoneita. Valitse se, josta pidät eniten."
+   },
+   "auth_change_default_search_engine_short": {
+      "message": "Hakukone: "
+   },
+   "auth_customize_clocks_size": {
+      "message": "Mukauta kellosi kokoa"
+   },
+   "auth_d_all_features": {
+      "message": "Näytä kaikki ominaisuudet"
+   },
+   "auth_d_close": {
+      "message": "Sulje"
+   },
+   "auth_d_come_back": {
+      "message": "Tule sitten takaisin ja kokeile uudelleen"
+   },
+   "auth_d_get_premium": {
+      "message": "Hanki Premium!"
+   },
+   "auth_d_not_now": {
+      "message": "Ei nyt"
+   },
+   "auth_d_sign_in": {
+      "message": "Kirjaudu ensin sisään"
+   },
+   "auth_detailed_relax": {
+      "message": "Meditointioppaat ja -äänet"
+   },
+   "auth_detailed_relax_help": {
+      "message": "Meditointioppaat ja -äänet"
+   },
+   "auth_detailed_weather": {
+      "message": "Detailed Weather Forecast"
+   },
+   "auth_detailed_weather_help": {
+      "message": "Näe edistynyt sääennuste seuraaviksi päiviksi. Mukana myös sade- ja tuulitiedot."
+   },
+   "auth_discovered_1": {
+      "message": "Löysit Premium-"
+   },
+   "auth_discovered_2": {
+      "message": "ominaisuuden!"
+   },
+   "auth_discovered_3": {
+      "message": "Päivitys LiveStartPage Premiumiin"
+   },
+   "auth_discovered_4": {
+      "message": "poistaa lukituksen."
+   },
+   "auth_dont_have_an_account": {
+      "message": "Eikö sinulla ole tiliä?"
+   },
+   "auth_email": {
+      "message": "Sähköposti"
+   },
+   "auth_email_is_required": {
+      "message": "Sähköposti vaaditaan. Syörä oikea sähköposti."
+   },
+   "auth_high_priority_support": {
+      "message": "Korkean prioriteetin tuki"
+   },
+   "auth_high_priority_support_help": {
+      "message": "Premium-käyttäjät saavat nopeammat vastaukset tukitiimiltämme."
+   },
+   "auth_high_priority_weather": {
+      "message": "Yksityiskohtainen sääennuste"
+   },
+   "auth_incredible_start_page": {
+      "message": "Mahtava aloitussivu live-taustakuvilla"
+   },
+   "auth_login": {
+      "message": "Kirjaudu sisään"
+   },
+   "auth_login_is_required": {
+      "message": "VIRHE: Kirjautumissähköposti vaaditaan"
+   },
+   "auth_login_or_email": {
+      "message": "Kirjautuminen tai sähköposti"
+   },
+   "auth_logout": {
+      "message": "Kirjaudu ulos"
+   },
+   "auth_more_features_coming": {
+      "message": "Lisää ominaisuuksia tulossa!"
+   },
+   "auth_more_features_coming_help": {
+      "message": "Ole ensimmäisten Premium-käyttäjien joukossa."
+   },
+   "auth_or": {
+      "message": "TAI"
+   },
+   "auth_password": {
+      "message": "Salasana"
+   },
+   "auth_password_is_required": {
+      "message": "Salasana vaaditaan"
+   },
+   "auth_password_is_required_min_8": {
+      "message": "Salasanan pitää olla vähintään 8 merkkiä pitkä"
+   },
+   "auth_passwords_isnt_same": {
+      "message": "Salasanat eivät täsmää"
+   },
+   "auth_plan_choice": {
+      "message": "valitse tilauksesi:"
+   },
+   "auth_plan_month_en": {
+      "message": "1.99 dollaria / kuukausi"
+   },
+   "auth_plan_month_ru": {
+      "message": "50 ruplaa / kuukausi"
+   },
+   "auth_plan_year_en": {
+      "message": "14.99 dollaria / vuosi"
+   },
+   "auth_plan_year_ru": {
+      "message": "500 ruplaa / vuosi"
+   },
+   "auth_premium_pricing_en": {
+      "message": "1.99 dollaria kuukaudessa tai 14.99 dollaria vuodessa"
+   },
+   "auth_premium_pricing_ru": {
+      "message": "50 ruplaa kuukaudessa tai 500 ruplaa vuodessa"
+   },
+   "auth_pro_feature": {
+      "message": "Premium-ominaisuus"
+   },
+   "auth_pro_message": {
+      "message": "Tilisi on nyt premium-tasolla!"
+   },
+   "auth_protect": {
+      "message": "Suojaa tietosi uteliailta silmiltä pääsykoodilla!"
+   },
+   "auth_protect_help": {
+      "message": "Kirjanmerkkilaatat, tehtävät ja muut tiedot kuuluvat vain sinulle. Kenelläkään ei pitäisi olla pääsyä tietoihisi. Aseta salasana Live Start Pageen (LSP) ja LUKITSE laajennuksesi. Tämän jälkeen kukaan muu ei pääse tietoihisi."
+   },
+   "auth_register": {
+      "message": "Rekisteröidy"
+   },
+   "auth_register_trial_1": {
+      "message": "Rekisteröi tili",
+      "message2": "Rekisteröidy saadaksesi 14 päivää"
+   },
+   "auth_register_trial_2": {
+      "message": "ILMAISTA kokeiluaikaa"
+   },
+   "auth_register_trial_3": {
+      "message": " "
+   },
+   "auth_restore_password": {
+      "message": "Palauta salasana"
+   },
+   "auth_retype_password": {
+      "message": "Syötä salasana uudelleen"
+   },
+   "auth_sign_in": {
+      "message": "Rekisteröidy"
+   },
+   "auth_sign_up": {
+      "message": "Rekisteröidy"
+   },
+   "auth_synchronize_dials": {
+      "message": "Synkronoi pikavalinnat (Kirjanmerkkilaatat) ja ryhmät"
+   },
+   "auth_synchronize_dials_help": {
+      "message": "Älä hukkaa kirjanmerkkejäsi! Voit synkronoita ryhmät ja pikavalinnat (kirjanmerkkilaatat) selainten ja tietokoneiden välillä. Kun esimerkiksi lisäät uuden pikavalinnan Chromeen, saat sen myös Firefoxiin toiselle tietokoneellesi."
+   },
+   "auth_synchronize_tasks": {
+      "message": "Synkronoi tehtävät"
+   },
+   "auth_synchronize_tasks_help": {
+      "message": "Saavuta tavoitteesi tehtäväluetteloilla. Synkronointia käyttämällä pääset tehtäviisi käsiksi miltä tahansa tietokoneelta, joihin olet asentanut LSP:n."
+   },
+   "auth_terms_and_conditions": {
+      "message": "Käyttöehdot"
+   },
+   "auth_to_enter_your_login": {
+      "message": "syöttää kirjautumissähköpostisi"
+   },
+   "auth_to_restore_password": {
+      "message": "Palauttaaksesi salasanan, sinun pitää"
+   },
+   "auth_trial_activate_btn": {
+      "message": "Aktivoi ilmainen kokeilu (14 päivää)"
+   },
+   "auth_trial_activate_failed": {
+      "message": "Ilmaisen kokeilun aktivointi epäonnistui"
+   },
+   "auth_trial_activated": {
+      "message": "14 päivän ilmainen kokeilusi on aktivoitu"
+   },
+   "auth_trial_will_expire": {
+      "message": "KOkeilusi päättyy N päivän kuluttua"
+   },
+   "auth_trial_will_expire_title": {
+      "message": "Napsauta ostaaksesi premiumin"
+   },
+   "auth_username_float_title": {
+      "message": "Hallitse laskutustasi"
+   },
+   "auth_using_facebook": {
+      "message": "Facebookin avulla"
+   },
+   "auth_using_google": {
+      "message": "Googlen avulla"
+   },
+   "auth_you_agree": {
+      "message": "Napsauttamalla “Rekisteröidy”, hyväksyt"
+   },
+   "auth_your_login": {
+      "message": "Kirjautumissähköpostisi"
+   },
+   "auto_download_videos": {
+      "message": "Lataa videot automaattisesti"
+   },
+   "backup_confirm_create_btn_db": {
+      "message": "Käytä laajennuksen tietokantaa"
+   },
+   "backup_confirm_create_btn_file": {
+      "message": "Vie tiedostoon"
+   },
+   "backup_confirm_create_note": {
+      "message": "* Huomio: Laajennuksen tietokanta ei ole aina turvallinen, mutta se on nopea. Jos asennat laajennuksen tai selaimesi uudelleen, tietokannan sisältö häviää. Voit käyttää molempia varmuuskopiointivaihtoehtoja!"
+   },
+   "backup_confirm_create_title": {
+      "message": "Miten haluat varmuuskopioda?"
+   },
+   "backup_confirm_line_1": {
+      "message": "Tuntemattomista syistä johtuen jotkin pikavalinnoista olivat vioittuneet. Tämä voi vielä jonkin aikaa."
+   },
+   "backup_confirm_line_2": {
+      "message": "Ei hätää! Kaikki on taas pian kunnossa!"
+   },
+   "backup_confirm_recovery_attention": {
+      "message": "Tätä toimintoa ei voi perua!"
+   },
+   "backup_confirm_recovery_btn_db": {
+      "message": "Laajennuksen tietokannasta"
+   },
+   "backup_confirm_recovery_btn_file": {
+      "message": "Tiedostosta (*.lsp)"
+   },
+   "backup_confirm_recovery_file_parse_error": {
+      "message": "Tietojen jäsennys tiedostosta ei onnistu"
+   },
+   "backup_confirm_recovery_text": {
+      "message": "Vahvista tietojen palautus varmuuskopiosta."
+   },
+   "backup_confirm_recovery_title": {
+      "message": "Miten haluat palauttaa?"
+   },
+   "backup_confirm_title": {
+      "message": "Pikavalintoja palautetaan…"
+   },
+   "backup_enable": {
+      "message": "Ota varmuuskopiointi käyttöön"
+   },
+   "backup_modal_description": {
+      "message": "Näyttää siltä, että tietokanta on vioittunut. Voit palauttaa tiedot varmuuskopiosta nyt tai myöhemmin kohteessa"
+   },
+   "backup_modal_settings_link": {
+      "message": "Asetukset-sivu"
+   },
+   "backup_restore_file_error": {
+      "message": "Virhe palautuksessa"
+   },
+   "backup_settings_create": {
+      "message": "Luo uusi varmuuskopio"
+   },
+   "backup_settings_done": {
+      "message": "VALMIS! Lataa kaikki lisäosasivut uudelleen"
+   },
+   "backup_settings_item": {
+      "message": "Kohteet"
+   },
+   "backup_settings_last_date": {
+      "message": "Varmuuskopio"
+   },
+   "backup_settings_last_never": {
+      "message": "Ei koskaan"
+   },
+   "backup_settings_last_restored": {
+      "message": "(Palautettu)"
+   },
+   "backup_settings_navi": {
+      "message": "Varmuuskopio"
+   },
+   "backup_settings_restore": {
+      "message": "Palauta varmuuskopio"
+   },
+   "backup_settings_title": {
+      "message": "Varmuuskopi ja palautus"
+   },
+   "backup_table_dials": {
+      "message": "Pikavalinnat"
+   },
+   "backup_table_groups": {
+      "message": "Ryhmät"
+   },
+   "backup_table_images": {
+      "message": "Kuvat"
+   },
+   "backup_table_settings": {
+      "message": "Asetukset"
+   },
+   "backup_table_storage": {
+      "message": "Asetukset"
+   },
+   "backup_table_todo_items": {
+      "message": "Tehtävät"
+   },
+   "backup_why": {
+      "message": "Miksi tarvitsen sitä?"
+   },
+   "bba_addons": {
+      "message": "Lisäosat"
+   },
+   "bba_bookmarks": {
+      "message": "Kirjanmerkit"
+   },
+   "bba_downloads": {
+      "message": "Lataukset"
+   },
+   "bba_history": {
+      "message": "Historia"
+   },
+   "bba_hystory": {
+      "message": "Historia"
+   },
+   "bba_restore": {
+      "message": "Edellinen istunto. Välilehtien määrä"
+   },
+   "bba_session": {
+      "message": "Edellinen istunto"
+   },
+   "bba_settings": {
+      "message": "Asetukset"
+   },
+   "bba_sync": {
+      "message": "Synkronointi"
+   },
+   "become_premium": {
+      "message": "Premium-käyttäjäksi"
+   },
+   "bg_video_pause": {
+      "message": "Keskeytä elävä taustakuva"
+   },
+   "bg_video_play": {
+      "message": "Toista elävä taustakuva"
+   },
+   "cancel": {
+      "message": "Peruuta"
+   },
+   "cant_add_new_group_with_no_dials": {
+      "message": "Et voi luoda ryhmää ilman sivuja"
+   },
+   "choose_color_scheme": {
+      "message": "Valitse värijärjestelmä"
+   },
+   "clock_date_format": {
+      "message": "Päivämäärän muoto"
+   },
+   "clock_date_separator": {
+      "message": "Päivämäärän erotin"
+   },
+   "confirm": {
+      "message": "Vahvista"
+   },
+   "context_menu_add": {
+      "message": "Lisää pikavalintoihin"
+   },
+   "context_menu_all": {
+      "message": "Tallenna kaikki avoimet välilehdet"
+   },
+   "dash": {
+      "message": "viiva (-)"
+   },
+   "date": {
+      "message": "Päivämäärä"
+   },
+   "delete_group_dialog_apply": {
+      "message": "Poista"
+   },
+   "delete_group_dialog_body_1": {
+      "message": "Tässä ryhmässä on pikavalintoja."
+   },
+   "delete_group_dialog_body_2": {
+      "message": "Haluatko varmasti poistaa tämän ryhmän?"
+   },
+   "delete_group_dialog_close": {
+      "message": "Peruuta"
+   },
+   "delete_group_dialog_title": {
+      "message": "Vahvista toiminto"
+   },
+   "dial_saved_to_folder": {
+      "message": "Tallennettu [name] -kansioon"
+   },
+   "dialog_pick_user_pics_not_found_enter_in": {
+      "message": "Kun löydät haluamasi kuvan, kopio sen URL ja liitä se tähän kenttään:"
+   },
+   "dialog_pick_user_pics_not_found_title": {
+      "message": "Voit hakea {host} -logoa näistä hienoista lähteistä ja lisätä niitä galleriaasi."
+   },
+   "dlg_confirm_disable_quick_preview_text": {
+      "message": "Haluatko varmasti poistaa pikaesikatselu-pienoisohjelman käytöstä?"
+   },
+   "dlg_confirm_disable_quick_preview_title": {
+      "message": "Vahvista toiminto"
+   },
+   "dot": {
+      "message": "piste (.)"
+   },
+   "edit_dial_dialog_title": {
+      "message": "Muokkaa pikavalintaa"
+   },
+   "enable_blur_effect": {
+      "message": "Ota sumennustehoste käyttöön, kun sivu avataan"
+   },
+   "engine_modal_close": {
+      "message": "Sulje"
+   },
+   "engine_modal_save": {
+      "message": "Tallenna"
+   },
+   "engine_modal_title": {
+      "message": "Valitse oletushakukone"
+   },
+   "error_auth_network": {
+      "message": "Autentikointivirhe. Ei palvelinyhteyttä."
+   },
+   "error_sync_network": {
+      "message": "Synkronoinnin suoritus ei onnistu. Ei internet-yhteyttä."
+   },
+   "extrime": {
+      "message": "Valtava"
+   },
+   "favorites_need_download_html": {
+      "message": "Huomio: Sinun pitää \u003Cb>ladata\u003C/b> joitakin suosikkitaustakuviasi, muuten niitä ei näytetä."
+   },
+   "focus_background_opacity": {
+      "message": "Taustan läpinäkyvyys"
+   },
+   "focus_font_size": {
+      "message": "Kirjasimen koko"
+   },
+   "focus_header": {
+      "message": "Tänään"
+   },
+   "focus_hint_add": {
+      "message": "Lisää uusi päätavoite"
+   },
+   "focus_hint_done": {
+      "message": "Valmis"
+   },
+   "focus_hint_move": {
+      "message": "Siirrä"
+   },
+   "focus_hint_not_done": {
+      "message": "Kesken"
+   },
+   "focus_hint_remove": {
+      "message": "Poista"
+   },
+   "focus_hint_settings": {
+      "message": "Asetukset"
+   },
+   "focus_message": {
+      "message": "Viesti"
+   },
+   "focus_question": {
+      "message": "Mikä on päätavoitteesi tälle päivälle?"
+   },
+   "focus_select_color": {
+      "message": "Kirjasimen väri"
+   },
+   "focus_show": {
+      "message": "Näytä päätavoite"
+   },
+   "focus_show_background": {
+      "message": "Näytä tausta"
+   },
+   "focus_status_done": {
+      "message": "Hienoa työtä! | Loistavaa! | Hyvää työtä!"
+   },
+   "focus_status_load": {
+      "message": "Ladataan..."
+   },
+   "focus_status_new": {
+      "message": "Uusi päätavoite"
+   },
+   "focus_status_save": {
+      "message": "Tallennetaan..."
+   },
+   "focus_title": {
+      "message": "Päätavoite"
+   },
+   "good": {
+      "message": "Ok"
+   },
+   "group_sponsoredst": {
+      "message": "Osta & matkusta"
+   },
+   "label_new": {
+      "message": "(Uusi!)"
+   },
+   "language": {
+      "message": "fi"
+   },
+   "large": {
+      "message": "Suuri"
+   },
+   "login_error": {
+      "message": "Virhe kirjautumisessa!"
+   },
+   "login_success": {
+      "message": "Olet kirjautunut sisään onnistuneesti"
+   },
+   "medium": {
+      "message": "Keskikokoinen"
+   },
+   "menu_float_contact_us": {
+      "message": "Ota yhteyttä"
+   },
+   "menu_float_get_pro": {
+      "message": "Hanki Premium-ominaisuudet"
+   },
+   "menu_float_get_pro_buy": {
+      "message": "Osta Premium"
+   },
+   "menu_float_login": {
+      "message": "Kirjaudu sisään"
+   },
+   "menu_float_logout": {
+      "message": "Kirjaudu ulos"
+   },
+   "menu_float_passcode": {
+      "message": "Suojaa pääsykoodilla"
+   },
+   "menu_float_pause": {
+      "message": "Keskeytä video"
+   },
+   "menu_float_play": {
+      "message": "Jatka videota"
+   },
+   "menu_float_settings": {
+      "message": "Valikko"
+   },
+   "menu_float_settings_link": {
+      "message": "Määritä asetukset"
+   },
+   "menu_float_sync": {
+      "message": "Aloita synkronointi"
+   },
+   "menu_float_themes_link": {
+      "message": "Valitse teemat"
+   },
+   "menu_float_weather_forecast": {
+      "message": "Näytä 5 päivän sääennuste"
+   },
+   "more_themes_button": {
+      "message": "Hanki lisää taustakuvia"
+   },
+   "move_clock": {
+      "message": "Siirrä kelloa"
+   },
+   "navi_active_bg_desc": {
+      "message": "LiveStartPagessa on useita tiloja. Voit valita haluamasi."
+   },
+   "navi_active_bg_description": {
+      "message": "Tässä osiossa voit valita taustakuvatyypin, joka näytetään LiveStartPage-etusivullasi"
+   },
+   "navi_active_bg_name": {
+      "message": "Määritä aktiivinen taustakuva"
+   },
+   "navi_active_bg_title": {
+      "message": "Nyt käytössä oleva taustakuva"
+   },
+   "navi_active_mode_message": {
+      "message": "(Tämä tila on parhaillaan aktiivisena)"
+   },
+   "navi_cant_disable_active": {
+      "message": "Et voi poistaa sitä käytöstä, koska se on aktiivinen."
+   },
+   "navi_downloaded_desc": {
+      "message": "Kaikki ladatut taustakuvasi"
+   },
+   "navi_downloaded_disabled": {
+      "message": "Sinun pitää ensin ladata ainakin yksi [name]"
+   },
+   "navi_downloaded_title": {
+      "message": "Ladatut taustakuvat"
+   },
+   "navi_exit": {
+      "message": "Poistu asetuksista"
+   },
+   "navi_favorites_desc": {
+      "message": "Kaikki suosikkitaustakuvasi"
+   },
+   "navi_favorites_disabled": {
+      "message": "Sinun pitää ensin merkitä suosikiksesi ainakin yksi [name]"
+   },
+   "navi_favorites_title": {
+      "message": "Suosikkitaustakuvat"
+   },
+   "navi_randomize_downloaded": {
+      "message": "Satunnaista ladatut"
+   },
+   "navi_randomize_favorites": {
+      "message": "Satunnaista suosikit"
+   },
+   "navi_show_downloaded": {
+      "message": "Näytä ladatut"
+   },
+   "navi_show_favorites": {
+      "message": "Näytä suosikit"
+   },
+   "navi_show_live_backgrounds": {
+      "message": "Näytä live-taustakuvat"
+   },
+   "navi_show_live_themes": {
+      "message": "Näytä live-teemat"
+   },
+   "navi_show_wallpapers": {
+      "message": "Näytä staattiset taustakuvat"
+   },
+   "navi_singular_bg_any": {
+      "message": "Live-teema tai staattinen taustakuva"
+   },
+   "navi_singular_bg_live": {
+      "message": "Live-taustakuva"
+   },
+   "navi_singular_bg_static": {
+      "message": "Staattinen taustakuva"
+   },
+   "navi_singular_bg_theme": {
+      "message": "Live-teema"
+   },
+   "navi_tab_live_backgrounds": {
+      "message": "Live-taustakuvat"
+   },
+   "navi_tab_live_themes": {
+      "message": "Live-teemat"
+   },
+   "navi_tab_static_wallpapers": {
+      "message": "Staattiset taustakuvat"
+   },
+   "navi_view_all_downloaded": {
+      "message": "Näytä kaikki ladatut"
+   },
+   "navi_view_all_favorites": {
+      "message": "Näytä kaikki suosikit"
+   },
+   "navi_view_live_backgrounds": {
+      "message": "Näytä kaikki live-taustakuvat"
+   },
+   "navi_view_live_themes": {
+      "message": "Näytä kaikki live-teemat"
+   },
+   "navi_view_wallpapers": {
+      "message": "Näytä kaikki taustakuvat"
+   },
+   "newtab_auto_title": {
+      "message": "Auto"
+   },
+   "newtab_disable_page_mod": {
+      "message": "Poista tämä pienoisohjelma käytöstä"
+   },
+   "newtab_getting_title": {
+      "message": "Hankitaan otsikkoa..."
+   },
+   "off": {
+      "message": "Pois"
+   },
+   "ok": {
+      "message": "Ok"
+   },
+   "old_options_relax_popup_body_bottom_text_1": {
+      "message": "Hanki päivän annos tarkkaavaisuutta."
+   },
+   "old_options_relax_popup_body_bottom_text_2": {
+      "message": "Rentouta mielesi ja keskity."
+   },
+   "old_options_relax_popup_body_bottom_text_3": {
+      "message": "Nauti kauniista maisemista."
+   },
+   "on": {
+      "message": "Päällä"
+   },
+   "open_groups_dials_current": {
+      "message": "Avaa kaikki nykyisessä ikkunassa"
+   },
+   "open_groups_dials_new": {
+      "message": "Avaa kaikki uudessa ikkunassa"
+   },
+   "open_player": {
+      "message": "Avaa soitin"
+   },
+   "option_auto": {
+      "message": "Automaattinen tunnistus"
+   },
+   "option_ddmmyyyy": {
+      "message": "dd/mm/yyyy"
+   },
+   "option_mmddyyyy": {
+      "message": "mm/dd/yyyy"
+   },
+   "options_add_to_favorite_dialog": {
+      "message": "Sinun pitää ensin ladata teema, jotta voit merkitä sen suosikiksesi"
+   },
+   "options_application_rating_popup_item_already": {
+      "message": "Arviointi tehty"
+   },
+   "options_application_rating_popup_item_awesome": {
+      "message": "Loistava!"
+   },
+   "options_application_rating_popup_item_bad": {
+      "message": "Huono"
+   },
+   "options_application_rating_popup_item_better": {
+      "message": "Voisi olla parempi"
+   },
+   "options_application_rating_popup_title_mark": {
+      "message": "Pidätkö Live Start Pagesta? Arvioi se!"
+   },
+   "options_application_rating_popup_title_thanks": {
+      "message": "Kirjoita arviosi. Se on meille todellä tärkeää. Kiitos!"
+   },
+   "options_application_weather_city": {
+      "message": "Vaihda kaksoisnapsauttamalla"
+   },
+   "options_application_weather_error_text_location": {
+      "message": "Ota sijainti käyttöön tai "
+   },
+   "options_application_weather_error_text_location_placeholder": {
+      "message": "Syötä kaupunkisi tähän"
+   },
+   "options_application_weather_intro_text": {
+      "message": "Näytä sää"
+   },
+   "options_application_weather_location_current": {
+      "message": "Hanki nykyinen sijainti"
+   },
+   "options_bookmarks_popup_close": {
+      "message": "Älä näytä enää"
+   },
+   "options_bookmarks_popup_hide": {
+      "message": "Sulje"
+   },
+   "options_bookmarks_popup_title": {
+      "message": "Miten otan kirjanmerkkipalkin käyttöön:"
+   },
+   "options_clock_size": {
+      "message": "Kellon koko"
+   },
+   "options_clock_size_large": {
+      "message": "Suuri"
+   },
+   "options_clock_size_medium": {
+      "message": "Keskikokoinen"
+   },
+   "options_clock_size_small": {
+      "message": "Pieni"
+   },
+   "options_header_buttons_close_settings": {
+      "description": "#fixed",
+      "message": "Sulje asetukset"
+   },
+   "options_header_buttons_control_settings": {
+      "description": "#fixed",
+      "message": "Määritä asetukset"
+   },
+   "options_header_buttons_feedback": {
+      "description": "#fixed",
+      "message": "Palaute"
+   },
+   "options_header_buttons_help": {
+      "description": "#fixed",
+      "message": "UKK (englanniksi)"
+   },
+   "options_header_buttons_select_favorite_bg": {
+      "description": "#fixed",
+      "message": "Suosikit"
+   },
+   "options_header_buttons_select_live_bg": {
+      "description": "#fixed",
+      "message": "Valitse taustakuva"
+   },
+   "options_header_title": {
+      "description": "#fixed",
+      "message": "Live Start Page - Asetukset"
+   },
+   "options_meta_title": {
+      "message": "Asetukset"
+   },
+   "options_quick_preview": {
+      "message": "Pikaesikatselu-pienoisohjelma"
+   },
+   "options_random_mode_is_active_notice": {
+      "message": "Huomio: sattumanvaraisuustila suosikeille käytössä"
+   },
+   "options_random_mode_is_active_notice_downloaded": {
+      "message": "Huomio: sattumanvaraisuustila ladatuille käytössä"
+   },
+   "options_random_mode_is_active_notice_favorites": {
+      "message": "Huomio: sattumanvaraisuustila suosikeille käytössä"
+   },
+   "options_refresh_themes_list_error": {
+      "message": "Virhe, saatavissa olevien taustakuvien luetteloa ei voida hankkia. Kokeile sivun päivitystä. "
+   },
+   "options_relax_popup_body_bottom_text_1": {
+      "message": "Hanki päivän annos tarkkaavaisuutta. Rentouta mielesi ja keskity. "
+   },
+   "options_relax_popup_body_bottom_text_2": {
+      "message": "Parhaiden tulosten saavuttamiseksi suosittelemme meditointia kahdesti päivässä, aamuin illoin 15-20 minuuttia riittää. Voit valita yksinkertaisen meditaation, kuten luonnonäänten kuuntelun tai käyttää ammattilaisten tallentamia meditointi-istuntoja."
+   },
+   "options_relax_popup_body_bottom_text_3": {
+      "message": "Suosittelemme lisäksi lukemaan artikkelimme meditoinnista:"
+   },
+   "options_relax_popup_body_bottom_text_4": {
+      "message": "Napsauta lukeaksesi, miten meditointi parantaa päivääsi"
+   },
+   "options_relax_popup_body_bottom_text_5": {
+      "message": "Suosittelemme kuulokkeiden käyttöä."
+   },
+   "options_relax_popup_body_bottom_tip": {
+      "message": "Vinkki: Paina F11-näppäintä siirtyäksesi koko ruudun tilaan tai palataksesi normaalitilaan."
+   },
+   "options_relax_popup_body_top_text": {
+      "message": "Meditaatio-tila auttaa sinua olemaan tuottava koko päivän."
+   },
+   "options_relax_popup_close": {
+      "message": "Älä näytä uudelleen"
+   },
+   "options_relax_popup_hide": {
+      "message": "Aloitetaan"
+   },
+   "options_relax_popup_title": {
+      "message": "Aloitetaan"
+   },
+   "options_settings_apps_link_display": {
+      "message": "Näytä sovellukset-linkki"
+   },
+   "options_settings_bottom_panel": {
+      "message": "Alapaneeli"
+   },
+   "options_settings_clock_advanced_href": {
+      "message": "Edistynyt"
+   },
+   "options_settings_clock_background": {
+      "message": "Tausta"
+   },
+   "options_settings_clock_background_dark": {
+      "message": "Tumma"
+   },
+   "options_settings_clock_background_dark_long": {
+      "message": "Tumma pitkä"
+   },
+   "options_settings_clock_background_light": {
+      "message": "Vaalea"
+   },
+   "options_settings_clock_background_light_long": {
+      "message": "Vaalea pitkä"
+   },
+   "options_settings_clock_background_none": {
+      "message": "Ei mitään"
+   },
+   "options_settings_clock_background_opacity": {
+      "message": "Taustan läpinäkyvyys"
+   },
+   "options_settings_clock_basic_href": {
+      "message": "Perus"
+   },
+   "options_settings_clock_color_text_ampm_label": {
+      "message": "AM/PM:"
+   },
+   "options_settings_clock_color_text_border_line": {
+      "message": "Ääriviiva:"
+   },
+   "options_settings_clock_color_text_digit_bg": {
+      "message": "Numeroiden tausta:"
+   },
+   "options_settings_clock_color_text_done_line": {
+      "message": "Ympyrän kulunut aika:"
+   },
+   "options_settings_clock_color_text_h": {
+      "message": "Kellon värit:"
+   },
+   "options_settings_clock_color_text_label": {
+      "message": "Otsikot:"
+   },
+   "options_settings_clock_color_text_time": {
+      "message": "Numerot:"
+   },
+   "options_settings_clock_color_text_total_line": {
+      "message": "Ympyrän perusväri:"
+   },
+   "options_settings_clock_date": {
+      "message": "Näytä päivämäärä"
+   },
+   "options_settings_clock_font_bold": {
+      "message": "Lihavoidut kellon numerot"
+   },
+   "options_settings_clock_format": {
+      "message": "Ajan muoto"
+   },
+   "options_settings_clock_format_label": {
+      "message": "Näytä AM/PM"
+   },
+   "options_settings_clock_opacity": {
+      "message": "Kellon läpinäkyvyys"
+   },
+   "options_settings_clock_scheme_dark": {
+      "message": "Tumma"
+   },
+   "options_settings_clock_scheme_default": {
+      "message": "Oletus"
+   },
+   "options_settings_clock_scheme_light": {
+      "message": "Vaalea"
+   },
+   "options_settings_clock_seconds_show": {
+      "message": "Näytä sekunnit"
+   },
+   "options_settings_clock_show": {
+      "message": "Näytä kello"
+   },
+   "options_settings_clock_title": {
+      "message": "Kello"
+   },
+   "options_settings_clock_type": {
+      "message": "Kellon tyyppi"
+   },
+   "options_settings_clock_type_0": {
+      "message": "Yksinkertainen"
+   },
+   "options_settings_clock_type_10": {
+      "message": "Taulu"
+   },
+   "options_settings_clock_type_3": {
+      "message": "Digitaalinen"
+   },
+   "options_settings_clock_type_5": {
+      "message": "Tyyli"
+   },
+   "options_settings_clock_type_6": {
+      "message": "Kääntö"
+   },
+   "options_settings_clock_type_7": {
+      "message": "Liu'uta ylös"
+   },
+   "options_settings_clock_type_9": {
+      "message": "Ympyrät"
+   },
+   "options_settings_clock_visible_label": {
+      "message": "Kellon numeroiden otsikot"
+   },
+   "options_settings_dials_advanced_href": {
+      "message": "Edistynyt"
+   },
+   "options_settings_dials_basic_href": {
+      "message": "Perus"
+   },
+   "options_settings_dials_columns_count": {
+      "message": "Pikavalinnan sarakkeet"
+   },
+   "options_settings_dials_display_background": {
+      "message": "Näytä pikavalintojen oletustausta"
+   },
+   "options_settings_dials_display_borders": {
+      "message": "Näytä pikavalintojen ääriviiva"
+   },
+   "options_settings_dials_size_slider": {
+      "message": "Pikavalintojen koko"
+   },
+   "options_settings_images_add": {
+      "message": "Lataa uusi taustakuva palvelimelle"
+   },
+   "options_settings_images_sort_gallery": {
+      "message": "Galleria"
+   },
+   "options_settings_images_sort_your": {
+      "message": "Latauksesi"
+   },
+   "options_settings_page_bottom_panel_opacity": {
+      "message": "Alapaneelin läpinäkyvyys"
+   },
+   "options_settings_page_common": {
+      "message": "Sekalaiset"
+   },
+   "options_settings_page_common_hint": {
+      "message": "Jos asensit jonkun teemoistamme (Chrome) tai vierailit jollakin sivulla osoitteessa livestartpage.com (esimerkki: \u003Ca href=https://goo.gl/8c3b25 target=_blank>https://goo.gl/8c3b25\u003C/a> ) Lataamme videon automaattisesti tehdäksemme sen helpommaksi sinulle."
+   },
+   "options_settings_page_top_panel": {
+      "message": "Yläpaneeli"
+   },
+   "options_settings_parallax_enable": {
+      "message": "Ota parallaksitehoste käyttöön"
+   },
+   "options_settings_parallax_enable_notice": {
+      "message": "(Jos käytössä, hidastaa suorituskykyä)"
+   },
+   "options_settings_parallax_navi": {
+      "message": "Parallaksi"
+   },
+   "options_settings_parallax_strength": {
+      "message": "Parallaksitehosteen voimakkuus"
+   },
+   "options_settings_parallax_subtitle": {
+      "message": "(Dynaaminen tausta)"
+   },
+   "options_settings_parallax_title": {
+      "message": "Tausta-parallaksi"
+   },
+   "options_settings_popular_group_show": {
+      "message": "Näytä ryhmä"
+   },
+   "options_settings_random_button_text": {
+      "message": "Sattumanvaraiset taustakuvat"
+   },
+   "options_settings_random_themes_enable_notice": {
+      "message": "Näytä taustakuvia sattumanvaraisesti (ainoastaan ladattuja)"
+   },
+   "options_settings_random_themes_enable_notice_downloaded": {
+      "message": "Ladatut"
+   },
+   "options_settings_random_themes_enable_notice_favorites": {
+      "message": "Suosikit"
+   },
+   "options_settings_random_themes_enable_notice_short": {
+      "message": "Sattumanvaraiset taustakuvat"
+   },
+   "options_settings_random_themes_enable_notice_short_OLD": {
+      "message": "Näytä taustakuvat sattumanvaraisesti"
+   },
+   "options_settings_relax_enable": {
+      "message": "Näytä meditointi-painike"
+   },
+   "options_settings_relax_title": {
+      "message": "Meditointi"
+   },
+   "options_settings_search_form_display": {
+      "message": "Ota haku käyttöön"
+   },
+   "options_settings_search_form_navi": {
+      "message": "Haku"
+   },
+   "options_settings_search_form_provider": {
+      "message": "Hakukone"
+   },
+   "options_settings_search_form_provider_more": {
+      "message": "Lisää"
+   },
+   "options_settings_search_open_type": {
+      "message": "Avaa hakutulos"
+   },
+   "options_settings_speed_dial_count": {
+      "message": "Pikavalintojen määrä"
+   },
+   "options_settings_speed_dial_count_max": {
+      "message": "maks."
+   },
+   "options_settings_speed_dial_count_max_description": {
+      "message": "Ryhmille"
+   },
+   "options_settings_speed_dial_customs": {
+      "message": "Mukautetut esikatselut"
+   },
+   "options_settings_speed_dial_generate_type": {
+      "message": "Miten luodaan pikavalintoja"
+   },
+   "options_settings_speed_dial_navi": {
+      "message": "Pikavalinta"
+   },
+   "options_settings_speed_dial_opacity": {
+      "message": "Pikavalinnan läpinäkyvyys"
+   },
+   "options_settings_speed_dial_open_type": {
+      "message": "Avaa pikavalinta"
+   },
+   "options_settings_speed_dial_open_type_background": {
+      "message": "Taustavälilehti"
+   },
+   "options_settings_speed_dial_open_type_current": {
+      "message": "Nykyinen välilehti"
+   },
+   "options_settings_speed_dial_open_type_incognito": {
+      "message": "Incognito-ikkuna"
+   },
+   "options_settings_speed_dial_open_type_new": {
+      "message": "Uusi välilehti"
+   },
+   "options_settings_speed_dial_show": {
+      "message": "Näytä pikavalinnat"
+   },
+   "options_settings_speed_dial_title": {
+      "message": "Pikavalinta"
+   },
+   "options_settings_speed_search_opacity": {
+      "message": "Hakukentän läpinäkyvyys"
+   },
+   "options_settings_speed_search_title": {
+      "message": "Hakukenttä"
+   },
+   "options_settings_themes_sort_downloaded": {
+      "message": "Ladatut"
+   },
+   "options_settings_themes_sort_featured": {
+      "message": "Esitellyt"
+   },
+   "options_settings_themes_sort_new": {
+      "message": "Uusimmat"
+   },
+   "options_settings_themes_sort_popular": {
+      "message": "Suositut"
+   },
+   "options_settings_themes_sort_search": {
+      "message": "Hae teemoja"
+   },
+   "options_settings_todo_opacity": {
+      "message": "Paneelin läpinäkyvyys"
+   },
+   "options_settings_todo_position": {
+      "message": "Nollaa oletuskoko ja -sijainti"
+   },
+   "options_settings_todo_position_btn": {
+      "message": "Nollaa"
+   },
+   "options_settings_todo_show": {
+      "message": "Näytä tehtävät"
+   },
+   "options_settings_todo_title": {
+      "message": "Tehtävät"
+   },
+   "options_settings_weather_background_opacity": {
+      "message": "Taustan läpinäkyvyys"
+   },
+   "options_settings_weather_background_show": {
+      "message": "Näytä tausta"
+   },
+   "options_settings_weather_location": {
+      "message": "Nykyinen sijainti"
+   },
+   "options_settings_weather_location_block": {
+      "message": "Ota sijainti käyttöön selaimesi asetuksista"
+   },
+   "options_settings_weather_location_block_text": {
+      "message": "Emme voineet tunnistaa sijaintiasi. Ota sijainti käyttöön selaimesi asetuksista."
+   },
+   "options_settings_weather_location_cancel": {
+      "message": "Peruuta"
+   },
+   "options_settings_weather_location_change": {
+      "message": "Vaihda"
+   },
+   "options_settings_weather_location_img_title": {
+      "message": "Hanki nykyinen sijainti"
+   },
+   "options_settings_weather_location_placeholder": {
+      "message": "Syötä kaupunkisi"
+   },
+   "options_settings_weather_location_set": {
+      "message": "Käytä"
+   },
+   "options_settings_weather_location_unknown": {
+      "message": "Tuntematon"
+   },
+   "options_settings_weather_opacity": {
+      "message": "Sään läpinäkyvyys"
+   },
+   "options_settings_weather_reset_position": {
+      "message": "Nollaa oletussijainti"
+   },
+   "options_settings_weather_reset_position_btn": {
+      "message": "Nollaa"
+   },
+   "options_settings_weather_show": {
+      "message": "Näytä sää"
+   },
+   "options_settings_weather_title": {
+      "message": "Sää"
+   },
+   "options_settings_weather_unit": {
+      "message": "Lämpötilayksikkö"
+   },
+   "options_settings_weather_unit_show": {
+      "message": "Näytä lämpötilayksikkö"
+   },
+   "options_share_desc": {
+      "message": "Mahtava video!"
+   },
+   "options_share_desc_1": {
+      "message": "Eikä! [Theme_Name] -teema selaimessani [LINK] #LiveTaustakuvat #LiveStartPage #TeemanNimi"
+   },
+   "options_share_desc_2": {
+      "message": "Asensin juuri [Theme_Name] -teeman selaimeeni [LINK] #LiveTaustakuvat #LiveStartPage #TeemanNimi"
+   },
+   "options_share_desc_3": {
+      "message": "Vaikea uskoa, mutta [Theme_Name] -teema on nyt selaimessani [LINK] #LiveTaustakuvat #LiveStartPage #TeemanNimi"
+   },
+   "options_share_desc_4": {
+      "message": "Lopultakin! [Theme_Name] -teema selaimessani [LINK] #LiveTaustakuvat #TeemanNimi"
+   },
+   "options_share_hint": {
+      "message": "Valitse yksi seuraavista vaihtoehdoista:"
+   },
+   "options_share_modal_title": {
+      "message": "Näytä tämä mahtava video ystävillesi!"
+   },
+   "options_share_social_description": {
+      "message": "Hanki pääsy 1000+ teemaan from our gallery\u003Cbr>and tell your friends about Live Start Page!"
+   },
+   "options_share_social_popup_btn_unlock": {
+      "description": "#fixed",
+      "message": "Poista lukitus käyttäen"
+   },
+   "options_share_social_popup_text_1": {
+      "message": "Anna meille rakkautta! Tykkää meistä ja tilaa!",
+      "message_old": "Hi! Thanks for using Live Start Page."
+   },
+   "options_share_social_popup_text_2": {
+      "message": "Pyydämme sinulta pientä palvelusta.\u003Cbr>Jaa Live Start Pagen tieddot ystävillesi sosiaalisessa mediassa."
+   },
+   "options_share_social_popup_text_3": {
+      "message": "Jakamisen jälkeen poistamme loppujen 1000+ live-taustakuvan lukituksen sinulta."
+   },
+   "options_share_social_popup_text_4": {
+      "message": "Kiittäen, Live Start Page -tiimi."
+   },
+   "options_share_social_popup_title": {
+      "message": "Live Start Page - Elävät taustakuvat Chromeen"
+   },
+   "options_share_social_text_1": {
+      "message": "Herätin selaimeni eloon tällä uudella tuotteella: [LINK] #LiveTaustakuvat"
+   },
+   "options_share_social_text_2": {
+      "message": "Tämä tuote herätti selaimeni välilehdet eloon! [LINK] #LiveTaustakuvat #LiveStartPage"
+   },
+   "options_share_social_text_3": {
+      "message": "Minulla on liikkuvia taustakuvia selaimessani. Miten se on mahdollista? [LINK] #LiveTaustakuvat #LiveStartPage"
+   },
+   "options_share_social_text_4": {
+      "message": "Nämä live-taustakuvat auttoivat minua keskittymään päivän aikana [LINK] #LiveTaustakuvat #RegainFocus"
+   },
+   "options_share_social_text_5": {
+      "message": "Kun väsyttää tai on tylsää, nautin tästä selaimen lisäosasta [LINK] #LiveTaustakuvat #RegainFocus"
+   },
+   "options_share_social_title": {
+      "message": "Live Start Page"
+   },
+   "options_share_social_url": {
+      "message": "fi"
+   },
+   "options_share_this_video": {
+      "message": "Jaa tämä video ystäviesi kanssa"
+   },
+   "options_share_title": {
+      "message": "Mahtava video!"
+   },
+   "options_speed_dial_generate_type_autopreview_text": {
+      "message": "Automaattiesikatselu + teksti"
+   },
+   "options_speed_dial_generate_type_gallery_autopreview_text": {
+      "message": "Galleria + automaattiesikatselu + teksti"
+   },
+   "options_speed_dial_generate_type_gallery_text": {
+      "message": "Galleria + teksti"
+   },
+   "options_speed_dial_generate_type_text": {
+      "message": "Teksti"
+   },
+   "options_tabs_content_flixel_bg_notice": {
+      "message": "Gallerian tuottaa"
+   },
+   "options_tabs_content_flixer_load_button": {
+      "message": "LATAA LISÄÄ"
+   },
+   "options_tabs_content_live_bg_notice": {
+      "message": "Huomio: Live-taustakuvat saattavat hidastaa tietokonettasi. Aktivoi matalalaatuiset Live-taustakuvat parantaaksesi suorituskykyä"
+   },
+   "options_tabs_content_live_theme_notice": {
+      "message": "Tulossa pian..."
+   },
+   "options_tabs_content_loader_text": {
+      "message": "LADATAAN..."
+   },
+   "options_tabs_delete_from_favorite": {
+      "message": "Haluatko varmasti poistaa suosikeistasi?"
+   },
+   "options_tabs_delete_from_favorite_close": {
+      "message": "Ei"
+   },
+   "options_tabs_delete_from_favorite_confirm": {
+      "message": "Kyllä"
+   },
+   "options_tabs_delete_image": {
+      "message": "Haluatko varmasti poistaa tämän kuvan?"
+   },
+   "options_tabs_delete_theme": {
+      "message": "Haluatko varmasti poistaa tämän videon?"
+   },
+   "options_tabs_delete_theme_close": {
+      "message": "Ei"
+   },
+   "options_tabs_delete_theme_confirm": {
+      "message": "Kyllä"
+   },
+   "options_tabs_download_flixer_bg_error": {
+      "message": "Liikkuvan taustakuvan latausongelma. Yritä myöhemmin uudelleen."
+   },
+   "options_tabs_download_live_bg_error": {
+      "message": "Live-taustakuvan latausongelma. Yritä myöhemmin uudelleen."
+   },
+   "options_tabs_download_no_live_backgrounds": {
+      "message": "Lataa ensin live-taustakuvat, joista pidät"
+   },
+   "options_tabs_download_no_live_themes": {
+      "message": "Lataa ensin live-teemat, joista pidät"
+   },
+   "options_tabs_download_no_walpapers": {
+      "message": "Lataa ensin staattiset taustakuvat, joista pidät"
+   },
+   "options_tabs_download_static_bg_error": {
+      "message": "Staattisen taustakuvan latausongelma. Yritä myöhemmin uudelleen."
+   },
+   "options_tabs_favorite_no_bg": {
+      "message": "Merkitse ensin taustakuvista suosikkisi"
+   },
+   "options_tabs_favorite_no_live_backgrounds": {
+      "message": "Valitse ensin live-taustakuvista suosikkisi"
+   },
+   "options_tabs_favorite_no_live_themes": {
+      "message": "Valitse ensin live-teemoista suosikkisi"
+   },
+   "options_tabs_favorite_no_walpapers": {
+      "message": "Valitse ensin staattisista taustakuvista suosikkisi"
+   },
+   "options_tabs_item_buttons_active": {
+      "description": "#fixed",
+      "message": "AKTIIVINEN"
+   },
+   "options_tabs_item_buttons_active_resolution_1080p_live_bg": {
+      "message": "Paras laatu, hitaampi\n(viiveet mahdollisia)"
+   },
+   "options_tabs_item_buttons_active_resolution_480p_live_bg": {
+      "message": "Paras suorituskyky,\nmatala laatu"
+   },
+   "options_tabs_item_buttons_active_resolution_720p_live_bg": {
+      "message": "Suositeltu.\nHyvä suorituskyky,\nhyvä laatu"
+   },
+   "options_tabs_item_buttons_active_theme": {
+      "description": "#fixed",
+      "message": "AKTIIVINEN"
+   },
+   "options_tabs_item_buttons_active_title_flixer_bg": {
+      "message": "Aktiivinen liikkuva taustakuva"
+   },
+   "options_tabs_item_buttons_active_title_live_bg": {
+      "message": "Aktiivinen live-taustakuva"
+   },
+   "options_tabs_item_buttons_active_title_static_bg": {
+      "message": "Aktiivinen staattinen taustakuva"
+   },
+   "options_tabs_item_buttons_active_title_theme": {
+      "message": "Aktiivinen live-teema"
+   },
+   "options_tabs_item_buttons_control_delete": {
+      "description": "#fixed",
+      "message": "Poista teema"
+   },
+   "options_tabs_item_buttons_control_settings": {
+      "description": "#fixed",
+      "message": "Määritä asetukset"
+   },
+   "options_tabs_item_buttons_disable": {
+      "description": "#fixed",
+      "message": "POISTA KÄYTÖSTÄ"
+   },
+   "options_tabs_item_buttons_disable_title_flixel_bg": {
+      "message": "Poista liikkuva taustakuva käytöstä"
+   },
+   "options_tabs_item_buttons_disable_title_live_bg": {
+      "message": "Poista live-taustakuva käytöstä"
+   },
+   "options_tabs_item_buttons_disable_title_static_bg": {
+      "message": "Poista staattinen taustakuva käytöstä"
+   },
+   "options_tabs_item_buttons_download": {
+      "description": "#fixed",
+      "message": "Ladataan"
+   },
+   "options_tabs_item_buttons_download_content": {
+      "description": "#fixed",
+      "message": "Ladataan sisältöä"
+   },
+   "options_tabs_item_buttons_download_flixel": {
+      "description": "#fixed",
+      "message": "Asennetaan"
+   },
+   "options_tabs_item_buttons_download_flixel_content": {
+      "description": "#fixed",
+      "message": "Asennetaan sisältöä"
+   },
+   "options_tabs_item_buttons_enable": {
+      "description": "#fixed",
+      "message": "OTA KÄYTTÖÖN"
+   },
+   "options_tabs_item_buttons_enable_title_flixer_bg": {
+      "message": "Ota liikkuva taustakuva käyttöön"
+   },
+   "options_tabs_item_buttons_enable_title_live_bg": {
+      "message": "Ota live-taustakuva käyttöön"
+   },
+   "options_tabs_item_buttons_enable_title_static_bg": {
+      "message": "Ota staattinen taustakuva käyttöön"
+   },
+   "options_tabs_item_buttons_favorite": {
+      "message": "Lisää suosikkeihin"
+   },
+   "options_tabs_item_buttons_favorite_remove": {
+      "message": "Poista suosikeista"
+   },
+   "options_tabs_item_buttons_install": {
+      "description": "#fixed",
+      "message": "ASENNA"
+   },
+   "options_tabs_item_buttons_install_flixer": {
+      "description": "#fixed",
+      "message": "ASENNA"
+   },
+   "options_tabs_item_buttons_install_select_quality": {
+      "description": "#fixed",
+      "message": "Valitse laatu"
+   },
+   "options_tabs_item_buttons_install_title_flixer_bg": {
+      "message": "Sinun pitää ensin asentaa se"
+   },
+   "options_tabs_item_buttons_install_title_live_bg": {
+      "message": "Sinun pitää ensin asentaa se"
+   },
+   "options_tabs_item_buttons_install_title_static_bg": {
+      "message": "Sinun pitää ensin asentaa se"
+   },
+   "options_tabs_item_buttons_install_title_theme": {
+      "message": "Sinun pitää ensin ladata tämä teema Chrome Webstoresta"
+   },
+   "options_tabs_item_buttons_more_flixel_content_title": {
+      "message": "Lataa lisää taustakuvia osoitteesta http://flixel.com"
+   },
+   "options_tabs_item_buttons_restore": {
+      "description": "#fixed",
+      "message": "PALAUTA TEEMA"
+   },
+   "options_tabs_item_buttons_restore_title": {
+      "message": "Palauta Chromen oletusteema"
+   },
+   "options_tabs_item_buttons_view_live_bg": {
+      "description": "#fixed",
+      "message": "NÄYTÄ TEEMA"
+   },
+   "options_tabs_item_buttons_view_title_flixel_bg": {
+      "message": "Näytä aktiivinen liikkuva taustakuva uudella välilehdellä"
+   },
+   "options_tabs_item_buttons_view_title_live_bg": {
+      "message": "Näytä aktiivinen live-taustakuva uudella välilehdellä"
+   },
+   "options_tabs_item_chanel_description_text_flixel_bg": {
+      "message": "Luonut"
+   },
+   "options_tabs_item_chanel_description_text_flixel_bg_handmade": {
+      "message": "Animoinut"
+   },
+   "options_tabs_item_chanel_description_title_flixel_bg": {
+      "message": "Siirry kanavalle"
+   },
+   "options_tabs_item_disable": {
+      "description": "#fixed",
+      "message": "POISTA TAUSTAKUVA KÄYTÖSTÄ"
+   },
+   "options_tabs_item_note_random_background_on_options_page": {
+      "message": "Huomio: Vain suosikiksi merkityt taustakuvat näytetään sattumanvaraisesti"
+   },
+   "options_tabs_item_note_random_background_on_options_page_downloaded": {
+      "message": "Huomio: Kaikki ladatut taustakuvat näytetään sattumanvaraisesti"
+   },
+   "options_tabs_item_restore": {
+      "description": "#fixed",
+      "message": "Oletusteema"
+   },
+   "options_tabs_item_tiles_theme_title_live_bg": {
+      "message": "Tämä live-taustakuva on jo ladattu"
+   },
+   "options_tabs_item_tiles_theme_title_live_bg_button": {
+      "message": "video"
+   },
+   "options_tabs_item_tiles_theme_title_static_bg": {
+      "message": "Tämä staattinen taustakuva on jo ladattu"
+   },
+   "options_tabs_item_tiles_theme_title_static_bg_button": {
+      "message": "kuva"
+   },
+   "options_tabs_title_flixel_bg": {
+      "message": "Live-taustakuvat"
+   },
+   "options_tabs_title_live_bg": {
+      "message": "Live-taustakuvat (VANHA)"
+   },
+   "options_tabs_title_live_theme": {
+      "message": "Live-teemat"
+   },
+   "options_tabs_title_static_bg": {
+      "message": "Staattiset taustakuvat"
+   },
+   "or": {
+      "message": "Tai"
+   },
+   "other_browser_chrome": {
+      "message": "Asenna LiveStartPage Google Chromeen"
+   },
+   "other_browser_firefox": {
+      "message": "Asenna LiveStartPage Firefoxiin"
+   },
+   "other_browser_opera": {
+      "message": "Asenna LiveStartPage Operaan"
+   },
+   "page_bottom_notice_settings": {
+      "description": "#fixed",
+      "message": "Napsauta \u003Cb>asetukset\u003C/b> vaihtaaksesi live-taustakuvaa"
+   },
+   "page_clock_hour_label": {
+      "description": "#fixed",
+      "message": "Tunti"
+   },
+   "page_clock_hours_label": {
+      "description": "#fixed",
+      "message": "Tunnit"
+   },
+   "page_clock_minute_label": {
+      "description": "#fixed",
+      "message": "Minuutti"
+   },
+   "page_clock_minutes_label": {
+      "description": "#fixed",
+      "message": "Minuutit"
+   },
+   "page_clock_second_label": {
+      "description": "#fixed",
+      "message": "Sekunti"
+   },
+   "page_clock_seconds_label": {
+      "description": "#fixed",
+      "message": "Sekunnit"
+   },
+   "page_created_link": {
+      "message": "Luonut"
+   },
+   "page_created_link_handmade": {
+      "message": "Animoinut"
+   },
+   "page_dial_context_menu_copy_url_dial": {
+      "message": "Kopioi URL"
+   },
+   "page_dial_context_menu_delete_dial": {
+      "message": "Piilota pikavalinta"
+   },
+   "page_dial_context_menu_dials_size": {
+      "message": "Vaihda kokoa"
+   },
+   "page_dial_context_menu_edit_dial": {
+      "message": "Muokkaa pikavalintaa"
+   },
+   "page_dial_context_menu_gallery_thumb": {
+      "message": "Galleria-pikakuvake"
+   },
+   "page_dial_context_menu_open_background_thumb": {
+      "message": "Avaa taustavälilehdessä"
+   },
+   "page_dial_context_menu_open_current_thumb": {
+      "message": "Avaa nykyisessä välilehdessä"
+   },
+   "page_dial_context_menu_open_incognito_thumb": {
+      "message": "Avaa incognito-ikkunassa"
+   },
+   "page_dial_context_menu_open_new_thumb": {
+      "message": "Avaa uudessa välilehdessä"
+   },
+   "page_dial_context_menu_refresh_dial": {
+      "message": "Päivitä"
+   },
+   "page_dial_context_menu_screen_thumb": {
+      "message": "Näyttö-pikakuvake"
+   },
+   "page_dial_context_menu_text_thumb": {
+      "message": "Teksti-pikakuvake"
+   },
+   "page_dial_thumb_load_gallery_problem": {
+      "message": "Ei kuvaa tälle sivulle"
+   },
+   "page_dials_default_group_title": {
+      "message": "Oletus"
+   },
+   "page_dials_new_group_title": {
+      "message": "Lisää uusi ryhmä"
+   },
+   "page_dials_notification_message": {
+      "message": "\u003Cb>Kaksoisnapsauta\u003C/b> nähdäksesi pikavalinnat"
+   },
+   "page_dials_popular_group_title": {
+      "message": "Vierailluimmat"
+   },
+   "page_done_todo_list_description": {
+      "message": "Hyvää työtä!"
+   },
+   "page_done_todo_list_title": {
+      "message": "Kaikki valmiina"
+   },
+   "page_empty_todo_list_description": {
+      "message": "Lisää tehtävä aloittaaksesi"
+   },
+   "page_empty_todo_list_title": {
+      "message": "Ei tehtävää"
+   },
+   "page_error_flixer_bg_not_found": {
+      "message": "Liikkuvaa taustakuvaa ei löytynyt"
+   },
+   "page_error_live_bg_load_problem": {
+      "message": "Live-taustakuvan latausongelma"
+   },
+   "page_error_live_bg_not_found": {
+      "message": "Live-taustakuvaa ei löytynyt"
+   },
+   "page_error_static_bg_load_problem": {
+      "message": "Staattisen taustakuvan latausongelma"
+   },
+   "page_error_static_bg_not_found": {
+      "message": "Staattista taustakuvaa ei löytynyt"
+   },
+   "page_error_theme_config_not_found": {
+      "message": "Teeman määritystä ei löytynyt"
+   },
+   "page_footer_description_close": {
+      "message": "Älä näytä tätä viestiä uudelleen"
+   },
+   "page_footer_rate_us": {
+      "message": "Arvioi meidät!"
+   },
+   "page_footer_settings_link": {
+      "message": "Asetukset"
+   },
+   "page_footer_themes_link": {
+      "message": "Teemat"
+   },
+   "page_footer_toggle_display_links_title_hide": {
+      "message": "Piilota paneeli"
+   },
+   "page_footer_toggle_display_links_title_show": {
+      "message": "Näytä paneeli"
+   },
+   "page_footer_visible_dials_link_off": {
+      "message": "Piilota pikavalinnat tai kaksoisnapsauta tyhjää taustakuvaa"
+   },
+   "page_footer_visible_dials_link_on": {
+      "message": "Näytä pikavalinnat tai kaksoisnapsauta tyhjää taustakuvaa"
+   },
+   "page_group_context_menu_add_dial": {
+      "message": "Lisää pikavalinta"
+   },
+   "page_group_context_menu_delete": {
+      "message": "Poista ryhmä"
+   },
+   "page_group_context_menu_rename": {
+      "message": "Nimeä uudelleen"
+   },
+   "page_header_bookmarks": {
+      "message": "Näytä kirjanmerkkipalkki"
+   },
+   "page_header_bookmarks_help_img": {
+      "message": "fi"
+   },
+   "page_header_links_apps": {
+      "message": "Sovellukset"
+   },
+   "page_header_links_apps_img": {
+      "message": "Chrome-sovellukset -sivu"
+   },
+   "page_meta_description": {
+      "message": "Live Start Page - Jokapäiväinen inspiraationi..."
+   },
+   "page_meta_keywords": {
+      "message": "Sovellus, live, aloitus, sivu, selain"
+   },
+   "page_meta_title": {
+      "message": "Uusi välilehti"
+   },
+   "page_new_dial_tooltip": {
+      "message": "Lisää uusi pikavalinta"
+   },
+   "page_privacy_link": {
+      "message": "Tietosuojakäytäntö"
+   },
+   "page_relax_done_btn": {
+      "message": "Valmis (ESC)"
+   },
+   "page_relax_start_btn": {
+      "message": "Aloita meditointi"
+   },
+   "page_relax_start_title": {
+      "message": "Rentoudu ja keskity! Nauti elävistä kuvista"
+   },
+   "page_search_form_button_text": {
+      "description": "#fixed",
+      "message": "Hae"
+   },
+   "page_search_placeholder": {
+      "message": "Suorita haku..."
+   },
+   "page_sidebar_add_group": {
+      "message": "Lisää ryhmä"
+   },
+   "page_sidebar_title": {
+      "message": "Ryhmät"
+   },
+   "page_sidebar_toggle_button_title_off": {
+      "message": "Piilota sivupalkki"
+   },
+   "page_sidebar_toggle_button_title_on": {
+      "message": "Näytä sivupalkki"
+   },
+   "page_speed_dials_close_title": {
+      "message": "Älä näytä tällä sivulla"
+   },
+   "page_speed_dials_search_title": {
+      "message": "Hae"
+   },
+   "page_speed_dials_settings_title": {
+      "message": "Asetukset"
+   },
+   "page_terms_link": {
+      "message": "Käyttöehdot"
+   },
+   "page_tiles_remove_text": {
+      "message": "Pikakuvake poistettu"
+   },
+   "page_tiles_restore_text": {
+      "message": "Peru"
+   },
+   "page_todo_footer_input": {
+      "description": "#fixed",
+      "message": "Syötä uusi tehtävä"
+   },
+   "page_todo_footer_input_submit": {
+      "description": "#fixed",
+      "message": "Lisää uusi"
+   },
+   "page_todo_header_counter_text": {
+      "description": "#fixed",
+      "message": "valmis"
+   },
+   "page_todo_header_toggle": {
+      "description": "#fixed",
+      "message": "Valmistuneet tehtävät"
+   },
+   "page_todo_link": {
+      "message": "Tehtävät"
+   },
+   "page_voice_search_form_button_text": {
+      "message": "Äänihaku"
+   },
+   "panel_back": {
+      "message": "\u003C Takaisin"
+   },
+   "panel_contact_us": {
+      "message": "Ota yhteyttä"
+   },
+   "panel_group_name": {
+      "message": "Ryhmän nimi:"
+   },
+   "panel_login": {
+      "message": "Kirjaudu sisään"
+   },
+   "panel_logout": {
+      "message": "Kirjaudu ulos"
+   },
+   "panel_new_tab": {
+      "message": "Avaa LSP"
+   },
+   "panel_save_all_opened_tabs": {
+      "message": "Tallenna kaikki avoimet välilehdet"
+   },
+   "panel_save_current_tab": {
+      "message": "Tallenna nykyinen välilehti"
+   },
+   "panel_save_done": {
+      "message": "VALMIS!"
+   },
+   "panel_save_some_opened_tabs": {
+      "message": "Valitse ja tallenna välilehdet"
+   },
+   "panel_save_tabs": {
+      "message": "Tallenna välilehdet"
+   },
+   "panel_select_theme": {
+      "message": "Valitse teema"
+   },
+   "panel_select_unselect": {
+      "message": "Valitse kaikki / poista valinnat"
+   },
+   "panel_set_as_new_tab": {
+      "message": "aseta uudeksi välilehdeksi"
+   },
+   "panel_settings": {
+      "message": "Asetukset"
+   },
+   "passcode_email_body": {
+      "message": "\u003C!DOCTYPE html>\u003Chtml>\u003Chead>\u003C/head>\u003Cbody>\u003Cp style='font-size:30px;'>Live Start Page!\u003C/p>\u003Cp>Voit nollata pääsykoodisi syöttämällä tämän koodin pääsykoodi-kenttään selaimesi aloitussivulla: \u003Cmark style='padding:2px 4px; border:1px dashed gray'>\u003Cstrong>[code]\u003C/strong>\u003C/mark>\u003C/p>\u003Cp>Voit myös kopioida ja liittää linkin selaimesi Live Start Page -lisäosaan:\u003C/p>\u003C/td>\u003C/tr>\u003C/table>\u003C/body>\u003C/html>"
+   },
+   "passcode_email_subject": {
+      "message": "Live Start Pagen palautuskoodi"
+   },
+   "passcode_newtab_forgot": {
+      "message": "Unohtuiko pääsykoodi?"
+   },
+   "passcode_newtab_head": {
+      "message": "Syötä pääsykoodi poistaaksesi lukituksen"
+   },
+   "passcode_newtab_question": {
+      "message": "Haluatko nollata pääsykoodisi sähköpostisi avulla"
+   },
+   "passcode_newtab_unlock": {
+      "message": "Poista lukitus"
+   },
+   "passcode_settings_navi": {
+      "message": "Pääsykoodi"
+   },
+   "passcode_settings_pass_btn_cancel": {
+      "message": "Peruuta"
+   },
+   "passcode_settings_pass_btn_change": {
+      "message": "Vaihda pääsykoodi"
+   },
+   "passcode_settings_pass_btn_changed": {
+      "message": "Vaihdettu"
+   },
+   "passcode_settings_pass_btn_delete": {
+      "message": "Poista pääsykoodi"
+   },
+   "passcode_settings_pass_btn_deleted": {
+      "message": "Poistettu"
+   },
+   "passcode_settings_pass_btn_done": {
+      "message": "VALMIS!"
+   },
+   "passcode_settings_pass_btn_restore": {
+      "message": "Nollaa pääsykoodi"
+   },
+   "passcode_settings_pass_btn_set": {
+      "message": "Aseta pääsykoodi"
+   },
+   "passcode_settings_pass_current": {
+      "message": "Nykyinen pääsykoodi"
+   },
+   "passcode_settings_pass_current_wrong": {
+      "message": "Väärä pääsykoodi!"
+   },
+   "passcode_settings_pass_doesnt_match": {
+      "message": "Pääsykoodit eivät täsmää"
+   },
+   "passcode_settings_pass_email": {
+      "message": "Palautussähköposti:"
+   },
+   "passcode_settings_pass_email_input": {
+      "message": "Sähköposti"
+   },
+   "passcode_settings_pass_have_set": {
+      "message": "Olet asettanut pääsykoodin!"
+   },
+   "passcode_settings_pass_new": {
+      "message": "Uusi pääsykoodi"
+   },
+   "passcode_settings_pass_please": {
+      "message": "Täytä"
+   },
+   "passcode_settings_pass_repeat": {
+      "message": "Toista pääsykoodi:"
+   },
+   "passcode_settings_pass_repeat_input": {
+      "message": "Toista"
+   },
+   "passcode_settings_pass_restore_success": {
+      "message": "Seuraa sähköpostin ohjeita."
+   },
+   "passcode_settings_pass_restore_text": {
+      "message": "Jos unohdat pääsykoodin, voit palauttaa sen sähköpostisi avulla: "
+   },
+   "passcode_settings_pass_set": {
+      "message": "Aseta pääsykoodi:"
+   },
+   "passcode_settings_pass_set_input": {
+      "message": "Pääsykoodi"
+   },
+   "passcode_settings_pass_wrong_email": {
+      "message": "Täytä oikea sähköposti"
+   },
+   "passcode_settings_promo_btn": {
+      "message": "Ota suojaus käyttöön"
+   },
+   "passcode_settings_tab_basic_h": {
+      "message": "Pääsykoodi"
+   },
+   "passcode_settings_tab_change_h": {
+      "message": "Vaihda"
+   },
+   "passcode_settings_tab_restore_h": {
+      "message": "Palauta"
+   },
+   "passcode_settings_title": {
+      "message": "Suojaa pääsykoodilla"
+   },
+   "passcode_successfully_cleared": {
+      "message": "Pääsykoodi nollattu onnistuneesti nollauskoodin avulla"
+   },
+   "photo_gallery_search_button": {
+      "message": "Hae"
+   },
+   "photo_gallery_search_placeholder": {
+      "message": "Kirjoita tägejä hakeaksesi"
+   },
+   "photo_gallery_tab": {
+      "message": "Valokuvapalvelu"
+   },
+   "pick_url_from": {
+      "message": "Valitse URL kohteesta"
+   },
+   "pick_url_opened": {
+      "message": "Avoimet välilehdet"
+   },
+   "pick_url_popular": {
+      "message": "Suosituimmat"
+   },
+   "pick_url_visited": {
+      "message": "Vierailluimmat"
+   },
+   "popup_add_user_flixel_body_code": {
+      "message": "Käytä kuponkikoodi \u003Cspan class='popup-add-user-flixel-body-app-name'>LiveStart\u003C/span> saadaksesi \u003Cspan class='popup-add-user-flixel-body-app-discount'>10 %\u003C/span> alennusta!"
+   },
+   "popup_add_user_flixel_body_link_how_create": {
+      "message": "Miten luodaan Cinemagraafi-video"
+   },
+   "popup_add_user_flixel_body_link_how_create_fb": {
+      "message": "Miten luodaan Cinemagraafi-videoprofiili Facebookiin"
+   },
+   "popup_add_user_flixel_body_links_text": {
+      "message": "Pikalinkit:"
+   },
+   "popup_add_user_flixel_body_text": {
+      "message": "Cinemagraafit ovat uusia jännittäviä medioita, jotka sijoittuvat valokuvan ja videon välimaastoon. Flixel Cinemagraph Pro on maailman helpoin tapa luoda niitä."
+   },
+   "popup_add_user_flixel_link_cloud": {
+      "message": "Flixel Cloud"
+   },
+   "popup_add_user_flixel_link_iphone": {
+      "message": "Flixel iPhonelle"
+   },
+   "popup_add_user_flixel_link_mac": {
+      "message": "Flixel Macille"
+   },
+   "popup_add_user_flixel_title": {
+      "message": "Luo omat elävät kuvasi Flixel-palvelussa"
+   },
+   "popup_feedback_dialog_button_submit": {
+      "message": "LÄHETÄ VIESTI"
+   },
+   "popup_feedback_dialog_field_error_format_email_text": {
+      "message": "Virheellinen sähköpostin muoto"
+   },
+   "popup_feedback_dialog_field_error_required_email_text": {
+      "message": "Sähköposti vaaditaan"
+   },
+   "popup_feedback_dialog_field_error_required_subject_text": {
+      "message": "Aihe vaaditaan"
+   },
+   "popup_feedback_dialog_field_error_too_low_subject_text": {
+      "message": "Aihe on liian lyhyt. Minimi 6 merkkiä"
+   },
+   "popup_feedback_dialog_field_required_text": {
+      "message": "(vaaditaan)"
+   },
+   "popup_feedback_dialog_label_description": {
+      "message": "Kuvaus"
+   },
+   "popup_feedback_dialog_label_email": {
+      "message": "Sähköpostisi"
+   },
+   "popup_feedback_dialog_label_subject": {
+      "message": "Aihe"
+   },
+   "popup_feedback_dialog_success_button_text": {
+      "message": "SULJE"
+   },
+   "popup_feedback_dialog_success_text": {
+      "message": "Kiitos palautteestasi!"
+   },
+   "popup_feedback_dialog_title": {
+      "message": "Lähetä meille ehdotus tai tietoa virheestä"
+   },
+   "popup_live_bg_apply": {
+      "description": "#fixed",
+      "message": "OTA KÄYTTÖÖN"
+   },
+   "popup_live_bg_cancel": {
+      "description": "#fixed",
+      "message": "ÄLÄ NÄYTÄ"
+   },
+   "popup_live_bg_text": {
+      "description": "#fixed",
+      "message": "Lataa live-taustakuva..."
+   },
+   "popup_live_bg_title": {
+      "description": "#fixed",
+      "message": "LATAA LIVE-TAUSTAKUVA"
+   },
+   "popup_restore_default_theme_open_settings": {
+      "message": "Avaa Chromen asetukset tai seuraa tätä linkkiä"
+   },
+   "popup_restore_default_theme_open_settings_text2": {
+      "message": "ja napsauta \"Palauta oletusarvo\" -painiketta."
+   },
+   "popup_restore_default_theme_title": {
+      "message": "Palauta Chromen oletusteema"
+   },
+   "popup_static_bg_updating": {
+      "description": "#fixed",
+      "message": "Ladataan taustakuvaa..."
+   },
+   "popup_welcome_options_body_text1": {
+      "message": "Näyttää siltä, ettei sinulla ole vielä yhtään live-taustakuva. Valitse yksi sadoista ja nauti!"
+   },
+   "popup_welcome_options_body_text2": {
+      "message": "Ota meihin koska tahansa yhteyttä käyttämällä palaute-painiketta."
+   },
+   "popup_welcome_options_not_show": {
+      "message": "Älä näytä tätä viestiä uudelleen"
+   },
+   "popup_welcome_options_title": {
+      "message": "Tervetuloa Live Start Pageen"
+   },
+   "preload_modal_break": {
+      "message": "Peruuta lataus"
+   },
+   "preload_modal_button": {
+      "message": "Sulje ja lataa taustalla"
+   },
+   "preload_modal_done": {
+      "message": "VALMIS!"
+   },
+   "preload_modal_note": {
+      "message": "Huomio: Voit ladata satoja taustakuvia galleriastamme!"
+   },
+   "preload_modal_status": {
+      "message": "Lataamme tausakuvaasi. Odota.."
+   },
+   "preload_modal_text": {
+      "message": "Tervetuloa LiveStartPagen pariin"
+   },
+   "preload_modal_title": {
+      "message": "Aloitetaan"
+   },
+   "preview_back": {
+      "message": "\u003C Takaisin"
+   },
+   "preview_best": {
+      "message": "Suosituimmat"
+   },
+   "preview_local_image": {
+      "message": "Paikallinen kuva"
+   },
+   "preview_maxsize_text": {
+      "message": "Kuvan maksimikoko in 512 kb"
+   },
+   "preview_maxsize_title": {
+      "message": "Huomio"
+   },
+   "preview_mode_auto": {
+      "message": "Auto"
+   },
+   "preview_mode_custom": {
+      "message": "Mukautettu kuva"
+   },
+   "preview_mode_text": {
+      "message": "Teksti-pikavalinta"
+   },
+   "preview_mode_title": {
+      "message": "Pikavalinnan esikatselu"
+   },
+   "preview_new": {
+      "message": "Uusimmat"
+   },
+   "preview_no_image": {
+      "message": "Ei kuvia tälle domainille"
+   },
+   "preview_order": {
+      "message": "Järjestys"
+   },
+   "preview_show_more": {
+      "message": "Näytä lisää"
+   },
+   "preview_url_image": {
+      "message": "URL"
+   },
+   "preview_violation_button": {
+      "message": "Sopimaton"
+   },
+   "preview_violation_status": {
+      "message": "Kiitos!"
+   },
+   "preview_violation_title": {
+      "message": "Raportoi kuva"
+   },
+   "queue_over_dialog_ok": {
+      "message": "Sulje"
+   },
+   "queue_over_dialog_text": {
+      "message": "# teemaa ladataan. Odota valmistumista."
+   },
+   "read_faq": {
+      "message": "Lue UKK"
+   },
+   "register_error": {
+      "message": "Virhe rekisteröitymisessä!"
+   },
+   "register_success": {
+      "message": "Olet rekisteröitynyt onnistuneesti"
+   },
+   "relax_auto_shuffle": {
+      "message": "Automaattinen sekoitus"
+   },
+   "relax_auto_shuffle_video": {
+      "message": "Sekoita videot automaattisesti"
+   },
+   "relax_exit_and_keep_playing": {
+      "message": "Poistu ja jatka toistoa"
+   },
+   "relax_sounds": {
+      "message": "Äänet"
+   },
+   "relax_space_bar_hint": {
+      "message": "Toista ja keskeytä toisto välilyönnillä"
+   },
+   "rename_group_dialog_title": {
+      "message": "Nimeä ryhmä uudelleen"
+   },
+   "restore_email": {
+      "message": "Kirjautumissähköposti"
+   },
+   "restore_error": {
+      "message": "Virhe salasanan palauttamisessa!"
+   },
+   "restore_success": {
+      "message": "Palautusohjeet on lähetetty sähköpostiisi"
+   },
+   "search_no_themes_found": {
+      "message": "Teemoja ei löytynyt"
+   },
+   "search_settings_button": {
+      "message": "Määritä hakuasetukset"
+   },
+   "search_themes_found": {
+      "message": "Löydetty [N] teema(a)"
+   },
+   "selected_txt": {
+      "message": "(Valittu)"
+   },
+   "server_code_24": {
+      "message": "Käyttäjä on jo olemassa"
+   },
+   "server_code_4": {
+      "message": "Tämä tili on jo olemassa. Kokeile kirjautua sisään."
+   },
+   "server_code_6": {
+      "message": "Väärä salasana"
+   },
+   "server_code_7": {
+      "message": "Käyttäjää ei löydy"
+   },
+   "server_code_9": {
+      "message": "Palvelinvirhe"
+   },
+   "settings_block_main_header": {
+      "message": "Pääasetukset"
+   },
+   "settings_search_engine_label": {
+      "message": "Näytä hakukoneen otsikko"
+   },
+   "settings_show_lsp_as_new_tab": {
+      "message": "Näytä LiveStartPage uudessa välilehdessä"
+   },
+   "show_bookmarks_bar": {
+      "message": "Näytä kirjanmerkkipalkki"
+   },
+   "slash": {
+      "message": "kauttaviiva (/)"
+   },
+   "small": {
+      "message": "Pieni"
+   },
+   "social_group_fb": {
+      "message": "Facebook"
+   },
+   "social_group_ok": {
+      "message": "OK-ryhmä"
+   },
+   "social_group_twitter": {
+      "message": "Twitter"
+   },
+   "social_group_vk": {
+      "message": "VK-ryhmä"
+   },
+   "social_share_fb": {
+      "message": "Jaa Facebookissa"
+   },
+   "social_share_ok": {
+      "message": "Jaa Odnoklassnikissa"
+   },
+   "social_share_twitter": {
+      "message": "Jaa Twitterissä"
+   },
+   "social_share_vk": {
+      "message": "Jaa Vkontaktessa"
+   },
+   "space": {
+      "message": "välilyönti"
+   },
+   "subscribe_disable": {
+      "message": "Älä näytä enää"
+   },
+   "subscribe_fb_note": {
+      "message": "Huomio: Facebook tarvitsee kaksoisnapsautuksen!"
+   },
+   "subscribe_follow": {
+      "message": "Follow"
+   },
+   "subscribe_text": {
+      "message": "Tykkää meistä ja tilaa saadaksesi viimeisimmät uutisemme ja päivityksemme liittyen siisteihin ominaisuuksiin!"
+   },
+   "subscribe_title": {
+      "message": "Tilaa"
+   },
+   "support_this_product": {
+      "message": "Tue tätä tuotetta"
+   },
+   "support_this_product_desc": {
+      "message": "Noin 68 % ihmisistä valitsee LiveStartPage-hakukoneen (sponsoroitu) tukeakseen kehitystä ja tehdäkseen tuotteesta paremman."
+   },
+   "sync_button_footer": {
+      "message": "Synkronoi tietosi"
+   },
+   "sync_decide_btn_client": {
+      "message": "Lataa palvelimelle"
+   },
+   "sync_decide_btn_client_hint": {
+      "message": "Käytä tietokoneen tietoja (Huomio: Palvelimen tiedot ylikirjoitetaan)"
+   },
+   "sync_decide_btn_merge": {
+      "message": "Yhdistä"
+   },
+   "sync_decide_btn_merge_hint": {
+      "message": "Palvelimen ja tietokoneen tiedot yhdistetään (Huomio: Palvelimella on korkeampi prioriteetti)"
+   },
+   "sync_decide_btn_recomended": {
+      "message": "(Suositeltu)"
+   },
+   "sync_decide_btn_server": {
+      "message": "Lataa"
+   },
+   "sync_decide_btn_server_hint": {
+      "message": "Käytä palvelimen tietoja (Huomio: Tietokoneen tiedot ylikirjoitetaan)"
+   },
+   "sync_decide_clean": {
+      "message": "Ennen synkronoinnin aloitusta,"
+   },
+   "sync_decide_confirm_cancel": {
+      "message": "Peruuta"
+   },
+   "sync_decide_confirm_client": {
+      "message": "LiveStartPage-palvelimen tiedot ylikirjoitetaan tämän selaimen tiedoilla"
+   },
+   "sync_decide_confirm_merge": {
+      "message": "LiveStartPage-palvelimen tiedot yhdistetään tämän selaimen tietojen kanssa"
+   },
+   "sync_decide_confirm_server": {
+      "message": "Tämän selaimen tiedot ylikirjoitetaan palvelimen tiedoilla"
+   },
+   "sync_decide_confirm_start": {
+      "message": "Aloita synkronointi"
+   },
+   "sync_decide_confirm_title": {
+      "message": "Vahvista toiminto!"
+   },
+   "sync_decide_data": {
+      "message": "Näyttää siltä, että olit kirjautunut toiselle tilille"
+   },
+   "sync_decide_footer_text": {
+      "message": "Tiedoilla tarkoitetaan asetuksiasi, tehtäviäsi, kirjanmerkkejäsi jne.."
+   },
+   "sync_decide_title": {
+      "message": "Synkronointiasetukset"
+   },
+   "sync_decide_variant": {
+      "message": "valitse joku seuraavista toiminnoista:"
+   },
+   "sync_link_text": {
+      "message": "Synkronoi"
+   },
+   "sync_login_button": {
+      "message": "Kirjaudu sisään"
+   },
+   "sync_login_email": {
+      "message": "Sähköpostisi"
+   },
+   "sync_login_login": {
+      "message": "Kirjaudu olemassa olevalle tilille"
+   },
+   "sync_login_pass": {
+      "message": "Salasanasi"
+   },
+   "sync_login_register": {
+      "message": "Rekisteröi uusi tili"
+   },
+   "sync_login_restore": {
+      "message": "Palauta salasana"
+   },
+   "sync_manual": {
+      "message": "Manuaalinen synkronointi"
+   },
+   "sync_modal_close": {
+      "message": "Sulje"
+   },
+   "sync_reg_email": {
+      "message": "Sähköposti"
+   },
+   "sync_reg_pass": {
+      "message": "Salasana"
+   },
+   "sync_reg_subscribe": {
+      "message": "Tilaat palvelun päivitykset"
+   },
+   "sync_reg_terms": {
+      "message": "Käyttöehdot"
+   },
+   "sync_reg_txt": {
+      "message": "Rekisteröitymällä hyväksyt"
+   },
+   "sync_register_button": {
+      "message": "Rekisteröi"
+   },
+   "sync_restore_button": {
+      "message": "Palauta salasana"
+   },
+   "sync_status_err": {
+      "message": "Synkronointi epäonnistui"
+   },
+   "sync_status_ok": {
+      "message": "Synkronointi valmis"
+   },
+   "terms_of_service": {
+      "message": "Käyttöehdot"
+   },
+   "theme_files_lost": {
+      "message": "Lataa teema uudelleen palvelimelle."
+   },
+   "themes_search_button_text": {
+      "message": "Hae"
+   },
+   "themes_search_text": {
+      "message": "Syötä teeman otsikko..."
+   },
+   "time_min": {
+      "message": "Min"
+   },
+   "time_sec": {
+      "message": "Sek"
+   },
+   "tour_start_back": {
+      "message": "Takaisin"
+   },
+   "tour_start_button": {
+      "message": "Ok, ymmärsin!"
+   },
+   "tour_start_close": {
+      "message": "Sulje"
+   },
+   "tour_start_head": {
+      "message": "Pikavinkit"
+   },
+   "tour_start_next": {
+      "message": "Seuraava"
+   },
+   "tour_start_relax": {
+      "message": "Käytä tätä painiketta siirtyäksesi meditointitilaan"
+   },
+   "tour_start_tip_dials": {
+      "message": "Näytä/piilota kirjanmerkkilaatat"
+   },
+   "tour_start_tip_group_click": {
+      "message": "Napsauta näyttääksesi/piilottaaksesi tämän paneelin"
+   },
+   "tour_start_tip_group_organize": {
+      "message": "Järjestä kirjanmerkkilaatat (Pikavalinnat) ryhmiin"
+   },
+   "tour_start_tip_settings": {
+      "message": "Napsauta päästäksesi asetuksiin tai asentamaan uutta teemaa"
+   },
+   "tour_start_tip_tasks": {
+      "message": "Näytä/piilota tehtävät"
+   },
+   "tree_also_available": {
+      "message": "LSP myös täällä"
+   },
+   "tree_backgrounds": {
+      "message": "Taustakuvat"
+   },
+   "tree_bg_active": {
+      "message": "Aktiivinen taustakuva"
+   },
+   "tree_bg_downloaded": {
+      "message": "Ladatut"
+   },
+   "tree_bg_favorites": {
+      "message": "Suosikit"
+   },
+   "tree_bg_live": {
+      "message": "Live-taustakuvat"
+   },
+   "tree_bg_static": {
+      "message": "Staattiset taustakuvat"
+   },
+   "tree_bg_themes": {
+      "message": "Live-teemat"
+   },
+   "tree_faq": {
+      "message": "UKK ja palaute"
+   },
+   "tree_follow_us": {
+      "message": "Liity meihin"
+   },
+   "tree_for_chrome": {
+      "message": "LSP Chromelle"
+   },
+   "tree_for_firefox": {
+      "message": "LSP Firefoxille"
+   },
+   "tree_for_opera": {
+      "message": "LSP Operalle"
+   },
+   "tree_greeting": {
+      "message": "Muista, olet mahtava!"
+   },
+   "tree_settings": {
+      "message": "Asetukset"
+   },
+   "tree_tell": {
+      "message": "Jaa kokemuksesi"
+   },
+   "upload_image_dialog_apply": {
+      "message": "Käytä"
+   },
+   "upload_image_dialog_choise": {
+      "message": "Valitse tiedosto"
+   },
+   "upload_image_dialog_close": {
+      "message": "Peruuta"
+   },
+   "upload_image_dialog_error_file": {
+      "message": "Valitse paikallinen tiedosto tai syötä URL!"
+   },
+   "upload_image_dialog_error_title": {
+      "message": "Syötä teeman otsikko!"
+   },
+   "upload_image_dialog_error_url": {
+      "message": "Syötä oikea kuvan URL!"
+   },
+   "upload_image_dialog_or": {
+      "message": "TAI"
+   },
+   "upload_image_dialog_placeholder": {
+      "message": "Kuvasi otsikko"
+   },
+   "upload_image_dialog_title": {
+      "message": "Lataa kuvasi palvelimelle"
+   },
+   "upload_image_name": {
+      "message": "Otsikko"
+   },
+   "upload_image_progress_text": {
+      "message": "Ladataan..."
+   },
+   "upload_image_url": {
+      "message": "URL"
+   },
+   "vals_randomize_both": {
+      "message": "Live- ja staattiset taustakuvat"
+   },
+   "vals_randomize_disabled": {
+      "message": "Pois käytöstä"
+   },
+   "vals_randomize_images": {
+      "message": "Staattiset taustakuvat"
+   },
+   "vals_randomize_video": {
+      "message": "Live-taustakuvat"
+   },
+   "vk_our_group": {
+      "message": "VK-ryhmä"
+   },
+   "volume": {
+      "message": "Äänenvoimakkuus"
+   },
+   "weather": {
+      "message": "Sää"
+   },
+   "weather_advanced": {
+      "message": "Edistynyt"
+   },
+   "weather_cant_load": {
+      "message": "Säätietojen päivitys ei onnistu. Yritä myöhemmin uudelleen."
+   },
+   "weather_close": {
+      "message": "Sulje sääennuste"
+   },
+   "weather_forecast_cooming_soon": {
+      "message": "Tulossa pian - Yksityiskohtainen sääennuste"
+   },
+   "weather_humidity": {
+      "message": "Kosteus"
+   },
+   "weather_km_h": {
+      "message": "km/h"
+   },
+   "weather_kmh": {
+      "message": "km/h"
+   },
+   "weather_loading": {
+      "message": "Ladataan"
+   },
+   "weather_max": {
+      "message": "Maks"
+   },
+   "weather_min": {
+      "message": "Min"
+   },
+   "weather_mp_h": {
+      "message": "mph"
+   },
+   "weather_mph": {
+      "message": "mph"
+   },
+   "weather_not_found": {
+      "message": "Ei löydy"
+   },
+   "weather_pp": {
+      "message": "Sateen todennäköisyys"
+   },
+   "weather_pp_mini": {
+      "message": "Sade"
+   },
+   "weather_pp_short": {
+      "message": "Sademäärä"
+   },
+   "weather_precipitation_probability": {
+      "message": "Sateen todennäköisyys"
+   },
+   "weather_settings": {
+      "message": "Sääasetukset"
+   },
+   "weather_sun": {
+      "message": "Aurinko"
+   },
+   "weather_sunrise": {
+      "message": "Auringonnousu"
+   },
+   "weather_sunset": {
+      "message": "Auringonlasku"
+   },
+   "weather_temperature": {
+      "message": "Lämpötila"
+   },
+   "weather_wind": {
+      "message": "Tuuli"
+   },
+   "week_0": {
+      "message": "Sunnuntai"
+   },
+   "week_1": {
+      "message": "Maanantai"
+   },
+   "week_2": {
+      "message": "Tiistai"
+   },
+   "week_3": {
+      "message": "Keskiviikko"
+   },
+   "week_4": {
+      "message": "Torstai"
+   },
+   "week_5": {
+      "message": "Perjantai"
+   },
+   "week_6": {
+      "message": "Lauantai"
+   },
+   "week_7": {
+      "message": "Sunnuntai"
+   },
+   "week_today": {
+      "message": "Tänään"
+   },
+   "welcome_clock": {
+      "message": "Mukautettu kello"
+   },
+   "welcome_enable_speed_dial": {
+      "message": "Ota pikavalinnat käyttöön"
+   },
+   "welcome_focus": {
+      "message": "Päivittäinen päätavoite"
+   },
+   "welcome_options_close": {
+      "message": "Sulje"
+   },
+   "welcome_skip": {
+      "message": "Ohita tämä kierros"
+   },
+   "welcome_slide_1_1": {
+      "message": "Tervetuloa laajennukseen"
+   },
+   "welcome_slide_1_2": {
+      "message": "Paikka, jossa tuottavuutesi parantuu. Meditoi keskittyäksesi tai nauti kauniista taustakuvista"
+   },
+   "welcome_slide_2_1": {
+      "message": "Meditoi rentoutuaksesi ja keskittyäksesi"
+   },
+   "welcome_slide_2_2": {
+      "message": "Ammattimaiset meditaatioistunnot"
+   },
+   "welcome_slide_2_3": {
+      "message": "Luonnon ääniä (Ympäristö)"
+   },
+   "welcome_slide_2_4": {
+      "message": "Erityinen meditointimusiikki"
+   },
+   "welcome_slide_2_5": {
+      "message": "Inspiroiva musiikki"
+   },
+   "welcome_slide_2_6": {
+      "message": "Live-taustakuvat"
+   },
+   "welcome_slide_2_7": {
+      "message": "ja paljon muuta..."
+   },
+   "welcome_slide_3_1": {
+      "message": "Kirjanmerkkilaatat"
+   },
+   "welcome_slide_3_2": {
+      "message": "Siirry nopeasti suosikkisivullesi pikavalinnan avulla."
+   },
+   "welcome_slide_3_3": {
+      "message": "Järjestele kauniiksi laatoiksi ja ryhmiksi."
+   },
+   "welcome_slide_3_hint_1": {
+      "message": "Pienoisohjelma visuaalisilla kirjamerkeillä (suosituimmat ja vierailluimmat sivut)."
+   },
+   "welcome_slide_3_hint_2": {
+      "message": "Voit ryhmitellä sivuja teemojen mukaisesti (reseptit, elokuvat, terveys, jne.). Jokainen sivu on oma laattansa, jossa on sivun nimi, linkki ja kuva, joka helpottaa hakemasi sivun löytämistä muiden joukosta."
+   },
+   "welcome_slide_3_hint_3": {
+      "message": "Voit myös lisätä oman taustasi sivuille tai valita valmiin teeman."
+   },
+   "welcome_slide_4_1": {
+      "message": "Muuta tuottavuuteen ja keskittymiseen"
+   },
+   "welcome_slide_4_1_0": {
+      "message": "...ja muuta tuottavuuteen ja keskittymiseen"
+   },
+   "welcome_slide_4_1_1": {
+      "message": "Huomio: Voit määrittää kaikki nämä asetukset myöhemmin LiveStartPagen asetuksissa"
+   },
+   "welcome_slide_5_1_1": {
+      "message": "Satoja live- ja staattisia taustakuvia käyttöösi!"
+   },
+   "welcome_slide_clock_hint_1": {
+      "message": "KELLOT"
+   },
+   "welcome_slide_clock_hint_2": {
+      "message": "Valitse suuresta digitaalisten kellojen valikoimasta. Aseta väri, tyyli, ajan muoto jne."
+   },
+   "welcome_slide_focus_hint_1": {
+      "message": "Päätavoite"
+   },
+   "welcome_slide_focus_hint_2": {
+      "message": "Aseta tärkeysjärjestyksesi! Keskity päivän tärkeimpiin tavoitteisiisi."
+   },
+   "welcome_slide_relax_hint_1": {
+      "message": "MEDITOINTITILA"
+   },
+   "welcome_slide_relax_hint_2": {
+      "message": "Meditointitilassa voit unohtaa kaiken ympärilläsi olevan ja rentoutua. Anna mielesi vaeltaa. Rentoudu ja paranna keskittymiskykyäsi."
+   },
+   "welcome_slide_todo_hint_1": {
+      "message": "TEHTÄVÄLISTA"
+   },
+   "welcome_slide_todo_hint_2": {
+      "message": "Tehtävälistan avulla mikään asia ei unohdu. Pysy ajan hermolla!"
+   },
+   "welcome_slide_weather_hint_1": {
+      "message": "SÄÄ"
+   },
+   "welcome_slide_weather_hint_2": {
+      "message": "Sijaintisi sääennuste, oletpa sitten missä päin maailmaa tahansa. Sijainnin automaattinen tunnistus. Näytä lämpötila Celsiuksina tai Fahrenheiteina."
+   },
+   "welcome_start": {
+      "message": "Aloitetaan!"
+   },
+   "welcome_todo": {
+      "message": "Tehtävälista"
+   },
+   "welcome_weather": {
+      "message": "5 päivän sääennuste"
+   }
+}
