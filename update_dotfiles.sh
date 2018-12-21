@@ -26,4 +26,5 @@ rm -rf Work/Shell/oh-my-zsh/.git
 cp -r ~/.config/alacritty Work
 
 # All system config files
-cp -r ~/.config Config
+cp -r ~/.config .
+mv .config/ Config/
