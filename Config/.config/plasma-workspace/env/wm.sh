@@ -1,1 +1,3 @@
-# export KDEWM=~/dotfiles/i3startup
+export KDEWM=i3
+
+compton -cCFb --backend glx --vsync opengl

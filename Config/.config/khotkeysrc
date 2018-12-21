@@ -1,5 +1,5 @@
 [Data]
-DataCount=6
+DataCount=4
 
 [Data_1]
 Comment=KMenuEdit Global Shortcuts
@@ -35,7 +35,7 @@ Comment=Simple_action
 TriggersCount=1
 
 [Data_1_1Triggers0]
-Key=Search
+Key=
 Type=SHORTCUT
 Uuid={d03619b6-9b3c-48cc-9d9c-a2aadb485550}
 
@@ -894,7 +894,7 @@ Comment=Simple_action
 TriggersCount=1
 
 [Data_4_1Triggers0]
-Key=Print
+Key=
 Type=SHORTCUT
 Uuid={9a6e61be-3335-45a4-9d7f-e055991c5fca}
 
@@ -923,7 +923,7 @@ Comment=Simple_action
 TriggersCount=1
 
 [Data_4_2Triggers0]
-Key=Shift+Print
+Key=
 Type=SHORTCUT
 Uuid={41f71ead-475d-4a3f-864f-e3aad5d3eb52}
 
@@ -952,7 +952,7 @@ Comment=Simple_action
 TriggersCount=1
 
 [Data_4_3Triggers0]
-Key=Meta+Print
+Key=
 Type=SHORTCUT
 Uuid={3828a879-0f38-40a0-ae19-53aa62fa384b}
 
@@ -981,61 +981,9 @@ Comment=Simple_action
 TriggersCount=1
 
 [Data_4_4Triggers0]
-Key=Meta+Shift+Print
+Key=
 Type=SHORTCUT
 Uuid={a36746e5-d184-4b69-9973-95ff02120cb1}
-
-[Data_5]
-Comment=Comment
-Enabled=true
-Name=alacritty
-Type=SIMPLE_ACTION_DATA
-
-[Data_5Actions]
-ActionsCount=1
-
-[Data_5Actions0]
-CommandURL=alacritty
-Type=COMMAND_URL
-
-[Data_5Conditions]
-Comment=
-ConditionsCount=0
-
-[Data_5Triggers]
-Comment=Simple_action
-TriggersCount=1
-
-[Data_5Triggers0]
-Key=Alt+Return
-Type=SHORTCUT
-Uuid={b294818e-b160-457a-a381-de0d232b1295}
-
-[Data_6]
-Comment=Comment
-Enabled=true
-Name=emacs
-Type=SIMPLE_ACTION_DATA
-
-[Data_6Actions]
-ActionsCount=1
-
-[Data_6Actions0]
-CommandURL=emacsclient -c
-Type=COMMAND_URL
-
-[Data_6Conditions]
-Comment=
-ConditionsCount=0
-
-[Data_6Triggers]
-Comment=Simple_action
-TriggersCount=1
-
-[Data_6Triggers0]
-Key=Alt+Shift+Return
-Type=SHORTCUT
-Uuid={8dd22f4d-9380-4a61-864a-b6a7ddc465d7}
 
 [Gestures]
 Disabled=true

@@ -11,15 +11,15 @@ Recent Files[$e]=README.md,file:$HOME/dotfiles/wallpaper.png,file:$HOME/dotfiles
 Recent URLs[$e]=file:$HOME/dotfiles/
 
 [MainWindow]
-Height 1080=700
-Height 768=664
+Height 1080=1030
+Height 768=768
 MenuBar=Disabled
-State=AAAA/wAAAAD9AAAAAAAABVYAAALFAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
+State=AAAA/wAAAAD9AAAAAAAAApwAAALQAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
-Width 1366=1022
-Width 1920=1024
+Width 1366=1366
+Width 1920=945
+Window-Maximized 1080x1920=true
 Window-Maximized 720x1280=true
-Window-Maximized 768x1366=true
 
 [Open-with settings]
 CompletionMode=1

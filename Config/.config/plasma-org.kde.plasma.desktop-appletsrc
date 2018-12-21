@@ -55,6 +55,21 @@ PreloadWeight=0
 [Containments][13][Wallpaper][org.kde.image][General]
 Image=file:///usr/share/wallpapers/src/mountain.svg
 
+[Containments][17]
+activityId=6090ec1b-99b9-4b60-a854-9e4a8516fafa
+formfactor=0
+immutability=1
+lastScreen=2
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
+
+[Containments][17][Configuration]
+PreloadWeight=0
+
+[Containments][17][General]
+pressToMoveHelp=false
+
 [Containments][2]
 activityId=
 formfactor=2
@@ -71,29 +86,34 @@ plugin=org.kde.plasma.pager
 [Containments][2][Applets][12][Configuration]
 PreloadWeight=0
 
-[Containments][2][Applets][3]
-immutability=1
-plugin=org.kde.plasma.kickoff
+[Containments][2][Applets][12][Configuration][ConfigDialog]
+DialogHeight=600
+DialogWidth=800
 
-[Containments][2][Applets][3][Configuration]
-PreloadWeight=34
+[Containments][2][Applets][12][Configuration][General]
+currentDesktopSelected=ShowDesktop
+displayedText=Name
+
+[Containments][2][Applets][20]
+immutability=1
+plugin=org.kde.plasma.panelspacer
+
+[Containments][2][Applets][20][Configuration]
+PreloadWeight=42
+
+[Containments][2][Applets][20][Configuration][General]
+length=1053
 
 [Containments][2][Applets][3][Configuration][General]
 favoritesPortedToKAstats=true
 systemApplications=systemsettings.desktop
-
-[Containments][2][Applets][3][Configuration][Shortcuts]
-global=Alt+F1
-
-[Containments][2][Applets][3][Shortcuts]
-global=Alt+F1
 
 [Containments][2][Applets][6]
 immutability=1
 plugin=org.kde.plasma.systemtray
 
 [Containments][2][Applets][6][Configuration]
-PreloadWeight=0
+PreloadWeight=29
 SystrayContainmentId=7
 
 [Containments][2][Applets][8]
@@ -104,14 +124,14 @@ plugin=org.kde.plasma.digitalclock
 PreloadWeight=0
 
 [Containments][2][ConfigDialog]
-DialogHeight=86
+DialogHeight=76
 DialogWidth=1366
 
 [Containments][2][Configuration]
 PreloadWeight=0
 
 [Containments][2][General]
-AppletOrder=3;12;6;8
+AppletOrder=12;6;20;8
 
 [Containments][36][Applets][37][Configuration][General]
 favorites=preferred://browser,systemsettings.desktop,org.kde.dolphin.desktop,org.kde.kate.desktop,org.kde.discover.desktop
@@ -137,7 +157,7 @@ immutability=1
 plugin=org.kde.plasma.notifications
 
 [Containments][7][Applets][11][Configuration]
-PreloadWeight=0
+PreloadWeight=5
 
 [Containments][7][Applets][13]
 immutability=1
@@ -151,7 +171,10 @@ immutability=1
 plugin=org.kde.plasma.volume
 
 [Containments][7][Applets][14][Configuration]
-PreloadWeight=0
+PreloadWeight=10
+
+[Containments][7][Applets][14][Shortcuts]
+global=Alt+Shift+V
 
 [Containments][7][Applets][15]
 immutability=1
@@ -167,12 +190,32 @@ plugin=org.kde.plasma.networkmanagement
 [Containments][7][Applets][16][Configuration]
 PreloadWeight=0
 
+[Containments][7][Applets][16][Shortcuts]
+global=Alt+N
+
+[Containments][7][Applets][18]
+immutability=1
+plugin=org.kde.plasma.diskquota
+
+[Containments][7][Applets][18][Configuration]
+PreloadWeight=34
+
+[Containments][7][Applets][19]
+immutability=1
+plugin=org.kde.kscreen
+
+[Containments][7][Applets][19][Configuration]
+PreloadWeight=39
+
 [Containments][7][Applets][9]
 immutability=1
 plugin=org.kde.plasma.clipboard
 
 [Containments][7][Applets][9][Configuration]
 PreloadWeight=0
+
+[Containments][7][Applets][9][Shortcuts]
+global=
 
 [Containments][7][ConfigDialog]
 DialogHeight=600
@@ -182,9 +225,12 @@ DialogWidth=800
 PreloadWeight=0
 
 [Containments][7][General]
-extraItems=org.kde.plasma.clipboard,org.kde.plasma.mediacontroller,org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.networkmanagement,org.kde.plasma.volume
-hiddenItems=blueman-applet
+extraItems=org.kde.plasma.clipboard,org.kde.plasma.mediacontroller,org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.keyboardindicator,org.kde.plasma.networkmanagement,org.kde.plasma.volume,org.kde.plasma.diskquota,org.kde.kscreen,org.kde.plasma.notifications
 knownItems=org.kde.plasma.clipboard,org.kde.plasma.mediacontroller,org.kde.plasma.devicenotifier,org.kde.plasma.battery,org.kde.plasma.notifications,org.kde.plasma.keyboardindicator,org.kde.plasma.networkmanagement,org.kde.plasma.volume
+shownItems=blueman-applet,org.kde.plasma.volume,org.kde.plasma.clipboard,org.kde.plasma.devicenotifier,org.kde.plasma.diskquota,org.kde.plasma.keyboardindicator,org.kde.plasma.networkmanagement,org.kde.plasma.notifications,org.kde.kscreen
+
+[Containments][7][Shortcuts]
+global=
 
 [General]
 immutability=2
