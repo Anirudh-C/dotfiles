@@ -1,5 +1,61 @@
-2018/12/21-11:08:04.278 29110 Reusing MANIFEST /home/anirudh/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2018/12/21-11:08:04.279 29110 Recovering log #545
-2018/12/21-11:08:04.296 29110 Reusing old log /home/anirudh/.config/google-chrome/Default/Session Storage/000545.log 
-2018/12/21-11:10:07.735 29280 Level-0 table #549: started
-2018/12/21-11:10:07.823 29280 Level-0 table #549: 20184 bytes OK
+2018/12/21-11:17:45.489 30785 Reusing MANIFEST /home/anirudh/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2018/12/21-11:17:45.489 30785 Recovering log #545
+2018/12/21-11:17:45.490 30785 Level-0 table #548: started
+2018/12/21-11:17:45.535 30785 Level-0 table #548: 20184 bytes OK
+2018/12/21-11:17:45.535 30785 Recovering log #548
+2018/12/21-11:17:45.536 30785 Reusing old log /home/anirudh/.config/google-chrome/Default/Session Storage/000548.log 
+2018/12/21-11:17:45.591 30785 Delete type=2 #549
+2018/12/21-11:17:45.592 30785 Delete type=0 #545
+2018/12/21-11:17:45.592 30908 Compacting 4@0 + 1@1 files
+2018/12/21-11:17:45.773 30908 Generated table #549@0: 7360 keys, 148533 bytes
+2018/12/21-11:17:45.773 30908 Compacted 4@0 + 1@1 files => 148533 bytes
+2018/12/21-11:17:45.928 30908 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/12/21-11:17:45.929 30908 Delete type=2 #542
+2018/12/21-11:17:45.929 30908 Delete type=2 #540
+2018/12/21-11:17:45.929 30908 Delete type=2 #544
+2018/12/21-11:17:45.929 30908 Delete type=2 #548
+2018/12/21-11:17:45.929 30908 Delete type=2 #546
+2018/12/21-12:14:52.814 30908 Level-0 table #551: started
+2018/12/21-12:14:52.855 30908 Level-0 table #551: 21190 bytes OK
+2018/12/21-12:14:53.032 30908 Delete type=0 #548
+2018/12/21-12:44:12.417 30908 Level-0 table #553: started
+2018/12/21-12:44:12.476 30908 Level-0 table #553: 18061 bytes OK
+2018/12/21-12:44:12.510 30908 Delete type=0 #550
+2018/12/21-12:52:00.461 30908 Level-0 table #555: started
+2018/12/21-12:52:00.565 30908 Level-0 table #555: 24647 bytes OK
+2018/12/21-12:52:00.676 30908 Delete type=0 #552
+2018/12/21-13:04:34.945 30908 Level-0 table #557: started
+2018/12/21-13:04:35.174 30908 Level-0 table #557: 19145 bytes OK
+2018/12/21-13:04:35.208 30908 Delete type=0 #554
+2018/12/21-13:04:35.208 30908 Compacting 4@0 + 1@1 files
+2018/12/21-13:04:35.308 30908 Generated table #558@0: 7638 keys, 209337 bytes
+2018/12/21-13:04:35.308 30908 Compacted 4@0 + 1@1 files => 209337 bytes
+2018/12/21-13:04:35.342 30908 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/12/21-13:04:35.342 30908 Delete type=2 #549
+2018/12/21-13:04:35.342 30908 Delete type=2 #553
+2018/12/21-13:04:35.342 30908 Delete type=2 #555
+2018/12/21-13:04:35.342 30908 Delete type=2 #557
+2018/12/21-13:04:35.343 30908 Delete type=2 #551
+2018/12/21-14:30:13.914 30908 Level-0 table #560: started
+2018/12/21-14:30:14.107 30908 Level-0 table #560: 44106 bytes OK
+2018/12/21-14:30:14.142 30908 Delete type=0 #556
+2018/12/21-15:18:17.261 30908 Level-0 table #562: started
+2018/12/21-15:18:17.323 30908 Level-0 table #562: 37372 bytes OK
+2018/12/21-15:18:17.357 30908 Delete type=0 #559
+2018/12/21-15:46:22.307 30908 Level-0 table #564: started
+2018/12/21-15:46:22.356 30908 Level-0 table #564: 30655 bytes OK
+2018/12/21-15:46:22.390 30908 Delete type=0 #561
+2018/12/21-16:53:54.670 30908 Level-0 table #566: started
+2018/12/21-16:53:54.745 30908 Level-0 table #566: 40605 bytes OK
+2018/12/21-16:53:54.790 30908 Delete type=0 #563
+2018/12/21-16:53:54.790 30908 Compacting 4@0 + 1@1 files
+2018/12/21-16:53:54.835 30908 Generated table #567@0: 7744 keys, 237080 bytes
+2018/12/21-16:53:54.835 30908 Compacted 4@0 + 1@1 files => 237080 bytes
+2018/12/21-16:53:54.879 30908 compacted to: files[ 0 1 1 0 0 0 0 ]
+2018/12/21-16:53:54.880 30908 Delete type=2 #560
+2018/12/21-16:53:54.881 30908 Delete type=2 #562
+2018/12/21-16:53:54.881 30908 Delete type=2 #558
+2018/12/21-16:53:54.881 30908 Delete type=2 #564
+2018/12/21-16:53:54.881 30908 Delete type=2 #566
+2018/12/21-17:32:03.964 30908 Level-0 table #569: started
+2018/12/21-17:32:04.212 30908 Level-0 table #569: 18067 bytes OK

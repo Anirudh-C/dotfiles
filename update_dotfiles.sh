@@ -27,4 +27,5 @@ cp -r ~/.config/alacritty Work
 
 # All system config files
 cp -r ~/.config .
+rm -rf Config/
 mv .config/ Config/
