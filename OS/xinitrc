@@ -34,11 +34,6 @@ export _JAVA_AWT_WM_NONREPARENTING=1
 xsetroot -cursor_name left_ptr
 xset r rate 200 60
 
-# Start i3 or emacs
-# if [[ $(xrandr --query | grep -q "HDMI-1") ]]; then
-#     exec i3
-# else
-#     exec emacs --eval "(start-exwm)"
-# fi
-exec i3
+# exec i3
 # exec emacs --eval "(start-exwm)"
+exec startkde
