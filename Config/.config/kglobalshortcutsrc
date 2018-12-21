@@ -30,7 +30,7 @@ _k_friendly_name=KDE Daemon
 display=Display\tMeta+P,Display\tMeta+P,Switch Display
 
 [khotkeys]
-_k_friendly_name=KDE Daemon
+_k_friendly_name=System Settings
 {3828a879-0f38-40a0-ae19-53aa62fa384b}=none,none,Take Active Window Screenshot
 {41f71ead-475d-4a3f-864f-e3aad5d3eb52}=none,none,Take Full Screen Screenshot
 {8dd22f4d-9380-4a61-864a-b6a7ddc465d7}=none,none,emacs
@@ -62,10 +62,10 @@ run command on clipboard contents=Alt+Shift+F2,Alt+Shift+F2,Run Command on clipb
 [ksmserver]
 Halt Without Confirmation=none,none,Halt Without Confirmation
 Lock Session=Ctrl+Alt+L\tScreensaver,Ctrl+Alt+L\tScreensaver,Lock Session
-Log Out=none,none,Log Out
+Log Out=Alt+Shift+E,none,Log Out
 Log Out Without Confirmation=none,none,Log Out Without Confirmation
 Reboot Without Confirmation=none,none,Reboot Without Confirmation
-_k_friendly_name=ksmserver
+_k_friendly_name=System Settings
 
 [kwin]
 Activate Window Demanding Attention=Ctrl+Alt+A,Ctrl+Alt+A,Activate Window Demanding Attention
@@ -210,7 +210,7 @@ Window to Screen 4=none,none,Window to Screen 4
 Window to Screen 5=none,none,Window to Screen 5
 Window to Screen 6=none,none,Window to Screen 6
 Window to Screen 7=none,none,Window to Screen 7
-_k_friendly_name=System Settings Module
+_k_friendly_name=System Settings
 view_actual_size=Meta+0,Meta+0,Actual Size
 view_zoom_in=Meta+=,Meta+=,Zoom In
 view_zoom_out=Meta+-,Meta+-,Zoom Out
