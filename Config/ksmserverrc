@@ -5,10 +5,11 @@ screenCount=1
 count=0
 
 [Session: saved at previous logout]
-clientId1=10145dbd1dd000154540113400000088200002
+clientId1=10145dbd1dd000154634651700000116280005
 count=1
-program1=pulseaudio
-restartCommand1=
+discardCommand1[$e]=rm,$HOME/.config/session/kwin_10145dbd1dd000154634651700000116280005_1546346538_107743
+program1=/usr/bin/kwin_x11
+restartCommand1=/usr/bin/kwin_x11,-session,10145dbd1dd000154634651700000116280005_1546346538_107743
 restartStyleHint1=0
 userId1=anirudh
-wasWm1=false
+wasWm1=true

@@ -1,4 +1,3 @@
-rename q2.txt
 mkdir course
 rename courses
 mkdir eg201p
@@ -8,7 +7,6 @@ open_with feh
 mkdir Delhi-Agra
 mkdir ess201
 mkdir lab1
-find 
 mkdir lab2
 rename wallpaper.jpg
 search icu
@@ -47,4 +45,6 @@ open_with ek
 open
 open_with vim
 search plasma
+find 
 delete
+sudo delete

@@ -1,7 +1,5 @@
-2018/12/21-19:40:57.283 11535 Reusing MANIFEST /home/anirudh/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2018/12/21-19:40:57.283 11535 Recovering log #565
-2018/12/21-19:40:57.283 11535 Level-0 table #569: started
-2018/12/21-19:40:57.484 11535 Level-0 table #569: 18067 bytes OK
-2018/12/21-19:40:57.485 11535 Recovering log #568
-2018/12/21-19:40:57.485 11535 Reusing old log /home/anirudh/.config/google-chrome/Default/Session Storage/000568.log 
-2018/12/21-19:40:57.529 11535 Delete type=0 #565
+2018/12/25-20:41:25.351 12112 Reusing MANIFEST /home/anirudh/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2018/12/25-20:41:25.352 12112 Recovering log #602
+2018/12/25-20:41:25.352 12112 Reusing old log /home/anirudh/.config/google-chrome/Default/Session Storage/000602.log 
+2018/12/25-22:03:06.288 31836 Level-0 table #606: started
+2018/12/25-22:03:06.416 31836 Level-0 table #606: 15089 bytes OK

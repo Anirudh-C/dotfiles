@@ -183,6 +183,7 @@ set $urgent-bg-color     #ff5555
 # finds out, if available)
 bar {
     height 20
+    output "HDMI-1"
     status_command i3blocks -c /home/anirudh/.config/i3/i3blocks.conf
     colors {
         background $bg-color

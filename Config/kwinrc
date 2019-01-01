@@ -15,7 +15,7 @@ XRenderSmoothScale=false
 
 [Desktops]
 Number=6
-Rows=2
+Rows=1
 
 [Effect-CoverSwitch]
 TabBox=false
