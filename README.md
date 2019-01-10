@@ -25,7 +25,7 @@
     |
     |--> Terminal
          |
-         |--> ~/.config/alacritty
+         |--> ~/dotfiles/st
     |--> Vim
          |
          |--> ~/.vim
