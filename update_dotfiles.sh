@@ -23,7 +23,7 @@ mv Work/Shell/.oh-my-zsh Work/Shell/oh-my-zsh
 rm -rf Work/Shell/oh-my-zsh/.git
 
 # Terminal
-cp -r ~/.config/alacritty Work
+# cp -r ~/.config/alacritty Work
 
 # All system config files
 cp -r ~/.config .

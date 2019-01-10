@@ -1,0 +1,9 @@
+[00:21:43] gtkgui: HandBrake 1.1.2 (2018091000) - Linux x86_64 - https://handbrake.fr
+[00:21:43] hb_init: starting libhb thread
+[00:21:43] hb_init: starting libhb thread
+[00:21:43] hb_init: starting libhb thread
+[00:21:43] gtkgui: Failed to read presets file, initailizing new presets...
+[00:21:56] CPU: Intel(R) Core(TM) i3-4005U CPU @ 1.70GHz
+[00:21:56]  - Intel microarchitecture Haswell
+[00:21:56]  - logical processor count: 4
+[00:21:56] hb_scan: path=/dev/cdrom, title_index=0

@@ -1,0 +1,329 @@
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Makkhichoose</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<link rel="stylesheet" href="popup.css">
+	<script src="jquery-2.0.0.min.js"></script>
+	<script src="jquery-ui.min.js"></script>
+	<script src="popup.js"></script>
+	<link rel="stylesheet" href="design_files/fonts/lato/lato.css">
+	<script src="helperfuncs.js"></script>
+	<script src="affyNew.js"></script>
+	<script src="affymake.js"></script>
+	<script src="prphetchfuncs.js"></script>
+
+	<style>
+		@font-face { font-family: baloo; src:url("design_files/fonts/BalooPaaji-Regular.ttf")}
+	</style>
+
+	<style>
+		#snackbar {
+		    visibility: hidden; /* Hidden by default. Visible on click */
+		    min-width: 250px; /* Set a default minimum width */
+		    margin-left: -125px; /* Divide value of min-width by 2 */
+		    background-color: #333; /* Black background color */
+		    color: #fff; /* White text color */
+		    text-align: center; /* Centered text */
+		    border-radius: 2px; /* Rounded borders */
+		    padding: 16px; /* Padding */
+		    position: fixed; /* Sit on top of the screen */
+		    z-index: 1; /* Add a z-index if needed */
+		    left: 50%; /* Center the snackbar */
+		    bottom: 30px; /* 30px from the bottom */
+		}
+
+		/* Show the snackbar when clicking on a button (class added with JavaScript) */
+		#snackbar.show {
+		    visibility: visible; /* Show the snackbar */
+
+		/* Add animation: Take 0.5 seconds to fade in and out the snackbar. 
+		However, delay the fade out process for 2.5 seconds */
+		    -webkit-animation: fadein 0.5s, fadeout 0.5s 2.5s;
+		    animation: fadein 0.5s, fadeout 0.5s 2.5s;
+		}
+
+		/* Animations to fade the snackbar in and out */
+		@-webkit-keyframes fadein {
+		    from {bottom: 0; opacity: 0;} 
+		    to {bottom: 30px; opacity: 1;}
+		}
+
+		@keyframes fadein {
+		    from {bottom: 0; opacity: 0;}
+		    to {bottom: 30px; opacity: 1;}
+		}
+
+		@-webkit-keyframes fadeout {
+		    from {bottom: 30px; opacity: 1;} 
+		    to {bottom: 0; opacity: 0;}
+		}
+
+		@keyframes fadeout {
+		    from {bottom: 30px; opacity: 1;}
+		    to {bottom: 0; opacity: 0;}
+		}
+
+
+	</style>
+
+	<style>
+
+		.input-placeholder input {
+		    font-family: "Lato", sans-serif;
+		    font-weight: 400;
+		    border: none;
+		    position: relative;
+		    /*padding: 5px 0 5px 30px;*/
+		    padding:0px;
+		    margin:0px;
+		    -webkit-transition: 0.3s;
+		    -o-transition: 0.3s;
+		    -moz-transition: 0.3s;
+		    transition: 0.3s;
+		    background: none;
+		    outline: none;
+		    text-align: right;
+		}
+
+		.input-placeholder input:focus {
+		   /*padding-right: 90px;*/
+		   border-bottom: 1px solid #9ed763 ;
+		   text-align: left;
+		}
+
+		.input-placeholder .form {
+			position:relative;
+			float:right;
+			margin:0px;
+		}
+
+
+	</style>
+
+
+	<template id="image_list_elem">
+	    <div class=" input_img content ditto_meta price_result"  data-pid="" data-score="" data-cluster-string="" data-disp-order="" title="" style="border-bottom: 1px solid #e0e0e0; border-right: 1px solid #e0e0e0; display: inline-block; max-width:165px; width:165px; margin:5px 1px 5px 1px; padding: 0px; cursor:pointer;">
+	        <div href="" target="_blank" class="result_link">
+	            <div style=" width:165px;height:180; max-height:180px; max-width:180px;">
+	                <img  class="ditto_img" style="max-width:165px; max-height:180px; width:auto; height:auto; "src="resources/images/laptop.jpg">
+	            </div>
+	        </div>
+	    </div>
+	</template>
+
+
+	<template id="dittory_results_left">
+	    <div class="content ditto_meta price_result"  data-pid="" data-score="" data-cluster-string="" data-disp-order="" title="" style="border-bottom: 1px solid #eeeeee; border-right: 1px solid #eeeeee; display: inline-block; max-width:165px; width:165px; margin:5px 1px 5px 1px; padding: 0px; ">
+	            <div style=" width:165px;height:180px; max-height:180px; max-width:165px; cursor: pointer;">
+	                <img  class="ditto_img" style="max-width:165px; max-height:180px; width:auto; height:auto; "src="resources/images/laptop.jpg">
+	            </div>
+	            <div style="display:flex;justify-content:space-between; max-width:145px; padding-right:2px;" >
+	                <span class="ditto_website" style="font-family:'mc_lato','sans-serif';font-size: 12px;font-weight: bold; color: #9eb3b3; max-width:71px; text-overflow:ellipsis; overflow:hidden; cursor:pointer; color:gray; "></span> <span class="ditto_price mc_price green-text" style=" line-height: 22px;font-size: 18px;font-family: baloo;font-weight: bold; color:gray;"></span>
+	            </div>
+	    </div>
+	</template>
+
+
+
+	<template id="coupons">
+	    
+	    <div class="item">
+	        <div class="content">
+	            <h4>XMAS21</h4>
+	            <p>
+	                This coupon is applicable for purchases above Rs. 2000 made using an ICICI ...
+	            </p>
+	        </div>
+	        <div class="button mc_copy" title="Copy">
+		        <button style="background-color: #9ed763;">Copy</button>
+	    	</div>
+    	</div>
+
+		
+	</template>
+
+	<template id="pricedrops">
+		<div class="price_drop_link" style="cursor:pointer">
+			<div class="row" style="border-bottom:none; ">
+			    <div class="image">
+			        <img src="design_files/resources/images/laptop.jpg">
+			    </div>
+			    <div class="content">
+			        <h5 style="display:none;">Snap Deal lb12</h5>
+			        <p>lr142e3437 ASUS ZenBook Flagship High Performance 13.3 inch QHD+ IPS (3200 x 1800) Touchscreen Backlit
+			            ...
+			        </p>
+			        <h1 class="title main-price"> <span class="price" style="color:black;">₹ 24,900</span>  <span class="percent_off"> 20% off </span>
+			        </h1>
+			    </div>
+			</div>
+		</div>
+	</template>
+
+</head>
+<body style="background-color:white; height:460px; overflow: auto;">
+		<div id="snackbar">Some text some message..</div>
+		
+		<div class="extension-tab" style="margin-left: 0px; margin-right: 0px;  margin-top:0px; margin-bottom:0px; border-bottom: none; min-width:550px; min-height:500px; display: flex; flex-direction: column;">
+				
+	 			<div class="row">
+		            <div class="pull-left">
+		                <div class="set-flex">
+	        	            <img src="design_files/resources/images/logo.png">
+		                    <h2>Makkhichoose</h2>
+		                </div>
+		            </div>
+				
+					<div class="input-placeholder">
+						<div class="form">
+					        <input id="email_box" placeholder="Enter your email to get Updates" title="Click here to Edit Your Email">
+<!-- 					        <div>
+					        	<button title="Win Rs. 1 Lakh in the MakkhiChoose Bitcoin Bounty! Click for details" id="bc_button" style="position: relative;border-radius: 1px;padding: 5px;position: relative;left: 115px; box-shadow: 2px 2px rgba(103, 103, 102, 0.22);"><img style="max-width:30px; display:inline-block; vertical-align:middle;" src="moneybag.png" alt="">Bitcoin Bounty</button>
+					        </div> -->
+
+						</div>
+					</div>
+		        </div>
+
+
+		        <div class="row" id = "auto_disp_results" style="display:none;">
+		        	 <input  type="checkbox" style="min-width:0px; padding:0px; margin:0px;"> <span style ="position:relative;top:-2px; font-family: Lato, sans-serif; font-size:13px;">Display Similar products Automatically</span>
+		        	 <button id= "get_results_button" style ="padding: 3px 3px;font-size: 12px;position: relative;float: right;top: -4px; background: #9ed763; display: none;">Get Similar Products</button>
+		        </div>
+
+
+		        <div class="row  remove-border" style="">
+		            
+		            <div class="tabs">
+		                <ul id="tab_list" style="display:none; margin-bottom:20px;">
+
+		                    <li title="Click here to see price drops">
+		                        <a  id="tprods" style="display:none;">
+		                            Price Drops
+		                        </a>
+		                    </li>
+
+		                    <li title="Click here to see coupons for this site"">
+		                        <a   id="coupons" style="display:none;">
+		                            Coupons
+		                        </a>
+		                    </li>
+
+							<li title="Click here to see price drops">
+							    <a  class="active"  id="results">
+							        Image search
+							    </a>
+							</li>
+
+
+<!-- 		                    <li>
+		                        <a id="settings">
+		                            Settings
+		                        </a>
+		                    </li> -->
+		                </ul>
+
+		                <div id="results_container" class="tab_container" style="display:block; max-width:510px; min-height: 75%; flex-direction: column; flex:1;">
+
+		                	<div id="user_selection" style="display:block;">
+								<h4 style="max-width: 370px; display:inline;"> Click on a pic to see similar items  (works best for apparel)</h4>
+								<span class="reload_button" style="border: 1.5px solid #e0e0e0; border-radius:5px; padding:5px; cursor:pointer; position:relative; left:110px;" title="Reload Images">Reload</span>
+								<div style="margin-top:10px;" class="result_list"></div>
+		                	</div>
+							
+							<div id="results_view" style="display:none;">
+								<div class="row" id = "back_button_row" style="padding:4px 16px; border-bottom: none; margin-bottom: 3px;">
+									<span class="back_button" style="border: 1.5px solid #e0e0e0; border-radius:5px; padding:5px; cursor:pointer; position:relative; left:-20px;" title=" See all images">Back</span>
+									<div class="same_site_filter" style="display:inline-block; position:relative; left:280px;">
+										<input  type="checkbox" id="same_site_filter" > <label for="same_site_filter" style="font-size:13px; font-family:'mc_lato','sans-serif'; font-weight:bold; font-size:12px;" title="Display results by default when shopping">Hide same site results</label>																			
+									</div>
+
+								</div>
+								<div class="big_image" style="max-height: 300px; display:flex; justify-content: center; border-bottom: 1px solid #e0e0e0; max-height:200px; background-color:#fafafa; ">
+									<img src="" alt="" style="max-height:200px; ">
+								</div>
+								<div class="load_container" style="display:block;">
+									<div >
+										<div class="sk-cube-grid">
+										  <div class="sk-cube sk-cube1"></div>
+										  <div class="sk-cube sk-cube2"></div>
+										  <div class="sk-cube sk-cube3"></div>
+										  <div class="sk-cube sk-cube4"></div>
+										  <div class="sk-cube sk-cube5"></div>
+										  <div class="sk-cube sk-cube6"></div>
+										  <div class="sk-cube sk-cube7"></div>
+										  <div class="sk-cube sk-cube8"></div>
+										  <div class="sk-cube sk-cube9"></div>
+										</div>
+									</div>
+									<div class="loading_text_div"></div>
+								</div>
+								<div class="result_container" style="display:none;">
+									<div class="err_msg" style="text-align:center;vertical-align:middle; position: relative;top:100px;font-size:14px;color:dimgray;"> Sorry something went wrong</div>
+									<div class="results"></div>
+									<div class="show_more_button_container">
+										 <button id="show_more_button" class="get-free btn-small show_all_button beacon_button" title="See more results on Dittory website" style="padding-top: 0px; padding-bottom: 0px; height:30px; position:relative; left:110px;" >See more results on Makkhichoose website</button>
+									</div>
+								</div>
+							</div>
+
+		                </div> <!-- results container -->
+
+		                <div id="tprods_container" class="tab_container" style="display:none; flex-direction: column; flex:1; min-height: 75%">
+
+
+			                <div id="no_price_drops" style="text-align: center;padding:50px; color:#8e9191; font-size:14px; font-weight:400; font-family: Lato, sans-serif; flex:1; display:none;">
+			                	No Price drops now
+			                </div>
+
+							<div id="wish_list_container" style="text-align: center;">
+								<button style="position:relative; top:100px; background-color:#9ed763;" id="popup_wishlist_button">see products you are following</button>
+							</div>
+			                	
+							<div id = "pdp_notifs_container" style="display:none;">
+								
+				                <div id="tprods_content" class="saved-items" style="flex:1; display:block;">
+							          
+					            </div> <!-- tprods_content -->
+							          
+					            <div class="show-another" style="width:100%; display:block;">
+					                <button data-url="http://www.google.com" class="mc_div_link" style="cursor:pointer;background-color: #9ed763; ">
+					                   see products you are following
+					                </button>
+					            </div>
+
+							</div>	
+
+		                </div> <!-- tprods container -->
+
+
+		                <div id="coupons_container"  class="tab_container" style="display: none; flex-direction: column; flex:1; min-height: 75%;">
+			                
+			                <div id="no_coupons" style="text-align: center;padding:50px; color:#8e9191; font-size:14px; font-weight:400; font-family: Lato, sans-serif; flex:1; ">
+			                	No Coupons Currently Available
+			                </div>
+
+			                <div id="coupons_content" style="display:none; flex:1; ">
+						          
+				            </div> <!-- coupons_content -->
+
+							<div id="footer" style="width:100%;">
+					            <div class="show-another">
+					                <div data-url="http://www.google.com" class="mc_div_link" style="cursor:pointer; display:none;">
+					                   Show Popular Coupons
+					                </div>
+					            </div>
+							</div>
+						          
+		                </div> <!-- coupons container -->
+
+	                </div>
+
+		        </div>
+
+		</div>
+
+</body>
+</html>
+
