@@ -46,7 +46,6 @@ function chpwd() {
     pwd && ls
 }
 alias updatevim='sudo cp -r ~/.vim ~/Vim && sudo rm -rf ~/Vim/dotvim && mv ~/Vim/.vim ~/Vim/dotvim && cp ~/.vimrc ~/Vim && mv ~/Vim/.vimrc ~/Vim/vimrc && sudo cp -r ~/vimwiki ~/Vim'
-alias st="startx"
 alias i3-laptop="xrandr --output eDP-1 --auto --output HDMI-1 --off"
 alias i3-monitor="xrandr --output HDMI-1 --mode 1920x1080 --output eDP-1 --off"
 eval "$(rbenv init -)"
