@@ -40,3 +40,16 @@
          |
          |--> ~/.zshrc
          |--> ~/.oh-my-zsh
+
+## Install
+To install the dotfiles:
+```bash
+$ git clone https://github.com/anirudh-c/dotfiles
+$ dotfiles/setup.sh
+```
+
+## Updating
+To update your version of this repo with changes:
+```bash
+$ dotfiles/update_dotfiles.sh
+```
