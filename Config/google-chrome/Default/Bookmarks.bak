@@ -482,7 +482,7 @@
             "date_added": "13168995320974296",
             "id": "6",
             "meta_info": {
-               "last_visited_desktop": "13191154405882036"
+               "last_visited_desktop": "13191618563282281"
             },
             "name": "Prime Video",
             "sync_transaction_version": "61",
@@ -799,10 +799,10 @@
                "date_added": "13102841113013229",
                "id": "39",
                "meta_info": {
-                  "last_visited_desktop": "13191552980430196"
+                  "last_visited_desktop": "13191629615293520"
                },
                "name": "https://www.youtube.com/ is not available",
-               "sync_transaction_version": "78",
+               "sync_transaction_version": "83",
                "type": "url",
                "url": "https://www.youtube.com/"
             } ],
@@ -820,7 +820,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "78",
+      "sync_transaction_version": "83",
       "synced": {
          "children": [ {
             "date_added": "13051723442521601",

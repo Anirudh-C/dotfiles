@@ -1,3 +1,36 @@
-2019/01/10-04:32:41.995 1940 Reusing MANIFEST /home/anirudh/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2019/01/10-04:32:41.995 1940 Recovering log #607
-2019/01/10-04:32:42.076 1940 Reusing old log /home/anirudh/.config/google-chrome/Default/Session Storage/000607.log 
+2019/01/10-23:59:21.438 29546 Reusing MANIFEST /home/anirudh/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2019/01/10-23:59:21.438 29546 Recovering log #607
+2019/01/10-23:59:21.439 29546 Reusing old log /home/anirudh/.config/google-chrome/Default/Session Storage/000607.log 
+2019/01/11-00:00:27.546 30321 Level-0 table #611: started
+2019/01/11-00:00:27.608 30321 Level-0 table #611: 15160 bytes OK
+2019/01/11-00:00:27.641 30321 Delete type=0 #607
+2019/01/11-00:00:27.642 30321 Compacting 4@0 + 1@1 files
+2019/01/11-00:00:27.765 30321 Generated table #612@0: 9071 keys, 179446 bytes
+2019/01/11-00:00:27.765 30321 Compacted 4@0 + 1@1 files => 179446 bytes
+2019/01/11-00:00:27.798 30321 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/01/11-00:00:27.799 30321 Delete type=2 #600
+2019/01/11-00:00:27.799 30321 Delete type=2 #611
+2019/01/11-00:00:27.799 30321 Delete type=2 #608
+2019/01/11-00:00:27.799 30321 Delete type=2 #603
+2019/01/11-00:00:27.799 30321 Delete type=2 #605
+2019/01/11-01:08:01.406 30321 Level-0 table #614: started
+2019/01/11-01:08:01.465 30321 Level-0 table #614: 30929 bytes OK
+2019/01/11-01:08:01.499 30321 Delete type=0 #610
+2019/01/11-02:49:56.681 30321 Level-0 table #616: started
+2019/01/11-02:49:56.749 30321 Level-0 table #616: 30366 bytes OK
+2019/01/11-02:49:56.794 30321 Delete type=0 #613
+2019/01/11-02:53:35.681 30321 Level-0 table #618: started
+2019/01/11-02:53:35.722 30321 Level-0 table #618: 17969 bytes OK
+2019/01/11-02:53:35.768 30321 Delete type=0 #615
+2019/01/11-02:56:30.688 30321 Level-0 table #620: started
+2019/01/11-02:56:30.717 30321 Level-0 table #620: 16051 bytes OK
+2019/01/11-02:56:30.773 30321 Delete type=0 #617
+2019/01/11-02:56:30.773 30321 Compacting 4@0 + 1@1 files
+2019/01/11-02:56:30.840 30321 Generated table #621@0: 9197 keys, 230916 bytes
+2019/01/11-02:56:30.840 30321 Compacted 4@0 + 1@1 files => 230916 bytes
+2019/01/11-02:56:30.896 30321 compacted to: files[ 0 1 1 0 0 0 0 ]
+2019/01/11-02:56:30.896 30321 Delete type=2 #616
+2019/01/11-02:56:30.896 30321 Delete type=2 #618
+2019/01/11-02:56:30.896 30321 Delete type=2 #612
+2019/01/11-02:56:30.896 30321 Delete type=2 #620
+2019/01/11-02:56:30.897 30321 Delete type=2 #614
