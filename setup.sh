@@ -24,8 +24,7 @@ setshellconfig() {
 
 setconfigdir() {
     rm -rf ~/.config
-    cp -r Config/ ~/
-    mv ~/Config/ ~/.config
+    cp -r Config/ ~/.config
 }
 
 loading() {
