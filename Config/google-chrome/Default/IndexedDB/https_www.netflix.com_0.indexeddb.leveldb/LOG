@@ -1,3 +1,9 @@
-2019/03/23-22:54:14.112 31794 Reusing MANIFEST /home/anirudh/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
-2019/03/23-22:54:14.112 31794 Recovering log #3
-2019/03/23-22:54:14.113 31794 Reusing old log /home/anirudh/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000003.log 
+2019/03/24-12:25:58.240 16850 Reusing MANIFEST /home/anirudh/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
+2019/03/24-12:25:58.240 16850 Recovering log #3
+2019/03/24-12:25:58.261 16850 Reusing old log /home/anirudh/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000003.log 
+2019/03/24-13:05:28.757 26526 Level-0 table #5: started
+2019/03/24-13:05:28.899 26526 Level-0 table #5: 2197573 bytes OK
+2019/03/24-13:05:28.949 26526 Delete type=0 #3
+2019/03/24-14:55:51.942 26526 Level-0 table #7: started
+2019/03/24-14:55:52.074 26526 Level-0 table #7: 2311901 bytes OK
+2019/03/24-14:55:52.110 26526 Delete type=0 #4

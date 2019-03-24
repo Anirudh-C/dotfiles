@@ -1,3 +1,6 @@
-2019/02/23-18:17:29.464 10597 Reusing MANIFEST /home/anirudh/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2019/02/23-18:17:29.464 10597 Recovering log #619
-2019/02/23-18:17:29.497 10597 Reusing old log /home/anirudh/.config/google-chrome/Default/Session Storage/000619.log 
+2019/03/23-19:47:22.045 16565 Reusing MANIFEST /home/anirudh/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2019/03/23-19:47:22.045 16565 Recovering log #619
+2019/03/23-19:47:22.049 16565 Reusing old log /home/anirudh/.config/google-chrome/Default/Session Storage/000619.log 
+2019/03/23-22:11:11.743 20514 Level-0 table #624: started
+2019/03/23-22:11:11.815 20514 Level-0 table #624: 17400 bytes OK
+2019/03/23-22:11:12.155 20514 Delete type=0 #619

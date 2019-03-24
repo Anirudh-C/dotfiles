@@ -1,0 +1,43 @@
+
+
+-------session starts-------
+
+[3-24 6:16:41.215] INFO: MediaGallery: name=/home/anirudh/Music, galleryId=1, isMediaDevice=false, deviceId=undefined
+[3-24 6:16:41.219] INFO: MediaGallery: name=/home/anirudh/Pictures, galleryId=2, isMediaDevice=false, deviceId=undefined
+[3-24 6:16:41.222] INFO: Starts a quick scan on /home/anirudh/Music
+[3-24 6:16:41.225] INFO: Iterating over dir / from source /home/anirudh/Music
+[3-24 6:16:41.230] INFO: Starts a quick scan on /home/anirudh/Pictures
+[3-24 6:16:41.232] INFO: Iterating over dir / from source /home/anirudh/Pictures
+[3-24 6:16:41.238] INFO: /home/anirudh/Music contains music file
+[3-24 6:16:42.208] INFO: /home/anirudh/Pictures does not contain music file
+[3-24 6:16:42.213] INFO: Got the drag_and_drop directory
+[3-24 6:16:42.232] INFO: lsUserAddedMusicSourceIds=null
+[3-24 6:16:42.232] INFO: lsLastTrackFailureLoggingTime=1546384209426
+[3-24 6:16:42.233] INFO: lsUserSelectedDownloadDirId=null
+[3-24 6:16:42.237] INFO: lsDefaultDownloadLocationId=null
+[3-24 6:16:42.237] INFO: Setting is already: lsAlwaysUseDefaultDownloadLocation = false
+[3-24 6:16:42.237] INFO: Setting is already: lsDefaultDownloadLocationId = null
+[3-24 6:16:42.822] WARNING: Tier change detected
+[3-24 6:16:42.822] INFO: Fetched user settings from server.
+[3-24 6:16:42.827] INFO: chromeapp:E ready
+[3-24 6:16:44.26] INFO: lsAppActivated=false
+[3-24 6:16:44.26] INFO: lsDragAndDropActivated=true
+[3-24 6:16:44.28] INFO: Device ID obtained.
+[3-24 6:16:44.28] INFO: Nacl version: 1.0.467.4929
+[3-24 6:16:44.84] INFO: lsAppActivated=false
+[3-24 6:16:44.95] INFO: OAuth token retrieved
+[3-24 6:16:45.23] INFO: lsUploadStatusIndicatorDismissed=false
+[3-24 6:16:45.25] INFO: Current upload state:
+	Added: 3
+	Total: 3
+	Failed: 0
+	Other Progress: false
+[3-24 6:16:45.33] INFO: lsUploadStatusIndicatorDismissed=false
+[3-24 8:4:58.125] INFO: Fetched user settings from server.
+[3-24 8:16:41.173] INFO: Starting periodic scan.
+[3-24 8:16:41.173] INFO: lsSyncMusicEnabled=null
+[3-24 8:16:41.173] INFO: lsAppActivated=false
+[3-24 9:56:18.784] INFO: Fetched user settings from server.
+[3-24 10:16:41.173] INFO: Starting periodic scan.
+[3-24 10:16:41.173] INFO: lsSyncMusicEnabled=null
+[3-24 10:16:41.173] INFO: lsAppActivated=false
