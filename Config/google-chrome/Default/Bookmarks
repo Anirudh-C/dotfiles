@@ -482,10 +482,10 @@
             "date_added": "13168995320974296",
             "id": "6",
             "meta_info": {
-               "last_visited_desktop": "13194260180302620"
+               "last_visited_desktop": "13197244934113840"
             },
             "name": "Prime Video",
-            "sync_transaction_version": "84",
+            "sync_transaction_version": "85",
             "type": "url",
             "url": "https://www.primevideo.com/"
          }, {
@@ -500,7 +500,7 @@
             "url": "http://dl.upload8.net/Serial/Suits/"
          } ],
          "date_added": "13168995291746381",
-         "date_modified": "13195399658277221",
+         "date_modified": "13197824250486684",
          "id": "1",
          "name": "Bookmarks bar",
          "sync_transaction_version": "3",
@@ -799,10 +799,10 @@
                "date_added": "13102841113013229",
                "id": "39",
                "meta_info": {
-                  "last_visited_desktop": "13195384788939293"
+                  "last_visited_desktop": "13197832915689478"
                },
                "name": "https://www.youtube.com/ is not available",
-               "sync_transaction_version": "84",
+               "sync_transaction_version": "90",
                "type": "url",
                "url": "https://www.youtube.com/"
             } ],
@@ -820,7 +820,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "84",
+      "sync_transaction_version": "90",
       "synced": {
          "children": [ {
             "date_added": "13051723442521601",

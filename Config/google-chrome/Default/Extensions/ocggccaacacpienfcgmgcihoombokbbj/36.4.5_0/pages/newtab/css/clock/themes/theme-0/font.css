@@ -1,8 +1,0 @@
-.ce-countdown {
-    font-family: "HelveticaNeue-Medium", "Helvetica Neue Medium", "Helvetica Neue", Helvetica, Arial, sans-serif;
-}
-
-
-[platform='mac'][browser='firefox'] .ce-countdown--theme-0 span{
-	font-weight: 500;
-}

@@ -1,0 +1,43 @@
+
+
+-------session starts-------
+
+[3-23 14:17:21.576] INFO: lsUserAddedMusicSourceIds=null
+[3-23 14:17:21.577] INFO: lsLastTrackFailureLoggingTime=1546384209426
+[3-23 14:17:22.197] INFO: MediaGallery: name=/home/anirudh/Music, galleryId=1, isMediaDevice=false, deviceId=undefined
+[3-23 14:17:22.197] INFO: MediaGallery: name=/home/anirudh/Pictures, galleryId=2, isMediaDevice=false, deviceId=undefined
+[3-23 14:17:22.200] INFO: Starts a quick scan on /home/anirudh/Music
+[3-23 14:17:22.200] INFO: Iterating over dir / from source /home/anirudh/Music
+[3-23 14:17:22.201] INFO: Starts a quick scan on /home/anirudh/Pictures
+[3-23 14:17:22.201] INFO: Iterating over dir / from source /home/anirudh/Pictures
+[3-23 14:17:22.215] INFO: /home/anirudh/Music contains music file
+[3-23 14:17:22.221] INFO: /home/anirudh/Pictures does not contain music file
+[3-23 14:17:22.222] INFO: lsUserSelectedDownloadDirId=null
+[3-23 14:17:22.228] INFO: lsDefaultDownloadLocationId=null
+[3-23 14:17:22.228] INFO: Setting is already: lsAlwaysUseDefaultDownloadLocation = false
+[3-23 14:17:22.228] INFO: Setting is already: lsDefaultDownloadLocationId = null
+[3-23 14:17:22.789] WARNING: Tier change detected
+[3-23 14:17:22.789] INFO: Fetched user settings from server.
+[3-23 14:17:22.797] INFO: chromeapp:E ready
+[3-23 14:17:23.40] INFO: Got the drag_and_drop directory
+[3-23 14:17:28.822] INFO: lsAppActivated=false
+[3-23 14:17:28.822] INFO: lsDragAndDropActivated=true
+[3-23 14:17:28.823] INFO: Device ID obtained.
+[3-23 14:17:28.823] INFO: Nacl version: 1.0.467.4929
+[3-23 14:17:28.829] INFO: lsAppActivated=false
+[3-23 14:17:28.839] INFO: OAuth token retrieved
+[3-23 14:17:30.442] INFO: lsUploadStatusIndicatorDismissed=false
+[3-23 14:17:30.445] INFO: Current upload state:
+	Added: 3
+	Total: 3
+	Failed: 0
+	Other Progress: false
+[3-23 14:17:30.468] INFO: lsUploadStatusIndicatorDismissed=false
+[3-23 16:17:21.544] INFO: Starting periodic scan.
+[3-23 16:17:21.545] INFO: lsSyncMusicEnabled=null
+[3-23 16:17:21.546] INFO: lsAppActivated=false
+[3-23 16:23:45.180] INFO: Fetched user settings from server.
+[3-23 18:13:16.927] INFO: Fetched user settings from server.
+[3-23 18:17:21.542] INFO: Starting periodic scan.
+[3-23 18:17:21.542] INFO: lsSyncMusicEnabled=null
+[3-23 18:17:21.543] INFO: lsAppActivated=false
