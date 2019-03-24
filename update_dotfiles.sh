@@ -31,6 +31,11 @@ copyconfigdir() {
     mv .config/ Config/
 }
 
+updatepackages() {
+    cat /dev/null > ~/dotfiles/packages.txt
+    pacman -Qqe >> ~/dotfiles/packages.txt
+}
+
 loading() {
     mypid=$!
     loadingText=$1
@@ -56,3 +61,4 @@ copyosconfig & loading "Copying OS config files"
 copytmuxconfig & loading "Copying tmux config"
 copyshellconfig & loading "Copying shell config"
 copyconfigdir & loading "Copying .config directory"
+updatepackages & loading "Updating packages.txt"
