@@ -59,8 +59,8 @@ thickness=34
 
 [ScreenConnectors]
 0=eDP-1
-1=HDMI-1
-2=:0.0
+1=:0.0
+2=HDMI-1
 
 [Updates]
 performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

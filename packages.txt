@@ -176,6 +176,7 @@ qt5-webengine
 qt5-webglplugin
 qt5-websockets
 qt5-webview
+ranger
 rbenv
 reiserfsprogs
 rofi

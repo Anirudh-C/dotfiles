@@ -1,5 +1,5 @@
 {
-   "checksum": "0f4c3e52c4f9dc210b1f7340fe2dfa9d",
+   "checksum": "191a1b15f160d7a8e25e9f1d572c7ec1",
    "roots": {
       "bookmark_bar": {
          "children": [ {
@@ -795,16 +795,6 @@
                "sync_transaction_version": "14",
                "type": "url",
                "url": "https://www.khanacademy.org/"
-            }, {
-               "date_added": "13102841113013229",
-               "id": "39",
-               "meta_info": {
-                  "last_visited_desktop": "13197898220308219"
-               },
-               "name": "https://www.youtube.com/ is not available",
-               "sync_transaction_version": "97",
-               "type": "url",
-               "url": "https://www.youtube.com/"
             } ],
             "date_added": "13190857494882028",
             "date_modified": "13190857494882028",
@@ -820,7 +810,7 @@
          "sync_transaction_version": "3",
          "type": "folder"
       },
-      "sync_transaction_version": "97",
+      "sync_transaction_version": "100",
       "synced": {
          "children": [ {
             "date_added": "13051723442521601",
