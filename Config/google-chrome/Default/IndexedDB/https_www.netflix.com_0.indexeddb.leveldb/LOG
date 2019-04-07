@@ -1,6 +1,0 @@
-2019/04/01-04:44:55.507 24666 Reusing MANIFEST /home/anirudh/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/MANIFEST-000001
-2019/04/01-04:44:55.508 24666 Recovering log #12
-2019/04/01-04:44:55.877 24666 Reusing old log /home/anirudh/.config/google-chrome/Default/IndexedDB/https_www.netflix.com_0.indexeddb.leveldb/000012.log 
-2019/04/01-04:45:03.948 24849 Level-0 table #16: started
-2019/04/01-04:45:04.082 24849 Level-0 table #16: 2744949 bytes OK
-2019/04/01-04:45:04.278 24849 Delete type=0 #12
