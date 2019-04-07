@@ -5,7 +5,6 @@ copyosconfig() {
     mv OS/.xinitrc OS/xinitrc
     cp ~/.Xresources OS
     mv OS/.Xresources OS/Xresources
-    cp -r ~/.config/i3 OS
     cp /etc/X11/xorg.conf.d/10-monitor.conf OS/Monitor
     cp ~/.xmodmap OS/Keyboard
     mv OS/Keyboard/.xmodmap OS/Keyboard/xmodmap
@@ -29,6 +28,7 @@ copyconfigdir() {
     cp -r ~/.config .
     rm -rf Config/
     mv .config/ Config/
+    rm -rf Config/google-chrome
 }
 
 updatepackages() {

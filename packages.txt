@@ -74,10 +74,6 @@ gzip
 heroku-cli
 htop
 httrack
-i3-gaps
-i3blocks
-i3lock
-i3status
 inetutils
 intel-ucode
 iproute2
@@ -88,10 +84,6 @@ iverilog
 jdk8-openjdk
 jfsutils
 jre8-openjdk
-kde-gtk-config
-kdeplasma-addons
-kscreen
-ktorrent
 leiningen
 less
 libdvdcss
@@ -126,6 +118,7 @@ nnn
 ntfs-3g
 ntp
 nvm
+octave
 openal
 openmpi
 openssh
@@ -138,9 +131,6 @@ pavucontrol
 pciutils
 pcmciautils
 pkgconf
-plasma-desktop
-plasma-nm
-plasma-pa
 poppler-glib
 postgresql
 prison
@@ -186,8 +176,6 @@ ruby
 rxvt-unicode
 s-nail
 screenfetch
-sddm
-sddm-kcm
 sed
 shadow
 solid

@@ -36,4 +36,4 @@ xset r rate 200 60
 
 # exec i3
 # exec emacs --eval "(start-exwm)"
-exec startkde
+exec dwm
