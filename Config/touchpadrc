@@ -1,9 +1,0 @@
-[autodisable]
-DisableOnKeyboardActivity=false
-
-[parameters]
-CircScrollDelta=5.73
-MaxTapMove=3.6
-OneFingerTapButton=LeftButton
-Tapping=true
-TwoFingerTapButton=RightButton
