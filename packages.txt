@@ -238,6 +238,7 @@ xorg-xclock
 xorg-xhost
 xorg-xinit
 xorg-xinput
+xorg-xsetroot
 xpdf
 xterm
 zip
