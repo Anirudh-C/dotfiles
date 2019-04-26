@@ -109,6 +109,7 @@ mpv
 mu
 nano
 neovim
+nerd-fonts-iosevka
 net-tools
 networkmanager-dmenu-git
 networkmanager-qt
@@ -143,6 +144,7 @@ pyside2
 python-grip
 python-matplotlib
 python-pip
+python-virtualenv
 python2-pip
 python2-pybluez
 qt5-3d
@@ -211,6 +213,7 @@ tree
 ttf-dejavu
 ttf-font-awesome
 ttf-freefont
+ttf-iosevka
 uget
 unrar
 unzip
