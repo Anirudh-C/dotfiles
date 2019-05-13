@@ -71,6 +71,7 @@ gtk3
 gtkglext
 gtkwave
 gzip
+hardinfo
 heroku-cli
 htop
 httrack
@@ -183,6 +184,7 @@ shadow
 solid
 sonnet
 spotify
+strace
 sudo
 syntax-highlighting
 sysfsutils
@@ -206,7 +208,6 @@ the_silver_searcher
 thefuck
 threadweaver
 tk
-tmux
 transcode
 transmission-gtk
 tree
@@ -245,4 +246,3 @@ xorg-xsetroot
 xpdf
 xterm
 zip
-zsh

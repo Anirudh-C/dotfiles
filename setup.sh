@@ -15,11 +15,6 @@ settmuxconfig() {
 }
 
 setshellconfig() {
-    rm ~/.zshrc
-    cp Work/Shell/zshrc ~/.zshrc
-    rm -rf ~/.oh-my-zsh
-    cp -r Work/Shell/oh-my-zsh ~/
-    mv ~/oh-my-zsh ~/.oh-my-zsh
 }
 
 setconfigdir() {

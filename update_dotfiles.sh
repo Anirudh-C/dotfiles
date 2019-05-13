@@ -16,12 +16,7 @@ copytmuxconfig() {
 }
 
 copyshellconfig() {
-    cp ~/.zshrc Work/Shell
-    mv Work/Shell/.zshrc Work/Shell/zshrc
-    cp -r ~/.oh-my-zsh Work/Shell
-    rm -rf Work/Shell/oh-my-zsh
-    mv Work/Shell/.oh-my-zsh Work/Shell/oh-my-zsh
-    rm -rf Work/Shell/oh-my-zsh/.git
+    :
 }
 
 copyconfigdir() {
