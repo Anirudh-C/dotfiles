@@ -12,6 +12,7 @@ copyosconfig() {
 
 copyshellconfig() {
     cp ~/.bashrc Work/Shell/bashrc
+    cp ~/.bash_profile Work/Shell/bash_profile
 }
 
 copyconfigdir() {
