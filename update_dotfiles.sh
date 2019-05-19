@@ -10,13 +10,8 @@ copyosconfig() {
     mv OS/Keyboard/.xmodmap OS/Keyboard/xmodmap
 }
 
-copytmuxconfig() {
-    cp ~/.tmux.conf Work
-    mv Work/.tmux.conf Work/tmux.conf
-}
-
 copyshellconfig() {
-    :
+    cp ~/.bashrc Work/Shell/bashrc
 }
 
 copyconfigdir() {
@@ -53,7 +48,6 @@ loading() {
 }
 
 copyosconfig & loading "Copying OS config files"
-copytmuxconfig & loading "Copying tmux config"
 copyshellconfig & loading "Copying shell config"
 copyconfigdir & loading "Copying .config directory"
 updatepackages & loading "Updating packages.txt"
