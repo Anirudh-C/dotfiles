@@ -5,17 +5,35 @@ static const unsigned int borderpx  = 0;        /* border pixel of windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
+static const unsigned int barheight = 25;
+static const unsigned int lrpadding = 15;
 static const char *fonts[]          = { "Iosevka:size=10" };
 static const char dmenufont[]       = "Iosevka:size=10";
-static const char col_gray1[]       = "#282a36";
-static const char col_gray2[]       = "#44475a";
-static const char col_gray3[]       = "#6272a4";
-static const char col_gray4[]       = "#bd93f9";
-static const char col_cyan[]        = "#6272a4";
-static const char *colors[][3]      = {
-	/*               fg         bg         border   */
-	[SchemeNorm] = { col_gray3, col_gray1, col_gray2 },
-	[SchemeSel]  = { col_gray4, col_gray2,  col_cyan  },
+
+static const char theme_color[] = "#1565c0";
+static const char bar_color[] = "#153b48";
+static const char ws_bg[] = "#0c232b";
+
+static const char black[]       = "#6272a4";
+static const char white[]       = "#cdcdcd";
+static const char grey[]        = "#414141";
+
+static const char work_C[]   = "#4db6ac";
+static const char status_C[]  = "#ff8a80";
+static const char title_C[] = "#1976d2";
+
+static const char *colors[][9] = {
+        /*               fg            bg           border   */
+        [SchemeNorm]  = { white      , bar_color  , grey  },
+        [SchemeSel]   = { black      , theme_color, white },
+                
+        [SchemeTitle]  = { title_C , bar_color, 0 },
+        [SchemeWork]   = { work_C  , ws_bg, 0 },
+        [SchemeStatus] = { status_C, bar_color, 0 },
+
+        [SchemeTunder] = { 0, title_C , 0 },
+        [SchemeWunder] = { 0, work_C  , 0 },
+        [SchemeSunder] = { 0, status_C, 0 },
 };
 
 /* tagging */
@@ -55,8 +73,8 @@ static const Layout layouts[] = {
 #define SHCMD(cmd) { .v = (const char*[]){ "/bin/sh", "-c", cmd, NULL } }
 
 /* commands */
-static char dmenumon[2] = "0"; /* component of dmenucmd, manipulated in spawn() */
-static const char *dmenucmd[] = { "dmenu_run", "-m", dmenumon, "-fn", dmenufont, "-nb", col_gray1, "-nf", col_gray3, "-sb", col_gray2, "-sf", col_gray4, NULL };
+//static char dmenumon[2] = "0"; /* component of dmenucmd, manipulated in spawn() */
+static const char *dmenucmd[] = { "dmenu_run", "-p", "run:", "-fn", dmenufont, "-nb", bar_color, "-sb", theme_color, NULL };
 static const char *termcmd[]  = { "st", NULL };
 static const char *emacsclientcmd[] = {"emacsclient", "-c", NULL};
 
