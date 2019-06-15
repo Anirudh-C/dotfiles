@@ -145,6 +145,7 @@ pyside2
 python-grip
 python-matplotlib
 python-pip
+python-pyopenssl
 python-virtualenv
 python2-pip
 python2-pybluez
