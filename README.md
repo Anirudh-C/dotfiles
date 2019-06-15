@@ -1,19 +1,23 @@
-# Setup
+# fiddler-dots
 
 ## Software
 * Arch
-* i3 window manager
+* dwm
+* st
 * tmux
 * [vim](https://github.com/anirudh-c/fiddler-vim)
 * [emacs](https://github.com/anirudh-c/fiddler-emacs)
-* zsh
+* bash
+
+## Screenshot
+![scrot](https://github.com/Anirudh-C/dotfiles/blob/master/scrot.png)
 
 ## Configs
 ### OS
     |
     |--> ~/.xinitrc
     |--> ~/.Xresources
-    |--> ~/.config/i3/config
+    |--> ~/dotfiles/dwm
     |--> Monitor
          |
          |--> /etc/X11/xorg.conf.d/10-monitor.conf
@@ -38,8 +42,8 @@
     |--> ~/.tmux.conf
     |--> Shell
          |
-         |--> ~/.zshrc
-         |--> ~/.oh-my-zsh
+         |--> ~/.bashrc
+         |--> ~/.bash_profile
 
 ## Install
 To install the dotfiles:
