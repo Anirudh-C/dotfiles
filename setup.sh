@@ -3,18 +3,13 @@
 setosconfig() {
     rm ~/.xinitrc
     cp OS/xinitrc ~/.xinitrc
-    rm ~/.Xresources
-    cp OS/Xresources ~/.Xresources
-    rm ~/.xmodmap
-    cp OS/Keyboard/xmodmap ~/.xmodmap
-}
-
-settmuxconfig() {
-    rm ~/.tmux.conf
-    cp Work/tmux.conf ~/.tmux.conf
 }
 
 setshellconfig() {
+	rm ~/.bashrc
+	rm ~/.bash_profile
+	cp Work/Shell/bashrc ~/.bashrc
+	cp Work/Shell/bash_profile ~/.bash_profile
 }
 
 setconfigdir() {
@@ -44,6 +39,5 @@ loading() {
 }
 
 setosconfig & loading "Getting OS config files"
-settmuxconfig & loading "Getting tmux config"
 setshellconfig & loading "Getting shell config"
 setconfigdir & loading "Getting .config directory"

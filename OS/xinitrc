@@ -20,7 +20,7 @@ xset r rate 200 60
 feh --bg-fill ~/dotfiles/wallpaper.jpg
 # Status bar loop
 while true; do
-    xsetroot -name "date: $( date +"%F" ) < time: $( date +"%R") < bat: $(cat /sys/class/power_supply/BAT0/capacity)%"
+    xsetroot -name "date: $( date +"%F" ) < time: $( date +"%R") < bat: $(cat /sys/class/power_supply/BAT1/capacity)%"
     sleep 1m
 done &
 # Window Manager

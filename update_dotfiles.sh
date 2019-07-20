@@ -3,11 +3,6 @@
 copyosconfig() {
     cp ~/.xinitrc OS
     mv OS/.xinitrc OS/xinitrc
-    cp ~/.Xresources OS
-    mv OS/.Xresources OS/Xresources
-    cp /etc/X11/xorg.conf.d/10-monitor.conf OS/Monitor
-    cp ~/.xmodmap OS/Keyboard
-    mv OS/Keyboard/.xmodmap OS/Keyboard/xmodmap
 }
 
 copyshellconfig() {
