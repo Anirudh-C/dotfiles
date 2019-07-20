@@ -1,2 +1,4 @@
 dwm/dwm
 dwm/*.o
+term/*.o
+term/st
