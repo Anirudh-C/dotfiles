@@ -78,9 +78,19 @@ static const char *dmenucmd[] = { "dmenu_run", "-p", "run:", "-fn", dmenufont, "
 static const char *termcmd[]  = { "st", NULL };
 static const char *emacsclientcmd[] = {"emacsclient", "-c", NULL};
 
+// Volume Keys
+#include <X11/XF86keysym.h>
+
+static const char *upvol[]   = { "/usr/bin/pactl", "set-sink-volume", "0", "+5%",     NULL };
+static const char *downvol[] = { "/usr/bin/pactl", "set-sink-volume", "0", "-5%",     NULL };
+static const char *mutevol[] = { "/usr/bin/pactl", "set-sink-mute",   "0", "toggle",  NULL };
+
 static Key keys[] = {
 	/* modifier                     key        function        argument */
 	{ MODKEY,                       XK_p,      spawn,          {.v = dmenucmd } },
+	{0, 				XF86XK_AudioLowerVolume, spawn, {.v = downvol } },
+	{0, 				XF86XK_AudioMute, spawn, {.v = mutevol } },
+	{0, 				XF86XK_AudioRaiseVolume, spawn, {.v = upvol } },
 	{ MODKEY|ShiftMask,             XK_Return, spawn,          {.v = termcmd } },
     { MODKEY,                       XK_e,      spawn,          {.v = emacsclientcmd } },
 	{ MODKEY,                       XK_b,      togglebar,      {0} },
