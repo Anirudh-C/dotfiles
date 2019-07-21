@@ -5,8 +5,8 @@ static const unsigned int borderpx  = 0;        /* border pixel of windows */
 static const unsigned int snap      = 32;       /* snap pixel */
 static const int showbar            = 1;        /* 0 means no bar */
 static const int topbar             = 1;        /* 0 means bottom bar */
-static const unsigned int barheight = 32;
-static const unsigned int lrpadding = 16;
+static const unsigned int barheight = 27;
+static const unsigned int lrpadding = 15;
 static const char *fonts[]          = { "Iosevka:size=9" };
 static const char dmenufont[]       = "Iosevka:size=9";
 

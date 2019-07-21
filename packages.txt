@@ -20,7 +20,6 @@ dmenu
 dosfstools
 e2fsprogs
 efibootmgr
-emacs
 fakeroot
 feh
 file

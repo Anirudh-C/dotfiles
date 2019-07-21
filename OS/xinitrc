@@ -2,6 +2,7 @@
 
 usermodmap=$HOME/.xmodmap
 sysmodmap=/etc/X11/xinit/.Xmodmap
+userresources=$HOME/.Xresources
 
 # merge in defaults and keymaps
 
@@ -23,5 +24,9 @@ while true; do
     xsetroot -name "date: $( date +"%F" ) < time: $( date +"%R") < bat: $( cat /sys/class/power_supply/BAT1/capacity)%"
     sleep 1m
 done &
+
+[[ -f "$userresources" ]] && xrdb -merge "$userresources" &
+	xrandr --dpi 115
+
 # Window Manager
 exec dwm
