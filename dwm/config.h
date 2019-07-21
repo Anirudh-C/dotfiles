@@ -85,12 +85,18 @@ static const char *upvol[]   = { "/usr/bin/pactl", "set-sink-volume", "0", "+5%"
 static const char *downvol[] = { "/usr/bin/pactl", "set-sink-volume", "0", "-5%",     NULL };
 static const char *mutevol[] = { "/usr/bin/pactl", "set-sink-mute",   "0", "toggle",  NULL };
 
+// Brightness Keys
+static const char *upbrightness[] = {"/home/anirudh/dotfiles/brightness.sh", "up", NULL};
+static const char *downbrightness[] = {"/home/anirudh/dotfiles/brightness.sh", "down", NULL};
+
 static Key keys[] = {
 	/* modifier                     key        function        argument */
 	{ MODKEY,                       XK_p,      spawn,          {.v = dmenucmd } },
 	{0, 				XF86XK_AudioLowerVolume, spawn, {.v = downvol } },
 	{0, 				XF86XK_AudioMute, spawn, {.v = mutevol } },
 	{0, 				XF86XK_AudioRaiseVolume, spawn, {.v = upvol } },
+	{0, 				XF86XK_MonBrightnessUp, spawn, {.v = upbrightness } },
+	{0, 				XF86XK_MonBrightnessDown, spawn, {.v = downbrightness } },
 	{ MODKEY|ShiftMask,             XK_Return, spawn,          {.v = termcmd } },
     { MODKEY,                       XK_e,      spawn,          {.v = emacsclientcmd } },
 	{ MODKEY,                       XK_b,      togglebar,      {0} },
