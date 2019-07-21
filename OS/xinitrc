@@ -17,8 +17,6 @@ fi
 xsetroot -cursor_name left_ptr
 xset r rate 200 60
 
-# Background
-feh --bg-fill ~/dotfiles/wallpaper.jpg
 # Status bar loop
 while true; do
     xsetroot -name "date: $( date +"%F" ) < time: $( date +"%R") < bat: $( cat /sys/class/power_supply/BAT1/capacity)%"
@@ -26,7 +24,9 @@ while true; do
 done &
 
 [[ -f "$userresources" ]] && xrdb -merge "$userresources" &
-	xrandr --dpi 115
+	xrandr --dpi 144 --output DP-2 --mode 1920x1080 --output HDMI-0 --scale 1.2x1.2
 
+# Background
+feh --bg-fill ~/dotfiles/wallpaper.jpg
 # Window Manager
 exec dwm

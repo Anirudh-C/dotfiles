@@ -81,6 +81,7 @@ pulseaudio-bluetooth
 ranger
 reiserfsprogs
 s-nail
+scrot
 sed
 shadow
 sudo
