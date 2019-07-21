@@ -3,6 +3,8 @@
 copyosconfig() {
     cp ~/.xinitrc OS
     mv OS/.xinitrc OS/xinitrc
+    cp ~/.xmodmap OS/
+    mv OS/.xmodmap OS/xmodmap
 }
 
 copyshellconfig() {

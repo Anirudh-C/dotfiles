@@ -1,0 +1,77 @@
+{
+  "session" : {
+    "format-version" : 1,
+    "timestamp" : "1563693244",
+    "user" : "anirudh",
+    "layout" : 1,
+    "pane_pos_top" : 651,
+    "pane_pos_bottom" : 651,
+    "pane_pos_quad" : 979,
+    "panes" : [
+      {
+        "number" : 1,
+        "active_tab" : 0,
+        "visible" : true,
+        "tabs" : [
+          {
+            "renamed" : false,
+            "name" : "data",
+            "path" : "/mnt/data",
+            "locked_path" : "",
+            "view" : 2,
+            "show_hidden" : false,
+            "active" : true
+          }
+        ]
+      },
+      {
+        "number" : 2,
+        "active_tab" : 0,
+        "visible" : false,
+        "tabs" : [
+          {
+            "renamed" : false,
+            "name" : "anirudh",
+            "path" : "/home/anirudh",
+            "locked_path" : "",
+            "view" : 2,
+            "show_hidden" : false,
+            "active" : false
+          }
+        ]
+      },
+      {
+        "number" : 3,
+        "active_tab" : 0,
+        "visible" : false,
+        "tabs" : [
+          {
+            "renamed" : false,
+            "name" : "anirudh",
+            "path" : "/home/anirudh",
+            "locked_path" : "",
+            "view" : 2,
+            "show_hidden" : false,
+            "active" : false
+          }
+        ]
+      },
+      {
+        "number" : 4,
+        "active_tab" : 0,
+        "visible" : false,
+        "tabs" : [
+          {
+            "renamed" : false,
+            "name" : "anirudh",
+            "path" : "/home/anirudh",
+            "locked_path" : "",
+            "view" : 2,
+            "show_hidden" : false,
+            "active" : false
+          }
+        ]
+      }
+    ]
+  }
+}

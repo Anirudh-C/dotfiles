@@ -3,6 +3,8 @@
 setosconfig() {
     rm ~/.xinitrc
     cp OS/xinitrc ~/.xinitrc
+    rm ~/.xmodmap
+    cp OS/xmodmap ~/.xmodmap
 }
 
 setshellconfig() {

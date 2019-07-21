@@ -3,3 +3,4 @@
 #
 
 [[ -f ~/.bashrc ]] && . ~/.bashrc
+export PATH=$PATH:/home/anirudh/.local/bin
