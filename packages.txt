@@ -79,6 +79,7 @@ psmisc
 pulseaudio
 pulseaudio-bluetooth
 ranger
+refind-efi
 reiserfsprogs
 s-nail
 scrot
