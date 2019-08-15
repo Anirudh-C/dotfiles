@@ -57,6 +57,7 @@ make
 man-db
 man-pages
 mdadm
+minted
 mpd
 mtools
 nano
@@ -64,6 +65,7 @@ netctl
 networkmanager
 ntfs-3g
 nvidia
+nvidia-settings
 ofono
 os-prober
 pacman
@@ -104,6 +106,8 @@ texlive-pictures
 texlive-pstricks
 texlive-publishers
 texlive-science
+tlp
+tlp-rdw
 ttf-dejavu
 ttf-iosevka
 usbutils

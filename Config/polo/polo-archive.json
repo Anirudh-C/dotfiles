@@ -1,0 +1,13 @@
+{
+  "format-version" : 1,
+  "format" : "zip",
+  "method" : "deflate",
+  "level" : "5",
+  "dict_size" : "",
+  "word_size" : "32",
+  "block_size" : "",
+  "passes" : "1",
+  "encrypt_header" : "false",
+  "encrypt_method" : "ZipCrypto",
+  "split_mb" : "0"
+}
