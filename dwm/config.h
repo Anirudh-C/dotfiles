@@ -81,9 +81,9 @@ static const char *emacsclientcmd[] = {"emacsclient", "-c", NULL};
 // Volume Keys
 #include <X11/XF86keysym.h>
 
-static const char *upvol[]   = { "/usr/bin/pactl", "set-sink-volume", "0", "+5%",     NULL };
-static const char *downvol[] = { "/usr/bin/pactl", "set-sink-volume", "0", "-5%",     NULL };
-static const char *mutevol[] = { "/usr/bin/pactl", "set-sink-mute",   "0", "toggle",  NULL };
+static const char *upvol[]   = { "/home/anirudh/dotfiles/volume.sh", "up", NULL };
+static const char *downvol[] = { "/home/anirudh/dotfiles/volume.sh", "down", NULL };
+static const char *mutevol[] = { "/home/anirudh/dotfiles/volume.sh", "mute", NULL };
 
 // Brightness Keys
 static const char *upbrightness[] = {"/home/anirudh/dotfiles/brightness.sh", "up", NULL};

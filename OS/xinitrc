@@ -7,11 +7,11 @@ userresources=$HOME/.Xresources
 # merge in defaults and keymaps
 
 if [ -f $sysmodmap ]; then
-    xmodmap $sysmodmap
+	xmodmap $sysmodmap
 fi
 
 if [ -f "$usermodmap" ]; then
-    xmodmap "$usermodmap"
+	xmodmap "$usermodmap"
 fi
 
 xsetroot -cursor_name left_ptr
@@ -19,8 +19,12 @@ xset r rate 200 60
 
 # Status bar loop
 while true; do
-    xsetroot -name "date: $( date +"%F" ) < time: $( date +"%R") < bat: $( cat /sys/class/power_supply/BAT1/capacity)%"
-    sleep 1m
+	# Get the volume and remove the percentage
+	vol=$(pactl list sinks | grep "Volume: " | awk '{print $12}')
+	vol=${vol::-1}
+	# Pass the percentage to the volume indicator string generator
+	volindicator=$(python /home/anirudh/dotfiles/volume-indicator.py $vol)
+	xsetroot -name "date: $( date +"%F" ) < time: $( date +"%R") < volume: $volindicator < bat: $( cat /sys/class/power_supply/BAT1/capacity)%"
 done &
 
 [[ -f "$userresources" ]] && xrdb -merge "$userresources" &
