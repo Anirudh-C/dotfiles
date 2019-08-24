@@ -1,0 +1,1013 @@
+[08/23/19, 18:49:36:053] info: ╔══════════════════════════════════════════════════════════════════════════════════╗ 
+[08/23/19, 18:49:36:053] info: ║      Slack 4.0.1, linux 5.2.1-arch1-1-ARCH on x64 at 08/23/19, 18:49:36:053      ║ 
+[08/23/19, 18:49:36:053] info: ╚══════════════════════════════════════════════════════════════════════════════════╝ 
+[08/23/19, 18:49:36:053] info: Configured logger via 
+{
+  "logLevel": "info"
+}
+[08/23/19, 18:49:36:053] info: Predefined values for process 
+{
+  "platform": "linux",
+  "NODE_ENV": "production",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.0.1",
+  "PACKAGE_MANIFEST.versionName": "The Final Countdown",
+  "PACKAGE_MANIFEST.commit": "d9a7448",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[08/23/19, 18:49:36:860] info: Initializing local storage instance at path: /home/anirudh/.config/Slack/local-settings.json 
+[08/23/19, 18:49:37:702] info: JQMIGRATE: Migrate is installed with logging active, version 3.0.0 
+[08/23/19, 18:49:38:714] warn: Aug-23 18:49:38.714 error getActiveModelOb found no ob 
+[08/23/19, 18:49:38:714] warn: Aug-23 18:49:38.714 TS.boot_data.channel_id: undefined 
+[08/23/19, 18:49:38:715] warn: Aug-23 18:49:38.714 TS.boot_data.im_id: undefined 
+[08/23/19, 18:49:38:715] warn: Aug-23 18:49:38.714 TS.boot_data.group_id: undefined 
+[08/23/19, 18:49:38:715] warn: Aug-23 18:49:38.715 error getActiveModelOb found no ob 
+[08/23/19, 18:49:38:715] warn: Aug-23 18:49:38.715 TS.boot_data.channel_id: undefined 
+[08/23/19, 18:49:38:715] warn: Aug-23 18:49:38.715 TS.boot_data.im_id: undefined 
+[08/23/19, 18:49:38:715] warn: Aug-23 18:49:38.715 TS.boot_data.group_id: undefined 
+[08/23/19, 18:49:38:756] info: Aug-23 18:49:38.756 [BOOT] booted! pri:0 version:1566522412 start_ms:1566566377478 (1278ms ago) 
+[08/23/19, 18:49:38:768] info: Aug-23 18:49:38.768 [DESKTOP-MIDDLEWARE] (T00000000) Forwarding redux payload to desktop ["theme","featureFlags","bootConfig","unreads","locale"] 
+[08/23/19, 18:49:38:805] info: Aug-23 18:49:38.788 [DESKTOP-MIDDLEWARE] (T00000000) Forwarding redux payload to desktop ["bootConfig"] 
+[08/23/19, 18:49:38:813] warn: Aug-23 18:49:38.791 TELEMETRY You tried to get a team-specific telemeter but didn’t provide enough context and are getting the generic telemeter instead which is likely not what you want. 
+[08/23/19, 18:49:38:813] info: Aug-23 18:49:38.791 [INFO] no TS.client on page:https://app.slack.com/ssb/first?redir=%2Fssb%2Fclient 
+[08/23/19, 18:49:39:776] info: Aug-23 18:49:39.776 [INFO] running without a user 
+[08/23/19, 18:49:40:268] info: Aug-23 18:49:40.268 [FOCUS-EVENT] Window blurred 
+[08/23/19, 18:49:40:270] warn: Aug-23 18:49:40.270 TELEMETRY You tried to get a team-specific telemeter but didn’t provide enough context and are getting the generic telemeter instead which is likely not what you want. 
+[08/23/19, 18:49:40:270] info: Aug-23 18:49:40.270 [UNKNOWN-FETCH-MANAGER] (T00000000) requesting T00000000 (1) 
+[08/23/19, 18:49:40:273] info: Aug-23 18:49:40.274 [API-Q] (T00000000) f1384120-1566566380.271 team.info called with reason: UnknownFetchManager 
+[08/23/19, 18:49:40:273] info: Aug-23 18:49:40.274 [API-Q] (T00000000) f1384120-1566566380.271 team.info is ENQUEUED 
+[08/23/19, 18:49:40:274] info: Aug-23 18:49:40.274 [API-Q] (T00000000) f1384120-1566566380.271 team.info is ACTIVE 
+[08/23/19, 18:49:40:516] info: Aug-23 18:49:40.516 [API-Q] (T00000000) f1384120-1566566380.271 team.info is REJECTED: API not ok not_authed 
+[08/23/19, 18:49:40:517] info: Aug-23 18:49:40.517 [UNKNOWN-FETCH-MANAGER] (T00000000) received T00000000 (1) 
+[08/23/19, 18:49:40:517] warn: Aug-23 18:49:40.517 (T00000000) UnknownFetchManager requested 1 objects but received 0. Missing objects: T00000000 
+[08/23/19, 18:49:41:588] info: Aug-23 18:49:41.587 [FOCUS-EVENT] Window focused 
+[08/23/19, 18:49:43:228] info: Aug-23 18:49:43.225 [FOCUS-EVENT] Window blurred 
+[08/23/19, 18:49:43:252] info: Aug-23 18:49:43.253 [WINDOW-UNLOADING] (T00000000) workspace handling window unloading event 
+[08/23/19, 18:49:47:162] info: ╔══════════════════════════════════════════════════════════════════════════════════╗ 
+[08/23/19, 18:49:47:162] info: ║      Slack 4.0.1, linux 5.2.1-arch1-1-ARCH on x64 at 08/23/19, 18:49:47:162      ║ 
+[08/23/19, 18:49:47:162] info: ╚══════════════════════════════════════════════════════════════════════════════════╝ 
+[08/23/19, 18:49:47:162] info: Configured logger via 
+{
+  "logLevel": "info"
+}
+[08/23/19, 18:49:47:162] info: Predefined values for process 
+{
+  "platform": "linux",
+  "NODE_ENV": "production",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.0.1",
+  "PACKAGE_MANIFEST.versionName": "The Final Countdown",
+  "PACKAGE_MANIFEST.commit": "d9a7448",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[08/23/19, 18:49:47:694] info: Initializing local storage instance at path: /home/anirudh/.config/Slack/local-settings.json 
+[08/23/19, 18:49:48:063] info: JQMIGRATE: Migrate is installed with logging active, version 3.0.0 
+[08/23/19, 18:49:49:213] warn: Aug-23 18:49:49.149 error getActiveModelOb found no ob 
+[08/23/19, 18:49:49:213] warn: Aug-23 18:49:49.149 TS.boot_data.channel_id: undefined 
+[08/23/19, 18:49:49:213] warn: Aug-23 18:49:49.149 TS.boot_data.im_id: undefined 
+[08/23/19, 18:49:49:213] warn: Aug-23 18:49:49.149 TS.boot_data.group_id: undefined 
+[08/23/19, 18:49:49:213] warn: Aug-23 18:49:49.149 error getActiveModelOb found no ob 
+[08/23/19, 18:49:49:213] warn: Aug-23 18:49:49.149 TS.boot_data.channel_id: undefined 
+[08/23/19, 18:49:49:213] warn: Aug-23 18:49:49.150 TS.boot_data.im_id: undefined 
+[08/23/19, 18:49:49:214] warn: Aug-23 18:49:49.150 TS.boot_data.group_id: undefined 
+[08/23/19, 18:49:49:214] info: Aug-23 18:49:49.197 [BOOT] booted! pri:0 version:1566522412 start_ms:1566566387847 (1350ms ago) 
+[08/23/19, 18:49:49:214] info: Aug-23 18:49:49.210 [DESKTOP-MIDDLEWARE] (T00000000) Forwarding redux payload to desktop ["theme","featureFlags","bootConfig","unreads","locale"] 
+[08/23/19, 18:49:49:274] info: Aug-23 18:49:49.259 [DESKTOP-MIDDLEWARE] (T00000000) Forwarding redux payload to desktop ["bootConfig"] 
+[08/23/19, 18:49:49:280] warn: Aug-23 18:49:49.262 TELEMETRY You tried to get a team-specific telemeter but didn’t provide enough context and are getting the generic telemeter instead which is likely not what you want. 
+[08/23/19, 18:49:49:280] info: Aug-23 18:49:49.262 [INFO] no TS.client on page:https://app.slack.com/ssb/first?redir=%2Fssb%2Fclient 
+[08/23/19, 18:49:49:308] info: Aug-23 18:49:49.309 [INFO] running without a user 
+[08/23/19, 18:49:51:485] info: Aug-23 18:49:51.485 [FOCUS-EVENT] Window blurred 
+[08/23/19, 18:49:51:487] warn: Aug-23 18:49:51.487 TELEMETRY You tried to get a team-specific telemeter but didn’t provide enough context and are getting the generic telemeter instead which is likely not what you want. 
+[08/23/19, 18:49:51:487] info: Aug-23 18:49:51.487 [UNKNOWN-FETCH-MANAGER] (T00000000) requesting T00000000 (1) 
+[08/23/19, 18:49:51:490] info: Aug-23 18:49:51.490 [API-Q] (T00000000) f1384120-1566566391.488 team.info called with reason: UnknownFetchManager 
+[08/23/19, 18:49:51:490] info: Aug-23 18:49:51.490 [API-Q] (T00000000) f1384120-1566566391.488 team.info is ENQUEUED 
+[08/23/19, 18:49:51:491] info: Aug-23 18:49:51.491 [API-Q] (T00000000) f1384120-1566566391.488 team.info is ACTIVE 
+[08/23/19, 18:49:51:733] info: Aug-23 18:49:51.734 [API-Q] (T00000000) f1384120-1566566391.488 team.info is REJECTED: API not ok not_authed 
+[08/23/19, 18:49:51:734] info: Aug-23 18:49:51.735 [UNKNOWN-FETCH-MANAGER] (T00000000) received T00000000 (1) 
+[08/23/19, 18:49:51:734] warn: Aug-23 18:49:51.735 (T00000000) UnknownFetchManager requested 1 objects but received 0. Missing objects: T00000000 
+[08/23/19, 18:49:52:806] info: Aug-23 18:49:52.804 [FOCUS-EVENT] Window focused 
+[08/23/19, 18:49:53:624] info: Aug-23 18:49:53.620 [FOCUS-EVENT] Window blurred 
+[08/23/19, 18:49:53:628] info: Aug-23 18:49:53.628 [WINDOW-UNLOADING] (T00000000) workspace handling window unloading event 
+[08/23/19, 18:49:57:645] info: ╔══════════════════════════════════════════════════════════════════════════════════╗ 
+[08/23/19, 18:49:57:645] info: ║      Slack 4.0.2, linux 5.2.1-arch1-1-ARCH on x64 at 08/23/19, 18:49:57:645      ║ 
+[08/23/19, 18:49:57:645] info: ╚══════════════════════════════════════════════════════════════════════════════════╝ 
+[08/23/19, 18:49:57:645] info: Configured logger via 
+{
+  "logLevel": "info"
+}
+[08/23/19, 18:49:57:645] info: Predefined values for process 
+{
+  "platform": "linux",
+  "NODE_ENV": "production",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.0.2",
+  "PACKAGE_MANIFEST.versionName": "The Final Countdown",
+  "PACKAGE_MANIFEST.commit": "8900f04",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[08/23/19, 18:49:58:421] info: Initializing local storage instance at path: /home/anirudh/.config/Slack/local-settings.json 
+[08/23/19, 18:49:58:844] info: JQMIGRATE: Migrate is installed with logging active, version 3.0.0 
+[08/23/19, 18:49:59:356] warn: Aug-23 18:49:59.356 error getActiveModelOb found no ob 
+[08/23/19, 18:49:59:356] warn: Aug-23 18:49:59.356 TS.boot_data.channel_id: undefined 
+[08/23/19, 18:49:59:356] warn: Aug-23 18:49:59.356 TS.boot_data.im_id: undefined 
+[08/23/19, 18:49:59:356] warn: Aug-23 18:49:59.356 TS.boot_data.group_id: undefined 
+[08/23/19, 18:49:59:356] warn: Aug-23 18:49:59.357 error getActiveModelOb found no ob 
+[08/23/19, 18:49:59:356] warn: Aug-23 18:49:59.357 TS.boot_data.channel_id: undefined 
+[08/23/19, 18:49:59:356] warn: Aug-23 18:49:59.357 TS.boot_data.im_id: undefined 
+[08/23/19, 18:49:59:357] warn: Aug-23 18:49:59.357 TS.boot_data.group_id: undefined 
+[08/23/19, 18:49:59:366] info: Aug-23 18:49:59.366 [BOOT] booted! pri:0 version:1566522412 start_ms:1566566398642 (724ms ago) 
+[08/23/19, 18:49:59:379] info: Aug-23 18:49:59.379 [DESKTOP-MIDDLEWARE] (T00000000) Forwarding redux payload to desktop ["theme","featureFlags","bootConfig","unreads","locale"] 
+[08/23/19, 18:49:59:416] info: Aug-23 18:49:59.406 [DESKTOP-MIDDLEWARE] (T00000000) Forwarding redux payload to desktop ["bootConfig"] 
+[08/23/19, 18:49:59:420] warn: Aug-23 18:49:59.410 TELEMETRY You tried to get a team-specific telemeter but didn’t provide enough context and are getting the generic telemeter instead which is likely not what you want. 
+[08/23/19, 18:49:59:421] info: Aug-23 18:49:59.410 [INFO] no TS.client on page:https://app.slack.com/ssb/first?redir=%2Fssb%2Fclient 
+[08/23/19, 18:49:59:453] info: Aug-23 18:49:59.453 [INFO] running without a user 
+[08/23/19, 18:50:00:967] warn: Aug-23 18:50:00.967 TELEMETRY You tried to get a team-specific telemeter but didn’t provide enough context and are getting the generic telemeter instead which is likely not what you want. 
+[08/23/19, 18:50:00:967] info: Aug-23 18:50:00.967 [UNKNOWN-FETCH-MANAGER] (T00000000) requesting T00000000 (1) 
+[08/23/19, 18:50:00:971] info: Aug-23 18:50:00.971 [API-Q] (T00000000) f1384120-1566566400.969 team.info called with reason: UnknownFetchManager 
+[08/23/19, 18:50:00:971] info: Aug-23 18:50:00.971 [API-Q] (T00000000) f1384120-1566566400.969 team.info is ENQUEUED 
+[08/23/19, 18:50:00:972] info: Aug-23 18:50:00.972 [API-Q] (T00000000) f1384120-1566566400.969 team.info is ACTIVE 
+[08/23/19, 18:50:01:216] info: Aug-23 18:50:01.216 [API-Q] (T00000000) f1384120-1566566400.969 team.info is REJECTED: API not ok not_authed 
+[08/23/19, 18:50:01:217] info: Aug-23 18:50:01.217 [UNKNOWN-FETCH-MANAGER] (T00000000) received T00000000 (1) 
+[08/23/19, 18:50:01:217] warn: Aug-23 18:50:01.218 (T00000000) UnknownFetchManager requested 1 objects but received 0. Missing objects: T00000000 
+[08/23/19, 18:50:01:864] info: Aug-23 18:50:01.864 [FOCUS-EVENT] Window blurred 
+[08/23/19, 18:51:39:343] info: Aug-23 18:51:39.342 [FOCUS-EVENT] Window focused 
+[08/23/19, 18:51:40:023] info: Aug-23 18:51:40.022 [FOCUS-EVENT] Window blurred 
+[08/23/19, 18:51:41:563] info: Aug-23 18:51:41.563 [FOCUS-EVENT] Window focused 
+[08/23/19, 18:51:41:879] info: Aug-23 18:51:41.879 [FOCUS-EVENT] Window blurred 
+[08/23/19, 18:51:43:152] info: Aug-23 18:51:43.152 [FOCUS-EVENT] Window focused 
+[08/23/19, 18:51:43:323] info: Aug-23 18:51:43.323 [FOCUS-EVENT] Window blurred 
+[08/23/19, 18:51:46:249] info: Aug-23 18:51:46.240 [FOCUS-EVENT] Window focused 
+[08/23/19, 18:51:46:252] info: Aug-23 18:51:46.251 [FOCUS-EVENT] Window blurred 
+[08/23/19, 18:51:46:810] info: Aug-23 18:51:46.811 [WINDOW-UNLOADING] (T00000000) workspace handling window unloading event 
+[08/23/19, 18:51:47:755] info: Initializing local storage instance at path: /home/anirudh/.config/Slack/local-settings.json 
+[08/23/19, 18:51:48:300] info: Aug-23 18:51:48.301 [METRICS] Starting timers for metrics collection 
+[08/23/19, 18:51:48:326] info: Aug-23 18:51:48.327 [PERF] setupGantry_w begin 1030ms 
+[08/23/19, 18:51:48:327] info: Aug-23 18:51:48.327 [APP] client 
+[08/23/19, 18:51:48:327] info: Aug-23 18:51:48.327 [VERSION] version_ts: 1566522412 
+[08/23/19, 18:51:48:327] info: Aug-23 18:51:48.327 [VERSION] min_version_data_ts: 1566510624 
+[08/23/19, 18:51:48:327] info: Aug-23 18:51:48.327 [VERSION] version_hash: f1384120180664f1a01062bc300203cee5d86b2b 
+[08/23/19, 18:51:48:327] info: Aug-23 18:51:48.328 [LOCAL-CONFIG] ingestIncomingConfig(): no incoming payload to process; current teams: (none) 
+[08/23/19, 18:51:48:328] info: Aug-23 18:51:48.328 [AUTH] Need to re-fetch auth (sc=true, psc=NaN, csc=1566566508, mfc=true, lf=0, mf=1562000400) 
+[08/23/19, 18:51:48:328] info: Aug-23 18:51:48.329 [AUTH] fetchAuthAndReturnToUrl: auth fetch times: 1566566508328 
+[08/23/19, 18:51:48:329] info: Aug-23 18:51:48.329 [AUTH] fetchAuthAndReturnToUrl: will return to /client 
+[08/23/19, 18:51:48:329] info: Aug-23 18:51:48.329 [AUTH] fetchAuthAndReturnToUrl: fetching credentials with iframe at /auth?app=client&lc=null&return_to=%2Fclient&teams= 
+[08/23/19, 18:51:48:338] info: [WD] All assets have reported back; s: 11; f: 0 
+[08/23/19, 18:51:48:584] info: [AUTH] credentials are ready 
+[08/23/19, 18:51:48:585] info: Aug-23 18:51:48.585 [AUTH] credentials are ready; reloading to /client ({"didAdd":true,"didChange":false,"didRemove":false}) 
+[08/23/19, 18:51:49:485] info: Initializing local storage instance at path: /home/anirudh/.config/Slack/local-settings.json 
+[08/23/19, 18:51:49:714] info: Aug-23 18:51:49.714 [METRICS] Starting timers for metrics collection 
+[08/23/19, 18:51:49:737] info: Aug-23 18:51:49.737 [PERF] setupGantry_w begin 1150ms 
+[08/23/19, 18:51:49:737] info: Aug-23 18:51:49.738 [APP] client 
+[08/23/19, 18:51:49:738] info: Aug-23 18:51:49.738 [VERSION] version_ts: 1566522412 
+[08/23/19, 18:51:49:738] info: Aug-23 18:51:49.738 [VERSION] min_version_data_ts: 1566510624 
+[08/23/19, 18:51:49:738] info: Aug-23 18:51:49.738 [VERSION] version_hash: f1384120180664f1a01062bc300203cee5d86b2b 
+[08/23/19, 18:51:49:738] info: Aug-23 18:51:49.738 [LOCAL-CONFIG] ingestIncomingConfig(): processing 410 bytes of data 
+[08/23/19, 18:51:49:739] info: Aug-23 18:51:49.739 [LOCAL-CONFIG] ingestIncomingConfig(): teams before: (none), teams now: T1792L49E 
+[08/23/19, 18:51:49:740] info: Aug-23 18:51:49.740 [AUTH] Credentials are fresh (psc=1566566508, csc=1566566508) 
+[08/23/19, 18:51:49:740] info: Aug-23 18:51:49.740 [BOOT] Initial team ID: T1792L49E 
+[08/23/19, 18:51:49:741] info: Aug-23 18:51:49.742 [PERF] setupGantry_w took 4.8ms 
+[08/23/19, 18:51:49:743] info: Aug-23 18:51:49.743 [PERF] bootClient_w begin 1156ms 
+[08/23/19, 18:51:49:745] info: Aug-23 18:51:49.745 [BOOT] (T1792L49E) Initializing boot 
+[08/23/19, 18:51:49:748] info: Aug-23 18:51:49.749 [BOOT] (T1792L49E) Skipping checking persisted store because if it exists it's out of date 
+[08/23/19, 18:51:49:749] info: Aug-23 18:51:49.749 [PERSIST] (T1792L49E) Purging persisted model... 
+[08/23/19, 18:51:49:751] info: Aug-23 18:51:49.751 [BOOT-QUEUE] noversion-1566566509.750 client.boot called 
+[08/23/19, 18:51:49:751] info: Aug-23 18:51:49.751 [BOOT-QUEUE] noversion-1566566509.750 client.boot is ENQUEUED 
+[08/23/19, 18:51:49:752] info: Aug-23 18:51:49.751 [BOOT-QUEUE] noversion-1566566509.750 client.boot is ACTIVE 
+[08/23/19, 18:51:49:752] info: Aug-23 18:51:49.753 [BOOT-QUEUE] noversion-1566566509.753 api.features called 
+[08/23/19, 18:51:49:752] info: Aug-23 18:51:49.753 [BOOT-QUEUE] noversion-1566566509.753 api.features is ENQUEUED 
+[08/23/19, 18:51:49:753] info: Aug-23 18:51:49.753 [BOOT-QUEUE] noversion-1566566509.753 api.features is ACTIVE 
+[08/23/19, 18:51:49:753] info: Aug-23 18:51:49.753 [BOOT-QUEUE] noversion-1566566509.753 experiments.getByUser called 
+[08/23/19, 18:51:49:753] info: Aug-23 18:51:49.753 [BOOT-QUEUE] noversion-1566566509.753 experiments.getByUser is ENQUEUED 
+[08/23/19, 18:51:49:753] info: Aug-23 18:51:49.753 [BOOT-QUEUE] noversion-1566566509.753 experiments.getByUser is ACTIVE 
+[08/23/19, 18:51:49:753] info: Aug-23 18:51:49.753 [BOOT] Couldn't determine boot channel. Falling back to default channel 
+[08/23/19, 18:51:49:785] info: Aug-23 18:51:49.785 [PERSIST] (T1792L49E) Purged model 
+[08/23/19, 18:51:50:433] info: [WD] All assets have reported back; s: 16; f: 0 
+[08/23/19, 18:51:50:686] info: Aug-23 18:51:50.687 [BOOT-QUEUE] noversion-1566566509.753 experiments.getByUser is RESOLVED 
+[08/23/19, 18:51:50:687] info: Aug-23 18:51:50.688 [BOOT-QUEUE] noversion-1566566509.753 api.features is RESOLVED 
+[08/23/19, 18:51:50:754] info: Aug-23 18:51:50.754 [BOOT-QUEUE] noversion-1566566509.750 client.boot is RESOLVED 
+[08/23/19, 18:51:50:865] info: Aug-23 18:51:50.864 [EMOJI_TRANSLATION] Emoji translations and keywords loaded for en-GB 
+[08/23/19, 18:51:50:881] info: Aug-23 18:51:50.876 [EMOJI_TRANSLATION] Emoji translations already loaded for en-GB 
+[08/23/19, 18:51:50:881] info: Aug-23 18:51:50.877 [BOOT-QUEUE] noversion-1566566510.877 rtm.shouldReload called 
+[08/23/19, 18:51:50:881] info: Aug-23 18:51:50.877 [BOOT-QUEUE] noversion-1566566510.877 rtm.shouldReload is ENQUEUED 
+[08/23/19, 18:51:50:882] info: Aug-23 18:51:50.877 [BOOT-QUEUE] noversion-1566566510.877 rtm.shouldReload is ACTIVE 
+[08/23/19, 18:51:50:882] info: Aug-23 18:51:50.877 [BOOT] (T1792L49E) Booting cold 
+[08/23/19, 18:51:50:911] info: Aug-23 18:51:50.911 [DESKTOP-MIDDLEWARE] (T1792L49E) Forwarding redux payload to desktop ["theme","featureFlags","bootConfig","unreads","locale"] 
+[08/23/19, 18:51:50:912] info: Aug-23 18:51:50.913 [BOOT] (T1792L49E) Dispatching boot data 
+[08/23/19, 18:51:50:913] info: Aug-23 18:51:50.913 [DESKTOP-MIDDLEWARE] (T1792L49E) Forwarding redux payload to desktop ["theme","bootConfig"] 
+[08/23/19, 18:51:50:914] warn: Aug-23 18:51:50.914 Desktop: 'desktop.accessibility.isAccessibilitySupportEnabled' is missing or not a function 
+[08/23/19, 18:51:50:921] info: Aug-23 18:51:50.921 [DESKTOP-MIDDLEWARE] (T1792L49E) Forwarding redux payload to desktop ["theme","unreads"] 
+[08/23/19, 18:51:50:933] info: Aug-23 18:51:50.933 [EMOJI_TRANSLATION] Emoji translations already loaded for en-GB 
+[08/23/19, 18:51:50:935] info: Aug-23 18:51:50.935 [API-Q] (T1792L49E) f1384120-1566566510.934 emoji.list called with reason: loadEmoji 
+[08/23/19, 18:51:50:935] info: Aug-23 18:51:50.935 [API-Q] (T1792L49E) f1384120-1566566510.934 emoji.list is ENQUEUED 
+[08/23/19, 18:51:50:935] info: Aug-23 18:51:50.935 [API-Q] (T1792L49E) f1384120-1566566510.934 emoji.list is ACTIVE 
+[08/23/19, 18:51:50:936] info: Aug-23 18:51:50.937 [API-Q] (T1792L49E) f1384120-1566566510.936 commands.list called with reason: loadSlashCommands 
+[08/23/19, 18:51:50:937] info: Aug-23 18:51:50.937 [API-Q] (T1792L49E) f1384120-1566566510.936 commands.list is ENQUEUED 
+[08/23/19, 18:51:50:937] info: Aug-23 18:51:50.937 [API-Q] (T1792L49E) f1384120-1566566510.936 commands.list is ACTIVE 
+[08/23/19, 18:51:50:949] info: Aug-23 18:51:50.949 [FLANNEL] (T1792L49E) received a user_query_request call while we are not connected; deferring 
+[08/23/19, 18:51:50:949] info: Aug-23 18:51:50.949 [BOOT] (T1792L49E) Boot complete 
+[08/23/19, 18:51:50:951] info: Aug-23 18:51:50.951 [UNREAD-COUNTS] (T1792L49E) Counting unreads in CM3KXGVDH because (33) timestamps added 
+[08/23/19, 18:51:50:951] info: Aug-23 18:51:50.952 [UNREAD-COUNTS] (T1792L49E) Checking unreads in CM3KXGVDH after a new message 
+[08/23/19, 18:51:50:952] info: Aug-23 18:51:50.952 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because attention not on chat (workspace_not_focused) 
+[08/23/19, 18:51:50:970] info: Aug-23 18:51:50.960 [DESKTOP-SIDE-EFFECT] (T1792L49E) Team T1792L49E booted, creating delegate 
+[08/23/19, 18:51:50:970] info: Aug-23 18:51:50.960 [DESKTOP-SIDE-EFFECT] (T1792L49E) Attempted boot for all workspaces, signaling desktop 
+[08/23/19, 18:51:50:972] error: info() expects 1 or more arguments to be passed after the required label 
+[08/23/19, 18:51:50:972] info: Aug-23 18:51:50.969 [BOOT] (T1792L49E) Connecting to socket 
+[08/23/19, 18:51:50:972] info: Aug-23 18:51:50.970 [SOCKET-MANAGER] (T1792L49E) Changing from never_connected to prov_connect 
+[08/23/19, 18:51:50:972] info: Aug-23 18:51:50.971 [SOCKET-MANAGER] (T1792L49E) will stay in prov_connect state for up to 10000 ms 
+[08/23/19, 18:51:50:972] info: Aug-23 18:51:50.972 [SOCKET-MANAGER] (T1792L49E) Changing from prov_connect to prov_connecting 
+[08/23/19, 18:51:50:972] info: Aug-23 18:51:50.972 [SOCKET-MANAGER] (T1792L49E) will stay in prov_connecting state for up to 35000 ms 
+[08/23/19, 18:51:50:984] info: Aug-23 18:51:50.985 [BOOT] (T1792L49E) (T1792L49E) Mounting client 
+[08/23/19, 18:51:51:070] info: Aug-23 18:51:51.070 [API-Q] (T1792L49E) f1384120-1566566511.070 promo.getEligibleOffer called with reason: payments-plans-fetch-eligible-offer 
+[08/23/19, 18:51:51:070] info: Aug-23 18:51:51.070 [API-Q] (T1792L49E) f1384120-1566566511.070 promo.getEligibleOffer is ENQUEUED 
+[08/23/19, 18:51:51:070] info: Aug-23 18:51:51.070 [API-Q] (T1792L49E) f1384120-1566566511.070 promo.getEligibleOffer is ACTIVE 
+[08/23/19, 18:51:51:071] info: Aug-23 18:51:51.072 [HISTORY-NAVIGATION] Adding route to the history stack 
+[08/23/19, 18:51:51:309] info: Aug-23 18:51:51.309 [DRAFTS] (T1792L49E) There are no channels with drafts 
+[08/23/19, 18:51:51:309] info: Aug-23 18:51:51.310 [API-Q] (T1792L49E) f1384120-1566566511.309 apps.getSidebarPrompts called with reason: initializeAppSuggestionLinksData 
+[08/23/19, 18:51:51:309] info: Aug-23 18:51:51.310 [API-Q] (T1792L49E) f1384120-1566566511.309 apps.getSidebarPrompts is ENQUEUED 
+[08/23/19, 18:51:51:309] info: Aug-23 18:51:51.310 [API-Q] (T1792L49E) f1384120-1566566511.309 apps.getSidebarPrompts is ACTIVE 
+[08/23/19, 18:51:51:311] info: Aug-23 18:51:51.311 [API-Q] (T1792L49E) f1384120-1566566511.310 promo.banner called with reason: fetch-active-message-pane-banner 
+[08/23/19, 18:51:51:311] info: Aug-23 18:51:51.311 [API-Q] (T1792L49E) f1384120-1566566511.310 promo.banner is ENQUEUED 
+[08/23/19, 18:51:51:311] info: Aug-23 18:51:51.311 [API-Q] (T1792L49E) f1384120-1566566511.310 promo.banner is ACTIVE 
+[08/23/19, 18:51:51:314] info: Aug-23 18:51:51.314 [PERF] (T1792L49E) Logged time to visible (TTV): 2725.0999999999976 
+[08/23/19, 18:51:51:489] info: Aug-23 18:51:51.489 [CHECK-UNREADS] (T1792L49E) unreadLineVisible updated: false -> true 
+[08/23/19, 18:51:51:508] info: Aug-23 18:51:51.508 [PERF] (T1792L49E) First meaningful paint: 2721ms 
+[08/23/19, 18:51:51:508] info: Aug-23 18:51:51.508 [OPPORTUNISTIC_RELOADS] Opportunistic Reloads is disabled for this session 
+[08/23/19, 18:51:51:508] info: Aug-23 18:51:51.508 [PERF] bootClient_w took 1764.9ms 
+[08/23/19, 18:51:51:508] info: Aug-23 18:51:51.508 [BOOT] Booting other teams:  
+[08/23/19, 18:51:51:509] info: Aug-23 18:51:51.509 [PERSIST] Purging persisted models, except for the following teamIds ["T1792L49E"] 
+[08/23/19, 18:51:51:520] info: Aug-23 18:51:51.521 [FOCUS-EVENT] Client window focused 
+[08/23/19, 18:51:51:540] info: Aug-23 18:51:51.540 [CHECK-UNREADS] (T1792L49E) Checking unreads after workspace became focused 
+[08/23/19, 18:51:51:541] info: Aug-23 18:51:51.541 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 18:51:51:541] info: Aug-23 18:51:51.541 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 18:51:51:541] info: Aug-23 18:51:51.541 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 18:51:51:546] info: Aug-23 18:51:51.546 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["downloads","environment","windows"] 
+[08/23/19, 18:51:51:553] info: Aug-23 18:51:51.553 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:51:51:554] info: Aug-23 18:51:51.555 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:51:51:555] info: Aug-23 18:51:51.555 [API-Q] (T1792L49E) f1384120-1566566510.934 emoji.list is RESOLVED 
+[08/23/19, 18:51:51:560] info: Aug-23 18:51:51.559 [API-Q] (T1792L49E) f1384120-1566566511.559 team.whatsNew called with reason: boot-team 
+[08/23/19, 18:51:51:560] info: Aug-23 18:51:51.560 [API-Q] (T1792L49E) f1384120-1566566511.559 team.whatsNew is ENQUEUED 
+[08/23/19, 18:51:51:560] info: Aug-23 18:51:51.561 [API-Q] (T1792L49E) f1384120-1566566511.559 team.whatsNew is ACTIVE 
+[08/23/19, 18:51:51:564] info: Aug-23 18:51:51.563 [API-Q] (T1792L49E) f1384120-1566566511.562 help.issues.list called with reason: fetchAndUpsertHelpIssues 
+[08/23/19, 18:51:51:564] info: Aug-23 18:51:51.563 [API-Q] (T1792L49E) f1384120-1566566511.562 help.issues.list is ENQUEUED 
+[08/23/19, 18:51:51:564] info: Aug-23 18:51:51.564 [API-Q] (T1792L49E) f1384120-1566566511.562 help.issues.list is ACTIVE 
+[08/23/19, 18:51:51:586] info: Aug-23 18:51:51.586 [PERSIST] Purged persisted models [] 
+[08/23/19, 18:51:51:587] info: Aug-23 18:51:51.587 [PERSIST] (T1792L49E) Persisting state to storage 
+[08/23/19, 18:51:51:592] info: Aug-23 18:51:51.592 [UNKNOWN-FETCH-MANAGER] (T1792L49E) requesting _all_actions (1) 
+[08/23/19, 18:51:51:594] info: Aug-23 18:51:51.594 [API-Q] (T1792L49E) f1384120-1566566511.593 apps.actions.list called with reason: fetch-app-actions 
+[08/23/19, 18:51:51:594] info: Aug-23 18:51:51.594 [API-Q] (T1792L49E) f1384120-1566566511.593 apps.actions.list is ENQUEUED 
+[08/23/19, 18:51:51:594] info: Aug-23 18:51:51.595 [API-Q] (T1792L49E) f1384120-1566566511.593 apps.actions.list is ACTIVE 
+[08/23/19, 18:51:51:596] info: Aug-23 18:51:51.596 [API-Q] (T1792L49E) f1384120-1566566511.595 api.getFlannelHttpUrl called with reason: client-needs-valid-flannel-url 
+[08/23/19, 18:51:51:596] info: Aug-23 18:51:51.596 [API-Q] (T1792L49E) f1384120-1566566511.595 api.getFlannelHttpUrl is ENQUEUED 
+[08/23/19, 18:51:51:597] info: Aug-23 18:51:51.596 [API-Q] (T1792L49E) f1384120-1566566511.595 api.getFlannelHttpUrl is ACTIVE 
+[08/23/19, 18:51:51:597] info: Aug-23 18:51:51.598 [DND] (T1792L49E) Preparing to fetch DND times for the following members: UMF3SUD53,U2EF4M50S 
+[08/23/19, 18:51:51:598] info: Aug-23 18:51:51.599 [API-Q] (T1792L49E) f1384120-1566566511.598 dnd.info called with reason: getDndTimesForSubscribedMembers 
+[08/23/19, 18:51:51:599] info: Aug-23 18:51:51.599 [API-Q] (T1792L49E) f1384120-1566566511.598 dnd.info is ENQUEUED 
+[08/23/19, 18:51:51:599] info: Aug-23 18:51:51.599 [API-Q] (T1792L49E) f1384120-1566566511.598 dnd.info is ACTIVE 
+[08/23/19, 18:51:51:600] info: Aug-23 18:51:51.600 [API-Q] (T1792L49E) f1384120-1566566511.599 dnd.teamInfo called with reason: getDndTimesForSubscribedMembers:self 
+[08/23/19, 18:51:51:600] info: Aug-23 18:51:51.600 [API-Q] (T1792L49E) f1384120-1566566511.599 dnd.teamInfo is ENQUEUED 
+[08/23/19, 18:51:51:600] info: Aug-23 18:51:51.601 [API-Q] (T1792L49E) f1384120-1566566511.599 dnd.teamInfo is ACTIVE 
+[08/23/19, 18:51:51:671] info: Aug-23 18:51:51.671 [PERSIST] Persistence setItem: : 82.5ms 
+[08/23/19, 18:51:51:671] info: Aug-23 18:51:51.671 [PERSIST] (T1792L49E) Persisted state: 84.2ms 
+[08/23/19, 18:51:51:756] info: Aug-23 18:51:51.756 [API-Q] (T1792L49E) f1384120-1566566510.936 commands.list is RESOLVED 
+[08/23/19, 18:51:51:757] info: Aug-23 18:51:51.757 [SOCKET-MANAGER] (T1792L49E) Changing from prov_connecting to prov_connected 
+[08/23/19, 18:51:51:757] info: Aug-23 18:51:51.757 [SOCKET-MANAGER] (T1792L49E) will stay in prov_connected state for up to 60000 ms 
+[08/23/19, 18:51:51:762] info: Aug-23 18:51:51.762 [SOCKET-MANAGER] (T1792L49E) Changing from prov_connected to prov_finalize 
+[08/23/19, 18:51:51:762] info: Aug-23 18:51:51.762 [SOCKET-MANAGER] (T1792L49E) will stay in prov_finalize state for up to 10000 ms 
+[08/23/19, 18:51:51:763] info: Aug-23 18:51:51.764 [SOCKET-MANAGER] (T1792L49E) Changing from prov_finalize to prov_finalizing 
+[08/23/19, 18:51:51:763] info: Aug-23 18:51:51.764 [SOCKET-MANAGER] (T1792L49E) will stay in prov_finalizing state for up to 10000 ms 
+[08/23/19, 18:51:51:764] info: Aug-23 18:51:51.764 [SOCKET-MANAGER] (T1792L49E) Changing from prov_finalizing to connected 
+[08/23/19, 18:51:51:764] info: Aug-23 18:51:51.764 [SOCKET-MANAGER] (T1792L49E) will stay in connected state for up to Infinity ms 
+[08/23/19, 18:51:51:765] info: Aug-23 18:51:51.765 [SOCKET-MANAGER] (T1792L49E) Connected to primary region 
+[08/23/19, 18:51:51:770] info: Aug-23 18:51:51.770 [FLANNEL] (T1792L49E) connected and trouble free! Continuing deferred user_query_request call 
+[08/23/19, 18:51:51:775] info: Aug-23 18:51:51.775 [MESSAGE-HISTORY] (T1792L49E) Resetting reachedEnd 
+[08/23/19, 18:51:51:782] info: Aug-23 18:51:51.782 [UNREAD-COUNTS] (T1792L49E) Fetching counts 
+[08/23/19, 18:51:51:783] info: Aug-23 18:51:51.783 [API-Q] (T1792L49E) f1384120-1566566511.782 client.counts called with reason: client-counts-api/fetchClientCounts 
+[08/23/19, 18:51:51:783] info: Aug-23 18:51:51.783 [API-Q] (T1792L49E) f1384120-1566566511.782 client.counts is ENQUEUED 
+[08/23/19, 18:51:51:783] info: Aug-23 18:51:51.783 [API-Q] (T1792L49E) f1384120-1566566511.782 client.counts is ACTIVE 
+[08/23/19, 18:51:51:790] info: Aug-23 18:51:51.790 [HISTORY-FETCH] (T1792L49E) Fetching history for message pane: CM3KXGVDH oldest: 1566499719.007200 latest: null 
+[08/23/19, 18:51:51:791] info: Aug-23 18:51:51.790 [API-Q] (T1792L49E) f1384120-1566566511.790 conversations.history called with reason: message-pane/requestHistory 
+[08/23/19, 18:51:51:791] info: Aug-23 18:51:51.790 [API-Q] (T1792L49E) f1384120-1566566511.790 conversations.history is ENQUEUED 
+[08/23/19, 18:51:51:792] info: Aug-23 18:51:51.793 [CHECK-UNREADS] (T1792L49E) unreadLineVisible updated: true -> false 
+[08/23/19, 18:51:51:813] info: Aug-23 18:51:51.813 [BOOT-QUEUE] noversion-1566566510.877 rtm.shouldReload is RESOLVED 
+[08/23/19, 18:51:51:838] info: Aug-23 18:51:51.838 [API-Q] (T1792L49E) f1384120-1566566511.559 team.whatsNew is RESOLVED 
+[08/23/19, 18:51:51:839] info: Aug-23 18:51:51.839 [API-Q] (T1792L49E) f1384120-1566566511.790 conversations.history is ACTIVE 
+[08/23/19, 18:51:51:841] info: Aug-23 18:51:51.841 [API-Q] (T1792L49E) f1384120-1566566511.593 apps.actions.list is RESOLVED 
+[08/23/19, 18:51:51:848] info: Aug-23 18:51:51.849 [API-Q] (T1792L49E) f1384120-1566566511.595 api.getFlannelHttpUrl is RESOLVED 
+[08/23/19, 18:51:51:861] info: Aug-23 18:51:51.862 [UNKNOWN-FETCH-MANAGER] (T1792L49E) received _all_actions (1) 
+[08/23/19, 18:51:51:868] info: Aug-23 18:51:51.868 [API-Q] (T1792L49E) noversion-1566566511.867 Flannel users/counts called with reason: flannel-call:users/counts 
+[08/23/19, 18:51:51:869] info: Aug-23 18:51:51.868 [API-Q] (T1792L49E) noversion-1566566511.867 Flannel users/counts is ENQUEUED 
+[08/23/19, 18:51:51:869] info: Aug-23 18:51:51.868 [API-Q] (T1792L49E) noversion-1566566511.867 Flannel users/counts is ACTIVE 
+[08/23/19, 18:51:51:869] info: Aug-23 18:51:51.869 [API-Q] (T1792L49E) f1384120-1566566511.599 dnd.teamInfo is RESOLVED 
+[08/23/19, 18:51:51:885] info: Aug-23 18:51:51.885 [DND] (T1792L49E) Fetched DND info for the following members: U2EF4M50S 
+[08/23/19, 18:51:51:886] info: Aug-23 18:51:51.886 [DND] (T1792L49E) Checking for changes in DND status for the following members: U2EF4M50S 
+[08/23/19, 18:51:51:888] info: Aug-23 18:51:51.888 [DND] (T1792L49E) Will check for changes in DND status again in 5 minutes 
+[08/23/19, 18:51:52:020] info: Aug-23 18:51:52.020 [API-Q] (T1792L49E) f1384120-1566566511.070 promo.getEligibleOffer is RESOLVED 
+[08/23/19, 18:51:52:106] info: Aug-23 18:51:52.106 [API-Q] (T1792L49E) f1384120-1566566511.790 conversations.history is RESOLVED 
+[08/23/19, 18:51:52:112] info: Aug-23 18:51:52.112 [PINS] (T1792L49E) Pins count updated for channel CM3KXGVDH: 0 
+[08/23/19, 18:51:52:114] info: Aug-23 18:51:52.114 [UNREAD-COUNTS] (T1792L49E) Counting unreads in CM3KXGVDH because (1) timestamps added 
+[08/23/19, 18:51:52:114] info: Aug-23 18:51:52.114 [UNREAD-COUNTS] (T1792L49E) Checking unreads in CM3KXGVDH after a new message 
+[08/23/19, 18:51:52:114] info: Aug-23 18:51:52.114 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 18:51:52:120] info: Aug-23 18:51:52.120 [MESSAGE-LIST] (T1792L49E) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 30 
+[08/23/19, 18:51:52:122] info: Aug-23 18:51:52.123 [CHECK-UNREADS] (T1792L49E) unreadLineVisible updated: false -> true 
+[08/23/19, 18:51:52:252] info: Aug-23 18:51:52.252 [API-Q] (T1792L49E) f1384120-1566566511.309 apps.getSidebarPrompts is RESOLVED 
+[08/23/19, 18:51:52:270] info: Aug-23 18:51:52.270 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 18:51:52:272] info: Aug-23 18:51:52.273 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:51:52:285] info: Aug-23 18:51:52.285 [API-Q] (T1792L49E) f1384120-1566566511.562 help.issues.list is RESOLVED 
+[08/23/19, 18:51:52:285] info: Aug-23 18:51:52.285 [API-Q] (T1792L49E) f1384120-1566566511.310 promo.banner is RESOLVED 
+[08/23/19, 18:51:52:286] info: Aug-23 18:51:52.286 [API-Q] (T1792L49E) noversion-1566566511.867 Flannel users/counts is RESOLVED 
+[08/23/19, 18:51:52:298] info: Aug-23 18:51:52.298 [API-Q] (T1792L49E) f1384120-1566566511.598 dnd.info is RESOLVED 
+[08/23/19, 18:51:52:310] info: Aug-23 18:51:52.311 [DND] (T1792L49E) Fetched DND info for the following member: UMF3SUD53 
+[08/23/19, 18:51:52:313] info: Aug-23 18:51:52.311 [DND] (T1792L49E) Checking for changes in DND status for the following members: U2EF4M50S,UMF3SUD53 
+[08/23/19, 18:51:52:313] info: Aug-23 18:51:52.313 [DND] (T1792L49E) Will check for changes in DND status again in 5 minutes 
+[08/23/19, 18:51:52:320] info: Aug-23 18:51:52.313 [SERVICE-WORKER] registration success {} 
+[08/23/19, 18:51:52:321] info: Aug-23 18:51:52.313 [SERVICE-WORKER-STATE] initial installing 
+[08/23/19, 18:51:52:355] info: Aug-23 18:51:52.324 [SERVICE-WORKER-STATE] change installed 11ms 
+[08/23/19, 18:51:52:357] info: Aug-23 18:51:52.324 [SERVICE-WORKER-STATE] change activating 
+[08/23/19, 18:51:52:357] info: Aug-23 18:51:52.352 [SERVICE-WORKER-STATE] change activated 28ms 
+[08/23/19, 18:51:52:481] info: Aug-23 18:51:52.481 [CHECK-UNREADS] (T1792L49E) Checking unreads after unread line became visible 
+[08/23/19, 18:51:52:481] info: Aug-23 18:51:52.481 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because attention not on chat (window_not_focused) 
+[08/23/19, 18:51:52:498] info: Aug-23 18:51:52.498 [API-Q] (T1792L49E) f1384120-1566566511.782 client.counts is RESOLVED 
+[08/23/19, 18:51:52:498] info: Aug-23 18:51:52.498 [API-Q] (T1792L49E) f1384120-1566566512.498 users.prefs.set called with reason: prefs-api/setUserPrefByApi 
+[08/23/19, 18:51:52:498] info: Aug-23 18:51:52.498 [API-Q] (T1792L49E) f1384120-1566566512.498 users.prefs.set is ENQUEUED 
+[08/23/19, 18:51:52:499] info: Aug-23 18:51:52.498 [API-Q] (T1792L49E) f1384120-1566566512.498 users.prefs.set is ACTIVE 
+[08/23/19, 18:51:52:513] info: Aug-23 18:51:52.511 [COUNTS] (T1792L49E) Applying counts to channels 
+[08/23/19, 18:51:52:516] info: Aug-23 18:51:52.516 [COUNTS] (T1792L49E) Recounted CM3KXGVDH; initial: {"unreadCnt":0,"unreadHighlightCnt":0}; after: {"unreadCnt":0,"unreadHighlightCnt":0} 
+[08/23/19, 18:51:52:516] info: Aug-23 18:51:52.516 [COUNTS] (T1792L49E) Threads has_unreads:false mention_count:0 
+[08/23/19, 18:51:52:517] info: Aug-23 18:51:52.518 [COUNTS] (T1792L49E) Completed counts processing 
+[08/23/19, 18:51:52:754] info: Aug-23 18:51:52.754 [API-Q] (T1792L49E) f1384120-1566566512.498 users.prefs.set is RESOLVED 
+[08/23/19, 18:51:54:388] info: Aug-23 18:51:54.384 [FOCUS-EVENT] Client window focused 
+[08/23/19, 18:51:54:389] info: Aug-23 18:51:54.387 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:51:54:403] info: Aug-23 18:51:54.403 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 18:51:54:403] info: Aug-23 18:51:54.403 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 18:51:55:390] info: Aug-23 18:51:55.390 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:51:55:391] info: Aug-23 18:51:55.391 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:51:58:754] info: Aug-23 18:51:58.753 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 18:51:58:755] info: Aug-23 18:51:58.755 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:51:59:757] info: Aug-23 18:51:59.757 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:51:59:764] info: Aug-23 18:51:59.764 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:02:293] info: Aug-23 18:52:02.293 [API-Q] (T1792L49E) noversion-1566566522.292 Flannel users/counts called with reason: flannel-call:users/counts 
+[08/23/19, 18:52:02:293] info: Aug-23 18:52:02.294 [API-Q] (T1792L49E) noversion-1566566522.292 Flannel users/counts is ENQUEUED 
+[08/23/19, 18:52:02:293] info: Aug-23 18:52:02.294 [API-Q] (T1792L49E) noversion-1566566522.292 Flannel users/counts is ACTIVE 
+[08/23/19, 18:52:02:325] info: Aug-23 18:52:02.325 [API-Q] (T1792L49E) noversion-1566566522.292 Flannel users/counts is RESOLVED 
+[08/23/19, 18:52:09:205] info: Aug-23 18:52:09.202 [FOCUS-EVENT] Client window focused 
+[08/23/19, 18:52:09:206] info: Aug-23 18:52:09.207 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:09:231] info: Aug-23 18:52:09.232 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 18:52:09:232] info: Aug-23 18:52:09.232 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 18:52:09:710] info: Aug-23 18:52:09.710 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 18:52:09:752] info: Aug-23 18:52:09.752 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:09:935] info: Aug-23 18:52:09.934 [FOCUS-EVENT] Client window focused 
+[08/23/19, 18:52:09:938] info: Aug-23 18:52:09.938 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:09:960] info: Aug-23 18:52:09.960 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 18:52:09:960] info: Aug-23 18:52:09.961 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 18:52:10:937] info: Aug-23 18:52:10.938 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:10:939] info: Aug-23 18:52:10.939 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:15:134] info: Aug-23 18:52:15.135 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:16:121] info: Aug-23 18:52:16.121 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:16:135] info: Aug-23 18:52:16.135 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:16:639] info: Aug-23 18:52:16.639 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:17:425] info: Aug-23 18:52:17.426 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:18:313] info: Aug-23 18:52:18.313 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 18:52:18:316] info: Aug-23 18:52:18.316 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:18:655] info: Aug-23 18:52:18.653 [FOCUS-EVENT] Client window focused 
+[08/23/19, 18:52:18:657] info: Aug-23 18:52:18.657 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:18:690] info: Aug-23 18:52:18.689 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 18:52:18:690] info: Aug-23 18:52:18.690 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 18:52:19:658] info: Aug-23 18:52:19.658 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:19:659] info: Aug-23 18:52:19.659 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:20:712] info: Aug-23 18:52:20.701 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 18:52:20:713] info: Aug-23 18:52:20.704 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:21:260] info: Aug-23 18:52:21.256 [FOCUS-EVENT] Client window focused 
+[08/23/19, 18:52:21:261] info: Aug-23 18:52:21.259 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:21:289] info: Aug-23 18:52:21.289 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 18:52:21:289] info: Aug-23 18:52:21.289 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 18:52:22:263] info: Aug-23 18:52:22.263 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:22:264] info: Aug-23 18:52:22.264 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:23:663] info: Aug-23 18:52:23.647 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:23:669] info: Aug-23 18:52:23.657 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:23:669] info: Aug-23 18:52:23.664 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 18:52:23:669] info: Aug-23 18:52:23.666 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:24:649] info: Aug-23 18:52:24.650 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:24:650] info: Aug-23 18:52:24.650 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:51:302] info: ╔══════════════════════════════════════════════════════════════════════════════════╗ 
+[08/23/19, 18:52:51:302] info: ║      Slack 4.0.2, linux 5.2.1-arch1-1-ARCH on x64 at 08/23/19, 18:52:51:302      ║ 
+[08/23/19, 18:52:51:302] info: ╚══════════════════════════════════════════════════════════════════════════════════╝ 
+[08/23/19, 18:52:51:302] info: Configured logger via 
+{
+  "logLevel": "info"
+}
+[08/23/19, 18:52:51:302] info: Predefined values for process 
+{
+  "platform": "linux",
+  "NODE_ENV": "production",
+  "type": "browser",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.0.2",
+  "PACKAGE_MANIFEST.versionName": "The Final Countdown",
+  "PACKAGE_MANIFEST.commit": "8900f04",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[08/23/19, 18:52:51:562] info: Initializing local storage instance at path: /home/anirudh/.config/Slack/local-settings.json 
+[08/23/19, 18:52:51:834] info: Aug-23 18:52:51.834 [METRICS] Starting timers for metrics collection 
+[08/23/19, 18:52:51:857] info: Aug-23 18:52:51.857 [PERF] setupGantry_w begin 553ms 
+[08/23/19, 18:52:51:858] info: Aug-23 18:52:51.858 [APP] client 
+[08/23/19, 18:52:51:859] info: Aug-23 18:52:51.859 [VERSION] version_ts: 1566522412 
+[08/23/19, 18:52:51:859] info: Aug-23 18:52:51.859 [VERSION] min_version_data_ts: 1566510624 
+[08/23/19, 18:52:51:859] info: Aug-23 18:52:51.859 [VERSION] version_hash: f1384120180664f1a01062bc300203cee5d86b2b 
+[08/23/19, 18:52:51:859] info: Aug-23 18:52:51.859 [LOCAL-CONFIG] ingestIncomingConfig(): no incoming payload to process; current teams: T1792L49E 
+[08/23/19, 18:52:51:859] info: Aug-23 18:52:51.859 [AUTH] Credentials are fresh (psc=1566566508, csc=1566566508) 
+[08/23/19, 18:52:51:860] info: Aug-23 18:52:51.860 [BOOT] Initial team ID: T1792L49E 
+[08/23/19, 18:52:51:861] info: Aug-23 18:52:51.862 [PERF] setupGantry_w took 4ms 
+[08/23/19, 18:52:51:863] info: Aug-23 18:52:51.863 [PERF] bootClient_w begin 559ms 
+[08/23/19, 18:52:51:865] info: Aug-23 18:52:51.865 [BOOT] (T1792L49E) Initializing boot 
+[08/23/19, 18:52:51:891] info: Aug-23 18:52:51.892 [BOOT] (T1792L49E) Booting with persisted store 
+[08/23/19, 18:52:52:582] info: Aug-23 18:52:52.582 [EMOJI_TRANSLATION] Emoji translations and keywords loaded for en-GB 
+[08/23/19, 18:52:52:598] info: Aug-23 18:52:52.599 [PERSIST] (T1792L49E) Getting persisted model... 
+[08/23/19, 18:52:52:648] info: [WD] All assets have reported back; s: 16; f: 0 
+[08/23/19, 18:52:52:653] info: Aug-23 18:52:52.653 [PERSIST] Persistence getItem: : 54.5ms 
+[08/23/19, 18:52:52:653] info: Aug-23 18:52:52.654 [PERSIST] (T1792L49E) Got persisted model 
+[08/23/19, 18:52:52:673] info: Aug-23 18:52:52.664 [EMOJI_TRANSLATION] Emoji translations already loaded for en-GB 
+[08/23/19, 18:52:52:673] info: Aug-23 18:52:52.665 [BOOT-QUEUE] noversion-1566566572.665 rtm.shouldReload called 
+[08/23/19, 18:52:52:673] info: Aug-23 18:52:52.665 [BOOT-QUEUE] noversion-1566566572.665 rtm.shouldReload is ENQUEUED 
+[08/23/19, 18:52:52:673] info: Aug-23 18:52:52.666 [BOOT-QUEUE] noversion-1566566572.665 rtm.shouldReload is ACTIVE 
+[08/23/19, 18:52:52:673] info: Aug-23 18:52:52.667 [BOOT] (T1792L49E) Booting warm 
+[08/23/19, 18:52:52:693] info: Aug-23 18:52:52.693 [DESKTOP-MIDDLEWARE] (T1792L49E) Forwarding redux payload to desktop ["theme","featureFlags","bootConfig","unreads","locale"] 
+[08/23/19, 18:52:52:710] info: Aug-23 18:52:52.702 [DESKTOP-SIDE-EFFECT] (T1792L49E) Team T1792L49E booted, creating delegate 
+[08/23/19, 18:52:52:711] info: Aug-23 18:52:52.704 [DESKTOP-SIDE-EFFECT] (T1792L49E) Attempted boot for all workspaces, signaling desktop 
+[08/23/19, 18:52:52:715] error: info() expects 1 or more arguments to be passed after the required label 
+[08/23/19, 18:52:52:715] info: Aug-23 18:52:52.706 [BOOT] (T1792L49E) Connecting to socket 
+[08/23/19, 18:52:52:715] info: Aug-23 18:52:52.706 [SOCKET-MANAGER] (T1792L49E) Changing from never_connected to prov_connect 
+[08/23/19, 18:52:52:715] info: Aug-23 18:52:52.706 [SOCKET-MANAGER] (T1792L49E) will stay in prov_connect state for up to 10000 ms 
+[08/23/19, 18:52:52:715] info: Aug-23 18:52:52.707 [SOCKET-MANAGER] (T1792L49E) Changing from prov_connect to prov_connecting 
+[08/23/19, 18:52:52:715] info: Aug-23 18:52:52.707 [SOCKET-MANAGER] (T1792L49E) will stay in prov_connecting state for up to 35000 ms 
+[08/23/19, 18:52:52:715] info: Aug-23 18:52:52.709 [BOOT] (T1792L49E) Fetching fresh boot data after booting with persisted store 
+[08/23/19, 18:52:52:715] info: Aug-23 18:52:52.710 [BOOT] (T1792L49E) Skipping persisted store if it exists because we're forcing fresh data fetch anyway 
+[08/23/19, 18:52:52:716] info: Aug-23 18:52:52.710 [BOOT-QUEUE] noversion-1566566572.710 client.boot called 
+[08/23/19, 18:52:52:716] info: Aug-23 18:52:52.710 [BOOT-QUEUE] noversion-1566566572.710 client.boot is ENQUEUED 
+[08/23/19, 18:52:52:716] info: Aug-23 18:52:52.711 [BOOT-QUEUE] noversion-1566566572.710 client.boot is ACTIVE 
+[08/23/19, 18:52:52:716] info: Aug-23 18:52:52.711 [BOOT-QUEUE] noversion-1566566572.711 api.features called 
+[08/23/19, 18:52:52:716] info: Aug-23 18:52:52.711 [BOOT-QUEUE] noversion-1566566572.711 api.features is ENQUEUED 
+[08/23/19, 18:52:52:716] info: Aug-23 18:52:52.711 [BOOT-QUEUE] noversion-1566566572.711 experiments.getByUser called 
+[08/23/19, 18:52:52:716] info: Aug-23 18:52:52.711 [BOOT-QUEUE] noversion-1566566572.711 experiments.getByUser is ENQUEUED 
+[08/23/19, 18:52:52:716] info: Aug-23 18:52:52.711 [BOOT] Booting into channel: CM3KXGVDH 
+[08/23/19, 18:52:52:716] info: Aug-23 18:52:52.713 [BOOT] (T1792L49E) (T1792L49E) Mounting client 
+[08/23/19, 18:52:52:791] info: Aug-23 18:52:52.791 [API-Q] (T1792L49E) f1384120-1566566572.790 promo.getEligibleOffer called with reason: payments-plans-fetch-eligible-offer 
+[08/23/19, 18:52:52:791] info: Aug-23 18:52:52.791 [API-Q] (T1792L49E) f1384120-1566566572.790 promo.getEligibleOffer is ENQUEUED 
+[08/23/19, 18:52:52:791] info: Aug-23 18:52:52.792 [API-Q] (T1792L49E) f1384120-1566566572.790 promo.getEligibleOffer is ACTIVE 
+[08/23/19, 18:52:52:793] info: Aug-23 18:52:52.793 [HISTORY-NAVIGATION] Adding route to the history stack 
+[08/23/19, 18:52:53:019] info: Aug-23 18:52:53.020 [DRAFTS] (T1792L49E) There are no channels with drafts 
+[08/23/19, 18:52:53:020] info: Aug-23 18:52:53.021 [API-Q] (T1792L49E) f1384120-1566566573.021 apps.getSidebarPrompts called with reason: initializeAppSuggestionLinksData 
+[08/23/19, 18:52:53:020] info: Aug-23 18:52:53.021 [API-Q] (T1792L49E) f1384120-1566566573.021 apps.getSidebarPrompts is ENQUEUED 
+[08/23/19, 18:52:53:021] info: Aug-23 18:52:53.021 [API-Q] (T1792L49E) f1384120-1566566573.021 apps.getSidebarPrompts is ACTIVE 
+[08/23/19, 18:52:53:023] info: Aug-23 18:52:53.023 [API-Q] (T1792L49E) f1384120-1566566573.023 promo.banner called with reason: fetch-active-message-pane-banner 
+[08/23/19, 18:52:53:023] info: Aug-23 18:52:53.023 [API-Q] (T1792L49E) f1384120-1566566573.023 promo.banner is ENQUEUED 
+[08/23/19, 18:52:53:023] info: Aug-23 18:52:53.023 [API-Q] (T1792L49E) f1384120-1566566573.023 promo.banner is ACTIVE 
+[08/23/19, 18:52:53:025] info: Aug-23 18:52:53.026 [PERF] (T1792L49E) Logged time to visible (TTV): 1720.799999999997 
+[08/23/19, 18:52:53:238] info: Aug-23 18:52:53.238 [PERF] (T1792L49E) First meaningful paint: 1715ms 
+[08/23/19, 18:52:53:238] info: Aug-23 18:52:53.238 [OPPORTUNISTIC_RELOADS] Opportunistic Reloads is disabled for this session 
+[08/23/19, 18:52:53:238] info: Aug-23 18:52:53.238 [PERF] bootClient_w took 1375.4ms 
+[08/23/19, 18:52:53:238] info: Aug-23 18:52:53.239 [BOOT] Booting other teams:  
+[08/23/19, 18:52:53:240] info: Aug-23 18:52:53.240 [PERSIST] Purging persisted models, except for the following teamIds ["T1792L49E"] 
+[08/23/19, 18:52:53:271] info: Aug-23 18:52:53.247 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["downloads","environment","windows"] 
+[08/23/19, 18:52:53:271] info: Aug-23 18:52:53.249 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:53:271] info: Aug-23 18:52:53.250 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:53:273] info: Aug-23 18:52:53.273 [CHECK-UNREADS] (T1792L49E) Checking unreads after workspace became focused 
+[08/23/19, 18:52:53:273] info: Aug-23 18:52:53.273 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 18:52:53:274] info: Aug-23 18:52:53.274 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 18:52:53:274] info: Aug-23 18:52:53.274 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 18:52:53:285] info: Aug-23 18:52:53.285 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:53:294] info: Aug-23 18:52:53.294 [SERVICE-WORKER] registration success {} 
+[08/23/19, 18:52:53:294] info: Aug-23 18:52:53.294 [SERVICE-WORKER-STATE] initial activated 
+[08/23/19, 18:52:53:296] info: Aug-23 18:52:53.296 [API-Q] (T1792L49E) f1384120-1566566573.295 commands.list called with reason: loadSlashCommands 
+[08/23/19, 18:52:53:296] info: Aug-23 18:52:53.296 [API-Q] (T1792L49E) f1384120-1566566573.295 commands.list is ENQUEUED 
+[08/23/19, 18:52:53:296] info: Aug-23 18:52:53.296 [API-Q] (T1792L49E) f1384120-1566566573.295 commands.list is ACTIVE 
+[08/23/19, 18:52:53:311] info: Aug-23 18:52:53.311 [EMOJI_TRANSLATION] Emoji translations already loaded for en-GB 
+[08/23/19, 18:52:53:312] info: Aug-23 18:52:53.313 [API-Q] (T1792L49E) f1384120-1566566573.312 emoji.list called with reason: loadEmoji 
+[08/23/19, 18:52:53:313] info: Aug-23 18:52:53.313 [API-Q] (T1792L49E) f1384120-1566566573.312 emoji.list is ENQUEUED 
+[08/23/19, 18:52:53:313] info: Aug-23 18:52:53.313 [API-Q] (T1792L49E) f1384120-1566566573.312 emoji.list is ACTIVE 
+[08/23/19, 18:52:53:316] info: Aug-23 18:52:53.316 [API-Q] (T1792L49E) f1384120-1566566573.315 team.whatsNew called with reason: boot-team 
+[08/23/19, 18:52:53:317] info: Aug-23 18:52:53.316 [API-Q] (T1792L49E) f1384120-1566566573.315 team.whatsNew is ENQUEUED 
+[08/23/19, 18:52:53:317] info: Aug-23 18:52:53.316 [API-Q] (T1792L49E) f1384120-1566566573.315 team.whatsNew is ACTIVE 
+[08/23/19, 18:52:53:328] info: Aug-23 18:52:53.328 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:53:357] info: Aug-23 18:52:53.357 [DND] (T1792L49E) Preparing to fetch DND times for the following members: UMF3SUD53,U2EF4M50S 
+[08/23/19, 18:52:53:360] info: Aug-23 18:52:53.360 [API-Q] (T1792L49E) f1384120-1566566573.358 dnd.info called with reason: getDndTimesForSubscribedMembers 
+[08/23/19, 18:52:53:360] info: Aug-23 18:52:53.360 [API-Q] (T1792L49E) f1384120-1566566573.358 dnd.info is ENQUEUED 
+[08/23/19, 18:52:53:361] info: Aug-23 18:52:53.360 [API-Q] (T1792L49E) f1384120-1566566573.358 dnd.info is ACTIVE 
+[08/23/19, 18:52:53:365] info: Aug-23 18:52:53.365 [API-Q] (T1792L49E) f1384120-1566566573.361 dnd.teamInfo called with reason: getDndTimesForSubscribedMembers:self 
+[08/23/19, 18:52:53:365] info: Aug-23 18:52:53.365 [API-Q] (T1792L49E) f1384120-1566566573.361 dnd.teamInfo is ENQUEUED 
+[08/23/19, 18:52:53:365] info: Aug-23 18:52:53.365 [API-Q] (T1792L49E) f1384120-1566566573.361 dnd.teamInfo is ACTIVE 
+[08/23/19, 18:52:53:369] info: Aug-23 18:52:53.369 [API-Q] (T1792L49E) f1384120-1566566573.368 api.getFlannelHttpUrl called with reason: client-needs-valid-flannel-url 
+[08/23/19, 18:52:53:369] info: Aug-23 18:52:53.369 [API-Q] (T1792L49E) f1384120-1566566573.368 api.getFlannelHttpUrl is ENQUEUED 
+[08/23/19, 18:52:53:369] info: Aug-23 18:52:53.369 [API-Q] (T1792L49E) f1384120-1566566573.368 api.getFlannelHttpUrl is ACTIVE 
+[08/23/19, 18:52:53:455] info: Aug-23 18:52:53.455 [PERSIST] Purged persisted models [] 
+[08/23/19, 18:52:53:455] info: Aug-23 18:52:53.455 [PERSIST] (T1792L49E) Persisting state to storage 
+[08/23/19, 18:52:53:557] info: Aug-23 18:52:53.557 [PERSIST] Persistence setItem: : 100.2ms 
+[08/23/19, 18:52:53:557] info: Aug-23 18:52:53.557 [PERSIST] (T1792L49E) Persisted state: 101.7ms 
+[08/23/19, 18:52:53:841] info: Aug-23 18:52:53.841 [SOCKET-MANAGER] (T1792L49E) Changing from prov_connecting to prov_connected 
+[08/23/19, 18:52:53:841] info: Aug-23 18:52:53.841 [SOCKET-MANAGER] (T1792L49E) will stay in prov_connected state for up to 60000 ms 
+[08/23/19, 18:52:53:843] info: Aug-23 18:52:53.843 [SOCKET-MANAGER] (T1792L49E) Changing from prov_connected to prov_finalize 
+[08/23/19, 18:52:53:843] info: Aug-23 18:52:53.843 [SOCKET-MANAGER] (T1792L49E) will stay in prov_finalize state for up to 10000 ms 
+[08/23/19, 18:52:53:844] info: Aug-23 18:52:53.844 [SOCKET-MANAGER] (T1792L49E) Changing from prov_finalize to prov_finalizing 
+[08/23/19, 18:52:53:844] info: Aug-23 18:52:53.844 [SOCKET-MANAGER] (T1792L49E) will stay in prov_finalizing state for up to 10000 ms 
+[08/23/19, 18:52:53:845] info: Aug-23 18:52:53.845 [SOCKET-MANAGER] (T1792L49E) Changing from prov_finalizing to connected 
+[08/23/19, 18:52:53:845] info: Aug-23 18:52:53.845 [SOCKET-MANAGER] (T1792L49E) will stay in connected state for up to Infinity ms 
+[08/23/19, 18:52:53:846] info: Aug-23 18:52:53.846 [SOCKET-MANAGER] (T1792L49E) Connected to primary region 
+[08/23/19, 18:52:53:853] info: Aug-23 18:52:53.853 [MESSAGE-HISTORY] (T1792L49E) Resetting reachedEnd 
+[08/23/19, 18:52:53:860] info: Aug-23 18:52:53.860 [UNREAD-COUNTS] (T1792L49E) Fetching counts 
+[08/23/19, 18:52:53:861] info: Aug-23 18:52:53.861 [API-Q] (T1792L49E) f1384120-1566566573.861 client.counts called with reason: client-counts-api/fetchClientCounts 
+[08/23/19, 18:52:53:861] info: Aug-23 18:52:53.861 [API-Q] (T1792L49E) f1384120-1566566573.861 client.counts is ENQUEUED 
+[08/23/19, 18:52:53:861] info: Aug-23 18:52:53.862 [API-Q] (T1792L49E) f1384120-1566566573.861 client.counts is ACTIVE 
+[08/23/19, 18:52:53:869] info: Aug-23 18:52:53.869 [HISTORY-FETCH] (T1792L49E) Fetching history for message pane: CM3KXGVDH oldest: 1566499719.007200 latest: null 
+[08/23/19, 18:52:53:869] info: Aug-23 18:52:53.869 [API-Q] (T1792L49E) f1384120-1566566573.869 conversations.history called with reason: message-pane/requestHistory 
+[08/23/19, 18:52:53:869] info: Aug-23 18:52:53.869 [API-Q] (T1792L49E) f1384120-1566566573.869 conversations.history is ENQUEUED 
+[08/23/19, 18:52:53:873] info: Aug-23 18:52:53.873 [CHECK-UNREADS] (T1792L49E) unreadLineVisible updated: true -> false 
+[08/23/19, 18:52:54:249] info: Aug-23 18:52:54.248 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:54:258] info: Aug-23 18:52:54.258 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:54:278] info: Aug-23 18:52:54.278 [API-Q] (T1792L49E) f1384120-1566566572.790 promo.getEligibleOffer is RESOLVED 
+[08/23/19, 18:52:54:279] info: Aug-23 18:52:54.279 [API-Q] (T1792L49E) f1384120-1566566573.869 conversations.history is ACTIVE 
+[08/23/19, 18:52:54:294] info: Aug-23 18:52:54.294 [API-Q] (T1792L49E) f1384120-1566566573.312 emoji.list is RESOLVED 
+[08/23/19, 18:52:54:299] info: Aug-23 18:52:54.300 [API-Q] (T1792L49E) f1384120-1566566573.023 promo.banner is RESOLVED 
+[08/23/19, 18:52:54:300] info: Aug-23 18:52:54.300 [API-Q] (T1792L49E) f1384120-1566566573.295 commands.list is RESOLVED 
+[08/23/19, 18:52:54:306] info: Aug-23 18:52:54.305 [API-Q] (T1792L49E) f1384120-1566566573.315 team.whatsNew is RESOLVED 
+[08/23/19, 18:52:54:336] info: Aug-23 18:52:54.336 [API-Q] (T1792L49E) f1384120-1566566573.021 apps.getSidebarPrompts is RESOLVED 
+[08/23/19, 18:52:54:337] info: Aug-23 18:52:54.337 [BOOT-QUEUE] noversion-1566566572.710 client.boot is RESOLVED 
+[08/23/19, 18:52:54:338] info: Aug-23 18:52:54.338 [BOOT-QUEUE] noversion-1566566572.711 api.features is ACTIVE 
+[08/23/19, 18:52:54:357] info: Aug-23 18:52:54.358 [API-Q] (T1792L49E) f1384120-1566566573.368 api.getFlannelHttpUrl is RESOLVED 
+[08/23/19, 18:52:54:357] info: Aug-23 18:52:54.358 [API-Q] (T1792L49E) f1384120-1566566573.358 dnd.info is RESOLVED 
+[08/23/19, 18:52:54:360] info: Aug-23 18:52:54.360 [API-Q] (T1792L49E) noversion-1566566574.360 Flannel users/counts called with reason: flannel-call:users/counts 
+[08/23/19, 18:52:54:360] info: Aug-23 18:52:54.360 [API-Q] (T1792L49E) noversion-1566566574.360 Flannel users/counts is ENQUEUED 
+[08/23/19, 18:52:54:361] info: Aug-23 18:52:54.360 [API-Q] (T1792L49E) noversion-1566566574.360 Flannel users/counts is ACTIVE 
+[08/23/19, 18:52:54:361] info: Aug-23 18:52:54.362 [DND] (T1792L49E) Fetched DND info for the following member: UMF3SUD53 
+[08/23/19, 18:52:54:362] info: Aug-23 18:52:54.362 [DND] (T1792L49E) Checking for changes in DND status for the following members: UMF3SUD53 
+[08/23/19, 18:52:54:363] info: Aug-23 18:52:54.363 [DND] (T1792L49E) Will check for changes in DND status again in 5 minutes 
+[08/23/19, 18:52:54:364] info: Aug-23 18:52:54.364 [API-Q] (T1792L49E) f1384120-1566566573.361 dnd.teamInfo is RESOLVED 
+[08/23/19, 18:52:54:365] info: Aug-23 18:52:54.366 [DND] (T1792L49E) Fetched DND info for the following members: U2EF4M50S 
+[08/23/19, 18:52:54:366] info: Aug-23 18:52:54.367 [DND] (T1792L49E) Checking for changes in DND status for the following members: UMF3SUD53,U2EF4M50S 
+[08/23/19, 18:52:54:367] info: Aug-23 18:52:54.367 [DND] (T1792L49E) Will check for changes in DND status again in 5 minutes 
+[08/23/19, 18:52:54:597] info: Aug-23 18:52:54.597 [API-Q] (T1792L49E) f1384120-1566566573.861 client.counts is RESOLVED 
+[08/23/19, 18:52:54:600] info: Aug-23 18:52:54.600 [COUNTS] (T1792L49E) Applying counts to channels 
+[08/23/19, 18:52:54:604] info: Aug-23 18:52:54.604 [COUNTS] (T1792L49E) Threads has_unreads:false mention_count:0 
+[08/23/19, 18:52:54:605] info: Aug-23 18:52:54.605 [COUNTS] (T1792L49E) Completed counts processing 
+[08/23/19, 18:52:54:605] info: Aug-23 18:52:54.606 [BOOT-QUEUE] noversion-1566566572.711 api.features is RESOLVED 
+[08/23/19, 18:52:54:606] info: Aug-23 18:52:54.606 [BOOT-QUEUE] noversion-1566566572.711 experiments.getByUser is ACTIVE 
+[08/23/19, 18:52:54:606] info: Aug-23 18:52:54.607 [API-Q] (T1792L49E) noversion-1566566574.360 Flannel users/counts is RESOLVED 
+[08/23/19, 18:52:54:839] info: Aug-23 18:52:54.839 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 18:52:54:842] info: Aug-23 18:52:54.842 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:52:54:864] info: Aug-23 18:52:54.864 [BOOT-QUEUE] noversion-1566566572.711 experiments.getByUser is RESOLVED 
+[08/23/19, 18:52:54:998] info: Aug-23 18:52:54.998 [API-Q] (T1792L49E) f1384120-1566566573.869 conversations.history is RESOLVED 
+[08/23/19, 18:52:55:000] info: Aug-23 18:52:55.000 [API-Q] (T1792L49E) f1384120-1566566575.000 users.prefs.set called with reason: prefs-api/setUserPrefByApi 
+[08/23/19, 18:52:55:000] info: Aug-23 18:52:55.000 [API-Q] (T1792L49E) f1384120-1566566575.000 users.prefs.set is ENQUEUED 
+[08/23/19, 18:52:55:000] info: Aug-23 18:52:55.000 [API-Q] (T1792L49E) f1384120-1566566575.000 users.prefs.set is ACTIVE 
+[08/23/19, 18:52:55:009] info: Aug-23 18:52:55.009 [PINS] (T1792L49E) Pins count updated for channel CM3KXGVDH: 0 
+[08/23/19, 18:52:55:010] info: Aug-23 18:52:55.010 [UNREAD-COUNTS] (T1792L49E) Counting unreads in CM3KXGVDH because (1) timestamps added 
+[08/23/19, 18:52:55:010] info: Aug-23 18:52:55.011 [UNREAD-COUNTS] (T1792L49E) Checking unreads in CM3KXGVDH after a new message 
+[08/23/19, 18:52:55:010] info: Aug-23 18:52:55.011 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because attention not on chat (window_not_focused) 
+[08/23/19, 18:52:55:016] info: Aug-23 18:52:55.016 [MESSAGE-LIST] (T1792L49E) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 30 
+[08/23/19, 18:52:55:021] info: Aug-23 18:52:55.021 [CHECK-UNREADS] (T1792L49E) unreadLineVisible updated: false -> true 
+[08/23/19, 18:52:55:092] info: Aug-23 18:52:55.092 [BOOT-QUEUE] noversion-1566566572.665 rtm.shouldReload is RESOLVED 
+[08/23/19, 18:52:55:195] info: Aug-23 18:52:55.195 [BOOT] (T1792L49E) Dispatching boot data 
+[08/23/19, 18:52:55:198] warn: Aug-23 18:52:55.199 Desktop: 'desktop.accessibility.isAccessibilitySupportEnabled' is missing or not a function 
+[08/23/19, 18:52:55:218] info: Aug-23 18:52:55.219 [UNREAD-COUNTS] (T1792L49E) Counting unreads in CM3KXGVDH because (33) timestamps added 
+[08/23/19, 18:52:55:219] info: Aug-23 18:52:55.219 [UNREAD-COUNTS] (T1792L49E) Checking unreads in CM3KXGVDH after a new message 
+[08/23/19, 18:52:55:219] info: Aug-23 18:52:55.219 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because attention not on chat (window_not_focused) 
+[08/23/19, 18:52:55:219] info: Aug-23 18:52:55.220 [BOOT] (T1792L49E) Boot complete 
+[08/23/19, 18:52:55:260] info: Aug-23 18:52:55.261 [API-Q] (T1792L49E) f1384120-1566566575.000 users.prefs.set is RESOLVED 
+[08/23/19, 18:52:55:262] info: Aug-23 18:52:55.262 [API-Q] (T1792L49E) f1384120-1566566575.261 help.issues.list called with reason: fetchAndUpsertHelpIssues 
+[08/23/19, 18:52:55:262] info: Aug-23 18:52:55.262 [API-Q] (T1792L49E) f1384120-1566566575.261 help.issues.list is ENQUEUED 
+[08/23/19, 18:52:55:263] info: Aug-23 18:52:55.263 [API-Q] (T1792L49E) f1384120-1566566575.261 help.issues.list is ACTIVE 
+[08/23/19, 18:52:55:378] info: Aug-23 18:52:55.378 [CHECK-UNREADS] (T1792L49E) Checking unreads after unread line became visible 
+[08/23/19, 18:52:55:378] info: Aug-23 18:52:55.378 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because attention not on chat (window_not_focused) 
+[08/23/19, 18:52:55:527] info: Aug-23 18:52:55.527 [API-Q] (T1792L49E) f1384120-1566566575.261 help.issues.list is RESOLVED 
+[08/23/19, 18:53:04:616] info: Aug-23 18:53:04.616 [API-Q] (T1792L49E) noversion-1566566584.615 Flannel users/counts called with reason: flannel-call:users/counts 
+[08/23/19, 18:53:04:616] info: Aug-23 18:53:04.616 [API-Q] (T1792L49E) noversion-1566566584.615 Flannel users/counts is ENQUEUED 
+[08/23/19, 18:53:04:616] info: Aug-23 18:53:04.616 [API-Q] (T1792L49E) noversion-1566566584.615 Flannel users/counts is ACTIVE 
+[08/23/19, 18:53:04:652] info: Aug-23 18:53:04.653 [API-Q] (T1792L49E) noversion-1566566584.615 Flannel users/counts is RESOLVED 
+[08/23/19, 18:53:25:021] info: Aug-23 18:53:25.021 [CLOG] Logged event: [object Object] 
+[08/23/19, 18:53:25:021] info: Aug-23 18:53:25.021 [CLOG] Logged event: [object Object] 
+[08/23/19, 18:53:25:021] info: Aug-23 18:53:25.021 [CLOG] Logged event: [object Object] 
+[08/23/19, 18:53:25:021] info: Aug-23 18:53:25.021 [CLOG] Logged event: [object Object] 
+[08/23/19, 18:53:55:600] info: Aug-23 18:53:55.600 [API-Q] (T1792L49E) f1384120-1566566635.599 client.counts called with reason: client-counts-api/fetchClientCounts 
+[08/23/19, 18:53:55:600] info: Aug-23 18:53:55.600 [API-Q] (T1792L49E) f1384120-1566566635.599 client.counts is ENQUEUED 
+[08/23/19, 18:53:55:600] info: Aug-23 18:53:55.600 [API-Q] (T1792L49E) f1384120-1566566635.599 client.counts is ACTIVE 
+[08/23/19, 18:53:55:875] info: Aug-23 18:53:55.874 [API-Q] (T1792L49E) f1384120-1566566635.599 client.counts is RESOLVED 
+[08/23/19, 18:53:55:877] info: Aug-23 18:53:55.878 [COUNTS] (T1792L49E) Applying counts to channels 
+[08/23/19, 18:53:55:880] info: Aug-23 18:53:55.881 [COUNTS] (T1792L49E) Recounted CM3KXGVDH; initial: {"unreadCnt":0,"unreadHighlightCnt":0}; after: {"unreadCnt":0,"unreadHighlightCnt":0} 
+[08/23/19, 18:53:55:880] info: Aug-23 18:53:55.881 [COUNTS] (T1792L49E) Threads has_unreads:false mention_count:0 
+[08/23/19, 18:53:55:881] info: Aug-23 18:53:55.882 [COUNTS] (T1792L49E) Completed counts processing 
+[08/23/19, 18:55:01:920] info: Aug-23 18:55:01.921 [CLOG] Logged event: [object Object] 
+[08/23/19, 18:55:16:547] info: Aug-23 18:55:16.547 [FOCUS-EVENT] Client window focused 
+[08/23/19, 18:55:16:551] info: Aug-23 18:55:16.552 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:55:16:592] info: Aug-23 18:55:16.592 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 18:55:16:593] info: Aug-23 18:55:16.592 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 18:55:17:589] info: Aug-23 18:55:17.589 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 18:55:17:600] info: Aug-23 18:55:17.601 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:56:06:520] info: Aug-23 18:56:06.520 [CLOG] Logged event: [object Object] 
+[08/23/19, 18:56:19:544] info: Aug-23 18:56:19.544 [FOCUS-EVENT] Client window focused 
+[08/23/19, 18:56:19:547] info: Aug-23 18:56:19.547 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:56:19:569] info: Aug-23 18:56:19.568 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 18:56:19:569] info: Aug-23 18:56:19.569 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 18:56:20:640] info: Aug-23 18:56:20.640 [CHECK-UNREADS] (T1792L49E) unreadLineVisible updated: true -> false 
+[08/23/19, 18:56:21:184] info: Aug-23 18:56:21.184 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 18:56:21:186] info: Aug-23 18:56:21.186 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:56:21:790] info: Aug-23 18:56:21.791 [FOCUS-EVENT] Client window focused 
+[08/23/19, 18:56:21:792] info: Aug-23 18:56:21.793 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:56:21:808] info: Aug-23 18:56:21.808 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 18:56:21:808] info: Aug-23 18:56:21.808 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 18:56:23:178] info: Aug-23 18:56:23.178 [ACTION:CHANNEL-SIDEBAR] Selected GMAD5SM7U 
+[08/23/19, 18:56:23:178] info: Aug-23 18:56:23.179 [CHANNEL-SIDEBAR] (T1792L49E) onItemSelect GMAD5SM7U 
+[08/23/19, 18:56:23:182] info: Aug-23 18:56:23.182 [SWITCH-TO-CHANNEL] (T1792L49E) Switching to GMAD5SM7U at end 
+[08/23/19, 18:56:23:188] info: Aug-23 18:56:23.188 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:56:23:200] info: Aug-23 18:56:23.201 [HISTORY-NAVIGATION] Adding route to the history stack 
+[08/23/19, 18:56:23:205] info: Aug-23 18:56:23.205 [MESSAGE-LIST] (T1792L49E) Switching channels: GMAD5SM7U timestamps: 0 
+[08/23/19, 18:56:23:207] info: Aug-23 18:56:23.207 [MESSAGE-LIST] (T1792L49E) requestAround channelId: GMAD5SM7U isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[08/23/19, 18:56:23:207] info: Aug-23 18:56:23.208 [HISTORY-FETCH] (T1792L49E) Fetching history for message pane: GMAD5SM7U oldest: null latest: null 
+[08/23/19, 18:56:23:207] info: Aug-23 18:56:23.208 [API-Q] (T1792L49E) f1384120-1566566783.208 conversations.history called with reason: message-pane/requestHistory 
+[08/23/19, 18:56:23:208] info: Aug-23 18:56:23.208 [API-Q] (T1792L49E) f1384120-1566566783.208 conversations.history is ENQUEUED 
+[08/23/19, 18:56:23:208] info: Aug-23 18:56:23.208 [API-Q] (T1792L49E) f1384120-1566566783.208 conversations.history is ACTIVE 
+[08/23/19, 18:56:23:212] info: Aug-23 18:56:23.212 [MESSAGE-LIST] (T1792L49E) requestAround channelId: GMAD5SM7U isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[08/23/19, 18:56:23:212] info: Aug-23 18:56:23.212 [MESSAGE-LIST] (T1792L49E) requestAround channelId: GMAD5SM7U isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[08/23/19, 18:56:23:221] info: Aug-23 18:56:23.221 [MESSAGE-LIST] (T1792L49E) componentWillReceiveProps isLoading: true isLoadingOlder: false timestamps: 0 
+[08/23/19, 18:56:23:238] info: Aug-23 18:56:23.238 [API-Q] (T1792L49E) noversion-1566566783.236 Flannel users/counts called with reason: flannel-call:users/counts 
+[08/23/19, 18:56:23:238] info: Aug-23 18:56:23.238 [API-Q] (T1792L49E) noversion-1566566783.236 Flannel users/counts is ENQUEUED 
+[08/23/19, 18:56:23:238] info: Aug-23 18:56:23.238 [API-Q] (T1792L49E) noversion-1566566783.236 Flannel users/counts is ACTIVE 
+[08/23/19, 18:56:23:696] info: Aug-23 18:56:23.696 [DND] (T1792L49E) Preparing to fetch DND times for the following members: U8P9T96RK 
+[08/23/19, 18:56:23:697] info: Aug-23 18:56:23.697 [API-Q] (T1792L49E) f1384120-1566566783.697 dnd.teamInfo called with reason: getDndTimesForSubscribedMembers:other 
+[08/23/19, 18:56:23:698] info: Aug-23 18:56:23.697 [API-Q] (T1792L49E) f1384120-1566566783.697 dnd.teamInfo is ENQUEUED 
+[08/23/19, 18:56:23:698] info: Aug-23 18:56:23.698 [API-Q] (T1792L49E) f1384120-1566566783.697 dnd.teamInfo is ACTIVE 
+[08/23/19, 18:56:23:851] info: Aug-23 18:56:23.852 [API-Q] (T1792L49E) noversion-1566566783.236 Flannel users/counts is RESOLVED 
+[08/23/19, 18:56:24:037] info: Aug-23 18:56:24.037 [API-Q] (T1792L49E) f1384120-1566566783.208 conversations.history is RESOLVED 
+[08/23/19, 18:56:24:043] info: Aug-23 18:56:24.044 [PINS] (T1792L49E) Pins count updated for channel GMAD5SM7U: 0 
+[08/23/19, 18:56:24:044] info: Aug-23 18:56:24.045 [UNREAD-COUNTS] (T1792L49E) Counting unreads in GMAD5SM7U because (7) timestamps added 
+[08/23/19, 18:56:24:045] info: Aug-23 18:56:24.045 [UNREAD-COUNTS] (T1792L49E) Checking unreads in GMAD5SM7U after a new message 
+[08/23/19, 18:56:24:045] info: Aug-23 18:56:24.045 [CHECK-UNREADS] (T1792L49E) Not marking GMAD5SM7U because last_read >= latest && channel is read 
+[08/23/19, 18:56:24:051] info: Aug-23 18:56:24.051 [MESSAGE-LIST] (T1792L49E) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 7 
+[08/23/19, 18:56:24:092] info: Aug-23 18:56:24.092 [CHECK-UNREADS] (T1792L49E) unreadLineVisible updated: false -> true 
+[08/23/19, 18:56:24:402] info: Aug-23 18:56:24.402 [API-Q] (T1792L49E) f1384120-1566566783.697 dnd.teamInfo is RESOLVED 
+[08/23/19, 18:56:24:403] info: Aug-23 18:56:24.403 [DND] (T1792L49E) Fetched DND info for the following members: U8P9T96RK 
+[08/23/19, 18:56:24:404] info: Aug-23 18:56:24.405 [DND] (T1792L49E) Checking for changes in DND status for the following members: UMF3SUD53,U2EF4M50S,U8P9T96RK 
+[08/23/19, 18:56:24:405] info: Aug-23 18:56:24.406 [DND] (T1792L49E) Will check for changes in DND status again in 5 minutes 
+[08/23/19, 18:56:24:451] info: Aug-23 18:56:24.452 [CHECK-UNREADS] (T1792L49E) Checking unreads after unread line became visible 
+[08/23/19, 18:56:24:451] info: Aug-23 18:56:24.452 [CHECK-UNREADS] (T1792L49E) Not marking GMAD5SM7U because last_read >= latest && channel is read 
+[08/23/19, 18:56:24:547] info: Aug-23 18:56:24.547 [DND] (T1792L49E) There are no members in the presence subscription that we need to fetch DND times for! 
+[08/23/19, 18:56:28:181] info: Aug-23 18:56:28.181 [ACTION:CHANNEL-SIDEBAR] Selected DMMPY3XQX 
+[08/23/19, 18:56:28:182] info: Aug-23 18:56:28.181 [CHANNEL-SIDEBAR] (T1792L49E) onItemSelect DMMPY3XQX 
+[08/23/19, 18:56:28:186] info: Aug-23 18:56:28.187 [SWITCH-TO-CHANNEL] (T1792L49E) Switching to DMMPY3XQX at end 
+[08/23/19, 18:56:28:191] info: Aug-23 18:56:28.191 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:56:28:200] info: Aug-23 18:56:28.200 [HISTORY-NAVIGATION] Adding route to the history stack 
+[08/23/19, 18:56:28:202] info: Aug-23 18:56:28.202 [MESSAGE-LIST] (T1792L49E) Switching channels: DMMPY3XQX timestamps: 0 
+[08/23/19, 18:56:28:202] info: Aug-23 18:56:28.202 [MESSAGE-LIST] (T1792L49E) requestAround channelId: DMMPY3XQX isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[08/23/19, 18:56:28:204] info: Aug-23 18:56:28.202 [HISTORY-FETCH] (T1792L49E) Fetching history for message pane: DMMPY3XQX oldest: null latest: null 
+[08/23/19, 18:56:28:204] info: Aug-23 18:56:28.203 [API-Q] (T1792L49E) f1384120-1566566788.203 conversations.history called with reason: message-pane/requestHistory 
+[08/23/19, 18:56:28:204] info: Aug-23 18:56:28.203 [API-Q] (T1792L49E) f1384120-1566566788.203 conversations.history is ENQUEUED 
+[08/23/19, 18:56:28:204] info: Aug-23 18:56:28.204 [API-Q] (T1792L49E) f1384120-1566566788.203 conversations.history is ACTIVE 
+[08/23/19, 18:56:28:205] info: Aug-23 18:56:28.206 [MESSAGE-LIST] (T1792L49E) requestAround channelId: DMMPY3XQX isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[08/23/19, 18:56:28:205] info: Aug-23 18:56:28.206 [MESSAGE-LIST] (T1792L49E) requestAround channelId: DMMPY3XQX isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[08/23/19, 18:56:28:215] info: Aug-23 18:56:28.215 [MESSAGE-LIST] (T1792L49E) componentWillReceiveProps isLoading: true isLoadingOlder: false timestamps: 0 
+[08/23/19, 18:56:28:230] info: Aug-23 18:56:28.230 [API-Q] (T1792L49E) noversion-1566566788.229 Flannel users/counts called with reason: flannel-call:users/counts 
+[08/23/19, 18:56:28:230] info: Aug-23 18:56:28.230 [API-Q] (T1792L49E) noversion-1566566788.229 Flannel users/counts is ENQUEUED 
+[08/23/19, 18:56:28:230] info: Aug-23 18:56:28.230 [API-Q] (T1792L49E) noversion-1566566788.229 Flannel users/counts is ACTIVE 
+[08/23/19, 18:56:28:499] info: Aug-23 18:56:28.500 [API-Q] (T1792L49E) noversion-1566566788.229 Flannel users/counts is RESOLVED 
+[08/23/19, 18:56:28:935] info: Aug-23 18:56:28.935 [API-Q] (T1792L49E) f1384120-1566566788.203 conversations.history is RESOLVED 
+[08/23/19, 18:56:28:943] info: Aug-23 18:56:28.943 [PINS] (T1792L49E) Pins count updated for channel DMMPY3XQX: 0 
+[08/23/19, 18:56:28:944] info: Aug-23 18:56:28.944 [UNREAD-COUNTS] (T1792L49E) Counting unreads in DMMPY3XQX because (11) timestamps added 
+[08/23/19, 18:56:28:944] info: Aug-23 18:56:28.944 [UNREAD-COUNTS] (T1792L49E) Checking unreads in DMMPY3XQX after a new message 
+[08/23/19, 18:56:28:944] info: Aug-23 18:56:28.944 [CHECK-UNREADS] (T1792L49E) Not marking DMMPY3XQX because last_read >= latest && channel is read 
+[08/23/19, 18:56:28:949] info: Aug-23 18:56:28.949 [MESSAGE-LIST] (T1792L49E) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 11 
+[08/23/19, 18:56:28:996] info: Aug-23 18:56:28.996 [CHECK-UNREADS] (T1792L49E) unreadLineVisible updated: false -> true 
+[08/23/19, 18:56:29:357] info: Aug-23 18:56:29.358 [CHECK-UNREADS] (T1792L49E) Checking unreads after unread line became visible 
+[08/23/19, 18:56:29:357] info: Aug-23 18:56:29.358 [CHECK-UNREADS] (T1792L49E) Not marking DMMPY3XQX because last_read >= latest && channel is read 
+[08/23/19, 18:56:37:776] info: Aug-23 18:56:37.777 [ACTION:CHANNEL-SIDEBAR] Selected GMKT7NE3X 
+[08/23/19, 18:56:37:777] info: Aug-23 18:56:37.777 [CHANNEL-SIDEBAR] (T1792L49E) onItemSelect GMKT7NE3X 
+[08/23/19, 18:56:37:780] info: Aug-23 18:56:37.780 [SWITCH-TO-CHANNEL] (T1792L49E) Switching to GMKT7NE3X at end 
+[08/23/19, 18:56:37:784] info: Aug-23 18:56:37.784 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:56:37:797] info: Aug-23 18:56:37.797 [HISTORY-NAVIGATION] Adding route to the history stack 
+[08/23/19, 18:56:37:799] info: Aug-23 18:56:37.800 [MESSAGE-LIST] (T1792L49E) Switching channels: GMKT7NE3X timestamps: 0 
+[08/23/19, 18:56:37:800] info: Aug-23 18:56:37.800 [MESSAGE-LIST] (T1792L49E) requestAround channelId: GMKT7NE3X isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[08/23/19, 18:56:37:800] info: Aug-23 18:56:37.800 [HISTORY-FETCH] (T1792L49E) Fetching history for message pane: GMKT7NE3X oldest: null latest: null 
+[08/23/19, 18:56:37:801] info: Aug-23 18:56:37.801 [API-Q] (T1792L49E) f1384120-1566566797.801 conversations.history called with reason: message-pane/requestHistory 
+[08/23/19, 18:56:37:801] info: Aug-23 18:56:37.801 [API-Q] (T1792L49E) f1384120-1566566797.801 conversations.history is ENQUEUED 
+[08/23/19, 18:56:37:801] info: Aug-23 18:56:37.801 [API-Q] (T1792L49E) f1384120-1566566797.801 conversations.history is ACTIVE 
+[08/23/19, 18:56:37:803] info: Aug-23 18:56:37.804 [MESSAGE-LIST] (T1792L49E) requestAround channelId: GMKT7NE3X isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[08/23/19, 18:56:37:803] info: Aug-23 18:56:37.804 [MESSAGE-LIST] (T1792L49E) requestAround channelId: GMKT7NE3X isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[08/23/19, 18:56:37:810] info: Aug-23 18:56:37.811 [MESSAGE-LIST] (T1792L49E) componentWillReceiveProps isLoading: true isLoadingOlder: false timestamps: 0 
+[08/23/19, 18:56:37:818] info: Aug-23 18:56:37.818 [API-Q] (T1792L49E) noversion-1566566797.816 Flannel users/counts called with reason: flannel-call:users/counts 
+[08/23/19, 18:56:37:818] info: Aug-23 18:56:37.818 [API-Q] (T1792L49E) noversion-1566566797.816 Flannel users/counts is ENQUEUED 
+[08/23/19, 18:56:37:818] info: Aug-23 18:56:37.818 [API-Q] (T1792L49E) noversion-1566566797.816 Flannel users/counts is ACTIVE 
+[08/23/19, 18:56:38:080] info: Aug-23 18:56:38.080 [API-Q] (T1792L49E) noversion-1566566797.816 Flannel users/counts is RESOLVED 
+[08/23/19, 18:56:38:294] info: Aug-23 18:56:38.294 [DND] (T1792L49E) Preparing to fetch DND times for the following members: UM3KY8334 
+[08/23/19, 18:56:38:295] info: Aug-23 18:56:38.295 [API-Q] (T1792L49E) f1384120-1566566798.294 dnd.teamInfo called with reason: getDndTimesForSubscribedMembers:other 
+[08/23/19, 18:56:38:295] info: Aug-23 18:56:38.295 [API-Q] (T1792L49E) f1384120-1566566798.294 dnd.teamInfo is ENQUEUED 
+[08/23/19, 18:56:38:295] info: Aug-23 18:56:38.296 [API-Q] (T1792L49E) f1384120-1566566798.294 dnd.teamInfo is ACTIVE 
+[08/23/19, 18:56:38:528] info: Aug-23 18:56:38.528 [API-Q] (T1792L49E) f1384120-1566566797.801 conversations.history is RESOLVED 
+[08/23/19, 18:56:38:533] info: Aug-23 18:56:38.533 [PINS] (T1792L49E) Pins count updated for channel GMKT7NE3X: 0 
+[08/23/19, 18:56:38:534] info: Aug-23 18:56:38.534 [UNREAD-COUNTS] (T1792L49E) Counting unreads in GMKT7NE3X because (2) timestamps added 
+[08/23/19, 18:56:38:534] info: Aug-23 18:56:38.534 [UNREAD-COUNTS] (T1792L49E) Checking unreads in GMKT7NE3X after a new message 
+[08/23/19, 18:56:38:534] info: Aug-23 18:56:38.534 [CHECK-UNREADS] (T1792L49E) Not marking GMKT7NE3X because last_read >= latest && channel is read 
+[08/23/19, 18:56:38:538] info: Aug-23 18:56:38.538 [MESSAGE-LIST] (T1792L49E) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 2 
+[08/23/19, 18:56:38:549] info: Aug-23 18:56:38.549 [CHECK-UNREADS] (T1792L49E) unreadLineVisible updated: false -> true 
+[08/23/19, 18:56:38:820] info: Aug-23 18:56:38.820 [CLOG] Logged event: [object Object] 
+[08/23/19, 18:56:38:820] info: Aug-23 18:56:38.820 [CLOG] Logged event: [object Object] 
+[08/23/19, 18:56:38:905] info: Aug-23 18:56:38.906 [CHECK-UNREADS] (T1792L49E) Checking unreads after unread line became visible 
+[08/23/19, 18:56:38:905] info: Aug-23 18:56:38.906 [CHECK-UNREADS] (T1792L49E) Not marking GMKT7NE3X because last_read >= latest && channel is read 
+[08/23/19, 18:56:39:001] info: Aug-23 18:56:39.001 [API-Q] (T1792L49E) f1384120-1566566798.294 dnd.teamInfo is RESOLVED 
+[08/23/19, 18:56:39:002] info: Aug-23 18:56:39.002 [DND] (T1792L49E) Fetched DND info for the following members: UM3KY8334 
+[08/23/19, 18:56:39:003] info: Aug-23 18:56:39.003 [DND] (T1792L49E) Checking for changes in DND status for the following members: UMF3SUD53,U2EF4M50S,U8P9T96RK,UM3KY8334 
+[08/23/19, 18:56:39:003] info: Aug-23 18:56:39.004 [DND] (T1792L49E) Will check for changes in DND status again in 5 minutes 
+[08/23/19, 18:56:39:035] info: Aug-23 18:56:39.035 [DND] (T1792L49E) There are no members in the presence subscription that we need to fetch DND times for! 
+[08/23/19, 18:56:43:593] info: Aug-23 18:56:43.592 [ACTION:CHANNEL-SIDEBAR] Selected DMEKBRUSG 
+[08/23/19, 18:56:43:593] info: Aug-23 18:56:43.592 [CHANNEL-SIDEBAR] (T1792L49E) onItemSelect DMEKBRUSG 
+[08/23/19, 18:56:43:596] info: Aug-23 18:56:43.596 [SWITCH-TO-CHANNEL] (T1792L49E) Switching to DMEKBRUSG at end 
+[08/23/19, 18:56:43:601] info: Aug-23 18:56:43.601 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:56:43:624] info: Aug-23 18:56:43.625 [HISTORY-NAVIGATION] Adding route to the history stack 
+[08/23/19, 18:56:43:626] info: Aug-23 18:56:43.627 [MESSAGE-LIST] (T1792L49E) Switching channels: DMEKBRUSG timestamps: 0 
+[08/23/19, 18:56:43:627] info: Aug-23 18:56:43.627 [MESSAGE-LIST] (T1792L49E) requestAround channelId: DMEKBRUSG isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[08/23/19, 18:56:43:627] info: Aug-23 18:56:43.627 [HISTORY-FETCH] (T1792L49E) Fetching history for message pane: DMEKBRUSG oldest: null latest: null 
+[08/23/19, 18:56:43:627] info: Aug-23 18:56:43.627 [API-Q] (T1792L49E) f1384120-1566566803.627 conversations.history called with reason: message-pane/requestHistory 
+[08/23/19, 18:56:43:628] info: Aug-23 18:56:43.627 [API-Q] (T1792L49E) f1384120-1566566803.627 conversations.history is ENQUEUED 
+[08/23/19, 18:56:43:628] info: Aug-23 18:56:43.628 [API-Q] (T1792L49E) f1384120-1566566803.627 conversations.history is ACTIVE 
+[08/23/19, 18:56:43:629] info: Aug-23 18:56:43.630 [MESSAGE-LIST] (T1792L49E) requestAround channelId: DMEKBRUSG isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[08/23/19, 18:56:43:629] info: Aug-23 18:56:43.630 [MESSAGE-LIST] (T1792L49E) requestAround channelId: DMEKBRUSG isLoading: false timestamps: 0 reachedStart: false reachedEnd: false 
+[08/23/19, 18:56:43:635] info: Aug-23 18:56:43.635 [MESSAGE-LIST] (T1792L49E) componentWillReceiveProps isLoading: true isLoadingOlder: false timestamps: 0 
+[08/23/19, 18:56:43:642] info: Aug-23 18:56:43.642 [API-Q] (T1792L49E) noversion-1566566803.641 Flannel users/counts called with reason: flannel-call:users/counts 
+[08/23/19, 18:56:43:643] info: Aug-23 18:56:43.642 [API-Q] (T1792L49E) noversion-1566566803.641 Flannel users/counts is ENQUEUED 
+[08/23/19, 18:56:43:643] info: Aug-23 18:56:43.643 [API-Q] (T1792L49E) noversion-1566566803.641 Flannel users/counts is ACTIVE 
+[08/23/19, 18:56:43:909] info: Aug-23 18:56:43.910 [API-Q] (T1792L49E) noversion-1566566803.641 Flannel users/counts is RESOLVED 
+[08/23/19, 18:56:44:343] info: Aug-23 18:56:44.343 [API-Q] (T1792L49E) f1384120-1566566803.627 conversations.history is RESOLVED 
+[08/23/19, 18:56:44:347] info: Aug-23 18:56:44.348 [PINS] (T1792L49E) Pins count updated for channel DMEKBRUSG: 0 
+[08/23/19, 18:56:44:352] info: Aug-23 18:56:44.352 [MESSAGE-LIST] (T1792L49E) componentWillReceiveProps isLoading: false isLoadingOlder: false timestamps: 0 
+[08/23/19, 18:56:44:365] info: Aug-23 18:56:44.365 [CHECK-UNREADS] (T1792L49E) unreadLineVisible updated: false -> true 
+[08/23/19, 18:56:44:718] info: Aug-23 18:56:44.719 [CHECK-UNREADS] (T1792L49E) Checking unreads after unread line became visible 
+[08/23/19, 18:56:44:718] info: Aug-23 18:56:44.719 [CHECK-UNREADS] (T1792L49E) Not marking DMEKBRUSG because last_read >= latest && channel is read 
+[08/23/19, 18:56:45:175] info: Aug-23 18:56:45.175 [ACTION:CHANNEL-SIDEBAR] Selected CM3KXGVDH 
+[08/23/19, 18:56:45:175] info: Aug-23 18:56:45.175 [CHANNEL-SIDEBAR] (T1792L49E) onItemSelect CM3KXGVDH 
+[08/23/19, 18:56:45:178] info: Aug-23 18:56:45.178 [SWITCH-TO-CHANNEL] (T1792L49E) Switching to CM3KXGVDH at scrollmark 1566497774.001500 
+[08/23/19, 18:56:45:182] info: Aug-23 18:56:45.183 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:56:45:196] info: Aug-23 18:56:45.197 [HISTORY-NAVIGATION] Adding route to the history stack 
+[08/23/19, 18:56:45:200] info: Aug-23 18:56:45.200 [MESSAGE-LIST] (T1792L49E) Switching channels: CM3KXGVDH timestamps: 30 
+[08/23/19, 18:57:10:981] info: Aug-23 18:57:10.981 [API-Q] (T1792L49E) f1384120-1566566830.980 files.info called with reason: inline-file-previews.fetchAndExpand 
+[08/23/19, 18:57:10:981] info: Aug-23 18:57:10.981 [API-Q] (T1792L49E) f1384120-1566566830.980 files.info is ENQUEUED 
+[08/23/19, 18:57:10:982] info: Aug-23 18:57:10.982 [API-Q] (T1792L49E) f1384120-1566566830.980 files.info is ACTIVE 
+[08/23/19, 18:57:11:120] info: Aug-23 18:57:11.121 [CLOG] Logged event: [object Object] 
+[08/23/19, 18:57:11:120] info: Aug-23 18:57:11.121 [CLOG] Logged event: [object Object] 
+[08/23/19, 18:57:11:120] info: Aug-23 18:57:11.121 [CLOG] Logged event: [object Object] 
+[08/23/19, 18:57:11:932] info: Aug-23 18:57:11.932 [API-Q] (T1792L49E) f1384120-1566566830.980 files.info is RESOLVED 
+[08/23/19, 18:57:49:135] info: Aug-23 18:57:49.135 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 18:57:49:151] info: Aug-23 18:57:49.151 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:57:57:303] info: Aug-23 18:57:57.303 [FOCUS-EVENT] Client window focused 
+[08/23/19, 18:57:57:305] info: Aug-23 18:57:57.304 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:57:57:334] info: Aug-23 18:57:57.334 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 18:57:57:334] info: Aug-23 18:57:57.334 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 18:57:58:184] info: Aug-23 18:57:58.183 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 18:57:58:210] info: Aug-23 18:57:58.210 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:58:15:818] info: Aug-23 18:58:15.817 [FOCUS-EVENT] Client window focused 
+[08/23/19, 18:58:15:820] info: Aug-23 18:58:15.820 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:58:15:851] info: Aug-23 18:58:15.851 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 18:58:15:851] info: Aug-23 18:58:15.851 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 18:58:17:703] info: Aug-23 18:58:17.704 [API-Q] (T1792L49E) f1384120-1566566897.703 files.info called with reason: inline-file-previews.fetchAndExpand 
+[08/23/19, 18:58:17:703] info: Aug-23 18:58:17.704 [API-Q] (T1792L49E) f1384120-1566566897.703 files.info is ENQUEUED 
+[08/23/19, 18:58:17:704] info: Aug-23 18:58:17.704 [API-Q] (T1792L49E) f1384120-1566566897.703 files.info is ACTIVE 
+[08/23/19, 18:58:17:980] info: Aug-23 18:58:17.980 [API-Q] (T1792L49E) f1384120-1566566897.703 files.info is RESOLVED 
+[08/23/19, 18:58:38:822] info: Aug-23 18:58:38.822 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 18:58:38:841] info: Aug-23 18:58:38.841 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:58:48:020] info: Aug-23 18:58:48.020 [CLOG] Logged event: [object Object] 
+[08/23/19, 18:59:39:454] info: Aug-23 18:59:39.453 [FOCUS-EVENT] Client window focused 
+[08/23/19, 18:59:39:456] info: Aug-23 18:59:39.457 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 18:59:39:495] info: Aug-23 18:59:39.496 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 18:59:39:496] info: Aug-23 18:59:39.496 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 19:00:03:311] warn: Aug-23 19:00:03.312 (T1792L49E) openPermalink: Unable to parse permalink, opening in new tab 
+[08/23/19, 19:00:03:739] info: Aug-23 19:00:03.739 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:00:03:744] info: Aug-23 19:00:03.743 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:00:05:418] info: Aug-23 19:00:05.417 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:00:05:617] info: Aug-23 19:00:05.617 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 19:00:05:617] info: Aug-23 19:00:05.617 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 19:00:05:637] info: Aug-23 19:00:05.637 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:00:09:581] info: Aug-23 19:00:09.581 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:00:10:100] info: Aug-23 19:00:10.100 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:00:10:101] info: Aug-23 19:00:10.101 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:00:10:117] info: Aug-23 19:00:10.116 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 19:00:10:117] info: Aug-23 19:00:10.116 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 19:00:10:121] info: Aug-23 19:00:10.121 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:00:10:122] info: Aug-23 19:00:10.122 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:00:10:467] info: Aug-23 19:00:10.466 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:00:10:468] info: Aug-23 19:00:10.468 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:00:10:501] info: Aug-23 19:00:10.502 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:00:10:502] info: Aug-23 19:00:10.503 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:00:13:391] info: Aug-23 19:00:13.390 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:00:13:394] info: Aug-23 19:00:13.394 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:00:13:419] info: Aug-23 19:00:13.419 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 19:00:13:419] info: Aug-23 19:00:13.419 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 19:00:14:394] info: Aug-23 19:00:14.394 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:00:14:394] info: Aug-23 19:00:14.395 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:00:15:108] info: Aug-23 19:00:15.108 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:00:16:075] info: Aug-23 19:00:16.076 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:00:16:088] info: Aug-23 19:00:16.088 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:00:16:225] info: Aug-23 19:00:16.225 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:00:16:228] info: Aug-23 19:00:16.228 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:00:17:054] info: Aug-23 19:00:17.053 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:00:17:057] info: Aug-23 19:00:17.057 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:00:17:098] info: Aug-23 19:00:17.098 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 19:00:17:098] info: Aug-23 19:00:17.098 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 19:00:21:402] info: Aug-23 19:00:21.402 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:00:21:423] info: Aug-23 19:00:21.423 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:00:24:920] info: Aug-23 19:00:24.921 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:01:39:004] info: Aug-23 19:01:39.004 [DND] (T1792L49E) Checking for changes in DND status for the following members: UMF3SUD53,U2EF4M50S,U8P9T96RK,UM3KY8334 
+[08/23/19, 19:01:39:004] info: Aug-23 19:01:39.004 [DND] (T1792L49E) Will check for changes in DND status again in 5 minutes 
+[08/23/19, 19:02:01:820] info: Aug-23 19:02:01.820 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:06:39:004] info: Aug-23 19:06:39.005 [DND] (T1792L49E) Checking for changes in DND status for the following members: UMF3SUD53,U2EF4M50S,U8P9T96RK,UM3KY8334 
+[08/23/19, 19:06:39:005] info: Aug-23 19:06:39.005 [DND] (T1792L49E) Will check for changes in DND status again in 5 minutes 
+[08/23/19, 19:07:47:590] info: Aug-23 19:07:47.591 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:07:47:704] info: Aug-23 19:07:47.704 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 19:07:47:704] info: Aug-23 19:07:47.704 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 19:07:47:715] info: Aug-23 19:07:47.714 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:07:48:443] info: Aug-23 19:07:48.442 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:07:48:445] info: Aug-23 19:07:48.445 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:07:49:104] info: Aug-23 19:07:49.104 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:07:49:197] info: Aug-23 19:07:49.197 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 19:07:49:197] info: Aug-23 19:07:49.198 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 19:07:49:203] info: Aug-23 19:07:49.203 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:07:50:136] info: Aug-23 19:07:50.136 [ACTION:CHANNEL-SIDEBAR] Selected GMAD5SM7U 
+[08/23/19, 19:07:50:136] info: Aug-23 19:07:50.136 [CHANNEL-SIDEBAR] (T1792L49E) onItemSelect GMAD5SM7U 
+[08/23/19, 19:07:50:139] info: Aug-23 19:07:50.139 [SWITCH-TO-CHANNEL] (T1792L49E) Switching to GMAD5SM7U at end 
+[08/23/19, 19:07:50:149] info: Aug-23 19:07:50.150 [HISTORY-NAVIGATION] Adding route to the history stack 
+[08/23/19, 19:07:50:151] info: Aug-23 19:07:50.151 [MESSAGE-LIST] (T1792L49E) Switching channels: GMAD5SM7U timestamps: 7 
+[08/23/19, 19:07:50:184] info: Aug-23 19:07:50.184 [CHECK-UNREADS] (T1792L49E) unreadLineVisible updated: false -> true 
+[08/23/19, 19:07:50:202] info: Aug-23 19:07:50.202 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:07:50:547] info: Aug-23 19:07:50.547 [CHECK-UNREADS] (T1792L49E) Checking unreads after unread line became visible 
+[08/23/19, 19:07:50:547] info: Aug-23 19:07:50.547 [CHECK-UNREADS] (T1792L49E) Not marking GMAD5SM7U because last_read >= latest && channel is read 
+[08/23/19, 19:07:50:645] info: Aug-23 19:07:50.646 [DND] (T1792L49E) There are no members in the presence subscription that we need to fetch DND times for! 
+[08/23/19, 19:07:53:799] info: Aug-23 19:07:53.798 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:07:53:801] info: Aug-23 19:07:53.801 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:07:53:858] info: Aug-23 19:07:53.859 [CHECK-FOR-OLD-IMS] (T1792L49E) Within limit: 5 
+[08/23/19, 19:07:57:120] info: Aug-23 19:07:57.121 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:08:48:891] info: Aug-23 19:08:48.890 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:08:48:893] info: Aug-23 19:08:48.893 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:08:48:905] info: Aug-23 19:08:48.905 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 19:08:48:905] info: Aug-23 19:08:48.905 [CHECK-UNREADS] (T1792L49E) Not marking GMAD5SM7U because last_read >= latest && channel is read 
+[08/23/19, 19:08:50:166] info: Aug-23 19:08:50.166 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:08:50:173] info: Aug-23 19:08:50.173 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:09:01:720] info: Aug-23 19:09:01.720 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:09:22:905] info: Aug-23 19:09:22.905 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:09:22:909] info: Aug-23 19:09:22.909 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:09:22:919] info: Aug-23 19:09:22.919 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 19:09:22:919] info: Aug-23 19:09:22.919 [CHECK-UNREADS] (T1792L49E) Not marking GMAD5SM7U because last_read >= latest && channel is read 
+[08/23/19, 19:09:23:339] info: Aug-23 19:09:23.339 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:09:23:343] info: Aug-23 19:09:23.343 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:09:23:677] info: Aug-23 19:09:23.677 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:09:23:680] info: Aug-23 19:09:23.681 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:09:23:689] info: Aug-23 19:09:23.689 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 19:09:23:689] info: Aug-23 19:09:23.689 [CHECK-UNREADS] (T1792L49E) Not marking GMAD5SM7U because last_read >= latest && channel is read 
+[08/23/19, 19:09:25:302] info: Aug-23 19:09:25.302 [ACTION:CHANNEL-SIDEBAR] Selected CM3KXGVDH 
+[08/23/19, 19:09:25:302] info: Aug-23 19:09:25.302 [CHANNEL-SIDEBAR] (T1792L49E) onItemSelect CM3KXGVDH 
+[08/23/19, 19:09:25:305] info: Aug-23 19:09:25.305 [SWITCH-TO-CHANNEL] (T1792L49E) Switching to CM3KXGVDH at scrollmark 1566498038.002300 
+[08/23/19, 19:09:25:310] info: Aug-23 19:09:25.310 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:09:25:315] info: Aug-23 19:09:25.315 [HISTORY-NAVIGATION] Adding route to the history stack 
+[08/23/19, 19:09:25:317] info: Aug-23 19:09:25.317 [MESSAGE-LIST] (T1792L49E) Switching channels: CM3KXGVDH timestamps: 30 
+[08/23/19, 19:09:33:886] info: Aug-23 19:09:33.885 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:09:33:897] info: Aug-23 19:09:33.897 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:09:34:020] info: Aug-23 19:09:34.021 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:10:17:088] info: Aug-23 19:10:17.088 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:10:17:091] info: Aug-23 19:10:17.090 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:10:17:110] info: Aug-23 19:10:17.110 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 19:10:17:110] info: Aug-23 19:10:17.110 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 19:10:18:460] info: Aug-23 19:10:18.459 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:10:18:470] info: Aug-23 19:10:18.470 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:11:10:920] info: Aug-23 19:11:10.921 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:11:25:964] info: Aug-23 19:11:25.963 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:11:25:967] info: Aug-23 19:11:25.968 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:11:25:988] info: Aug-23 19:11:25.988 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 19:11:25:988] info: Aug-23 19:11:25.988 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 19:11:26:856] info: Aug-23 19:11:26.855 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:11:26:859] info: Aug-23 19:11:26.859 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:11:27:342] info: Aug-23 19:11:27.339 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:11:27:342] info: Aug-23 19:11:27.341 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:11:27:359] info: Aug-23 19:11:27.359 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 19:11:27:359] info: Aug-23 19:11:27.359 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 19:11:27:796] info: Aug-23 19:11:27.796 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:11:27:805] info: Aug-23 19:11:27.806 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:11:28:344] info: Aug-23 19:11:28.344 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:11:28:345] info: Aug-23 19:11:28.345 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:11:39:005] info: Aug-23 19:11:39.005 [DND] (T1792L49E) Checking for changes in DND status for the following members: UMF3SUD53,U2EF4M50S,U8P9T96RK,UM3KY8334 
+[08/23/19, 19:11:39:005] info: Aug-23 19:11:39.005 [DND] (T1792L49E) Will check for changes in DND status again in 5 minutes 
+[08/23/19, 19:12:15:520] info: Aug-23 19:12:15.521 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:13:20:120] info: Aug-23 19:13:20.120 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:13:43:274] info: Aug-23 19:13:43.274 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:13:43:277] info: Aug-23 19:13:43.277 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:13:43:293] info: Aug-23 19:13:43.294 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 19:13:43:294] info: Aug-23 19:13:43.294 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 19:13:43:615] info: Aug-23 19:13:43.614 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:13:43:623] info: Aug-23 19:13:43.623 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:14:24:720] info: Aug-23 19:14:24.720 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:14:57:020] info: Aug-23 19:14:57.020 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:16:39:005] info: Aug-23 19:16:39.005 [DND] (T1792L49E) Checking for changes in DND status for the following members: UMF3SUD53,U2EF4M50S,U8P9T96RK,UM3KY8334 
+[08/23/19, 19:16:39:006] info: Aug-23 19:16:39.005 [DND] (T1792L49E) Will check for changes in DND status again in 5 minutes 
+[08/23/19, 19:18:04:463] info: Aug-23 19:18:04.463 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:18:04:466] info: Aug-23 19:18:04.467 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:18:04:478] info: Aug-23 19:18:04.478 [CHECK-UNREADS] (T1792L49E) Checking unreads after window became focused 
+[08/23/19, 19:18:04:478] info: Aug-23 19:18:04.478 [CHECK-UNREADS] (T1792L49E) Not marking CM3KXGVDH because last_read >= latest && channel is read 
+[08/23/19, 19:18:04:686] info: Aug-23 19:18:04.686 [ACTION:CHANNEL-SIDEBAR] Selected Vall_threads 
+[08/23/19, 19:18:04:686] info: Aug-23 19:18:04.686 [CHANNEL-SIDEBAR] (T1792L49E) onItemSelect Vall_threads 
+[08/23/19, 19:18:04:693] info: Aug-23 19:18:04.693 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:18:04:697] info: Aug-23 19:18:04.696 [HISTORY-NAVIGATION] Adding route to the history stack 
+[08/23/19, 19:18:04:717] info: Aug-23 19:18:04.717 [THREADS-VIEW] (T1792L49E) mounting 
+[08/23/19, 19:18:04:718] info: Aug-23 19:18:04.718 [API-Q] (T1792L49E) f1384120-1566568084.718 subscriptions.thread.getView called with reason: fetch-threads-view-via-refresh 
+[08/23/19, 19:18:04:718] info: Aug-23 19:18:04.718 [API-Q] (T1792L49E) f1384120-1566568084.718 subscriptions.thread.getView is ENQUEUED 
+[08/23/19, 19:18:04:718] info: Aug-23 19:18:04.718 [API-Q] (T1792L49E) f1384120-1566568084.718 subscriptions.thread.getView is ACTIVE 
+[08/23/19, 19:18:04:811] info: Aug-23 19:18:04.811 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:18:04:819] info: Aug-23 19:18:04.819 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:18:05:455] info: Aug-23 19:18:05.455 [API-Q] (T1792L49E) f1384120-1566568084.718 subscriptions.thread.getView is RESOLVED 
+[08/23/19, 19:18:05:466] info: Aug-23 19:18:05.467 [THREADS-VIEW] (T1792L49E) marking all: 1566498720.005500 
+[08/23/19, 19:18:05:467] info: Aug-23 19:18:05.467 [API-Q] (T1792L49E) f1384120-1566568085.467 subscriptions.thread.clearAll called with reason: mark-all-threads-as-read 
+[08/23/19, 19:18:05:467] info: Aug-23 19:18:05.467 [API-Q] (T1792L49E) f1384120-1566568085.467 subscriptions.thread.clearAll is ENQUEUED 
+[08/23/19, 19:18:05:468] info: Aug-23 19:18:05.468 [API-Q] (T1792L49E) f1384120-1566568085.467 subscriptions.thread.clearAll is ACTIVE 
+[08/23/19, 19:18:06:419] info: Aug-23 19:18:06.420 [RTM-THREADS] (T1792L49E) update_thread_state has_unreads:false mention_count:0 ts:1566498720.005500 
+[08/23/19, 19:18:06:420] info: Aug-23 19:18:06.421 [API-Q] (T1792L49E) f1384120-1566568085.467 subscriptions.thread.clearAll is RESOLVED 
+[08/23/19, 19:18:10:820] info: Aug-23 19:18:10.820 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:20:20:020] info: Aug-23 19:20:20.020 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:21:33:439] info: Aug-23 19:21:33.440 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:21:33:442] info: Aug-23 19:21:33.442 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:21:33:755] info: Aug-23 19:21:33.755 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:21:33:757] info: Aug-23 19:21:33.757 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:21:33:797] info: Aug-23 19:21:33.797 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:21:33:799] info: Aug-23 19:21:33.799 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:21:34:946] info: Aug-23 19:21:34.946 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:21:34:948] info: Aug-23 19:21:34.948 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:21:34:951] info: Aug-23 19:21:34.951 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:21:34:952] info: Aug-23 19:21:34.953 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:21:35:289] info: Aug-23 19:21:35.289 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:21:35:292] info: Aug-23 19:21:35.292 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:21:35:449] info: Aug-23 19:21:35.450 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:21:35:464] info: Aug-23 19:21:35.464 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:21:35:800] info: Aug-23 19:21:35.800 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:21:35:802] info: Aug-23 19:21:35.803 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:21:39:006] info: Aug-23 19:21:39.006 [DND] (T1792L49E) Checking for changes in DND status for the following members: UMF3SUD53,U2EF4M50S,U8P9T96RK,UM3KY8334 
+[08/23/19, 19:21:39:006] info: Aug-23 19:21:39.006 [DND] (T1792L49E) Will check for changes in DND status again in 5 minutes 
+[08/23/19, 19:21:56:920] info: Aug-23 19:21:56.920 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:22:53:848] info: Aug-23 19:22:53.848 [CHECK-FOR-OLD-IMS] (T1792L49E) Within limit: 5 
+[08/23/19, 19:23:01:520] info: Aug-23 19:23:01.520 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:26:35:206] info: Aug-23 19:26:35.207 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:26:35:216] info: Aug-23 19:26:35.216 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:26:36:191] info: Aug-23 19:26:36.191 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:26:36:193] info: Aug-23 19:26:36.193 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:26:36:529] info: Aug-23 19:26:36.529 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:26:36:541] info: Aug-23 19:26:36.541 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:26:37:678] info: Aug-23 19:26:37.678 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:26:37:681] info: Aug-23 19:26:37.681 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:26:39:006] info: Aug-23 19:26:39.006 [DND] (T1792L49E) Checking for changes in DND status for the following members: UMF3SUD53,U2EF4M50S,U8P9T96RK,UM3KY8334 
+[08/23/19, 19:26:39:006] info: Aug-23 19:26:39.006 [DND] (T1792L49E) Will check for changes in DND status again in 5 minutes 
+[08/23/19, 19:27:19:920] info: Aug-23 19:27:19.920 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:28:15:287] info: Aug-23 19:28:15.287 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:28:15:290] info: Aug-23 19:28:15.290 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:28:16:263] info: Aug-23 19:28:16.263 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:28:16:265] info: Aug-23 19:28:16.266 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:28:16:268] info: Aug-23 19:28:16.268 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:28:16:269] info: Aug-23 19:28:16.269 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:28:16:606] info: Aug-23 19:28:16.606 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:28:16:608] info: Aug-23 19:28:16.608 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:28:24:520] info: Aug-23 19:28:24.520 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:28:56:820] info: Aug-23 19:28:56.820 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:30:01:420] info: Aug-23 19:30:01.421 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:31:39:006] info: Aug-23 19:31:39.007 [DND] (T1792L49E) Checking for changes in DND status for the following members: UMF3SUD53,U2EF4M50S,U8P9T96RK,UM3KY8334 
+[08/23/19, 19:31:39:007] info: Aug-23 19:31:39.007 [DND] (T1792L49E) Will check for changes in DND status again in 5 minutes 
+[08/23/19, 19:36:39:007] info: Aug-23 19:36:39.007 [DND] (T1792L49E) Checking for changes in DND status for the following members: UMF3SUD53,U2EF4M50S,U8P9T96RK,UM3KY8334 
+[08/23/19, 19:36:39:007] info: Aug-23 19:36:39.007 [DND] (T1792L49E) Will check for changes in DND status again in 5 minutes 
+[08/23/19, 19:38:12:274] info: Aug-23 19:38:12.275 [CHECK-FOR-OLD-IMS] (T1792L49E) Within limit: 5 
+[08/23/19, 19:40:24:048] info: Aug-23 19:40:24.048 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:40:24:052] info: Aug-23 19:40:24.053 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:40:24:700] info: Aug-23 19:40:24.700 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:40:24:703] info: Aug-23 19:40:24.704 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:41:19:720] info: Aug-23 19:41:19.720 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:41:29:468] info: Aug-23 19:41:29.468 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:41:29:471] info: Aug-23 19:41:29.471 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:41:30:304] info: Aug-23 19:41:30.304 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:41:30:312] info: Aug-23 19:41:30.312 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:41:39:007] info: Aug-23 19:41:39.007 [DND] (T1792L49E) Checking for changes in DND status for the following members: UMF3SUD53,U2EF4M50S,U8P9T96RK,UM3KY8334 
+[08/23/19, 19:41:39:007] info: Aug-23 19:41:39.007 [DND] (T1792L49E) Will check for changes in DND status again in 5 minutes 
+[08/23/19, 19:42:24:320] info: Aug-23 19:42:24.320 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:42:56:620] info: Aug-23 19:42:56.620 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:44:41:727] info: Aug-23 19:44:41.728 [SERVICE-WORKER] Attempting background update and cache 
+[08/23/19, 19:46:38:464] info: Aug-23 19:46:38.463 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:46:38:473] info: Aug-23 19:46:38.473 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:46:39:007] info: Aug-23 19:46:39.007 [DND] (T1792L49E) Checking for changes in DND status for the following members: UMF3SUD53,U2EF4M50S,U8P9T96RK,UM3KY8334 
+[08/23/19, 19:46:39:008] info: Aug-23 19:46:39.008 [DND] (T1792L49E) Will check for changes in DND status again in 5 minutes 
+[08/23/19, 19:46:39:094] info: Aug-23 19:46:39.093 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:46:39:096] info: Aug-23 19:46:39.096 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:47:15:020] info: Aug-23 19:47:15.020 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:48:19:620] info: Aug-23 19:48:19.620 [CLOG] Logged event: [object Object] 
+[08/23/19, 19:51:39:008] info: Aug-23 19:51:39.009 [DND] (T1792L49E) Checking for changes in DND status for the following members: UMF3SUD53,U2EF4M50S,U8P9T96RK,UM3KY8334 
+[08/23/19, 19:51:39:008] info: Aug-23 19:51:39.009 [DND] (T1792L49E) Will check for changes in DND status again in 5 minutes 
+[08/23/19, 19:52:52:694] info: Aug-23 19:52:52.694 [PERSIST] (T1792L49E) Persisting state to storage 
+[08/23/19, 19:52:52:709] info: Aug-23 19:52:52.709 [PERSIST] Persistence setItem: : 14.3ms 
+[08/23/19, 19:52:52:709] info: Aug-23 19:52:52.709 [PERSIST] (T1792L49E) Persisted state: 15.1ms 
+[08/23/19, 19:52:53:848] info: Aug-23 19:52:53.847 [CHECK-FOR-OLD-IMS] (T1792L49E) Within limit: 5 
+[08/23/19, 19:56:39:008] info: Aug-23 19:56:39.009 [DND] (T1792L49E) Checking for changes in DND status for the following members: UMF3SUD53,U2EF4M50S,U8P9T96RK,UM3KY8334 
+[08/23/19, 19:56:39:009] info: Aug-23 19:56:39.009 [DND] (T1792L49E) Will check for changes in DND status again in 5 minutes 
+[08/23/19, 19:58:48:427] info: Aug-23 19:58:48.426 [FOCUS-EVENT] Client window focused 
+[08/23/19, 19:58:48:429] info: Aug-23 19:58:48.429 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:58:49:711] info: Aug-23 19:58:49.696 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:58:49:711] info: Aug-23 19:58:49.707 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:58:49:711] info: Aug-23 19:58:49.712 [FOCUS-EVENT] Client window blurred 
+[08/23/19, 19:58:49:715] info: Aug-23 19:58:49.715 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:58:50:698] info: Aug-23 19:58:50.698 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 
+[08/23/19, 19:58:50:699] info: Aug-23 19:58:50.700 [DESKTOP-SIDE-EFFECT] Update from desktop for keys  ["windows"] 

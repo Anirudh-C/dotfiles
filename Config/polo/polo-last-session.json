@@ -1,12 +1,12 @@
 {
   "session" : {
     "format-version" : 1,
-    "timestamp" : "1565076684",
+    "timestamp" : "1566223591",
     "user" : "anirudh",
     "layout" : 1,
     "pane_pos_top" : 651,
     "pane_pos_bottom" : 651,
-    "pane_pos_quad" : 982,
+    "pane_pos_quad" : 1199,
     "panes" : [
       {
         "number" : 1,
@@ -15,8 +15,8 @@
         "tabs" : [
           {
             "renamed" : false,
-            "name" : "assignment-1",
-            "path" : "/home/anirudh/Projects/courses/DB-Lab/assignment-1",
+            "name" : "2a",
+            "path" : "/home/anirudh/Projects/courses/DB-Lab/assignment-2/2a",
             "locked_path" : "",
             "view" : 2,
             "show_hidden" : false,

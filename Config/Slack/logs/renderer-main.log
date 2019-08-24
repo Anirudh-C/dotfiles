@@ -1,0 +1,1001 @@
+[08/23/19, 18:49:36:836] info: ╔══════════════════════════════════════════════════════════════════════════════════╗ 
+[08/23/19, 18:49:36:837] info: ║      Slack 4.0.1, linux 5.2.1-arch1-1-ARCH on x64 at 08/23/19, 18:49:36:834      ║ 
+[08/23/19, 18:49:36:837] info: ╚══════════════════════════════════════════════════════════════════════════════════╝ 
+[08/23/19, 18:49:36:838] info: Configured logger via 
+{
+  "logLevel": "info"
+}
+[08/23/19, 18:49:36:838] info: Predefined values for process 
+{
+  "platform": "linux",
+  "NODE_ENV": "production",
+  "type": "renderer",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.0.1",
+  "PACKAGE_MANIFEST.versionName": "The Final Countdown",
+  "PACKAGE_MANIFEST.commit": "d9a7448",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[08/23/19, 18:49:36:987] info: Read UUID from file successful 
+{
+  "uuid": "2943dfe1-cc22-5680-baab-cc3565ad8be4"
+}
+[08/23/19, 18:49:37:026] info: SpellChecker:: updateSpellcheckerLanguage: Skip to set new language null, spellchecker is not available 
+[08/23/19, 18:49:37:029] info: Main window preload script finished 
+{
+  "readyTime": 90.292322
+}
+[08/23/19, 18:49:37:076] info: create: creating new instance of cld3 
+{
+  "minBufferLength": 280,
+  "maxBufferLength": 800
+}
+[08/23/19, 18:49:37:076] info: cld3::loadModule: loading cld3 wasm binary 
+{
+  "initOptions": {}
+}
+[08/23/19, 18:49:37:076] info: cld3Loader::loadModule: constructed module object for runtime 
+[08/23/19, 18:49:37:253] info: cld3Loader::initializeRuntime: successfully initialized module 
+[08/23/19, 18:49:37:253] info: cld3Loader::loadModule: initialized wasm binary Runtime 
+[08/23/19, 18:49:37:254] info: cld3::cldLoader: cld3 wasm initialized with default values 
+{
+  "unknownIdentifier": "und",
+  "minBytesDefault": 140,
+  "maxBytesDefault": 700,
+  "maxBytesInput": 10000,
+  "languageResultStructSize": 16
+}
+[08/23/19, 18:49:37:864] info: Network status check 
+{
+  "elapsed_time_ms": 446,
+  "navigator_online": true,
+  "api_test": "online"
+}
+[08/23/19, 18:49:37:866] info: Store: SET_NETWORK_STATUS online
+[08/23/19, 18:49:38:787] info: Store: REDUX_UPDATE_FROM_WEBAPP 
+{
+  "teams": {
+    "T00000000": {
+      "bootConfig": {
+        "isSonicDisabled": false,
+        "isSonicEnabled": false
+      },
+      "featureFlags": {},
+      "locale": "en-US",
+      "theme": {
+        "titlebarBackground": "#1F0020",
+        "titlebarTextColor": "#FFFFFF"
+      },
+      "unreads": {
+        "hasUnreads": false,
+        "unreadHighlights": 0,
+        "unreads": 0
+      }
+    }
+  }
+}
+[08/23/19, 18:49:38:796] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "state": "loaded",
+  "teamId": "app"
+}
+[08/23/19, 18:49:38:798] info: Store: MAIN_WINDOW_SHOWN 
+[08/23/19, 18:49:38:798] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 769,
+      "width": 1026,
+      "x": 224,
+      "y": 30
+    },
+    "fullScreen": false,
+    "maximized": false
+  }
+}
+[08/23/19, 18:49:38:806] info: Store: REDUX_UPDATE_FROM_WEBAPP 
+{
+  "teams": {
+    "T00000000": {
+      "bootConfig": {
+        "isSonicDisabled": false,
+        "isSonicEnabled": true
+      }
+    }
+  }
+}
+[08/23/19, 18:49:39:884] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 808,
+      "width": 813,
+      "x": 0,
+      "y": 23
+    },
+    "fullScreen": false,
+    "maximized": false
+  }
+}
+[08/23/19, 18:49:43:224] info: Store: QUIT_APP 
+[08/23/19, 18:49:43:226] info: Store: APP_CLEANED_UP 
+[08/23/19, 18:49:43:227] info: Store: DOWNLOADS_CLEANED_UP 
+[08/23/19, 18:49:43:227] info: Window is unloading, window.desktop is no longer accessible 
+[08/23/19, 18:49:43:254] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "state": "page-closed",
+  "teamId": "app"
+}
+[08/23/19, 18:49:43:263] info: Store: REMOVE_WINDOW 1
+[08/23/19, 18:49:47:671] info: ╔══════════════════════════════════════════════════════════════════════════════════╗ 
+[08/23/19, 18:49:47:672] info: ║      Slack 4.0.1, linux 5.2.1-arch1-1-ARCH on x64 at 08/23/19, 18:49:47:670      ║ 
+[08/23/19, 18:49:47:672] info: ╚══════════════════════════════════════════════════════════════════════════════════╝ 
+[08/23/19, 18:49:47:673] info: Configured logger via 
+{
+  "logLevel": "info"
+}
+[08/23/19, 18:49:47:673] info: Predefined values for process 
+{
+  "platform": "linux",
+  "NODE_ENV": "production",
+  "type": "renderer",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.0.1",
+  "PACKAGE_MANIFEST.versionName": "The Final Countdown",
+  "PACKAGE_MANIFEST.commit": "d9a7448",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[08/23/19, 18:49:47:764] info: Read UUID from file successful 
+{
+  "uuid": "2943dfe1-cc22-5680-baab-cc3565ad8be4"
+}
+[08/23/19, 18:49:47:793] info: SpellChecker:: updateSpellcheckerLanguage: Skip to set new language null, spellchecker is not available 
+[08/23/19, 18:49:47:797] info: Main window preload script finished 
+{
+  "readyTime": 44.855235
+}
+[08/23/19, 18:49:47:963] info: create: creating new instance of cld3 
+{
+  "minBufferLength": 280,
+  "maxBufferLength": 800
+}
+[08/23/19, 18:49:47:963] info: cld3::loadModule: loading cld3 wasm binary 
+{
+  "initOptions": {}
+}
+[08/23/19, 18:49:47:963] info: cld3Loader::loadModule: constructed module object for runtime 
+[08/23/19, 18:49:49:080] info: cld3Loader::initializeRuntime: successfully initialized module 
+[08/23/19, 18:49:49:080] info: cld3Loader::loadModule: initialized wasm binary Runtime 
+[08/23/19, 18:49:49:081] info: cld3::cldLoader: cld3 wasm initialized with default values 
+{
+  "unknownIdentifier": "und",
+  "minBytesDefault": 140,
+  "maxBytesDefault": 700,
+  "maxBytesInput": 10000,
+  "languageResultStructSize": 16
+}
+[08/23/19, 18:49:49:258] info: Store: REDUX_UPDATE_FROM_WEBAPP 
+{
+  "teams": {
+    "T00000000": {
+      "bootConfig": {
+        "isSonicDisabled": false,
+        "isSonicEnabled": false
+      },
+      "featureFlags": {},
+      "locale": "en-US",
+      "theme": {
+        "titlebarBackground": "#1F0020",
+        "titlebarTextColor": "#FFFFFF"
+      },
+      "unreads": {
+        "hasUnreads": false,
+        "unreadHighlights": 0,
+        "unreads": 0
+      }
+    }
+  }
+}
+[08/23/19, 18:49:49:266] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "state": "loaded",
+  "teamId": "app"
+}
+[08/23/19, 18:49:49:268] info: Store: MAIN_WINDOW_SHOWN 
+[08/23/19, 18:49:49:268] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 809,
+      "width": 814,
+      "x": 0,
+      "y": 21
+    },
+    "fullScreen": false,
+    "maximized": false
+  }
+}
+[08/23/19, 18:49:49:309] info: Store: REDUX_UPDATE_FROM_WEBAPP 
+{
+  "teams": {
+    "T00000000": {
+      "bootConfig": {
+        "isSonicDisabled": false,
+        "isSonicEnabled": true
+      }
+    }
+  }
+}
+[08/23/19, 18:49:49:520] info: Network status check 
+{
+  "elapsed_time_ms": 262,
+  "navigator_online": true,
+  "api_test": "online"
+}
+[08/23/19, 18:49:49:520] info: Store: SET_NETWORK_STATUS online
+[08/23/19, 18:49:50:352] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 808,
+      "width": 813,
+      "x": 0,
+      "y": 23
+    },
+    "fullScreen": false,
+    "maximized": false
+  }
+}
+[08/23/19, 18:49:53:619] info: Store: QUIT_APP 
+[08/23/19, 18:49:53:622] info: Store: APP_CLEANED_UP 
+[08/23/19, 18:49:53:623] info: Store: DOWNLOADS_CLEANED_UP 
+[08/23/19, 18:49:53:623] info: Window is unloading, window.desktop is no longer accessible 
+[08/23/19, 18:49:53:629] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "state": "page-closed",
+  "teamId": "app"
+}
+[08/23/19, 18:49:53:639] info: Store: REMOVE_WINDOW 1
+[08/23/19, 18:49:58:399] info: ╔══════════════════════════════════════════════════════════════════════════════════╗ 
+[08/23/19, 18:49:58:400] info: ║      Slack 4.0.2, linux 5.2.1-arch1-1-ARCH on x64 at 08/23/19, 18:49:58:398      ║ 
+[08/23/19, 18:49:58:400] info: ╚══════════════════════════════════════════════════════════════════════════════════╝ 
+[08/23/19, 18:49:58:400] info: Configured logger via 
+{
+  "logLevel": "info"
+}
+[08/23/19, 18:49:58:400] info: Predefined values for process 
+{
+  "platform": "linux",
+  "NODE_ENV": "production",
+  "type": "renderer",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.0.2",
+  "PACKAGE_MANIFEST.versionName": "The Final Countdown",
+  "PACKAGE_MANIFEST.commit": "8900f04",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[08/23/19, 18:49:58:536] info: Read UUID from file successful 
+{
+  "uuid": "2943dfe1-cc22-5680-baab-cc3565ad8be4"
+}
+[08/23/19, 18:49:58:574] info: SpellChecker:: updateSpellcheckerLanguage: Skip to set new language null, spellchecker is not available 
+[08/23/19, 18:49:58:578] info: Main window preload script finished 
+{
+  "readyTime": 87.881025
+}
+[08/23/19, 18:49:58:766] info: create: creating new instance of cld3 
+{
+  "minBufferLength": 280,
+  "maxBufferLength": 800
+}
+[08/23/19, 18:49:58:766] info: cld3::loadModule: loading cld3 wasm binary 
+{
+  "initOptions": {}
+}
+[08/23/19, 18:49:58:767] info: cld3Loader::loadModule: constructed module object for runtime 
+[08/23/19, 18:49:59:405] info: cld3Loader::initializeRuntime: successfully initialized module 
+[08/23/19, 18:49:59:405] info: cld3Loader::loadModule: initialized wasm binary Runtime 
+[08/23/19, 18:49:59:405] info: cld3::cldLoader: cld3 wasm initialized with default values 
+{
+  "unknownIdentifier": "und",
+  "minBytesDefault": 140,
+  "maxBytesDefault": 700,
+  "maxBytesInput": 10000,
+  "languageResultStructSize": 16
+}
+[08/23/19, 18:49:59:405] info: Store: REDUX_UPDATE_FROM_WEBAPP 
+{
+  "teams": {
+    "T00000000": {
+      "bootConfig": {
+        "isSonicDisabled": false,
+        "isSonicEnabled": false
+      },
+      "featureFlags": {},
+      "locale": "en-US",
+      "theme": {
+        "titlebarBackground": "#1F0020",
+        "titlebarTextColor": "#FFFFFF"
+      },
+      "unreads": {
+        "hasUnreads": false,
+        "unreadHighlights": 0,
+        "unreads": 0
+      }
+    }
+  }
+}
+[08/23/19, 18:49:59:414] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "state": "loaded",
+  "teamId": "app"
+}
+[08/23/19, 18:49:59:417] info: Store: MAIN_WINDOW_SHOWN 
+[08/23/19, 18:49:59:417] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 809,
+      "width": 814,
+      "x": 0,
+      "y": 21
+    },
+    "fullScreen": false,
+    "maximized": false
+  }
+}
+[08/23/19, 18:49:59:418] info: Store: REDUX_UPDATE_FROM_WEBAPP 
+{
+  "teams": {
+    "T00000000": {
+      "bootConfig": {
+        "isSonicDisabled": false,
+        "isSonicEnabled": true
+      }
+    }
+  }
+}
+[08/23/19, 18:49:59:676] info: Network status check 
+{
+  "elapsed_time_ms": 268,
+  "navigator_online": true,
+  "api_test": "online"
+}
+[08/23/19, 18:49:59:677] info: Store: SET_NETWORK_STATUS online
+[08/23/19, 18:50:00:491] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 808,
+      "width": 1477,
+      "x": 0,
+      "y": 23
+    },
+    "fullScreen": false,
+    "maximized": false
+  }
+}
+[08/23/19, 18:50:00:959] info: Got window.open with URL: /ssb/signin 
+[08/23/19, 18:50:02:930] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 808,
+      "width": 665,
+      "x": 812,
+      "y": 23
+    },
+    "fullScreen": false,
+    "maximized": false
+  }
+}
+[08/23/19, 18:50:57:589] info: Store: UPDATE_SETTINGS 
+{
+  "lastClogForProxyInfo": 1566566457588
+}
+[08/23/19, 18:51:19:423] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[08/23/19, 18:51:39:425] info: Store: SET_SYSTEM_IDLE active
+[08/23/19, 18:51:46:491] info: Store: HANDLE_DEEP_LINK 
+{
+  "causedLaunch": false,
+  "url": "slack://T1792L49E/magic-login/736234968960-64824e43f3e7da50bb9908f00eaab5493dd1fa24b633cfaebc64cd3090609c72"
+}
+[08/23/19, 18:51:46:792] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "history": "[REDACTED]",
+  "id": 1,
+  "state": "page-will-navigate",
+  "teamId": "app"
+}
+[08/23/19, 18:51:46:793] info: Window is unloading, window.desktop is no longer accessible 
+[08/23/19, 18:51:47:724] info: ╔══════════════════════════════════════════════════════════════════════════════════╗ 
+[08/23/19, 18:51:47:724] info: ║      Slack 4.0.2, linux 5.2.1-arch1-1-ARCH on x64 at 08/23/19, 18:51:47:723      ║ 
+[08/23/19, 18:51:47:724] info: ╚══════════════════════════════════════════════════════════════════════════════════╝ 
+[08/23/19, 18:51:47:725] info: Configured logger via 
+{
+  "logLevel": "info"
+}
+[08/23/19, 18:51:47:726] info: Predefined values for process 
+{
+  "platform": "linux",
+  "NODE_ENV": "production",
+  "type": "renderer",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.0.2",
+  "PACKAGE_MANIFEST.versionName": "The Final Countdown",
+  "PACKAGE_MANIFEST.commit": "8900f04",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[08/23/19, 18:51:47:833] info: Read UUID from file successful 
+{
+  "uuid": "2943dfe1-cc22-5680-baab-cc3565ad8be4"
+}
+[08/23/19, 18:51:47:873] info: SpellChecker:: updateSpellcheckerLanguage: Skip to set new language null, spellchecker is not available 
+[08/23/19, 18:51:47:876] info: Main window preload script finished 
+{
+  "readyTime": 56.185916
+}
+[08/23/19, 18:51:47:894] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "state": "loaded",
+  "teamId": "app"
+}
+[08/23/19, 18:51:47:913] info: create: creating new instance of cld3 
+{
+  "minBufferLength": 280,
+  "maxBufferLength": 800
+}
+[08/23/19, 18:51:47:913] info: cld3::loadModule: loading cld3 wasm binary 
+{
+  "initOptions": {}
+}
+[08/23/19, 18:51:47:913] info: cld3Loader::loadModule: constructed module object for runtime 
+[08/23/19, 18:51:48:104] info: cld3Loader::initializeRuntime: successfully initialized module 
+[08/23/19, 18:51:48:104] info: cld3Loader::loadModule: initialized wasm binary Runtime 
+[08/23/19, 18:51:48:104] info: cld3::cldLoader: cld3 wasm initialized with default values 
+{
+  "unknownIdentifier": "und",
+  "minBytesDefault": 140,
+  "maxBytesDefault": 700,
+  "maxBytesInput": 10000,
+  "languageResultStructSize": 16
+}
+[08/23/19, 18:51:48:581] info: Network status check 
+{
+  "elapsed_time_ms": 240,
+  "navigator_online": true,
+  "api_test": "online"
+}
+[08/23/19, 18:51:48:581] info: Store: SET_NETWORK_STATUS online
+[08/23/19, 18:51:48:586] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "history": "[REDACTED]",
+  "id": 1,
+  "state": "page-will-navigate",
+  "teamId": "app"
+}
+[08/23/19, 18:51:48:588] info: Window is unloading, window.desktop is no longer accessible 
+[08/23/19, 18:51:49:462] info: ╔══════════════════════════════════════════════════════════════════════════════════╗ 
+[08/23/19, 18:51:49:464] info: ║      Slack 4.0.2, linux 5.2.1-arch1-1-ARCH on x64 at 08/23/19, 18:51:49:462      ║ 
+[08/23/19, 18:51:49:464] info: ╚══════════════════════════════════════════════════════════════════════════════════╝ 
+[08/23/19, 18:51:49:464] info: Configured logger via 
+{
+  "logLevel": "info"
+}
+[08/23/19, 18:51:49:464] info: Predefined values for process 
+{
+  "platform": "linux",
+  "NODE_ENV": "production",
+  "type": "renderer",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.0.2",
+  "PACKAGE_MANIFEST.versionName": "The Final Countdown",
+  "PACKAGE_MANIFEST.commit": "8900f04",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[08/23/19, 18:51:49:554] info: Read UUID from file successful 
+{
+  "uuid": "2943dfe1-cc22-5680-baab-cc3565ad8be4"
+}
+[08/23/19, 18:51:49:583] info: SpellChecker:: updateSpellcheckerLanguage: Skip to set new language null, spellchecker is not available 
+[08/23/19, 18:51:49:586] info: Main window preload script finished 
+{
+  "readyTime": 44.053735
+}
+[08/23/19, 18:51:49:607] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "state": "loaded",
+  "teamId": "app"
+}
+[08/23/19, 18:51:49:769] info: create: creating new instance of cld3 
+{
+  "minBufferLength": 280,
+  "maxBufferLength": 800
+}
+[08/23/19, 18:51:49:770] info: cld3::loadModule: loading cld3 wasm binary 
+{
+  "initOptions": {}
+}
+[08/23/19, 18:51:49:770] info: cld3Loader::loadModule: constructed module object for runtime 
+[08/23/19, 18:51:50:433] info: cld3Loader::initializeRuntime: successfully initialized module 
+[08/23/19, 18:51:50:434] info: cld3Loader::loadModule: initialized wasm binary Runtime 
+[08/23/19, 18:51:50:434] info: cld3::cldLoader: cld3 wasm initialized with default values 
+{
+  "unknownIdentifier": "und",
+  "minBytesDefault": 140,
+  "maxBytesDefault": 700,
+  "maxBytesInput": 10000,
+  "languageResultStructSize": 16
+}
+[08/23/19, 18:51:50:680] info: Network status check 
+{
+  "elapsed_time_ms": 240,
+  "navigator_online": true,
+  "api_test": "online"
+}
+[08/23/19, 18:51:50:681] info: Store: SET_NETWORK_STATUS online
+[08/23/19, 18:51:50:961] info: postLoadTaskSetup: Desktop client fully loaded 
+{
+  "loadedTime": 113964.043041
+}
+[08/23/19, 18:51:50:961] error: info() expects 1 or more arguments to be passed after the required label 
+[08/23/19, 18:51:51:544] info: Store: SYNC Bad or empty workspaces payload
+[08/23/19, 18:51:51:546] info: Store: SELECTION_CHANGED T1792L49E
+[08/23/19, 18:51:51:547] info: Store: REDUX_UPDATE_FROM_WEBAPP 
+{
+  "teams": {
+    "T1792L49E": {
+      "bootConfig": {
+        "isSonicDisabled": false,
+        "isSonicEnabled": false
+      },
+      "featureFlags": {},
+      "locale": "en-GB",
+      "theme": {
+        "titlebarBackground": "#1F0020",
+        "titlebarTextColor": "#FFFFFF"
+      },
+      "unreads": {
+        "hasUnreads": false,
+        "unreadHighlights": 0,
+        "unreads": 0
+      }
+    }
+  }
+}
+[08/23/19, 18:51:51:547] info: Store: REDUX_UPDATE_FROM_WEBAPP 
+{
+  "teams": {
+    "T1792L49E": {
+      "bootConfig": {
+        "isSonicDisabled": false,
+        "isSonicEnabled": true
+      },
+      "theme": {
+        "titlebarBackground": "#1F0020",
+        "titlebarTextColor": "#FFFFFF"
+      }
+    }
+  }
+}
+[08/23/19, 18:51:51:548] info: Store: REDUX_UPDATE_FROM_WEBAPP 
+{
+  "teams": {
+    "T1792L49E": {
+      "theme": {
+        "titlebarBackground": "#1F0020",
+        "titlebarTextColor": "#FFFFFF"
+      },
+      "unreads": {
+        "hasUnreads": false,
+        "showBullet": true,
+        "unreadHighlights": 0,
+        "unreads": 0
+      }
+    }
+  }
+}
+[08/23/19, 18:51:51:548] info: Store: SYNC Synced 1 workspaces with IDs [T1792L49E]
+[08/23/19, 18:51:51:548] info: Store: SELECTION_CHANGED T1792L49E
+[08/23/19, 18:51:51:549] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "state": "webapp-loaded",
+  "teamId": "app"
+}
+[08/23/19, 18:51:51:578] info: Store: STORE_ENTERPRISE_ID_PAIR 
+{
+  "enterpriseId": null,
+  "teamId": "app"
+}
+[08/23/19, 18:51:51:673] info: postLoadTaskSetup: Setup spellchecker 
+{
+  "version": "V1"
+}
+[08/23/19, 18:51:51:717] info: fetchContentForChannel: will not attempt to try fetch channel content in pilot 
+[08/23/19, 18:51:51:729] info: Raw Locale list: ["C","en_US.utf8","POSIX",""] 
+[08/23/19, 18:51:51:729] info: Filtered Locale list: ["en_US"] 
+[08/23/19, 18:51:51:729] info: Counts: {"en":["en_US"]} 
+[08/23/19, 18:51:51:729] info: Setting en 
+[08/23/19, 18:51:51:729] info: Result: {"en":"en-US"} 
+[08/23/19, 18:51:51:729] info: Requesting to load en-US, alternatives are ["en-US","en-US","en-US"] 
+[08/23/19, 18:51:51:730] info: Loading dictionary for language en-US 
+[08/23/19, 18:51:51:730] info: Actually downloading https://redirector.gvt1.com/edgedl/chrome/dict/en-us-7-1.bdic 
+[08/23/19, 18:51:52:148] info: Setting current spellchecker to en-US, requested language was en-US 
+[08/23/19, 18:51:52:149] info: Creating node-spellchecker instance 
+[08/23/19, 18:51:52:150] info: Actually installing spell check provider to Electron 
+[08/23/19, 18:51:55:457] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 808,
+      "width": 1477,
+      "x": 0,
+      "y": 23
+    },
+    "fullScreen": false,
+    "maximized": false
+  }
+}
+[08/23/19, 18:51:59:823] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 808,
+      "width": 1478,
+      "x": -2954,
+      "y": 23
+    },
+    "fullScreen": false,
+    "maximized": false
+  }
+}
+[08/23/19, 18:52:11:004] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 808,
+      "width": 1477,
+      "x": 0,
+      "y": 23
+    },
+    "fullScreen": false,
+    "maximized": false
+  }
+}
+[08/23/19, 18:52:15:109] info: Store: TOGGLE_FULL_SCREEN 
+[08/23/19, 18:52:16:202] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 831,
+      "width": 1477,
+      "x": 0,
+      "y": 0
+    },
+    "fullScreen": true,
+    "maximized": false
+  }
+}
+[08/23/19, 18:52:16:622] info: Store: TOGGLE_FULL_SCREEN 
+[08/23/19, 18:52:17:417] info: Store: TOGGLE_FULL_SCREEN 
+[08/23/19, 18:52:19:723] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 831,
+      "width": 1477,
+      "x": 0,
+      "y": 0
+    },
+    "fullScreen": true,
+    "maximized": false
+  }
+}
+[08/23/19, 18:52:22:329] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 831,
+      "width": 1477,
+      "x": 0,
+      "y": 0
+    },
+    "fullScreen": true,
+    "maximized": false
+  }
+}
+[08/23/19, 18:52:23:666] info: Store: UPDATE_SETTINGS 
+{
+  "hasRunFromTray": true
+}
+[08/23/19, 18:52:23:667] info: Store: SHOW_TRAY_BALLOON 
+{
+  "content": "Slack’s set to stay running in the notification area. To change this, visit Preferences > Advanced.",
+  "title": "Why didn’t Slack quit?"
+}
+[08/23/19, 18:52:24:713] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 808,
+      "width": 1477,
+      "x": 0,
+      "y": 23
+    },
+    "fullScreen": false,
+    "maximized": false
+  }
+}
+[08/23/19, 18:52:51:538] info: ╔══════════════════════════════════════════════════════════════════════════════════╗ 
+[08/23/19, 18:52:51:539] info: ║      Slack 4.0.2, linux 5.2.1-arch1-1-ARCH on x64 at 08/23/19, 18:52:51:538      ║ 
+[08/23/19, 18:52:51:539] info: ╚══════════════════════════════════════════════════════════════════════════════════╝ 
+[08/23/19, 18:52:51:540] info: Configured logger via 
+{
+  "logLevel": "info"
+}
+[08/23/19, 18:52:51:540] info: Predefined values for process 
+{
+  "platform": "linux",
+  "NODE_ENV": "production",
+  "type": "renderer",
+  "PACKAGE_MANIFEST.productName": "Slack",
+  "PACKAGE_MANIFEST.version": "4.0.2",
+  "PACKAGE_MANIFEST.versionName": "The Final Countdown",
+  "PACKAGE_MANIFEST.commit": "8900f04",
+  "PACKAGE_MANIFEST.branch": "HEAD"
+}
+[08/23/19, 18:52:51:630] info: Read UUID from file successful 
+{
+  "uuid": "2943dfe1-cc22-5680-baab-cc3565ad8be4"
+}
+[08/23/19, 18:52:51:659] info: SpellChecker:: updateSpellcheckerLanguage: Skip to set new language null, spellchecker is not available 
+[08/23/19, 18:52:51:663] info: Main window preload script finished 
+{
+  "readyTime": 44.110537
+}
+[08/23/19, 18:52:51:681] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "state": "loaded",
+  "teamId": "app"
+}
+[08/23/19, 18:52:51:684] info: Store: MAIN_WINDOW_SHOWN 
+[08/23/19, 18:52:51:684] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 809,
+      "width": 1478,
+      "x": 0,
+      "y": 21
+    },
+    "fullScreen": false,
+    "maximized": false
+  }
+}
+[08/23/19, 18:52:51:887] info: create: creating new instance of cld3 
+{
+  "minBufferLength": 280,
+  "maxBufferLength": 800
+}
+[08/23/19, 18:52:51:888] info: cld3::loadModule: loading cld3 wasm binary 
+{
+  "initOptions": {}
+}
+[08/23/19, 18:52:51:888] info: cld3Loader::loadModule: constructed module object for runtime 
+[08/23/19, 18:52:52:641] info: cld3Loader::initializeRuntime: successfully initialized module 
+[08/23/19, 18:52:52:641] info: cld3Loader::loadModule: initialized wasm binary Runtime 
+[08/23/19, 18:52:52:642] info: cld3::cldLoader: cld3 wasm initialized with default values 
+{
+  "unknownIdentifier": "und",
+  "minBytesDefault": 140,
+  "maxBytesDefault": 700,
+  "maxBytesInput": 10000,
+  "languageResultStructSize": 16
+}
+[08/23/19, 18:52:52:705] info: postLoadTaskSetup: Desktop client fully loaded 
+{
+  "loadedTime": 1742.65877
+}
+[08/23/19, 18:52:52:705] error: info() expects 1 or more arguments to be passed after the required label 
+[08/23/19, 18:52:53:245] info: Store: SYNC Bad or empty workspaces payload
+[08/23/19, 18:52:53:247] info: Store: SELECTION_CHANGED T1792L49E
+[08/23/19, 18:52:53:249] info: Store: REDUX_UPDATE_FROM_WEBAPP 
+{
+  "teams": {
+    "T1792L49E": {
+      "bootConfig": {
+        "isSonicDisabled": false,
+        "isSonicEnabled": true
+      },
+      "featureFlags": {},
+      "locale": "en-GB",
+      "theme": {
+        "titlebarBackground": "#1F0020",
+        "titlebarTextColor": "#FFFFFF"
+      },
+      "unreads": {
+        "hasUnreads": false,
+        "showBullet": true,
+        "unreadHighlights": 0,
+        "unreads": 0
+      }
+    }
+  }
+}
+[08/23/19, 18:52:53:279] info: Store: SYNC Synced 1 workspaces with IDs [T1792L49E]
+[08/23/19, 18:52:53:280] info: Store: SELECTION_CHANGED T1792L49E
+[08/23/19, 18:52:53:281] info: Store: UPSERT_WEB_CONTENTS 
+{
+  "id": 1,
+  "state": "webapp-loaded",
+  "teamId": "app"
+}
+[08/23/19, 18:52:53:282] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 974,
+      "width": 1774,
+      "x": 1476,
+      "y": 23
+    },
+    "fullScreen": false,
+    "maximized": false
+  }
+}
+[08/23/19, 18:52:53:293] info: Network status check 
+{
+  "elapsed_time_ms": 646,
+  "navigator_online": true,
+  "api_test": "online"
+}
+[08/23/19, 18:52:53:323] info: Store: TOGGLE_FULL_SCREEN 
+[08/23/19, 18:52:53:355] info: Store: STORE_ENTERPRISE_ID_PAIR 
+{
+  "enterpriseId": null,
+  "teamId": "app"
+}
+[08/23/19, 18:52:53:366] info: Store: SET_NETWORK_STATUS online
+[08/23/19, 18:52:53:488] info: postLoadTaskSetup: Setup spellchecker 
+{
+  "version": "V1"
+}
+[08/23/19, 18:52:53:521] info: fetchContentForChannel: will not attempt to try fetch channel content in pilot 
+[08/23/19, 18:52:53:532] info: Raw Locale list: ["C","en_US.utf8","POSIX",""] 
+[08/23/19, 18:52:53:532] info: Filtered Locale list: ["en_US"] 
+[08/23/19, 18:52:53:532] info: Counts: {"en":["en_US"]} 
+[08/23/19, 18:52:53:532] info: Setting en 
+[08/23/19, 18:52:53:533] info: Result: {"en":"en-US"} 
+[08/23/19, 18:52:53:533] info: Requesting to load en-US, alternatives are ["en-US","en-US","en-US"] 
+[08/23/19, 18:52:53:533] info: Loading dictionary for language en-US 
+[08/23/19, 18:52:53:533] info: Returning local copy: /home/anirudh/.config/Slack/dictionaries/en-US.bdic 
+[08/23/19, 18:52:53:565] info: Setting current spellchecker to en-US, requested language was en-US 
+[08/23/19, 18:52:53:565] info: Creating node-spellchecker instance 
+[08/23/19, 18:52:53:566] info: Actually installing spell check provider to Electron 
+[08/23/19, 18:52:54:316] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 997,
+      "width": 1774,
+      "x": 1476,
+      "y": 0
+    },
+    "fullScreen": true,
+    "maximized": false
+  }
+}
+[08/23/19, 18:55:53:240] info: remoteProcessMethod: dispatching request 
+{
+  "isRendererMethod": false,
+  "windowId": -1,
+  "target": "app",
+  "method": "getAppMetrics"
+}
+[08/23/19, 19:00:05:638] info: Store: OPEN_CONTEXT_MENU 
+{
+  "id": 1,
+  "params": "[REDACTED]"
+}
+[08/23/19, 19:00:09:487] info: Store: TOGGLE_FULL_SCREEN 
+[08/23/19, 19:00:10:567] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 974,
+      "width": 799,
+      "x": 2451,
+      "y": 23
+    },
+    "fullScreen": false,
+    "maximized": false
+  }
+}
+[08/23/19, 19:00:14:459] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 974,
+      "width": 1774,
+      "x": 1476,
+      "y": 23
+    },
+    "fullScreen": false,
+    "maximized": false
+  }
+}
+[08/23/19, 19:00:15:073] info: Store: TOGGLE_FULL_SCREEN 
+[08/23/19, 19:00:16:144] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 997,
+      "width": 1774,
+      "x": 1476,
+      "y": 0
+    },
+    "fullScreen": true,
+    "maximized": false
+  }
+}
+[08/23/19, 19:00:19:600] info: Store: OPEN_CONTEXT_MENU 
+{
+  "id": 1,
+  "params": "[REDACTED]"
+}
+[08/23/19, 19:01:11:726] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[08/23/19, 19:02:31:732] info: Store: SET_SYSTEM_IDLE active
+[08/23/19, 19:03:51:736] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[08/23/19, 19:05:11:742] info: Store: SET_SYSTEM_IDLE active
+[08/23/19, 19:05:51:746] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[08/23/19, 19:06:31:748] info: Store: SET_SYSTEM_IDLE active
+[08/23/19, 19:11:28:411] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 997,
+      "width": 1774,
+      "x": 1476,
+      "y": 0
+    },
+    "fullScreen": true,
+    "maximized": false
+  }
+}
+[08/23/19, 19:12:51:783] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[08/23/19, 19:13:51:806] info: Store: SET_SYSTEM_IDLE active
+[08/23/19, 19:29:32:108] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[08/23/19, 19:29:52:109] info: Store: SET_SYSTEM_IDLE active
+[08/23/19, 19:30:12:117] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[08/23/19, 19:39:32:299] info: Store: SET_SYSTEM_IDLE active
+[08/23/19, 19:44:12:377] info: Store: SET_SYSTEM_IDLE idle_taskbar
+[08/23/19, 19:44:52:390] info: Store: SET_SYSTEM_IDLE active
+[08/23/19, 19:55:50:688] info: remoteProcessMethod: dispatching request 
+{
+  "isRendererMethod": false,
+  "windowId": -1,
+  "target": "app",
+  "method": "getAppMetrics"
+}
+[08/23/19, 19:58:50:763] info: Store: UPDATE_SETTINGS 
+{
+  "mainWindowSettings": {
+    "bounds": {
+      "height": 974,
+      "width": 1774,
+      "x": 1476,
+      "y": 23
+    },
+    "fullScreen": false,
+    "maximized": false
+  }
+}

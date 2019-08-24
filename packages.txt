@@ -87,6 +87,7 @@ s-nail
 scrot
 sed
 shadow
+snapd
 sudo
 sysfsutils
 systemd
@@ -110,6 +111,7 @@ tlp
 tlp-rdw
 ttf-dejavu
 ttf-iosevka
+unzip
 usbutils
 util-linux
 vi
@@ -174,3 +176,5 @@ xorg-xwininfo
 xorg-xwud
 xpdf
 xterm
+zip
+zoom
