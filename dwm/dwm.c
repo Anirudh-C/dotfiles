@@ -59,7 +59,7 @@
 
 /* enums */
 enum { CurNormal, CurResize, CurMove, CurLast }; /* cursor */
-enum { SchemeWork, SchemeStatus, SchemeTitle, SchemeNorm }; /* color schemes */
+enum { SchemeWork, SchemeStatus, SchemeTitle, SchemeWunder, SchemeSunder, SchemeTunder, SchemeNorm, SchemeSel }; /* color schemes */
 enum { NetSupported, NetWMName, NetWMState, NetWMCheck,
        NetWMFullscreen, NetActiveWindow, NetWMWindowType,
        NetWMWindowTypeDialog, NetClientList, NetLast }; /* EWMH atoms */
@@ -707,6 +707,8 @@ drawbar(Monitor *m)
 		drw_setscheme(drw, scheme[SchemeStatus]);
 		sw = TEXTW(stext) - lrpad + 10; /* 2px right padding */
 		drw_text(drw, m->ww - sw, 0, sw, bh - 4, 0, stext, 0);
+        drw_setscheme(drw, scheme[SchemeSunder]);
+		drw_text(drw, m->ww - sw, bh - 4, sw, 3, 0, "", 0);
 	}
 
 	for (c = m->clients; c; c = c->next) {
@@ -719,27 +721,39 @@ drawbar(Monitor *m)
 	for (i = 0; i < LENGTH(tags); i++) {
 		w = TEXTW(tags[i]);
 		drw_setscheme(drw, scheme[m->tagset[m->seltags] & 1 << i ? SchemeWork : SchemeNorm]);
-		drw_text(drw, x, 0, w, bh, lrpad / 2, tags[i], 0);
+		drw_text(drw, x, 0, w, bh - 4, lrpad / 2, tags[i], 0);
 		if (occ & 1 << i)
 			drw_rect(drw, x + boxs, boxs, boxw, boxw,
 				m == selmon && selmon->sel && selmon->sel->tags & 1 << i,
 				urg & 1 << i);
+        drw_setscheme(drw, scheme[SchemeWunder]);
+        drw_text(drw, x, bh - 4, w, 3, lrpad / 2, "", 0);
+
 		x += w;
 	}
 
     w = blw = lrpad <= 10 ? TEXTW(m->ltsymbol) : TEXTW(m->ltsymbol) - (lrpad / 2);
     drw_setscheme(drw, scheme[SchemeTitle]);
-    drw_text(drw, x, 0, w, bh, lrpad / 2, m->ltsymbol, 0);
+    drw_text(drw, x, 0, w, bh - 4, lrpad / 2, m->ltsymbol, 0);
+
+    drw_setscheme(drw, scheme[SchemeTunder]);
+    drw_text(drw, x, bh - 4, w, 3, lrpad / 2, "", 0);
 
     x += w;
 
 	if ((w = m->ww - sw - x) > bh) {
 		if (m->sel) {
 			drw_setscheme(drw, scheme[SchemeTitle]);
-			drw_text(drw, x, 0, w, bh, lrpad / 2, m->sel->name, 0);
+			drw_text(drw, x, 0, w, bh - 4, lrpad / 2, m->sel->name, 0);
+
+			drw_setscheme(drw, scheme[SchemeTunder]);
+			drw_text(drw, x, bh - 4, w, 3, lrpad / 2, "", 0);
 		} else {
 			drw_setscheme(drw, scheme[SchemeNorm]);
 			drw_rect(drw, x, 0, w, bh, 1, 1);
+
+			drw_setscheme(drw, scheme[SchemeTunder]);
+			drw_text(drw, x, bh - 4, w, 3, lrpad / 2, "", 0);
 		}
 	}
 	drw_map(drw, m->barwin, 0, 0, m->ww, bh);
@@ -798,6 +812,7 @@ focus(Client *c)
 		detachstack(c);
 		attachstack(c);
 		grabbuttons(c, 1);
+		XSetWindowBorder(dpy, c->win, scheme[SchemeSel][ColBorder].pixel);
 		setfocus(c);
 	} else {
 		XSetInputFocus(dpy, root, RevertToPointerRoot, CurrentTime);

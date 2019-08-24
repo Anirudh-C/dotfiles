@@ -25,10 +25,15 @@ static const char title_C[] = "#1976d2";
 static const char *colors[][9] = {
         /*               fg            bg           border   */
         [SchemeNorm]  = { white      , bar_color  , grey  },
+        [SchemeSel]   = { black      , theme_color, white },
                 
         [SchemeTitle]  = { title_C , bar_color, 0 },
         [SchemeWork]   = { work_C  , ws_bg, 0 },
         [SchemeStatus] = { status_C, bar_color, 0 },
+
+        [SchemeTunder] = { 0, title_C , 0 },
+        [SchemeWunder] = { 0, work_C  , 0 },
+        [SchemeSunder] = { 0, status_C, 0 },
 };
 
 /* tagging */
