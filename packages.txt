@@ -19,6 +19,7 @@ dhcpcd
 dialog
 diffutils
 dmenu
+dolphin
 dosfstools
 e2fsprogs
 efibootmgr
@@ -83,7 +84,6 @@ pciutils
 perl
 pkgconf
 plasma-desktop
-polo
 poppler-glib
 procps-ng
 psmisc

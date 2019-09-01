@@ -1,5 +1,5 @@
 [General]
-history=set,firefo,zoom,s,polo,konsole,st,syste,slack,chrome,latte,fire,pavu,lxappearance
+history=sett,dolphin,dolp,firefo,set,zoom,s,polo,konsole,st,syste,slack,chrome,latte,fire,pavu,lxappearance
 
 [PlasmaRunnerManager]
-LaunchCounts=3 shell_st,2 services_firefox.desktop,5 services_Zoom.desktop,1 baloosearch_/home/anirudh/builds/snapd/src/snapd-2.40/tests/main/interfaces-firewall-control,1 baloosearch_/home/anirudh/dotfiles/packages.txt,6 services_org.kde.konsole.desktop,1 services_org.kde.latte-dock.desktop,1 services_pavucontrol.desktop,1 services_polo-gtk.desktop,3 services_google-chrome.desktop,4 services_slack_slack.desktop,1 services_systemsettings.desktop
+LaunchCounts=1 baloosearch_/home/anirudh/builds/snapd/src/snapd-2.40/tests/main/interfaces-firewall-control,2 services_firefox.desktop,1 services_systemsettings.desktop,1 baloosearch_/home/anirudh/dotfiles/packages.txt,1 services_polo-gtk.desktop,6 services_org.kde.konsole.desktop,3 services_google-chrome.desktop,4 services_slack_slack.desktop,1 services_org.kde.latte-dock.desktop,1 services_pavucontrol.desktop,5 services_Zoom.desktop,3 shell_st

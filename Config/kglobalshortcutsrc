@@ -22,12 +22,13 @@ _k_friendly_name=KDE Daemon
 
 [khotkeys]
 _k_friendly_name=KDE Daemon
+{4e4c8869-03ae-46da-83dc-ddb12ef69c98}=Ctrl+Alt+T,none,Launch Konsole
 {84c6f3bf-00d2-46a0-a95d-0051501cd4ae}=Alt+Shift+Return,none,term
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=,none,Search
 
 [krunner]
 _k_friendly_name=Run Command
-run command=Alt+Space\tAlt+F2\tSearch,Alt+Space,Run Command
+run command=Alt+P\tAlt+F2\tSearch,Alt+Space,Run Command
 run command on clipboard contents=Alt+Shift+F2,Alt+Shift+F2,Run Command on clipboard contents
 
 [ksmserver]
