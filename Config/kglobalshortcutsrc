@@ -23,8 +23,15 @@ _k_friendly_name=KDE Daemon
 [khotkeys]
 _k_friendly_name=KDE Daemon
 {4e4c8869-03ae-46da-83dc-ddb12ef69c98}=Ctrl+Alt+T,none,Launch Konsole
+{808c06d6-bf1f-42f6-8728-0251ae03f13a}=Alt+E,none,emacsclient
 {84c6f3bf-00d2-46a0-a95d-0051501cd4ae}=Alt+Shift+Return,none,term
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=,none,Search
+
+[kmix]
+_k_friendly_name=KMix
+decrease_volume=Volume Down,Volume Down,Decrease Volume
+increase_volume=Volume Up,Volume Up,Increase Volume
+mute=Volume Mute,Volume Mute,Mute
 
 [krunner]
 _k_friendly_name=Run Command
@@ -239,6 +246,10 @@ nextmedia=Media Next,Media Next,Media playback next
 playpausemedia=Media Play,Media Play,Play/Pause media playback
 previousmedia=Media Previous,Media Previous,Media playback previous
 stopmedia=Media Stop,Media Stop,Stop media playback
+
+[org.kde.dolphin.desktop]
+_k_friendly_name=Dolphin
+_launch=Meta+E,Meta+E,Dolphin
 
 [plasmashell]
 _k_friendly_name=Plasma

@@ -1,5 +1,6 @@
 adapta-gtk-theme
 adapta-kde
+alsa-tools
 alsa-utils
 autoconf
 automake

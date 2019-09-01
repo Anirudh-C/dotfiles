@@ -1,6 +1,6 @@
 [KFileDialog Settings]
-Recent Files[$e]=file:$HOME/dotfiles/wallpaper.jpg,file:$HOME/Pictures/refind-background.png
-Recent URLs[$e]=file:$HOME/Pictures/
+Recent Files[$e]=file:$HOME/dotfiles/wallpaper.jpg,file:$HOME/dotfiles/wallpaper.jpg,file:$HOME/Pictures/refind-background.png
+Recent URLs[$e]=file:$HOME/dotfiles/
 detailViewIconSize=0
 
 [PlasmaRunnerManager]

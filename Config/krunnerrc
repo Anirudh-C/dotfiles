@@ -1,5 +1,5 @@
 [General]
-history=sett,dolphin,dolp,firefo,set,zoom,s,polo,konsole,st,syste,slack,chrome,latte,fire,pavu,lxappearance
+history=sett,firefo,emacsclient -c,zoom,hda j,hda,kmix,pavu,blue,ls,dolphin,dolp,set,s,polo,konsole,st,syste,slack,chrome,latte,fire,lxappearance
 
 [PlasmaRunnerManager]
-LaunchCounts=1 baloosearch_/home/anirudh/builds/snapd/src/snapd-2.40/tests/main/interfaces-firewall-control,2 services_firefox.desktop,1 services_systemsettings.desktop,1 baloosearch_/home/anirudh/dotfiles/packages.txt,1 services_polo-gtk.desktop,6 services_org.kde.konsole.desktop,3 services_google-chrome.desktop,4 services_slack_slack.desktop,1 services_org.kde.latte-dock.desktop,1 services_pavucontrol.desktop,5 services_Zoom.desktop,3 shell_st
+LaunchCounts=3 services_firefox.desktop,1 baloosearch_/home/anirudh/builds/snapd/src/snapd-2.40/tests/main/interfaces-firewall-control,1 bookmarks_chrome://settings/browser,1 services_systemsettings.desktop,3 services_google-chrome.desktop,2 services_org.kde.dolphin.desktop,1 services_org.kde.latte-dock.desktop,6 services_org.kde.konsole.desktop,1 services_polo-gtk.desktop,3 shell_st,2 baloosearch_/home/anirudh/dotfiles/packages.txt,1 services_pavucontrol.desktop,4 services_slack_slack.desktop,3 services_org.kde.kmix.desktop,5 services_Zoom.desktop
