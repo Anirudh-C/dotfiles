@@ -19,6 +19,7 @@ copyconfigdir() {
     rm -rf Config/
     mv .config/ Config/
     rm -rf Config/google-chrome
+    rm -rf Config/Slack
 }
 
 updatepackages() {

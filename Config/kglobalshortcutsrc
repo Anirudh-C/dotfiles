@@ -1,5 +1,6 @@
 [ActivityManager]
 _k_friendly_name=Activity Manager
+switch-to-activity-899054c9-d615-4d4b-bff6-1d6431bd9c83=none,none,Switch to activity "Default"
 
 [KDE Keyboard Layout Switcher]
 Switch to Next Keyboard Layout=Ctrl+Alt+K,none,Switch to Next Keyboard Layout
@@ -21,6 +22,7 @@ _k_friendly_name=KDE Daemon
 
 [khotkeys]
 _k_friendly_name=KDE Daemon
+{84c6f3bf-00d2-46a0-a95d-0051501cd4ae}=Alt+Shift+Return,none,term
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=,none,Search
 
 [krunner]
@@ -31,7 +33,7 @@ run command on clipboard contents=Alt+Shift+F2,Alt+Shift+F2,Run Command on clipb
 [ksmserver]
 Halt Without Confirmation=Ctrl+Alt+Shift+PgDown,none,Halt Without Confirmation
 Lock Session=Meta+L\tCtrl+Alt+L\tScreensaver,Meta+L\tCtrl+Alt+L\tScreensaver,Lock Session
-Log Out=Ctrl+Alt+Del,none,Log Out
+Log Out=Alt+Shift+Q,none,Log Out
 Log Out Without Confirmation=Ctrl+Alt+Shift+Del,none,Log Out Without Confirmation
 Reboot Without Confirmation=Ctrl+Alt+Shift+PgUp,none,Reboot Without Confirmation
 _k_friendly_name=ksmserver
@@ -44,7 +46,7 @@ ExposeAll=Ctrl+F10\tLaunch (C),Ctrl+F10\tLaunch (C),Toggle Present Windows (All 
 ExposeClass=Ctrl+F7,Ctrl+F7,Toggle Present Windows (Window class)
 Increase Opacity=none,none,Increase Opacity of Active Window by 5 %
 Invert Screen Colors=none,none,Invert Screen Colors
-Kill Window=Ctrl+Alt+Esc,Ctrl+Alt+Esc,Kill Window
+Kill Window=,Ctrl+Alt+Esc,Kill Window
 MoveMouseToCenter=Meta+F6,Meta+F6,Move Mouse to Center
 MoveMouseToFocus=Meta+F5,Meta+F5,Move Mouse to Focus
 MoveZoomDown=none,none,Move Zoomed Area Downwards
@@ -113,7 +115,7 @@ Walk Through Windows of Current Application Alternative=none,none,Walk Through W
 Walk Through Windows of Current Application Alternative (Reverse)=none,none,Walk Through Windows of Current Application Alternative (Reverse)
 Window Above Other Windows=none,none,Keep Window Above Others
 Window Below Other Windows=none,none,Keep Window Below Others
-Window Close=Alt+F4,Alt+F4,Close Window
+Window Close=Alt+Shift+C,Alt+F4,Close Window
 Window Fullscreen=none,none,Make Window Fullscreen
 Window Grow Horizontal=none,none,Pack Grow Window Horizontally
 Window Grow Vertical=none,none,Pack Grow Window Vertically
@@ -184,6 +186,50 @@ view_actual_size=,Meta+0,Actual Size
 view_zoom_in=Meta+=,Meta+=,Zoom In
 view_zoom_out=Meta+-,Meta+-,Zoom Out
 
+[lattedock]
+_k_friendly_name=Latte Dock
+activate entry 1=,Meta+1,Activate Entry 1
+activate entry 10=,Meta+0,Activate Entry 10
+activate entry 11=Meta+Z,Meta+Z,Activate Entry 11
+activate entry 12=Meta+X,Meta+X,Activate Entry 12
+activate entry 13=Meta+C,Meta+C,Activate Entry 13
+activate entry 14=Meta+V,Meta+V,Activate Entry 14
+activate entry 15=Meta+B,Meta+B,Activate Entry 15
+activate entry 16=Meta+N,Meta+N,Activate Entry 16
+activate entry 17=Meta+M,Meta+M,Activate Entry 17
+activate entry 18=Meta+\\,,Meta+\\,,Activate Entry 18
+activate entry 19=Meta+.,Meta+.,Activate Entry 19
+activate entry 2=,Meta+2,Activate Entry 2
+activate entry 3=,Meta+3,Activate Entry 3
+activate entry 4=,Meta+4,Activate Entry 4
+activate entry 5=,Meta+5,Activate Entry 5
+activate entry 6=,Meta+6,Activate Entry 6
+activate entry 7=,Meta+7,Activate Entry 7
+activate entry 8=,Meta+8,Activate Entry 8
+activate entry 9=,Meta+9,Activate Entry 9
+new instance for entry 1=Meta+Ctrl+1,Meta+Ctrl+1,New Instance for Entry 1
+new instance for entry 10=Meta+Ctrl+0,Meta+Ctrl+0,New Instance for Entry 10
+new instance for entry 11=Meta+Ctrl+Z,Meta+Ctrl+Z,New Instance for Entry 11
+new instance for entry 12=Meta+Ctrl+X,Meta+Ctrl+X,New Instance for Entry 12
+new instance for entry 13=Meta+Ctrl+C,Meta+Ctrl+C,New Instance for Entry 13
+new instance for entry 14=Meta+Ctrl+V,Meta+Ctrl+V,New Instance for Entry 14
+new instance for entry 15=Meta+Ctrl+B,Meta+Ctrl+B,New Instance for Entry 15
+new instance for entry 16=Meta+Ctrl+N,Meta+Ctrl+N,New Instance for Entry 16
+new instance for entry 17=Meta+Ctrl+M,Meta+Ctrl+M,New Instance for Entry 17
+new instance for entry 18=Meta+Ctrl+\\,,Meta+Ctrl+\\,,New Instance for Entry 18
+new instance for entry 19=Meta+Ctrl+.,Meta+Ctrl+.,New Instance for Entry 19
+new instance for entry 2=Meta+Ctrl+2,Meta+Ctrl+2,New Instance for Entry 2
+new instance for entry 3=Meta+Ctrl+3,Meta+Ctrl+3,New Instance for Entry 3
+new instance for entry 4=Meta+Ctrl+4,Meta+Ctrl+4,New Instance for Entry 4
+new instance for entry 5=Meta+Ctrl+5,Meta+Ctrl+5,New Instance for Entry 5
+new instance for entry 6=Meta+Ctrl+6,Meta+Ctrl+6,New Instance for Entry 6
+new instance for entry 7=Meta+Ctrl+7,Meta+Ctrl+7,New Instance for Entry 7
+new instance for entry 8=Meta+Ctrl+8,Meta+Ctrl+8,New Instance for Entry 8
+new instance for entry 9=Meta+Ctrl+9,Meta+Ctrl+9,New Instance for Entry 9
+show latte global settings=Meta+W,Meta+W,Show Latte Global Settings
+show latte view=Meta+`,Meta+`,Show Latte Dock/Panel
+show view settings=Meta+A,Meta+A,Cycle Through Dock/Panel Settings Windows
+
 [mediacontrol]
 _k_friendly_name=Media Controller
 mediavolumedown=none,none,Media volume down
@@ -205,7 +251,6 @@ activate task manager entry 6=Meta+6,Meta+6,Activate Task Manager Entry 6
 activate task manager entry 7=Meta+7,Meta+7,Activate Task Manager Entry 7
 activate task manager entry 8=Meta+8,Meta+8,Activate Task Manager Entry 8
 activate task manager entry 9=Meta+9,Meta+9,Activate Task Manager Entry 9
-activate widget 3=Alt+F1,none,Activate Application Launcher Widget
 clear-history=none,none,Clear Clipboard History
 clipboard_action=Ctrl+Alt+X,Ctrl+Alt+X,Enable Clipboard Actions
 cycleNextAction=none,none,Next History Item

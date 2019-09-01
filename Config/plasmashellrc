@@ -1,9 +1,14 @@
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/dotfiles/wallpaper.jpg,file:$HOME/Pictures/refind-background.png
+Recent URLs[$e]=file:$HOME/Pictures/
+detailViewIconSize=0
+
 [PlasmaRunnerManager]
-LaunchCounts=2 services_firefox.desktop,1 services_google-chrome.desktop,2 services_systemsettings.desktop,1 shell_lxappearance,3 shell_st
+LaunchCounts=3 services_firefox.desktop,1 services_xterm.desktop,1 services_ranger.desktop,1 services_google-chrome.desktop,2 shell_lxappearance,5 services_systemsettings.desktop,1 services_polo-gtk.desktop,1 baloosearch_/home/anirudh/builds/emacs-26.2/ChangeLog.3,5 shell_st,1 shell_krunner
 pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
 
 [PlasmaViews][Panel 2][Horizontal1920]
-thickness=48
+thickness=34
 
 [ScreenConnectors]
 0=DP-2

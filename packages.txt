@@ -46,7 +46,9 @@ inetutils
 iproute2
 iputils
 jfsutils
+konsole
 kvantum-theme-adapta
+latte-dock
 less
 libtool
 libxss

@@ -32,11 +32,16 @@ if [ "$DE" == "dwm" ]; then
 	# Background
 	feh --bg-fill ~/dotfiles/wallpaper.jpg
 
+	[[ -f "$userresources" ]] && xrdb -merge "$userresources" &
+		xrandr --dpi 144 --output DP-2 --mode 1920x1080 --output HDMI-0 --scale 1.2x1.2
+
 	exec dwm
 
 elif [ "$DE" == "kde" ]; then
+
+	[[ -f "$userresources" ]] && xrdb -merge "$userresources" &
+		xrandr --dpi 144 --output DP-2 --mode 1920x1080 --output HDMI-0 --scale 1.2x1.2
+
 	exec startkde
 fi
 
-[[ -f "$userresources" ]] && xrdb -merge "$userresources" &
-	xrandr --dpi 144 --output DP-2 --mode 1920x1080 --output HDMI-0 --scale 1.2x1.2
