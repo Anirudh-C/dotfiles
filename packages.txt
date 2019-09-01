@@ -1,7 +1,9 @@
 adapta-gtk-theme
+adapta-kde
 alsa-utils
 autoconf
 automake
+aws-cli
 bash
 binutils
 bison
@@ -30,6 +32,7 @@ flex
 gawk
 gcc
 gcc-libs
+gdb
 gettext
 git
 glibc
@@ -43,6 +46,7 @@ inetutils
 iproute2
 iputils
 jfsutils
+kvantum-theme-adapta
 less
 libtool
 libxss
@@ -67,6 +71,8 @@ ntfs-3g
 nvidia
 nvidia-settings
 ofono
+openssh
+openvpn
 os-prober
 pacman
 patch
@@ -74,6 +80,7 @@ pavucontrol
 pciutils
 perl
 pkgconf
+plasma-desktop
 polo
 poppler-glib
 procps-ng

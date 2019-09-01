@@ -17,20 +17,26 @@ fi
 xsetroot -cursor_name left_ptr
 xset r rate 200 60
 
-# Status bar loop
-while true; do
-	# Get the volume and remove the percentage
-	vol=$(pactl list sinks | grep "Volume: " | awk '{print $12}')
-	vol=${vol::-1}
-	# Pass the percentage to the volume indicator string generator
-	volindicator=$(python /home/anirudh/dotfiles/volume-indicator.py $vol)
-	xsetroot -name "date: $( date +"%F" ) < time: $( date +"%R") < volume: $volindicator < bat: $( cat /sys/class/power_supply/BAT1/capacity)%"
-done &
+if [ "$DE" == "dwm" ]; then
+
+	# Status bar loop
+	while true; do
+		# Get the volume and remove the percentage
+		vol=$(pactl list sinks | grep "Volume: " | awk '{print $12}')
+		vol=${vol::-1}
+		# Pass the percentage to the volume indicator string generator
+		volindicator=$(python /home/anirudh/dotfiles/volume-indicator.py $vol)
+		xsetroot -name "date: $( date +"%F" ) < time: $( date +"%R") < volume: $volindicator < bat: $( cat /sys/class/power_supply/BAT1/capacity)%"
+	done &
+
+	# Background
+	feh --bg-fill ~/dotfiles/wallpaper.jpg
+
+	exec dwm
+
+elif [ "$DE" == "kde" ]; then
+	exec startkde
+fi
 
 [[ -f "$userresources" ]] && xrdb -merge "$userresources" &
 	xrandr --dpi 144 --output DP-2 --mode 1920x1080 --output HDMI-0 --scale 1.2x1.2
-
-# Background
-feh --bg-fill ~/dotfiles/wallpaper.jpg
-# Window Manager
-exec dwm

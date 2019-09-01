@@ -1,0 +1,15 @@
+[General]
+screenCount=1
+
+[LegacySession: saved at previous logout]
+count=0
+
+[Session: saved at previous logout]
+clientId1=10104ced7d1000156711177400000050140006
+count=1
+discardCommand1[$e]=rm,$HOME/.config/session/kwin_10104ced7d1000156711177400000050140006_1567322489_803119
+program1=/usr/bin/kwin_x11
+restartCommand1=/usr/bin/kwin_x11,-session,10104ced7d1000156711177400000050140006_1567322489_803119
+restartStyleHint1=0
+userId1=anirudh
+wasWm1=true

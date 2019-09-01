@@ -9,3 +9,4 @@ set -o vi
 alias ls='ls --color=auto'
 
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
+alias start='~/dotfiles/startx.sh'

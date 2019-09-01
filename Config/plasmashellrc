@@ -1,0 +1,12 @@
+[PlasmaRunnerManager]
+LaunchCounts=2 services_firefox.desktop,1 services_google-chrome.desktop,2 services_systemsettings.desktop,1 shell_lxappearance,3 shell_st
+pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconverter,shell,bookmarks,recentdocuments,locations,baloosearch
+
+[PlasmaViews][Panel 2][Horizontal1920]
+thickness=48
+
+[ScreenConnectors]
+0=DP-2
+
+[Updates]
+performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js
