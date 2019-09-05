@@ -23,8 +23,10 @@ _k_friendly_name=KDE Daemon
 [khotkeys]
 _k_friendly_name=KDE Daemon
 {4e4c8869-03ae-46da-83dc-ddb12ef69c98}=Ctrl+Alt+T,none,Launch Konsole
+{5bcb73d7-2d9f-44ba-9d28-2dad669be7f7}=Monitor Brightness Down,none,brightness down
 {808c06d6-bf1f-42f6-8728-0251ae03f13a}=Alt+E,none,emacsclient
 {84c6f3bf-00d2-46a0-a95d-0051501cd4ae}=Alt+Shift+Return,none,term
+{b8e47c9c-7d3d-4b6e-9948-ebde51bc1c5b}=Monitor Brightness Up,none,brightness up
 {d03619b6-9b3c-48cc-9d9c-a2aadb485550}=,none,Search
 
 [kmix]
@@ -52,9 +54,32 @@ Decrease Opacity=none,none,Decrease Opacity of Active Window by 5 %
 Expose=Ctrl+F9,Ctrl+F9,Toggle Present Windows (Current desktop)
 ExposeAll=Ctrl+F10\tLaunch (C),Ctrl+F10\tLaunch (C),Toggle Present Windows (All desktops)
 ExposeClass=Ctrl+F7,Ctrl+F7,Toggle Present Windows (Window class)
+FlipSwitchAll=none,none,Toggle Flip Switch (All desktops)
+FlipSwitchCurrent=none,none,Toggle Flip Switch (Current desktop)
 Increase Opacity=none,none,Increase Opacity of Active Window by 5 %
 Invert Screen Colors=none,none,Invert Screen Colors
 Kill Window=,Ctrl+Alt+Esc,Kill Window
+Krohnkite: Cycle Layout=Meta+\\\\,none,
+Krohnkite: Decrease=,none,
+Krohnkite: Down/Next=Meta+J,none,
+Krohnkite: Float=Meta+F,none,
+Krohnkite: Grow Height=Meta+Ctrl+J,none,
+Krohnkite: Grow Width=Meta+Ctrl+L,none,
+Krohnkite: Increase=Meta+I,none,
+Krohnkite: Left=Meta+H,none,
+Krohnkite: Monocle Layout=,none,
+Krohnkite: Move Down/Next=Meta+Shift+J,none,
+Krohnkite: Move Left=Meta+Shift+H,none,
+Krohnkite: Move Right=Meta+Shift+L,none,
+Krohnkite: Move Up/Prev=Meta+Shift+K,none,
+Krohnkite: Right=,none,
+Krohnkite: Set master=Meta+Return,none,
+Krohnkite: Shrink Height=Meta+Ctrl+K,none,
+Krohnkite: Shrink Width=Meta+Ctrl+H,none,
+Krohnkite: Spread Layout=none,none,
+Krohnkite: Stair Layout=none,none,
+Krohnkite: Tile Layout=Meta+T,none,
+Krohnkite: Up/Prev=Meta+K,none,
 MoveMouseToCenter=Meta+F6,Meta+F6,Move Mouse to Center
 MoveMouseToFocus=Meta+F5,Meta+F5,Move Mouse to Focus
 MoveZoomDown=none,none,Move Zoomed Area Downwards
@@ -250,6 +275,14 @@ stopmedia=Media Stop,Media Stop,Stop media playback
 [org.kde.dolphin.desktop]
 _k_friendly_name=Dolphin
 _launch=Meta+E,Meta+E,Dolphin
+
+[org.kde.spectacle.desktop]
+ActiveWindowScreenShot=Meta+Print,Meta+Print,Capture Active Window
+CurrentMonitorScreenShot=,none,Capture Current Monitor
+FullScreenScreenShot=Shift+Print,Shift+Print,Capture Entire Desktop
+RectangularRegionScreenShot=Meta+Shift+Print,Meta+Shift+Print,Capture Rectangular Region
+_k_friendly_name=Spectacle
+_launch=Print,Print,Launch Spectacle
 
 [plasmashell]
 _k_friendly_name=Plasma

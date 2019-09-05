@@ -1,3 +1,12 @@
+[DownloadDialog Settings]
+Height 1080=526
+Width 1920=700
+
+[KFileDialog Settings]
+Recent Files[$e]=brightness.sh,file:$HOME/builds/krohnkite/krohnkite-0.6.kwinscript,file:$HOME/dotfiles/brightness.sh
+Recent URLs[$e]=file:$HOME/builds/krohnkite/
+detailViewIconSize=0
+
 [KPropertiesDialog]
 Height 1080=501
 Width 1920=469
@@ -8,6 +17,7 @@ MenuBar=Disabled
 State=AAAA/wAAAAD9AAAAAAAAB4AAAAQSAAAABAAAAAQAAAAIAAAACPwAAAABAAAAAgAAAAEAAAAWAG0AYQBpAG4AVABvAG8AbABCAGEAcgAAAAAA/////wAAAAAAAAAA
 ToolBarsMovable=Disabled
 Width 1920=1034
+Window-Maximized 1080x1920=true
 
 [Open-with settings]
 CompletionMode=1

@@ -30,5 +30,17 @@ ToolBoxButtonX=1886
 FillMode=6
 Image=file:///home/anirudh/.local/share/wallpapers/KDE Plasma Abstract 279.png
 
+[Containments][3]
+activityId=899054c9-d615-4d4b-bff6-1d6431bd9c83
+formfactor=0
+immutability=1
+lastScreen=1
+location=0
+plugin=org.kde.plasma.folder
+wallpaperplugin=org.kde.image
+
+[Containments][3][Configuration]
+PreloadWeight=0
+
 [ScreenMapping]
 itemsOnDisabledScreens=

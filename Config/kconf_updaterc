@@ -25,6 +25,11 @@ ctime=1567099456
 done=Plasma_Fonts_Kate
 mtime=1564487728
 
+[gwenview.upd]
+ctime=1567456873
+done=SideBar_StatusBar_Rename,ImageView_AlphaBackgroundMode_Update,DeleteThumbnailSetting_Rename
+mtime=1565593646
+
 [kde4breeze.upd]
 ctime=1567099454
 done=5.0KDE4Breeze_2
@@ -49,3 +54,8 @@ mtime=1564487238
 ctime=1567099454
 done=replace-scalein-with-scale,port-minimizeanimation-effect-to-js,port-scale-effect-to-js,port-dimscreen-effect-to-js
 mtime=1564487442
+
+[spectacle_shortcuts.upd]
+ctime=1567456799
+done=spectacle-migrate-shortcuts
+mtime=1565594699

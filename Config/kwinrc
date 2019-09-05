@@ -14,11 +14,18 @@ TabBox=false
 TabBoxAlternative=false
 
 [Effect-FlipSwitch]
-TabBox=false
+TabBox=true
 TabBoxAlternative=false
 
 [Plugins]
+coverswitchEnabled=true
+enforcedecoEnabled=true
+flipswitchEnabled=true
 highlightwindowEnabled=true
+krohnkiteEnabled=true
+minimizeallEnabled=false
+synchronizeskipswitcherEnabled=false
+videowallEnabled=false
 
 [TabBox]
 ActivitiesMode=1

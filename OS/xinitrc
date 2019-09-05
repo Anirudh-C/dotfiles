@@ -31,11 +31,11 @@ if [ "$DE" == "dwm" ]; then
 		xsetroot -name "date: $( date +"%F" ) < time: $( date +"%R") < volume: $volindicator < bat: $( cat /sys/class/power_supply/BAT1/capacity)%"
 	done &
 
-	# Background
-	feh --bg-fill ~/dotfiles/wallpaper.jpg
-
 	[[ -f "$userresources" ]]
 		xrandr --dpi 144 --output DP-2 --mode 1920x1080 --output HDMI-0 --scale 1.2x1.2
+
+	# Background
+	feh --bg-fill ~/dotfiles/wallpaper.jpg
 
 	exec dwm
 

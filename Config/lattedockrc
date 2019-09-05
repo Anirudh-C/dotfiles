@@ -3,6 +3,7 @@ outlineWidth=1
 
 [ScreenConnectors]
 10=DP-2
+11=HDMI-0
 
 [UniversalSettings]
 badges3DStyle=false
@@ -11,8 +12,8 @@ currentLayout=Default
 downloadWindowSize=800,550
 lastNonAssignedLayout=Default
 launchers=
-layoutsColumnWidths=
-layoutsWindowSize=700,450
+layoutsColumnWidths=123,80,72,0
+layoutsWindowSize=700,601
 memoryUsage=0
 metaPressAndHoldEnabled=true
 mouseSensitivity=2

@@ -1,0 +1,14 @@
+[General]
+lastSaveAsFile=file:///home/anirudh/Pictures/scrot.png
+lastSaveFile=file:///home/anirudh/Pictures/scrot.png
+
+[GuiConfig]
+cropRegion=0,0,0,0
+includePointer=false
+lastUsedSaveMode=0
+window-position=49,13
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Pictures/scrot.png,file:$HOME/Pictures/scrot.png
+Recent URLs[$e]=file:$HOME/Pictures/
+detailViewIconSize=0

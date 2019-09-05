@@ -3,5 +3,5 @@
 #
 
 [[ -f ~/.bashrc ]] && . ~/.bashrc
-export DE=dwm
+export DE=kde
 export PATH=$PATH:/home/anirudh/.local/bin
