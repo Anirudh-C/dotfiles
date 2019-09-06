@@ -2,26 +2,34 @@
 screenCount=1
 
 [LegacySession: saved at previous logout]
-count=0
+clientMachine1=localhost
+command1=/usr/local/bin/emacs,--daemon
+count=1
 
 [Session: saved at previous logout]
-clientId1=10104ced7d1000156768654200000193080002
-clientId2=10104ced7d1000156711177400000050140006
-clientId3=10104ced7d1000156732986500000299770012
-count=3
-discardCommand2[$e]=rm,$HOME/.config/session/kwin_10104ced7d1000156711177400000050140006_1567686902_582753
-program1=pulseaudio
-program2=/usr/bin/kwin_x11
-program3=/usr/bin/latte-dock
-restartCommand1=
-restartCommand2=/usr/bin/kwin_x11,-session,10104ced7d1000156711177400000050140006_1567686902_582753
-restartCommand3=/usr/bin/latte-dock,-session,10104ced7d1000156732986500000299770012_1567686902_563747
+clientId1=10104ced7d1000156711177400000050140006
+clientId2=10104ced7d1000156732986500000299770012
+clientId3=10104ced7d1000156770013100000014540007
+clientId4=10104ced7d1000156770088100000014540014
+count=4
+discardCommand1[$e]=rm,$HOME/.config/session/kwin_10104ced7d1000156711177400000050140006_1567704359_627170
+program1=/usr/bin/kwin_x11
+program2=/usr/bin/latte-dock
+program3=pulseaudio
+program4=firefox
+restartCommand1=/usr/bin/kwin_x11,-session,10104ced7d1000156711177400000050140006_1567704359_627170
+restartCommand2=/usr/bin/latte-dock,-session,10104ced7d1000156732986500000299770012_1567704359_584886
+restartCommand3=
+restartCommand4=/usr/lib/firefox/firefox,--sm-client-id,10104ced7d1000156770088100000014540014
 restartStyleHint1=0
 restartStyleHint2=0
 restartStyleHint3=0
+restartStyleHint4=0
 userId1=anirudh
 userId2=anirudh
 userId3=anirudh
-wasWm1=false
-wasWm2=true
+userId4=anirudh
+wasWm1=true
+wasWm2=false
 wasWm3=false
+wasWm4=false
