@@ -6,56 +6,56 @@ done=filepicker-remove-old-previews-entry
 mtime=1565363086
 
 [fonts_akregator.upd]
-ctime=1567099456
+ctime=1568016594
 done=Plasma_Fonts_Akregator
-mtime=1564487728
+mtime=1567520245
 
 [fonts_global.upd]
-ctime=1567099456
+ctime=1568016594
 done=Fonts_Global
-mtime=1564487728
+mtime=1567520245
 
 [fonts_global_toolbar.upd]
-ctime=1567099456
+ctime=1568016594
 done=Fonts_Global_Toolbar
-mtime=1564487728
+mtime=1567520245
 
 [fonts_kate.upd]
-ctime=1567099456
+ctime=1568016594
 done=Plasma_Fonts_Kate
-mtime=1564487728
+mtime=1567520245
 
 [gwenview.upd]
-ctime=1567456873
+ctime=1568016593
 done=SideBar_StatusBar_Rename,ImageView_AlphaBackgroundMode_Update,DeleteThumbnailSetting_Rename
-mtime=1565593646
+mtime=1567512481
 
 [kde4breeze.upd]
-ctime=1567099454
+ctime=1568016589
 done=5.0KDE4Breeze_2
-mtime=1564487379
+mtime=1567519877
 
 [krdb_libpathwipe.upd]
-ctime=1567099458
+ctime=1568016601
 done=LibraryPathWipeOut
-mtime=1564489711
+mtime=1567521874
 
 [krunnerplugins.upd]
-ctime=1567099456
+ctime=1568016594
 done=5.9KRunnerPlugins
-mtime=1564487777
+mtime=1567520294
 
 [kscreenlocker.upd]
-ctime=1567099453
+ctime=1568016594
 done=0.1-autolock
-mtime=1564487238
+mtime=1567519736
 
 [kwin.upd]
-ctime=1567099454
+ctime=1568016594
 done=replace-scalein-with-scale,port-minimizeanimation-effect-to-js,port-scale-effect-to-js,port-dimscreen-effect-to-js
-mtime=1564487442
+mtime=1567519940
 
 [spectacle_shortcuts.upd]
-ctime=1567456799
+ctime=1568016601
 done=spectacle-migrate-shortcuts
-mtime=1565594699
+mtime=1567512972

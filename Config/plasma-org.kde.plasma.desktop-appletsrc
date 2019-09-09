@@ -39,8 +39,15 @@ location=0
 plugin=org.kde.plasma.folder
 wallpaperplugin=org.kde.image
 
+[Containments][3][ConfigDialog]
+DialogHeight=660
+DialogWidth=880
+
 [Containments][3][Configuration]
 PreloadWeight=0
+
+[Containments][3][Wallpaper][org.kde.image][General]
+Image=file:///home/anirudh/.local/share/wallpapers/KDE Plasma Nebula 187.png
 
 [ScreenMapping]
 itemsOnDisabledScreens=

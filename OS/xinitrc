@@ -41,9 +41,7 @@ if [ "$DE" == "dwm" ]; then
 
 elif [ "$DE" == "kde" ]; then
 
-	[[ -f "$userresources" ]]
-		xrandr --dpi 144 --output DP-2 --mode 1920x1080 --output HDMI-0 --scale 1.2x1.2
-
 	exec startkde
+
 fi
 
