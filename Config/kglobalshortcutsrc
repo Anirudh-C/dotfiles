@@ -51,9 +51,9 @@ _k_friendly_name=ksmserver
 [kwin]
 Activate Window Demanding Attention=Ctrl+Alt+A,Ctrl+Alt+A,Activate Window Demanding Attention
 Decrease Opacity=none,none,Decrease Opacity of Active Window by 5 %
-Expose=Ctrl+F9,Ctrl+F9,Toggle Present Windows (Current desktop)
+Expose=,Ctrl+F9,Toggle Present Windows (Current desktop)
 ExposeAll=Ctrl+F10\tLaunch (C),Ctrl+F10\tLaunch (C),Toggle Present Windows (All desktops)
-ExposeClass=Ctrl+F7,Ctrl+F7,Toggle Present Windows (Window class)
+ExposeClass=,Ctrl+F7,Toggle Present Windows (Window class)
 FlipSwitchAll=none,none,Toggle Flip Switch (All desktops)
 FlipSwitchCurrent=none,none,Toggle Flip Switch (Current desktop)
 Increase Opacity=none,none,Increase Opacity of Active Window by 5 %
@@ -93,8 +93,8 @@ ShowDesktopGrid=Ctrl+F8,Ctrl+F8,Show Desktop Grid
 Suspend Compositing=Alt+Shift+F12,Alt+Shift+F12,Suspend Compositing
 Switch One Desktop Down=none,none,Switch One Desktop Down
 Switch One Desktop Up=none,none,Switch One Desktop Up
-Switch One Desktop to the Left=none,none,Switch One Desktop to the Left
-Switch One Desktop to the Right=none,none,Switch One Desktop to the Right
+Switch One Desktop to the Left=Ctrl+F7,none,Switch One Desktop to the Left
+Switch One Desktop to the Right=Ctrl+F9,none,Switch One Desktop to the Right
 Switch Window Down=Meta+Alt+Down,Meta+Alt+Down,Switch to Window Below
 Switch Window Left=Meta+Alt+Left,Meta+Alt+Left,Switch to Window to the Left
 Switch Window Right=Meta+Alt+Right,Meta+Alt+Right,Switch to Window to the Right
@@ -285,7 +285,7 @@ _k_friendly_name=Spectacle
 _launch=Print,Print,Launch Spectacle
 
 [plasmashell]
-_k_friendly_name=Activity switching
+_k_friendly_name=Plasma
 activate task manager entry 1=Meta+1,Meta+1,Activate Task Manager Entry 1
 activate task manager entry 10=Meta+0,Meta+0,Activate Task Manager Entry 10
 activate task manager entry 2=Meta+2,Meta+2,Activate Task Manager Entry 2

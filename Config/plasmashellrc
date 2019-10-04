@@ -10,9 +10,11 @@ pluginWhiteList=desktopsessions,services,places,PowerDevil,calculator,unitconver
 [PlasmaViews][Panel 2][Horizontal1920]
 thickness=34
 
+[PlasmaViews][Panel 4][Horizontal1920]
+thickness=33
+
 [ScreenConnectors]
-0=HDMI-0
-1=DP-2
+0=DP-2
 
 [Updates]
 performed=/usr/share/plasma/shells/org.kde.plasma.desktop/contents/updates/obsolete_kickoffrc.js

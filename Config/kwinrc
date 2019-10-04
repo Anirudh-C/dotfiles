@@ -53,7 +53,7 @@ highlightwindowEnabled=true
 krohnkiteEnabled=false
 minimizeallEnabled=false
 synchronizeskipswitcherEnabled=false
-videowallEnabled=false
+videowallEnabled=true
 windowgeometryEnabled=false
 
 [Script-desktopchangeosd]

@@ -22,6 +22,7 @@ diffutils
 dmenu
 dolphin
 dosfstools
+dunst
 e2fsprogs
 efibootmgr
 fakeroot
@@ -45,14 +46,19 @@ grub
 gwenview
 gzip
 heroku-cli
+icedtea-web
 inetutils
 iproute2
 iputils
+jdk8-openjdk
 jfsutils
+jre8-openjdk
 konsole
 kvantum-theme-adapta
 latte-dock
 less
+libinput-gestures
+libreoffice-still
 libtool
 libxss
 licenses
@@ -72,6 +78,7 @@ mtools
 nano
 netctl
 networkmanager
+nmap
 ntfs-3g
 nvidia
 nvidia-settings
@@ -134,7 +141,9 @@ vim
 vlc
 which
 wireless_tools
+wmctrl
 wpa_supplicant
+xdotool
 xf86-input-synaptics
 xf86-video-vesa
 xfsprogs

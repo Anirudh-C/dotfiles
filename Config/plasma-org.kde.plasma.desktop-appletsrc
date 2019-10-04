@@ -23,8 +23,9 @@ DialogWidth=960
 PreloadWeight=0
 
 [Containments][2][General]
-ToolBoxButtonState=topright
+ToolBoxButtonState=top
 ToolBoxButtonX=1886
+ToolBoxButtonY=33
 
 [Containments][2][Wallpaper][org.kde.image][General]
 FillMode=6

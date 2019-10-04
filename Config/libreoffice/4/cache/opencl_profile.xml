@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<profile>
+ <version>LibreOffice v1</version>
+ <device>
+  <type>opencl</type>
+  <name>GeForce GTX 1660 Ti</name>
+  <driver>435.21</driver>
+  <time>28934</time>
+  <errors>false</errors>
+ </device>
+ <device>
+  <type>native</type>
+  <time>2228736</time>
+  <errors>false</errors>
+ </device>
+</profile>

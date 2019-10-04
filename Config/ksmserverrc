@@ -5,17 +5,17 @@ screenCount=1
 count=0
 
 [Session: saved at previous logout]
-clientId1=10104ced7d1000156801348300000086940002
+clientId1=10104ced7d1000157020412300000073010002
 clientId2=10104ced7d1000156711177400000050140006
 clientId3=10104ced7d1000156732986500000299770012
 count=3
-discardCommand2[$e]=rm,$HOME/.config/session/kwin_10104ced7d1000156711177400000050140006_1568013624_187217
+discardCommand2[$e]=rm,$HOME/.config/session/kwin_10104ced7d1000156711177400000050140006_1570204158_233399
 program1=pulseaudio
 program2=/usr/bin/kwin_x11
 program3=/usr/bin/latte-dock
 restartCommand1=
-restartCommand2=/usr/bin/kwin_x11,-session,10104ced7d1000156711177400000050140006_1568013624_187217
-restartCommand3=/usr/bin/latte-dock,-session,10104ced7d1000156732986500000299770012_1568013624_141981
+restartCommand2=/usr/bin/kwin_x11,-session,10104ced7d1000156711177400000050140006_1570204158_233399
+restartCommand3=/usr/bin/latte-dock,-session,10104ced7d1000156732986500000299770012_1570204158_217537
 restartStyleHint1=0
 restartStyleHint2=0
 restartStyleHint3=0
